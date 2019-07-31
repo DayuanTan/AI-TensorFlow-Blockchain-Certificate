@@ -17,4 +17,9 @@ There are actually four courses:
 4. [Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)
 
 ## Notes:
-1.1 [A new programming paradigm](1.1.md)
+1.1 [A new programming paradigm](1.1helloworldNeuralNet.md)
+
+Introduction of difference between ML and traditional programming.
+
+A hello world neural network program using TensorFlow.
+
