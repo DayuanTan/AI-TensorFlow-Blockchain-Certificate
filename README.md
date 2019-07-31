@@ -16,3 +16,5 @@ There are actually four courses:
 3. [Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow)
 4. [Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)
 
+## Notes:
+1.1 [A new programming paradigm](1.1.md)
