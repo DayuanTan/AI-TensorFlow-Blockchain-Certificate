@@ -29,3 +29,4 @@ Introduction of dataset Fashion MNIST.
 
 Use this dataset to train a neural network to recognize clothes. Classify a picture of one piece of clothes into 10 categorites.
 
+Exercise is handwriting recognition using dataset MNIST.
