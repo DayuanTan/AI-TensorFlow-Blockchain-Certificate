@@ -32,3 +32,6 @@ Use this dataset to train a neural network to recognize clothes. Classify a pict
 Exercise is handwriting recognition using dataset MNIST.
 
 1.3 [Enhancing Vision with Convolutional Neural Networks](1.3cnn.md)
+
+Introduce convolution and pooling.
+
