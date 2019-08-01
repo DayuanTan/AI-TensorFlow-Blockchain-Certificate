@@ -23,3 +23,9 @@ Introduction of difference between ML and traditional programming.
 
 A hello world neural network program using TensorFlow.
 
+1.2 [Introduction to Computer Vision](1.2computervision.md)
+
+Introduction of dataset Fashion MNIST.
+
+Use this dataset to train a neural network to recognize clothes. Classify a picture of one piece of clothes into 10 categorites.
+
