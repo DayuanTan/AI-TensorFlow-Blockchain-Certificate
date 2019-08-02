@@ -29,10 +29,12 @@ Introduction of dataset Fashion MNIST.
 
 Use this dataset to train a neural network to recognize clothes. Classify a picture of one piece of clothes into 10 categorites.
 
-Exercise is handwriting recognition using dataset MNIST.
+Exercise 2 is handwriting recognition using dataset MNIST.
 
 1.3 [Enhancing Vision with Convolutional Neural Networks](1.3cnn.md)
 
 Introduce convolution and pooling. And how to implement them in code (add few layers before flattening layer).
+
+Exercise 3 is handwriting recognition using dataset MNIST with CNN.
 
 
