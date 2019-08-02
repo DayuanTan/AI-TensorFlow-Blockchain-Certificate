@@ -39,4 +39,12 @@ Exercise 3 is handwriting recognition using dataset MNIST with CNN.
 
 1.4 [Using Real-world Images](1.4compleximages.md)
 
+Load around 1000 images about human or horses and label them using ImageGenerator. Feel how the ImageGenerator is pulling the images from the file system and feeding them into the neural network for training
 
+Defining a complex ConvNet to use complex images which are colorful and have red green blue 3 channels, 3 bytes per pixel.
+
+Use sigmoid instead of softmax as activation function since this is a binary classification problem.
+
+Do prediction using this model once the model is trained.
+
+Adding automatic validation to test accuracy. 
