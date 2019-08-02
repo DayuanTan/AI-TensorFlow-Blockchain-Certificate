@@ -37,4 +37,6 @@ Introduce convolution and pooling. And how to implement them in code (add few la
 
 Exercise 3 is handwriting recognition using dataset MNIST with CNN.
 
+1.4 [Using Real-world Images](1.4compleximages.md)
+
 
