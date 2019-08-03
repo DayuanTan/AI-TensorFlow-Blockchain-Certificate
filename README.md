@@ -12,6 +12,9 @@ This specialization will include four main contents:
 
 There are actually four courses:
 1. [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow)
+   
+   From looking at the most basic of neural networks to building a basic computer vision neural network that classified clothing. Then take this a little further by using Convolutions that spot features in an image, and then classify and learn based on those features. Use ImageGenerator to deal with complex real data. Train the ConvNet with fit_generator, combining trainging and validation.
+
 2. [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
 3. [Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow)
 4. [Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)
@@ -48,3 +51,5 @@ Use sigmoid instead of softmax as activation function since this is a binary cla
 Do prediction using this model once the model is trained.
 
 Adding automatic validation to test accuracy. 
+
+Exercise 4: a happy or sad dataset which contains 80 images, 40 happy and 40 sad. Create a convolutional neural network that trains to 100%. 
