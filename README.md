@@ -15,9 +15,14 @@ There are actually four courses:
    
    From looking at the most basic of neural networks to building a basic computer vision neural network that classified clothing. Then take this a little further by using Convolutions that spot features in an image, and then classify and learn based on those features. Use ImageGenerator to deal with complex real data. Train the ConvNet with fit_generator, combining trainging and validation.
 
+   [**My Certificate**](./certificate/5P3LRSEK9A9A.pdf) 
+   <img src="./certificate/5P3LRSEK9A9A.png" width="100" />
+
 2. [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
 3. [Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow)
 4. [Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)
+
+------
 
 ## Notes:
 1.1 [A new programming paradigm](1.1helloworldNeuralNet.md)
