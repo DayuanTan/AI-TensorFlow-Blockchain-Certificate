@@ -67,3 +67,23 @@ Exercise 4: a happy or sad dataset which contains 80 images, 40 happy and 40 sad
 ------
 
 ## 2. [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
+
+2.1 [Exploring a Larger Dataset](2.1largerdataset.md)
+
+Kaggle dataset of 25,000 cats versus dogs images.
+
+2.2
+
+**Deal with Overfitting**: With a smaller dataset, you are at great risk of overfitting; with a larger dataset, then you have less risk of over-fitting, but overfitting can still happen.
+
+Data augmentation
+
+Image augmentation, is rotation, skewing, flipping, moving it around the frame, those kind of things. You're not changing the dataset. It all just happens in memory.
+
+Another strategy, of course for avoiding overfitting, is to use existing models, and to have transfer learning.
+
+2.3 
+
+Transfer Learning, lets you download the neural network, that maybe someone else has trained on a million images, or even more than a million images. So take an inception network, that someone else has trained, download those parameters, and use that to bootstrap your own learning process, maybe with a smaller dataset.
+
+2.4 Multicast learning.
