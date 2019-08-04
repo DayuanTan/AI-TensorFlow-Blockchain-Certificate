@@ -25,6 +25,10 @@ There are actually four courses:
 ------
 
 ## Notes:
+
+## 1. [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow)
+
+
 1.1 [A new programming paradigm](1.1helloworldNeuralNet.md)
 
 Introduction of difference between ML and traditional programming.
@@ -58,3 +62,8 @@ Do prediction using this model once the model is trained.
 Adding automatic validation to test accuracy. 
 
 Exercise 4: a happy or sad dataset which contains 80 images, 40 happy and 40 sad. Create a convolutional neural network that trains to 100%. 
+
+
+------
+
+## 2. [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
