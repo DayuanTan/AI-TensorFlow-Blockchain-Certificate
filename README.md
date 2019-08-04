@@ -41,13 +41,13 @@ Introduction of dataset Fashion MNIST.
 
 Use this dataset to train a neural network to recognize clothes. Classify a picture of one piece of clothes into 10 categorites.
 
-Exercise 2 is handwriting recognition using dataset MNIST.
+**Exercise 2** is handwriting recognition using dataset MNIST.
 
 1.3 [Enhancing Vision with Convolutional Neural Networks](1.3cnn.md)
 
 Introduce convolution and pooling. And how to implement them in code (add few layers before flattening layer).
 
-Exercise 3 is handwriting recognition using dataset MNIST with CNN.
+**Exercise 3** is handwriting recognition using dataset MNIST with CNN.
 
 1.4 [Using Real-world Images](1.4compleximages.md)
 
@@ -61,7 +61,7 @@ Do prediction using this model once the model is trained.
 
 Adding automatic validation to test accuracy. 
 
-Exercise 4: a happy or sad dataset which contains 80 images, 40 happy and 40 sad. Create a convolutional neural network that trains to 100%. 
+**Exercise 4**: a happy or sad dataset which contains 80 images, 40 happy and 40 sad. Create a convolutional neural network that trains to 100%. 
 
 
 ------
@@ -72,7 +72,7 @@ Exercise 4: a happy or sad dataset which contains 80 images, 40 happy and 40 sad
 
 Kaggle dataset of 25,000 cats versus dogs images. 
 
-Exercise 5: Use the 25k images to train a model.
+**Exercise 5**: Use the 25k images to train a model. Need to handle directories yourself.
 
 2.2 [OVERFITTING: Augmentation: A technique to avoid overfitting](2.2overfitting.md)
 
