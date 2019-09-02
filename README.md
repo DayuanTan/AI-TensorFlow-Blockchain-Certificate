@@ -80,7 +80,7 @@ Kaggle dataset of 25,000 cats versus dogs images.
 
 **Data augmentation**:
 
-Image augmentation, is rotation, skewing, flipping, moving it around the frame, those kind of things. You're not changing the dataset. It all just happens in memory.
+Image augmentation, is rotation, skewing偏移, flipping, moving it around the frame, those kind of things. You're not changing the dataset. It all just happens in memory.
 
 Another strategy, of course for avoiding overfitting, is to use existing models, and to have transfer learning.
 
