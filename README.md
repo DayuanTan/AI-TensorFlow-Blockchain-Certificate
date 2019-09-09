@@ -47,7 +47,10 @@ Use this dataset to train a neural network to recognize clothes. Classify a pict
 
 Introduce convolution and pooling. And how to implement them in code (add few layers before flattening layer).
 
+**Convolution: A technique to extract features from an image.**
+
 **Exercise 3** is handwriting recognition using dataset MNIST with CNN.
+
 
 1.4 [Using Real-world Images](1.4compleximages.md)
 
@@ -68,6 +71,17 @@ Adding automatic validation to test accuracy.
 
 ## 2. [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
 
+- Understanding how ML works
+- using a DNN to do basic computer vision
+- beyond into Convolutions.
+
+- how to extract features from an image 
+- the tools in TensorFlow and Keras to build with Convolutions and Pooling as well as handling complex, multi-sized images.
+
+- how overfitting can have an impact on your classifiers 
+- explored some strategies to avoid it, including Image Augmentation, Dropouts, Transfer Learning and more.  
+- moving towards multi-class classification
+
 2.1 [Exploring a Larger Dataset](2.1largerdataset.md)
 
 Kaggle dataset of 25,000 cats versus dogs images. 
@@ -84,8 +98,14 @@ Image augmentation, is rotation, skewing偏移, flipping, moving it around the f
 
 Another strategy, of course for avoiding overfitting, is to use existing models, and to have transfer learning.
 
-2.3 OVERFITTING: Transfer Learning
+2.3 [Transfer Learning & OVERFITTING:Dropout.](2.3transferLearning.md) 
 
-Transfer Learning, lets you download the neural network, that maybe someone else has trained on a million images, or even more than a million images. So take an inception network, that someone else has trained, download those parameters, and use that to bootstrap your own learning process, maybe with a smaller dataset.
+Transfer Learning, lets you download the neural network, that maybe someone else has **trained** on a million images, or even more than a million images. So take an inception network, that someone else has trained, download those parameters, and use that to bootstrap your own learning process, maybe with a smaller dataset.
+
+You can use their **model** directly, or just use the **features** they extracted. 
+
+Dropout to overcome overfitting.
 
 2.4 Multicast learning. Multiclass Classifications
+
+Go to multiclass Classification: Rock, Papaer, Scissors. 
