@@ -109,3 +109,6 @@ Dropout to overcome overfitting.
 2.4 Multicast learning. Multiclass Classifications
 
 Go to multiclass Classification: Rock, Papaer, Scissors. 
+
+------
+3. Natural Language Processing in TensorFlow
