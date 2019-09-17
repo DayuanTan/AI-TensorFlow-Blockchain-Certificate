@@ -111,4 +111,5 @@ Dropout to overcome overfitting.
 Go to multiclass Classification: Rock, Papaer, Scissors. 
 
 ------
-3. Natural Language Processing in TensorFlow
+
+## 3. Natural Language Processing in TensorFlow
