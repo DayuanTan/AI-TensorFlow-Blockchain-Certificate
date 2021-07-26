@@ -1,5 +1,17 @@
 # AITensorFlowSpecialization.
 
+
+## My recommendation:
+This is a very good "Introduction to AI/ML" level course. And I think it is friendly to everyone, including 
+those who don't have any background. The workload is not high. You can finish this quickly and obtain basic 
+understanding of AI/ML and how to code them!
+
+Two ways to get the certificates free:
+1. Schedule 7 days and finish it during the 7 days trial. Don't schecule other things in these 7 days. Yes! It can be finished in 7 days. Watch videos, read materials, learn prof's code, code it yourself, all can be finished in 7 days. Don't hesitate. 一鼓作气。
+2. Use scholarship. But it takes at least 15 days to get approved. And you may feel lazy and cannot continue to finish it if you schedule is stretched too long. 不要战线拖的太长。
+
+---
+
 This is my notes for the coursera course [TensorFlow in Practice Specialization](https://www.coursera.org/specializations/tensorflow-in-practice), which talks about building scalable AI-powered algorithms in TensorFlow.
 
 This specialization will include four main contents:
