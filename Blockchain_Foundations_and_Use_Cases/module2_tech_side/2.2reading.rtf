@@ -1,0 +1,24 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2513
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red24\green24\blue24;\red5\green61\blue199;}
+{\*\expandedcolortbl;;\cssrgb\c12157\c12157\c12157;\cssrgb\c0\c33725\c82353;}
+\paperw11905\paperh16837\margl1440\margr1440\vieww12600\viewh7800\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs88 \AppleTypeServices\AppleTypeServicesF65539 \cf2 \expnd0\expndtw0\kerning0
+Hash Functions\
+\pard\pardeftab720\partightenfactor0
+
+\f1\fs28 \AppleTypeServices \cf2 \
+\pard\pardeftab720\sa320\partightenfactor0
+
+\f0\fs32 \cf2 A blockchain uses hash functions in order to create a record of the data recorded to the blockchain so any change to a single piece of data is easily identified. How does a hash function do this? A hash function is a digital mechanism that is used to compress data into a specific format of a specific length. The hashing algorithm used by the Bitcoin blockchain is SHA-256, which stands for Secure Hashing Algorithm, with a hash length of 256 bits. In this hash, the hashed data is always 256 bits long. The Ethereum blockchain uses a hashing algorithm called {\field{\*\fldinst{HYPERLINK "https://github.com/ethereum/wiki/wiki/Ethash"}}{\fldrslt \cf3 \ul \ulc3 Ethash}}. A hash created using Ethash will look like:\
+0xb846300e188829d1b819389b31cef3b9cfaf335082ee66f830a875f1c1beb396\
+The above hash is from block 5000171 mined on Jan-30-2018 at 02:20:28 PM +UTC on the Ethereum blockchain. More data on this block can be found at Etherscan.\
+If only one bit was changed in the input to the above hash, a completely different sequence of numbers and letters would be created. When data is written to a block, it is hashed. Therefore, if part a single piece of data within a block were to be changed at another point in time, the hash would completely change. This principle allows the nodes participating in the blockchain to detect any changes to data.  \
+This hashed data is used to create a link between each specific block. This is accomplished by writing the hash of each previous block into the next block in the chain. When a block is created, a  hash of the data within it is created, and that hash that is created includes the prior block hash. If a piece of data is changed in any prior block that is part of the chain, each following hash would change. The change cascades, allowing for the detection of change to any piece of data within the chain by comparing block hashes to each other across the nodes in the network.\
+This prevents changes to the blockchain after blocks are created and accepted by the network. We will get into ways that the blockchain could be attacked in order to change the record, but making this attack is very difficult. Therefore, data written to the blockchain is considered to be permanent. The permanence of data written to the blockchain is why you will hear a blockchain referred to as being immutable.\
+In addition to hashing, the blockchain relies on public key cryptography to acknowledge the idea of ownership on the blockchain. Specifically, participants on the blockchain have a private key that allow them to access their information which is encoded with their public key. The public and private key are related, but a malicious actor cannot derive the private key from the visible public key. Private keys are not meant to be shared since a private key is used to unlock its associated public key. These keys sign transactions on the blockchain.\
+Yunyun Chen of ConsenSys created an excellent visual explaining hashing in {\field{\*\fldinst{HYPERLINK "https://media.consensys.net/guide-hashing-33dc0467c126"}}{\fldrslt \cf3 \ul \ulc3 Guide: Hashing}} and how it is a part of public key cryptography in {\field{\*\fldinst{HYPERLINK "https://media.consensys.net/guide-an-introduction-to-encryption-9afd17f5da6d"}}{\fldrslt \cf3 \ul \ulc3 Guide: An Introduction to Encryption}}.\
+Hashing and public key cryptography work hand in hand to maintain consensus in the system. Through consensus, the entire system has common knowledge of the happenings on the platform and any action is recorded and made available for the platform to view. This solves the issue of a trustless system with intermediaries because now, participants on the blockchain have constant verification on the platform. The process of miners verifying actions on the blockchain is known as proof of work. Mining ensures that the constant state of the ledger has transactions that are all true. This prevents attacks and false information from perpetuating within the system, ensuring lasting validity. You will learn more about public key cryptography & signatures in the next video.}

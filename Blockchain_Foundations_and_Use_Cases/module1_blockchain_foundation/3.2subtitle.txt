@@ -1,0 +1,39 @@
+[MUSIC] So what is decentralization? Decentralization in my
+opinion is a phenomenon or a paradigm shift that planet
+earth is waking up to. Right now, the database and
+Internet structures that we, as species, have created thus far, have typically been driven by
+Internet service providers. Basically, the history of the Internet and the history of the database grew
+up distinct from each other. And when the first
+intranets were created and evolved into what we now were
+the America Online's of the world, basically we would log in to those
+intranets to access databases. And those types of intermediaries were
+the ones that would house our information. Fast forward to the last decade. The world on the Internet
+has essentially become an oligopoly of a handful
+of Internet service providers that access and serve as
+a thin line of intermediation to us. You can take Facebook, Twitter,
+retail banking accounts. And basically, we pay those
+intermediaries tremendous sums of money, or in many cases, we are the product,
+where we have quote, unquote, free access, but
+then our data is shared and monetized. And now we're going to a place
+where rather than having a centralized intermediary custody,
+our digital assets and our digital personas,
+we will have that self-sovereignty. The individual user will be in
+control of their data, their assets, their reputation, and we will have
+essentially peer-to-peer transactions. In so much Bitcoin was the opening act,
+where I was able to send a cryptographic token peer-to-peer without
+a intermediary or a bank in the middle. And now what we've got with these
+next-generation blockchains are basically anything that we can dream of
+in a peer-to-peer fashion. One example of this is the notion
+of triple-entry accounting. So planet earth as we know operates
+on double-entry accounting standards. Where if you and I were counterparties and
+I sent you a dollar, there would be credit in your books for the dollar and
+a debit in my books for the dollar. Going forward, there will still
+be the credit and the debit, but we're going to have this
+third immutable ledger entry. Hence, triple-entry accounting. And basically, that third immutable ledger
+entry will serve as a watermarking, a notarization, an agreement that
+I indeed gave you the dollar. And while that seems somewhat trivial, what we just did was
+essentially automate audit. Because right now, we pay auditors
+billions of dollars, the Deloitte's, PwC's, KPMG's, the Ernst & Young's of
+the world to reconcile that transaction. And with this next generation
+database technology, we are going to be able to
+automate that function. [MUSIC]

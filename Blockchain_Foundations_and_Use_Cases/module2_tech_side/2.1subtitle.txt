@@ -1,0 +1,89 @@
+[MUSIC] Hash functions are perhaps the single
+most important thing to understand if you really want to get how blockchains work. In this course, we're going to be talking
+specifically about cryptographic hash functions, which are one
+type of hash function. There are other types,
+don't worry about them, first, functions. You know what a function is if
+you've ever used a spreadsheet and done something like =sum(5,7). Here, sum is a function that takes
+a list of inputs and it adds them. The function's function is to add numbers. Hash functions are the same, but
+they don't output a simple sum. They output what's called a hash,
+which looks something like this. It looks like random text, but it's not. A hash function takes as its input just
+about any kind of digital data; numbers, text, images, videos, ebooks of any size. And outputs what seems like a long
+string of random characters. It can also be called a digest,
+but we'll just call it a hash. So what's the big deal with that? How is that useful? Well, the properties of
+cryptographic hash functions give them some very interesting uses. For example, think of when you
+log into an app or a website. When you enter your password, a comparison
+happens behind the scenes to see if the password you entered matches
+the password stored for your account. But your password isn't just stored
+in some text file on the server. That would make it way too easy to hack. If an intruder got access
+to the password file, they'd have all the user passwords for
+the entire system. So what you can do here
+is use a hash function. Instead of storing your password,
+a hash of your password can be created and that is stored. Now, the details are a little
+more complicated than this. But it goes approximately like this, when
+you go to log in, the password you type is hashed with the same function that was
+used when you originally created it. And then the 2 are compared. Your actual password
+isn't stored anywhere. Now, you might be thinking,
+wait a minute, couldn't someone just take the hash password and reverse engineer
+the hash function to recover my password? The simple answer is no. In the same way that if you knew that 12
+was the final result of the sum function in a spread sheet, you wouldn't know if
+I summed 7 and 5 or 4 and 8, and so on. Except with cryptographic hash functions,
+the math is far more complicated. But an extremely important
+property of these hash functions, one that makes them so useful,
+is their irreversibility. If hackers manage to get a password file,
+the only way they can guess your password is to do what's called a dictionary attack
+where they hash common words, phrases and variations to see if
+they can find matches. So if your password is dog,
+they'll be able to find it pretty quickly. This is why when you create passwords
+these days, you're asked to add letters, capitalization, numbers and symbols. Because it's far less likely that hackers
+will think to hash something like dOg22%, which makes your password more secure. If your password is 1234, and
+mine is 1235, look at the hashes. They are completely different, even though our passwords
+differ by just one character. Not only are hashes irreversible, but
+even inputs that are very similar or close to each other end
+up completely different. You can see that, as I type here, the hash keeps changing,
+because the text input is changing. And if I change just one letter,
+you get a totally different hash. You can think of a hash as like
+a unique signature of a given input. Another property of these hash functions
+is that the chances of one password generating the same hash as another,
+something called a collision, are so unlikely as to be,
+practically speaking, impossible. They should also be fast, the function
+shouldn't need much computer power. Let's look at another example. Imagine you created a legal document and
+sent it for review. And it was sent back to you
+approved without changes. How could you tell that the document
+wasn't in any way altered? Well, you could carefully read
+the document line by line and ensure it matches the original. Or you could take a hash of
+the original document, and compare it to a hash of
+the received document. Because the hash function outputs
+a unique fingerprint of its input data, you can be assured that if the document
+was altered the hashes wouldn't match. And that if the hashes do match,
+the documents are identical. Different cryptographic hash
+functions have different names, and often have associated numbers related
+to the length of their output. One common hash function is SHA-128, which
+stands for the standard hashing algorithm. And its output is 128 bits length. SHA-256 output is 256 bits long. Recall that bits are the binary 1s and
+0s that make up anything digital. More bits generally means more security,
+because there is less chance of having a collision where
+the outputs of 2 inputs are the same. If you imagine a hash function with just a
+2 bit output, that's a number from 0 to 4, you can see that it's very easy to find
+2 inputs that yield the same output. You'll definitely have a match
+after 4 different inputs. But for a 128-bit hash function, you'd have this
+many possible different hash outputs. So a collision is very unlikely. Another crucial feature of hash functions
+are that they are deterministic. So, for a given function like SHA-256, the same input will always
+yield the same output. Something else to note,
+a hash function's output is a number. You may see letters in there, but that's
+because this is a hexidecimal number. That will be important to know when we
+look at mining in an upcoming lesson. If you've never seen a hexadecimal number
+before, they can seem a little strange. As you know, decimal numbers, what we're used to, contain 10 different
+symbols in each numeral column. So as you count up, you'd say 8,
+9, 10, 11 and so on. Hexadecimal numbers, on the other hand,
+contain 16 symbols per numeral column. So instead of stopping at 9 and
+rolling back to 0, we keep going with A, B, C, D, E and F. You'd still count up the same way, but
+you have more numerals after 9 to go to. This is also called base 16, meaning each
+number slot holds up to 16 instead of 10. What's important to remember is just
+that if you see something like this, know that they can represent
+a hexadecimal number. One that you can add, subtract or
+compare to other numbers. So to recap, a hash function can take any
+size digital input and deterministically and irreversibly output a small,
+fixed-length, unique digital fingerprint which changes dramatically even with
+a minimal change to the input data. And does so
+without too much computational overhead. Now we'll teach you the math and code needed to program your own
+cryptographic hash function. Just kidding, we wouldn't do that to you. However, you should know enough
+about hashing now to learn how it's used in blocks. [MUSIC]

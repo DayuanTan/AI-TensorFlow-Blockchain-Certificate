@@ -1,0 +1,60 @@
+[MUSIC] So what is cryptography? Chances are you've heard the word. Today, cryptography is essential to pretty
+much every part of cybersecurity we have. But it's actually been around for
+a long time. From the Greek cryptography
+translates to hidden writing. And it's as old as the earliest
+messages we ever wrote using codes or ciphers, like this one. This was actually used by Julius Caesar
+to keep military communications private. His cipher involved shifting each
+letter left by three in the alphabet. The basic idea here is that we use some
+kind of algorithm to scramble our messages before sending them, so that they just look like gibberish
+to anyone who might read them. The only ones who can actually
+read the message are those we share the algorithm with, or
+those who can figure out the algorithm. The Cesar cipher is,
+by modern standards, very easy to break. Now flash forward,
+a couple thousand years. Today we send messages
+digitally through the Internet. Suppose Alice here wants
+to send a message to Bob. The problem is we live in
+a world of unencrypted networks. On the Internet, there's always a third
+party handling our communications. Communicating over a public
+unencrypted network means that anyone along the path of the Internet traffic
+from point A to point B can intercept and read the messages if they want to. It's a lot like sending a message
+on a postcard in the mail. You know that the mail person
+can read it if they want to, anyone in the truck can read it, or
+anyone at the processing facility. You get the idea. But if Alice is sending something
+important like her banking information, she doesn't want everyone
+to be able to read it. So the question becomes,
+is there a way for Alice to send Bob a message over
+the same public unencrypted network but still insure he's the only
+one who can read it? There is,
+it's called public-key cryptography. And this is how it works. For Bob to receive encrypted messages,
+he'll need two related cryptographic keys, a public one he can share with anyone
+who wants to send him a message, and a private one that
+he keeps to himself. Let's call them public key A and private key A, because they're
+a matching pair, like a lock and key. Its a little confusing calling
+both keys because the public key is used a bit like a lock. Public key A is used to encrypt or
+perhaps lock messages and private key A is decrypts messages but only if they were
+encrypted with the matching public key A. The public key is called that because
+it can be shared openly, for example, sent along the open network to Alice. It can't unlock anything by itself. Public key A can encrypt a message but
+not decrypt a message that it encrypted. That is it can't unlock
+a message that it locked. So it doesn't matter who else
+on the network might have it. Private key A, on the other hand, must be
+kept private because it can decrypt, or unlock messages encoded with public key A. So that's why Bob has to keep it private. So Alice takes her message and
+Bob's public key and applies an encryption function, so that she'll get a bunch of what's called
+ciphertext, which looks like gibberish. This ciphertext can be sent
+publicly on the open network. A third party may be able to see that
+Alice and Bob are communicating, but there is no way to tell
+what they're saying. And since Alice used Bob's public
+key A to encrypt the message, the only corresponding key that
+can decrypt it is private key A. And since Bob is the only
+one in possession of that, Alice can be assured that
+only he can read the message. Think of it as a mathematical one-way
+process, where, once a message is encoded with someone's public key, the only way to
+read it is with that person's private key. And it's all but impossible to decrypt or
+hack the message without it. So you might be wondering what's
+all this got to do with blockchain? Well public key cryptography is
+integral to making blockchain secure. It's the foundation for
+how digital wallets work, and how tokens are traded,
+and how identity is verified. We'll learn more about
+this in upcoming lessons. Public key cryptography is what is used
+to create verifiable historical records of transactional data. It's the very thing that makes it possible
+for us to build systems that are run by the global community,
+systems that can be truly decentralized. [MUSIC]
