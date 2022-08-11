@@ -19,9 +19,9 @@ It consists of 4 courses:
 
 ## 2. [Blockchain: Foundations and Use Cases (Use Ethereum)](Blockchain_Foundations_and_Use_Cases/module1_blockchain_foundation) by ConsenSys Academy
 
-This is a good introduction courses to blockchain. But it's worth to mention that it focus more on public blockchain/permissionless blockchain. It uses Bitcoin and Ethereum as examples in most cases.
+This is a good introduction course to blockchain. But it's worth to mention that it focus more on public blockchain/permissionless blockchain. It uses Bitcoin and Ethereum as examples in most cases. The first two modules talk about public blockchain. Module 3 mentions the public/private/consortium blockchains.
 
-It consists of 5 courses:
+It consists of 5 parts:
 - [Module 1 Blockchain Foundations](module1_blockchain_foundation/Module1.md) 
 - - Lesson 1 Introduction
 - - Lesson 2 The Brief, Brief History of Blockchain
@@ -36,3 +36,5 @@ It consists of 5 courses:
 - - Lesson 5: The Chain of Blocks
 - - Lesson 6: Nodes and Networks
 - [Module 3 Blockchain In Use](module3_blockchain_in_use/module3.md)
+- - Lesson 1: Consensus Mechanisms and Trust Frameworks
+- - Lesson 2: Public, Private & Consortium Blockchains

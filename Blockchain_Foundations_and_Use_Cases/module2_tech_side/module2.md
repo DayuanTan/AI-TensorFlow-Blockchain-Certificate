@@ -84,6 +84,7 @@ PoW
 - what proof-of-work means? 
   - By finding a block that is valid, you have proven that work has been done
   - For blockchains like Bitcoin and Ethereum, the difficulty level can change in order to ensure that blocks are created at regular intervals. 
+  - a valid block is **itself** proof of a lot of work which shows your commitment to the system. 
 - How work?
   - A block is only defined as valid 
     - if the hash value of the entire block, the hash value being a number, is below another threshold number. 
