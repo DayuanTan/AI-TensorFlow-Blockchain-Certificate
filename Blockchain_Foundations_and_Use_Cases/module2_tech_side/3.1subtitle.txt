@@ -1,0 +1,40 @@
+[MUSIC] Public key cryptography is also used for
+what's called digital signing. It's through signing that
+a blockchain knows that you, and not someone else, initiated a transaction. To do that, the process for public key cryptography that we talked
+about previously is essentially reversed. Something we didn't tell you about then
+is that private keys can also be used to encrypt data but for a different purpose. A feature of the public private key pair
+is that you can also encrypt data with you private key and that can then be
+decrypted with your matching public key. So think about that. Why would you want to do that? It would mean that everyone on the public
+network could read your message. So, what's the point? Well, if everyone on the network
+knows that only you have access to your private key, they know that if
+your public key can decrypt a message, then that message had
+to originate from you. It's proof that something came
+from you and not someone else, something that's pretty important over a
+digital network with many intermediaries. If Alice can use your public key to
+successfully decrypt a message she gets from someone else, she'll know that that
+message had to have originated with you, because, the fact of being able to decrypt
+something with any public key means it had to come from whoever possesses
+its corresponding private key. Of course,
+that message wouldn't be secure, because anyone with your
+public feed could decrypt it. But the point of signing isn't
+to secure a message itself, it's to secure the point of origin. It's a way of securely determining
+the source of a message or transaction, something difficult in the digital world. Let's look at an example of signing. Alice wants you to send her a digitally
+signed 400 page legal document. Signing lets her confirm it's from you and
+hasn't been altered on the way to her by other network participants
+over the open network. This is done the following way. You first take a hash of the document. A hash is like a tiny unique digital
+fingerprint of, say, a large document. And using your private key,
+you encrypt that hash. Now, when you send this document to Alice,
+you also include the encrypted hash. She can only decrypt that
+hash using your public key. Since only you have that key, she knows
+that this hash definitely came from you. She can then herself take a hash
+of the document separately and compare it to the one that you sent along. If those two hashes match, she knows
+that both the document came from you and that it wasn't altered. If Eve, a network intermediary, had altered the contract on
+the way in some way, then the hash that Alice calculated wouldn't match
+the one decrypted with your public key, so she'd know that this document
+wasn't the one that you had signed. And if Eve tried to change the document
+and then try to create a new encrypted hash, Alice wouldn't be able to
+decrypt it with your public key. So, she'd know it didn't
+originate with you. The big advantage of using hashes here
+is that you don't have to encrypt the entirety of what you're signing. You could sign multiple gigabytes of
+data with just a few hundred bytes. On a blockchain, signing is used in a similar way to verify
+transaction origination and ownership. [MUSIC]
