@@ -1,0 +1,54 @@
+[MUSIC] Now that we've had a look at dapps, we can
+see blockchains generally as platforms on which other things can be built. As not all platforms have virtual
+machines like Ethereum does, they don't all have the same features. As platforms, each blockchain
+has their own pros and cons. Depending on what exactly you want to do, a different one may
+better meet your needs. Beyond pros and cons, the size, health, and future prospects of
+a network are important considerations. If you are considering building a dapp, or investing in a blockchain solution, it's
+worth considering the level of support and the size of the developer community
+behind a given blockchain. Or you might want to make your
+own blockchain entirely to fit a specific niche. An example of that is Ripple, a blockchain
+created exclusively to transfer large amounts of value between large financial
+institutions cheaply and quickly. Hyperledger is a project that isn't
+itself a single blockchain, but rather is a suite of several
+blockchain frameworks and tools. It's designed more for
+creation of custom blockchains for specific industry applications and
+the focus is on permissioned or consortium blockchains, which are a hybrid
+of private and public blockchain models. This can be contrasted with Ethereum,
+which is a specific blockchain implementation, but one whose software can
+easily be re-purposed as a permissioned or private block chain. It also has the EVM, so
+you can build on top of that. Indeed, during production, developers make
+heavy use of private blockchain instances in their own computers and testnets, which
+let them test their smart contract-based systems out in more
+real-world environments. The Testnets are large public networks
+built for testing purposes and feature currency that has no value. On the Testnet, for example,
+you can use something called a faucet, which dispenses Ether to then
+use that Ether to pay for gas needed to test smart
+contract execution. Another benefit of Ethereum is that is it
+open source, which means that the code is all available for anyone to examine and
+suggest improvements to. The EEA, or Ethereum Enterprise Alliance, is a non-profit transparent organization
+with hundreds of enterprise members, whose purpose is to advise on and
+guide the development of Ethereum. The existence of the EEA demonstrates
+a commitment to the health and future of this blockchain as
+an enterprise grade system with solid development fundamentals. As developer communities operate,
+systems become more abstracted and feature sets get richer. Ethereum is no different. Some of the shortcomings of the Ethereum
+platform are being addressed by tools and extensions being created by developers. One example is the IPFS, or
+the Interplanetary File System. File storage is prohibitively expensive on
+a blockchain, as every node must store and process it, and in tiny, expensive blocks. The IPFS addresses this by providing
+a BitTorrent like network of files, stored in a distributed way,
+and much more cheaply. The idea behind the IPFS is to
+create a fully distributed web. Rather than having single
+servers serving files, you have distributed
+networks that do the same. It's also built for
+interaction with smart contracts. Swarm is another solution similar to IPFS. You may be wondering how exactly a user
+can interact with the Ethereum network. This is where Metamask fits in. MetaMask is a browser extension that
+lets a user access Ethereum dapps. By signing in with MetaMask, you are
+effectively confirming your identity and can use that across a range of
+applications in the same way that logging into your main Google account lets you
+access YouTube, Gmail and Google Docs. MetaMask lets you do the same, except it's
+not centralized in the same way Google is. It lets you review and approve or reject
+interactions with a blockchain on your behalf and take full control
+of your identity and data. In one of the case studies, we'll be
+looking at uPort, which is a more robust self-sovereign identity management
+dapp built with Ethereum. Next, we're going to close out this module
+with a look at the architecture of and development process behind an application
+developed for the blockchain. [MUSIC]

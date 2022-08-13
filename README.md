@@ -49,3 +49,4 @@ It consists of 5 parts:
 - - Lesson 4: Smart Contracts & The EVM
 - - Lesson 5: Decentralized Apps
 - - Lesson 6: Blockchain Platforms & Extensions
+- - Lesson 7: Blockchain Solution Architecture

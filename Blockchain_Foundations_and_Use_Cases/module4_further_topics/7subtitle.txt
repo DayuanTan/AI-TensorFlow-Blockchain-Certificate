@@ -1,0 +1,65 @@
+[MUSIC] If you ever find yourself
+working on a blockchain project. It might be helpful to know how
+blockchain solutions are developed and what their structure is. We'll have a look at a very basic
+version of the process here. To start you want to examine
+what the problem is and ensure that a blockchain is
+the right solution for it. By following the decision tree
+that we saw in an earlier lesson, you should start to get a sense of
+what things blockchains are good at. You may be working with a team
+of developers and designers. In collaboration with them, you'll determine the structure of the app,
+both on the back end and the front end. Developers will decide how
+best to solve the problems. Whether that's with an existing block
+chain or the creation of a new one. If we assume that they will use
+the Ethereum blockchain, they'll start by planning and then building all
+of the elements of the system. Including smart contracts,
+for which they'll likely use private blockchains installed
+locally on their computers. Many tools are available in the Ethereum
+ecosystem to help with this. Developers will use a range of
+technologies, frameworks, and languages to develop the entire
+decentralized application. Some of the common development tools
+specific to Ethereum that they may use currently include Metamask,
+Remix, and Truffle. Smart contracts themselves are often
+programmed in a language called Solidity. Truffle is a development framework. It aims to be the Swiss Army Knife for
+smart contract development. Itself, Truffle manages code and
+the compilation of smart contracts. It contains tools for
+deployment and testing. And it gives you access to hundreds of
+packages to expand its functionality. It's also grouped with the tools Ganache,
+which offers one click local blockchain deployment for
+developmental testing purposes and Drizzle, which helps developers
+create front ends for dAapps. Remix is an online Solidity IDE,
+which stands for Integrated Development Environment. It's a web-based system that
+helps developers create and test smart contracts made with solidity. An IDE is an application that lets
+programmers do much of their work in one place. Metamask, which we mentioned
+in the last lesson, is a tool that connects a browser
+to an Ethereum blockchain. And that can be a private blockchain,
+a test net, or the main net. Because dApps don't have a single
+server like standard apps do, this added layer is currently needed
+to make the connection to the user. Using a mixture of tools like
+those mentioned and others, the developers will eventually move from
+private networks to one of the test nets. The test nets exist solely to provide a
+more realistic environment in which to run smart, contract based dApps without the
+consequence of losing any real currency. Because the Ether on
+the Test Nets is free. These networks are smaller than
+the main Ethereum network, but have fully functioning
+blockchain implementations. Through iteration on the Test Nets,
+code bugs can be fixed and a final production-ready version
+of the dApp can be reached. Then it's time for the Main Net. The Main Net is where reality really hits. Contracts are deployed permanently and
+the value here is real. Any weaknesses in the system
+can be challenged and exploited by any network participant and
+costs real money if there are issues. Now there are some developmental
+methodologies that permit you to change how your contracts work
+in the event of an error but they don't involve editing an existing
+contract that is deployed. Rather, they involve kill switches and
+redirectors, and things that allow developers
+to change program logic by adding new smart contracts, and
+changing which ones get executed. While all this is happening,
+front-end designers and developers will be creating the parts
+of the dApp that a user interacts with. Tying together HTML, CSS, JavaScript, and other technologies across
+the stack such as IPFS. This front end integrates with the back
+ends to form the full user experience. And that is basically how
+a dApp gets developed. So with this extremely brief example of
+how a simple project might be developed, we're at the end of this module. With what you know now, we'd like to
+show you some case studies of projects developed on the Ethereum blockchain and give you the opportunity to take
+what you know and apply it to them. What about these projects makes them
+ideal use cases for our block chain? Keep that question in mind when
+you go through the next module. [MUSIC]

@@ -204,3 +204,85 @@ Pros and Cons
 
 # Lesson 6: Blockchain Platforms & Extensions
 
+platforms
+- blockchains generally is platforms on which other things can be built
+- Each blockchain has their own pros and cons
+
+If use existing blockchain, you need consider
+-  size, health, and 
+-  future prospects of a network 
+-  develop community
+-  capability to meet your needs vs a custom blockchain
+
+Other blockchains
+- ![](other_bc.png)
+- Ripple
+  - Ripple, a blockchain created exclusively to transfer large amounts of value between large financial institutions cheaply and quickly. 
+- Hyperledge
+  - Hyperledger is a project that isn't itself a single blockchain, but rather is a suite of several blockchain frameworks and tools. 
+  - It's designed more for creation of **custom blockchains** for specific industry applications and the focus is on permissioned or consortium blockchains, which are a **hybrid** of private and public blockchain models.
+- Ethereum
+  -  Ethereum, which is a specific blockchain implementation, but one whose software can easily be re-purposed as a permissioned or private block chain. It also has the EVM, so you can build on top of that.
+  - Ethereum has testnets
+    - ![](testnets.png)
+    - Indeed, during production, developers make heavy use of private blockchain instances in their own computers and testnets, which let them test their smart contract-based systems out in more real-world environments.
+  - Ethereum is open source
+    - ![](opensource.png)
+  - EEA
+    - The EEA, or Ethereum Enterprise Alliance, is a non-profit transparent organization with hundreds of enterprise members, whose purpose is to advise on and guide the development of Ethereum. 
+    - The existence of the EEA demonstrates a commitment to the health and future of this blockchain as an enterprise grade system with solid development fundamentals.
+    - hundreds of enterprise members
+
+## Extensions and Abstractions
+- As systems become more complicated, their complexity becomes abstracted. As the develop community works on Ethereum, tools are becoming more high-level
+- problems and shortcomings of the Ethereum platform are being addressed by tools and extensions being created by developers.
+
+One example, IPFS
+- Interplanetary File System
+  - designed to offer cheap distributed file storage for Ethereum blockchain dApps. 
+- Old problem
+  - File storage is prohibitively expensive on a blockchain, as every node must store and process it, and in tiny, expensive blocks.
+- Solution 
+  - The IPFS addresses this by providing a BitTorrent like network of files, stored in a distributed way, and much more cheaply. 
+  - The idea behind the IPFS is to create a fully distributed web. 
+    - Rather than having single servers serving files, you have distributed networks that do the same.
+    - it's also built for interaction with smart contracts.
+
+
+Swarm 
+- is another solution similar to IPFS
+
+Metamask
+-  how exactly a user can interact with the Ethereum network.
+-  MetaMask is a browser extension that lets a user access Ethereum dapps. 
+   -  By signing in with MetaMask, you are effectively confirming your identity and can use that across a range of applications 
+      -  in the same way that logging into your main Google account lets you access YouTube, Gmail and Google Docs. 
+   -  MetaMask lets you do the same, except it's not centralized in the same way Google is. 
+   -  It lets you review and approve or reject interactions with a blockchain on your behalf and take full control of your identity and data. 
+  
+uPort 
+- which is a more robust self-sovereign identity management dapp built with Ethereum. 
+
+# Lesson 7: Blockchain Solution Architecture
+
+how blockchain solutions are developed and what their structure is?
+- ![](how_bc.png)
+- Problem
+- Which blockchain?
+  - (Decision tree, whether blockchain is the suitable solution  for it)
+- Plan / Structure
+  - (tema of developers and designers, determine the structure of the app, both on the back end and the front end)
+- Development
+  - Private Blockchain First
+    - (Developers will decide how best to solve the problems. Whether that's with an existing block chain or the creation of a new one.)
+    - (Smart contract -  likely use private blockchains installed locally on their computers.)
+- Use of tools
+  - (Ethereum) Truffle / Remix / Metamask
+    - ![](tools.png) 
+    - ![](remix.png)
+    - ![](metamask.png)
+- Testnet
+  - - ![](testnet.png)
+- Iteration
+- Mainnet
+  - - ![](mainnet.png)
