@@ -92,3 +92,62 @@ Transactions
   - miners draw from it, verify those transactions are valid, confirm you have enough Bitcoin to do the transaction, decrypt your signed transaction to ensure the private key owner (you) is the one initiated it, then create blocks
 
 # Lesson 3: Bitcoin and Ethereum
+
+Bitcoin VS Ethereum
+- Bitcoin
+  - A peer to peer eletronic cash system
+  - Envisioned as a way  for anyone to possess and transfer currency to anyone else without any authority or third party
+- Ethereum
+  - a nextt generation blockchain envisioned as a world computer that can perform distributed computation in addition to having a currency
+  - a peer to peer database and dsitrbuted virtual computer 
+
+State
+- the state comprises all the variables in the  system at a givne time as agreed upon by all the nodes through consensus
+- transactions can be thought of  as moving the system from one state to another
+- The state in Ethereum changes as the result of transactions and the operation of a very special feature of Ethereum, the Ethereum Virtual Machine. 
+- EVM
+  - the most noteworthy features of Ethereum when it was created
+  - it was Turing complete, 
+    - which means it's complex enough that it can theoretically do anything any other computer can do. 
+      - All of the code that it runs can be stored as a part of the blockchain. 
+      - You can program fairly sophisticated apps whose core logic runs on the blockchain.
+
+Ethereum's challenges around scaling
+- a fairy  low transaction volume currently 
+  - 15 tps
+    - the entire system can currently only process about 15 transactions per second.
+  - The entire network has to run every computation on every computer, which means that the whole system can really only work as fast as the slowest computers on it.
+
+Ethereum community's 3 approaches to deal with scaling issues
+- Adoption of proof of stakes
+- Implementation of state channels
+- Use of sharding 
+
+PoS
+- PoS is a much more efficient way to achieve consensus compared to proof of work
+  - The transition to proof-of-stake from proof-of-work will reduce a lot of the computational burden on the network. 
+  - Rather than mining blocks by finding a valid low hash value, the network would forge blocks by distributing the permission to create them by the proportion of currency staked by a node rather than the amount of computational power it might have.
+- The adoption of proof of stake will make the network more efficient and increase transaction throughput 
+
+State channels
+- are a way  to group trasanctions together off-chain and add them all together, reducing the number of separate individual transaction required
+  - cluster transactions in one place off chain
+  - then open the channel
+  - move them on chain as a group 
+  - induce the number of transactions the network has to process independently
+    - instead provide them in bulk 
+- the use of state channels will also make the network more efficient and increase transaction throughput 
+
+Sharding
+- is a way of splitting a blockchain into smaller networks (smaller parts, shards), that process transactions and state independently， while maintaining coherence  across the overall network 
+  - work independently for collation校对 later
+- sharding promises greate potential improvement to network scalablity by reducing the load on individual nodes
+
+Shasper
+- the community is looking at addressing scaling with a new initiative called shasper 
+  - a new initiative that will address scaling concerns with a combination of proof-of-stake and sharding.
+
+## Bitcoin vs Ethereum
+- The core difference between Bitcoin and Ethereum lies in the virtual machine
+  -  Within the virtual machine of Ethereum, we can actually program applications. -- solidity,  which is a derivative of JavaScript
+  -  DApp

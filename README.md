@@ -17,32 +17,32 @@ It consists of 4 courses:
 [**My Certificate**](./AI_Tensorflow_in_Practice_Specialization/certificate/5P3LRSEK9A9A.pdf) 
 <img src="./AI_Tensorflow_in_Practice_Specialization/certificate/5P3LRSEK9A9A.png" width="100" />
 
-## 2. [Blockchain: Foundations and Use Cases (Use Ethereum)](Blockchain_Foundations_and_Use_Cases/module1_blockchain_foundation) by ConsenSys Academy
+## 2. [Blockchain: Foundations and Use Cases (Use Ethereum)](Blockchain_Foundations_and_Use_Cases) by ConsenSys Academy
 
 This is a good introduction course to blockchain. But it's worth to mention that it focus more on public blockchain/permissionless blockchain. It uses Bitcoin and Ethereum as examples in most cases. 
 
 The first two modules talk about public blockchain. Module 3 mentions the public/private/consortium blockchains. The private blockchain in module 3 is old (It looks it's before 2019). It says only on organization and the access control is cnetralized, which is not true in 2022. For example, Hyperledge Fabric supports multiple organizations to establish a private blockchain.
 
 It consists of 5 parts:
-- [Module 1 Blockchain Foundations](module1_blockchain_foundation/Module1.md) 
+- [Module 1 Blockchain Foundations](Blockchain_Foundations_and_Use_Cases/module1_blockchain_foundation/Module1.md) 
 - - Lesson 1 Introduction
 - - Lesson 2 The Brief, Brief History of Blockchain
 - - Lesson 3: What is Decentralization?
 - - Lesson 4: Ledgers, Distributed Ledgers, and Consensus
 - - Lesson 5: The Paper Blockchain
-- [Module 2 The Technical Side](module2_tech_side/module2.md)
+- [Module 2 The Technical Side](Blockchain_Foundations_and_Use_Cases/module2_tech_side/module2.md)
 - - Lesson 1: Public Key Cryptography
 - - Lesson 2: Cryptographic Hash Functions
 - - Lesson 3: Public Key Cryptography & Signing
 - - Lesson 4: Anatomy of a Block
 - - Lesson 5: The Chain of Blocks
 - - Lesson 6: Nodes and Networks
-- [Module 3 Blockchain In Use](module3_blockchain_in_use/module3.md)
+- [Module 3 Blockchain In Use](Blockchain_Foundations_and_Use_Cases/module3_blockchain_in_use/module3.md)
 - - Lesson 1: Consensus Mechanisms and Trust Frameworks
 - - Lesson 2: Public, Private & Consortium Blockchains
 - - Lesson 3: When to Use a Blockchain
 - - Lesson 4: Implications of Blockchain on Business
-- [Module 4 Further Topics](module4_further_topics/module4.md)
+- [Module 4 Further Topics](/Blockchain_Foundations_and_Use_Casesmodule4_further_topics/module4.md)
 - - Lesson 1: Cryptocurrency Tokens
 - - Lesson 2: Wallets, Exchanges & Transactions
 - - Lesson 3: Bitcoin and Ethereum
