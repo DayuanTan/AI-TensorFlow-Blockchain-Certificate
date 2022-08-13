@@ -22,4 +22,7 @@
 - Lesson 1: Cryptocurrency Tokens
 - Lesson 2: Wallets, Exchanges & Transactions
 - Lesson 3: Bitcoin and Ethereum
-
+- Lesson 4: Smart Contracts & The EVM
+- Lesson 5: Decentralized Apps
+- Lesson 6: Blockchain Platforms & Extensions
+- 

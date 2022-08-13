@@ -151,3 +151,56 @@ Shasper
 - The core difference between Bitcoin and Ethereum lies in the virtual machine
   -  Within the virtual machine of Ethereum, we can actually program applications. -- solidity,  which is a derivative of JavaScript
   -  DApp
+
+
+# Lesson 4: Smart Contracts & The EVM
+
+smart contract 
+- a small piece of logic or code that can interact with a block chain.
+- small contract logic is publicly viewable
+- it's fully transparent, trustless, and secure and immutable 
+- drawback
+  - You have to be very certain that your smart contract doesn't have any mistakes in it. 
+- In bitcoin
+  - bitcoin script, which is not turing complete
+- In Ethereum
+  - Solidity, which is Turing complete
+    - Turing complete just means it has all that it needs to fully function as a computer or information processor.
+- EVM
+  - The EVM is what processes the code and smart contracts but processing isn't free. -- Gas -- Ether
+  - smart contracts is the code and the EVM is the computer that runs the code.
+
+A simple smart contract example
+- you and your friend own an apartment
+  - your tenant sends the payment to a smart contract which determiistically splits it between you and your friend
+- smart contract makes this deterministic, no rely on any party
+  - no third party or human will determine the split. It's openly viewable and immutable.
+
+
+Gas
+- EVM is the engine of Ethereum, gas is the gas
+- Gas serves 3 purposes
+  - it incentives nodes to process contracts
+  - it makes spams and other abuses expensive
+  - it helps prevent bad code or infite loops from clogging up the network 
+
+![](smartcontract_process.png)
+
+# Lesson 5: Decentralized Apps
+
+Decentralized apps or Dapps, 
+- DApp: Complex smart contracts working together to offer full application functionality
+- are the next logical step after smart contracts. 
+- Where a smart contract is a small piece of logic that is stored and executed by the machines on a blockchain, 
+- Dapps refer to higher level applications, built using those smart contracts to provide their functionality. 
+  - Dapps like other applications, are a combination of a variety of technologies. 
+
+Web application VS DApp
+- ![](5.1.1.png)
+- ![](5.1.2.png)
+
+Pros and Cons
+- ![](pro_con.png)
+
+# Lesson 6: Blockchain Platforms & Extensions
+

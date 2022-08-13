@@ -1,0 +1,83 @@
+You can think of a smart contract
+as a small piece of logic or code that can
+interact with a block chain. A smart contract might, for example, be programmed to automatically
+split a payment sent to an address on a blockchain
+between you and someone else. Many blockchain
+implementations like Bitcoin have simple scripting frameworks
+that can do this. You could also call
+those smart contracts. One difference with the theorem however is that its
+smart contracts can be much more sophisticated and they're a part of the fabric
+of the system itself. They're a part of the block chain. These smart contracts, the small
+pieces of distributed logic, can actually get complicated
+enough to create applications that run
+on the blockchain. Let's look at a simple example
+of what smart contracts can do. Here we're talking about a theorem. A smart contract sits at an
+address on the blockchain. An address that looks identical
+to the ones that humans control. Suppose you and a friend both own property and you're
+renting it out to a tenant, a smart contract could be created
+so that the tenant doesn't pay either of you individually
+but pays the contract itself. Sending funds to the
+contracts address. That contract could be programmed so that when it receives payment it automatically transfers
+half the payment to you and half to your friend. Now, that seems pretty simple
+but it's kind of remarkable. For one, the payment can
+be split without any party handling it and having
+the option of not splitting it. Consider the difference between
+this and the deposit in a shared bank account
+or having your friend receive full payment and
+sending half your way. In either case,
+the distribution of funds relies on decisions by parties who may not always have
+shared interests and who may have the option
+to keep the money. A smart contract makes
+this sort of thing deterministic and on
+unreliant on anyone's will. There is no third party to trust. Another useful aspect of
+such a smart contract is that the logic of it is publicly viewable
+by both you and your friend. So, you can each confirm that
+it will operate as expected. It's fully transparent, trustless, and secure and because
+the blockchain is immutable so is the logic
+of the smart contract. Neither you nor your friend can go back and change it after the fact. Now, this is the most
+simplistic of examples, but imagine what could be
+possible using such a system. How many processes it could simplify? How many intermediaries
+it could circumvent? Smart contracts in a theorem can
+be coded in assembly which is a difficult and very raw
+programming language or they can be coded in a higher level language that has been developed specifically for
+smart contract programming. A popular one of those
+is called Solidity. Solidity code looks a
+lot like JavaScript. When a smart contract is
+deployed to blockchain, just like any transaction
+it is permanent. You can never change
+a smart contract. That is one of its benefits
+but also a drawback. You have to be very certain that your smart contract doesn't
+have any mistakes in it. This brings us to the EVM, the Ethereum Virtual Machine. You can think of smart
+contracts as the code and the EVM as the computer
+that runs the code. The EVM is a Turing complete virtual machine that runs on every full node
+in the network. To say something is Turing complete just means it has all that it needs to fully function as a computer
+or information processor. All processing on the EVM happens across the network and
+is verified throughout. The EVM is what makes
+Ethereum so exciting. It's like a distributed
+world computer rather than having consensus just
+on transactions and numbers, it's consensus on logic and
+the processes themselves. The possibilities are just
+starting to be explored and can defy our intuitions about
+how online systems can work. Even how fundamental concepts
+like ownership work. The EVM is what processes
+the code and smart contracts but processing isn't free. So, how do you pay for it? In Ethereum, you pay
+for processing with gas like a transaction fee
+for computation. If the EVM is the engine of Ethereum, then gas is the gas. Gas is a small amount of ether, the currency and Ethereum, allocated to pay for computation
+that is performed on the network. This serves three primary functions. For one, it incentivizes
+nodes to perform computation by providing
+them with compensation. Second, it reduces
+the incidence of spam and abuse as the rewards of spamming would
+be outweighed by the cost of gas. Third, it helps to prevent the EVM
+from being programmed into an infinite loop since the gas for a given process
+would get used up. To get a sense of how
+a smart contract works. We can consider the flow
+of one's operation. When a user interacts
+with a smart contract, it's done through transactions, like when you send
+coins to someone else. These transactions are picked up by nodes who check them for validity. If the transactions are valid that is there are enough funds to
+pay for any processing. The smart contract is
+executed by the EVM with the transactions applying
+any required data inputs. This process changes the state of the blockchain and those states
+get recorded back to it. Smart contracts often engage with other smart contracts and those
+networks of contracts can start doing fairly complicated
+things and allow for the development of
+decentralized applications.
