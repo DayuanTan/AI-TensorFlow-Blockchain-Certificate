@@ -27,4 +27,8 @@
 - Lesson 6: Blockchain Platforms & Extensions
 - Lesson 7: Blockchain Solution Architecture
 
-
+# [Module 5 Use Cases (Ethereum)](module5_use_cases/module5.md)
+- Use Case 1: Uport: Self-sovereign Identity and Reputation
+- Use Case 2: Meridio: Ownership and Governance
+- Use Case 3: Viant: Supply Chain and Asset Tracking
+- Use Case 4: Ujo: Royalties in the Music Industry

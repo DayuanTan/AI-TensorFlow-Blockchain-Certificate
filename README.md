@@ -21,7 +21,12 @@ It consists of 4 courses:
 
 This is a good introduction course to blockchain. But it's worth to mention that it focus more on public blockchain/permissionless blockchain. It uses Bitcoin and Ethereum as examples in most cases. 
 
-The first two modules talk about public blockchain. Module 3 mentions the public/private/consortium blockchains. The private blockchain in module 3 is old (It looks it's before 2019). It says only on organization and the access control is cnetralized, which is not true in 2022. For example, Hyperledge Fabric supports multiple organizations to establish a private blockchain.
+- Permissionless / Public blockchain
+- Permissioned 
+- - consortium blockchain
+- - private blockchain
+
+The first two modules talk about public blockchain. Module 3 mentions the public/private/consortium blockchains. Module 4 explain more detials, mainly focus on detials of Etereum. 
 
 It consists of 5 parts:
 - [Module 1 Blockchain Foundations](Blockchain_Foundations_and_Use_Cases/module1_blockchain_foundation/Module1.md) 
@@ -50,3 +55,8 @@ It consists of 5 parts:
 - - Lesson 5: Decentralized Apps
 - - Lesson 6: Blockchain Platforms & Extensions
 - - Lesson 7: Blockchain Solution Architecture
+- [Module 5 Use cases (Ethereum)](Blockchain_Foundations_and_Use_Cases/module5_use_cases/module5.md)
+- - Use Case 1: Uport: Self-sovereign Identity and Reputation
+- - Use Case 2: Meridio: Ownership and Governance
+- - Use Case 3: Viant: Supply Chain and Asset Tracking
+- - Use Case 4: Ujo: Royalties in the Music Industry
