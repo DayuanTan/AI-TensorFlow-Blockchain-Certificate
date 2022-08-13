@@ -1,0 +1,36 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2513
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red24\green24\blue24;\red5\green61\blue199;}
+{\*\expandedcolortbl;;\cssrgb\c12157\c12157\c12157;\cssrgb\c0\c33725\c82353;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}}
+\paperw11905\paperh16837\margl1440\margr1440\vieww12600\viewh7800\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs88 \AppleTypeServices\AppleTypeServicesF65539 \cf2 \expnd0\expndtw0\kerning0
+Supplemental Reading: Implication of Blockchain on Traditional Business\
+\pard\pardeftab720\partightenfactor0
+
+\f1\fs28 \AppleTypeServices \cf2 \
+\pard\pardeftab720\sa320\partightenfactor0
+
+\f0\fs32 \cf2 We would like to explore a blockchain use case, that gets into how some of these components come together in a project. In the last decade much of the internet has moved onto "cloud storage" which has powered the new web. Most of the applications we use on a daily basis have our data stored in server farms owned by Amazon, Google, or Microsoft. In this new era of decentralized applications, developers are turning to decentralized storage as a way to avoid censorship, server outages, and hacks.\
+Following the trend set by earlier iterations, the idea of Web 3.0 posits a change in the way content and programs interact. If central intermediaries like Facebook and Google are cut out of the picture, many of the problems we have today will change in scope. Instead, {\field{\*\fldinst{HYPERLINK "https://en.wikipedia.org/wiki/Content-addressable_storage"}}{\fldrslt \cf3 \ul \ulc3 content addressing}} and related techniques will allow content and programs to link to one another directly and in a more robust fashion. Blockchain technologies like the digital currency Bitcoin and the smart contract platform Ethereum use unbreakable {\field{\*\fldinst{HYPERLINK "https://media.consensys.net/2016/06/01/1499/"}}{\fldrslt \cf3 \ul \ulc3 public key cryptography}} to secure the connection between programs and protect data.\
+This is an alternative to the centrally issued SSL (Secure Sockets Layer) Certificates used today. Because there is no central intermediary routing traffic, connections can dynamically find the most efficient pathway through the Internet and route around congestion or damage.\
+These systems were designed for financial transactions though. They are not suited to storing and relaying the volume of information required to replace a central server. BitTorrent is a popular solution that has excellent storage and scaling characteristics. However, navigating the {\field{\*\fldinst{HYPERLINK "https://en.wikipedia.org/wiki/Distributed_hash_table"}}{\fldrslt \cf3 \ul \ulc3 Distributed Hash Table}} used to index content on the network can take seconds. This kind of latency (wait time) is fine for large file transfers but no good for datacenter use cases.\
+Described by Viktor Tron as \'93the lego kit for the third web,\'94 IPFS is a new system for storing data on a large number of computers. It is transport layer agnostic, meaning that it can communicate through transport layers like transmission control protocol (TCP), uTP, UDT, QUIC, TOR, and even Bluetooth)\
+Instead of a central server, a {\field{\*\fldinst{HYPERLINK "https://en.wikipedia.org/wiki/Peer-to-peer"}}{\fldrslt \cf3 \ul \ulc3 peer to peer network}} is used to establish connections. {\field{\*\fldinst{HYPERLINK "https://media.consensys.net/2016/06/01/1499/"}}{\fldrslt \cf3 \ul \ulc3 Public key cryptography}} is built into the node addressing system and {\field{\*\fldinst{HYPERLINK "https://en.wikipedia.org/wiki/Content-addressable_storage"}}{\fldrslt \cf3 \ul \ulc3 content addressing}} is used to index content. Both node and content addresses are stored in a decentralized naming system called InterPlanetary Naming System (IPNS).\
+Node addressing and connection security\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0\cf2 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+Nodes in the peer to peer network each hold private keys and release public keys, just like in Bitcoin or Ethereum.\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+Node addresses are derived through {\field{\*\fldinst{HYPERLINK "https://media.consensys.net/2016/06/03/guide-hashing/"}}{\fldrslt \cf3 \ul \ulc3 hashing}} their public keys. Allowing connection verification through message signing.\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+Their public keys can be used to encrypt data before it is transferred, preventing interception and theft.\
+\pard\pardeftab720\sa320\partightenfactor0
+\cf2 Solutions to the security issues of today\'92s web are built into this addressing system. There is no need for a trusted central certificate issuer to provide connection verification tools and all connections can easily be encrypted by default. No more SSL.\
+\pard\pardeftab720\sa320\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://medium.com/@ConsenSys/an-introduction-to-ipfs-9bba4860abd0"}}{\fldrslt \cf3 \ul \ulc3 This}} article provides a high level insight on IPFS followed by a deep dive technical summary.\
+Learn more about IPFS {\field{\*\fldinst{HYPERLINK "https://ipfs.io/#how"}}{\fldrslt \cf3 \ul \ulc3 here}}.}

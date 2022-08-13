@@ -171,3 +171,59 @@ To recap, we have a business problem or project that needs a **database**, requi
      - it's ready-made. 
    - Use your own public blockchain
      - need to ensure a robust set of consensus mechanisms are in place to keep the blockchain secure
+
+# Lesson 4: Implications of Blockchain on Business
+
+Centralized databases
+- to store and process vast amounts of data
+- power organizational functions such as finance, human resources, marketing, sales, operations, and more
+- problems
+  - be prone to attacks from external and internal actors, as they have a single point of failure that even the best cybersecurity fails to protect
+  - hacks of Yahoo, Equifax, and Target
+
+Decentralized databases
+- problems
+  - siloed, 
+  - inefficient, and 
+  - inconsistent, 
+  - making it difficult to share accurate data internally, and externally, 
+  - slowing down transaction times, and 
+  - failing to provide a single verifiable source of truth on data for multiple parties to agree on
+
+Blockchain
+- data can be stored and automatically replicated and shared across a network of databases
+  - This network is transparent and verifiable, allowing anyone that is signed into it to see a single source of truth on current and historical data. 
+  - It also improves the efficiency, accuracy, and speed of transactions, minimizing disputes, and the need for intermediaries.
+  - the distributed architecture of the blockchain is more resilient, reducing the ability for hacks to happen as there is no single point of failure. 
+- Use cases
+  - supply chain
+    - Provenance of assets become a verifiable, traceable, and auditable, creating transparency throughout the lifecycle of a supply chain.
+  - medical industry 
+    - The medical industry personal ownership of medical records that can be used universally at the person's discretion. 
+  - music industry
+    - Music ownership and distribution, where creators are not exploited by intermediaries, and receive direct compensation for their work
+  - Internet of Things
+    - blockchain is used as a means to connect and audit IoT machine to machine transactions
+
+Questions need to be considered before using blockchain
+- Are there multiple parties, or entities that need to interact with one another? 
+- Do certain parts of the business rely on central agents that are acting as intermediaries? 
+- Is there absence of trust, and a transaction, or business process? 
+- Are there assets that need provenance in tracking? 
+- Finally, what part of the business can be automated, and put into a smart contract? 
+
+Example - payments in the financial service industry
+- from the moment that it's swiped, to when the transaction is finally settled, there are multiple intermediaries, and steps that drive high transaction costs, and inefficiencies and processing it. This is why it can take up to three or more days from a transaction to go from pending to finalized. 
+- By implementing blockchain technology as payment rails, a financial services business can dramatically speed up transaction times as it removes many intermediaries. It can drive down the costs of transactions, and there are reduced operational costs and risks.
+
+every industry
+- businesses will gain many benefits by implementing blockchain technology:
+  - improved record keeping of data on disconnected systems, 
+  - personal ownership of data and digital assets, 
+  - easy access to shared or historical data, 
+  - real-time auditing of activities on a system, 
+  - trusted attestations on unknown parties to create assurance, 
+  - automation of a paper-based multi-step proces
+  - s, ability to remove intermediaries from a business process, 
+  - tokenize assets that can be traded on public or permissioned chains 
+  - integrations with other emerging technologies such as artificial intelligence, and the Internet of Things.

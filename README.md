@@ -40,3 +40,5 @@ It consists of 5 parts:
 - [Module 3 Blockchain In Use](module3_blockchain_in_use/module3.md)
 - - Lesson 1: Consensus Mechanisms and Trust Frameworks
 - - Lesson 2: Public, Private & Consortium Blockchains
+- - Lesson 3: When to Use a Blockchain
+- - Lesson 4: Implications of Blockchain on Business
