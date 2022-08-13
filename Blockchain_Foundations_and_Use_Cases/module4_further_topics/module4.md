@@ -1,0 +1,94 @@
+# Module 4 Further Topics
+
+In this module we will cover the following topics: 
+- Introduction, 
+- Bitcoin and Ethereum, 
+- Ethereum, Smart Contracts, 
+- Cryptocurrency Tokens, 
+- Wallets and the Marketplaces, and 
+- Implications on Traditional Businesses. 
+  
+The reading materials will help you to expand your knowledge of the materials presented in this module. 
+
+Learning Objectives
+- Describe how a cryptocurrency wallet is used
+- State the differences between cryptocurrencies, coins, and tokens
+- Indicate what a dApp is and what makes it different.
+- Explain what a smart contract is.
+- Describe blockchain platforms and extensions.
+
+# Lesson 1: Cryptocurrency Tokens
+First bitcoin
+- mined in 2009
+  
+What is the value?
+- Agreement
+  - the value of a currency comes from a collective agreement about its worth
+  
+Decentralized cryptocurrencies 
+-   were born when technology enabled electronic currency to have the same properties as physical currency. 
+-   Mining difficulity: scaricity 稀缺性
+-   Consensus: reliability
+-   Digital Signing: Tradeability
+
+Currency, coin, token
+- Currency
+  - sth exchangable that holds value intrinsically
+  - Not all blockchains have an associated currency
+  - Bitcoin and Ether are the intrinsic tokens for the two blockchains
+  - these kinds of intrinsic tokens as coins
+- Intrinsic token
+  - vallue is intrinsic
+- Extrinsic token
+  - has value through reference
+- A coin is a unit of cryptocurrency associated with a given blockchain network. 
+- A token is usually more like a share in a company, it's tradable, sellable, you own it, 
+  - but it can also be seen as a proof of an ownership stake in something and that thing is what has value. 
+  - So, the value of the token is extrinsic to it and that is in contrast to the value intrinsic to a coin. 
+  - On a blockchain tokens are covered in the same way as coins, but it's an important distinction to make
+
+Example
+- on the Ethereum blockchain, you might buy tokens with your Ether, but you wouldn't buy Ether with your tokens, you would sell your tokens for Ether. 
+- Tokens can be created arbitrarily on the Ethereum network. If you have a project, you could invent a token and sell it to fund raise. 
+- The concept of electronic money isn't entirely new, air miles, and reward points are a fully electronic currency,
+- Difference:
+  - air miles needs a huge system to support the whole process, to support millions of user
+  - With a supporting blockchain like Ethereum, all this is just there. If you knew what you were doing, you could create your own token in just hours, with the entire block chain back-end giving you or anyone everything you need for your token to be ownable, buyable, transferable, and secure, that ability is unprecedented. 
+- ICO vs IPO
+  - both are ways to raise money by offering shares of ownerships
+  - initial coin offering
+    - you buy tokens which could represent ownership of just about anything
+  - initial public offering
+    - You buy stocks which represents a share in a compnay
+
+
+# Lesson 2: Wallets, Exchanges & Transactions
+
+Wallet
+- they are key chains
+- each of those keys is a private key which shows you are the owner of the coins associated with the matching public addresses
+- with the private key, you can control any coins assigned to the public addresses because the private key is the only way the system knows you own the public key
+- keep you private key secure. A paper is good enough. 
+
+Address
+- the address is derived from the public key
+- so you canhave  diff addresses own by one private key 
+- the block only record transactions from one address to another address with credits/debits amount 
+- public key/derived public address
+  - is the address people assign coins to
+  - is a way to confirm the identity of the private key holder through cryptographic signing
+
+Where are coins stored?
+- They are not. Coins aren't transferred. Ownership of coins is transferred.
+- Backward search only goes so far as to confirm enough tokens are owned.
+
+
+Exchanges
+- buy and sell currency
+
+Transactions
+- when you broadcast a transaction
+  - all unprocessed transactions are in "mempool"
+  - miners draw from it, verify those transactions are valid, confirm you have enough Bitcoin to do the transaction, decrypt your signed transaction to ensure the private key owner (you) is the one initiated it, then create blocks
+
+# Lesson 3: Bitcoin and Ethereum

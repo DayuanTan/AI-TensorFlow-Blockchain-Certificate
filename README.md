@@ -42,3 +42,7 @@ It consists of 5 parts:
 - - Lesson 2: Public, Private & Consortium Blockchains
 - - Lesson 3: When to Use a Blockchain
 - - Lesson 4: Implications of Blockchain on Business
+- [Module 4 Further Topics](module4_further_topics/module4.md)
+- - Lesson 1: Cryptocurrency Tokens
+- - Lesson 2: Wallets, Exchanges & Transactions
+- - Lesson 3: Bitcoin and Ethereum
