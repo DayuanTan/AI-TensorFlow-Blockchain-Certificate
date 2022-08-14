@@ -2,7 +2,7 @@
 My notes for coursera course for AI,TensorFlow, Blockchain and the certificates I earned.
 
 
-## 1. [AI TensorFlow Specialization](./AI_Tensorflow_in_Practice_Specialization) by DeepLearning.AI
+# 1. [AI TensorFlow Specialization](./AI_Tensorflow_in_Practice_Specialization) by DeepLearning.AI
 
 This is a very good "Introduction to AI/ML" level course. And I think it is friendly to everyone, including 
 those who don't have any background. The workload is not high. You can finish this quickly (<= 7 days) and obtain basic 
@@ -17,7 +17,9 @@ It consists of 4 courses:
 [**My Certificate**](./AI_Tensorflow_in_Practice_Specialization/certificate/5P3LRSEK9A9A.pdf) 
 <img src="./AI_Tensorflow_in_Practice_Specialization/certificate/5P3LRSEK9A9A.png" width="100" />
 
-## 2. [Blockchain: Foundations and Use Cases (Use Ethereum)](Blockchain_Foundations_and_Use_Cases) by ConsenSys Academy
+
+
+# 2. [Blockchain: Foundations and Use Cases (Use Ethereum)](Blockchain_Foundations_and_Use_Cases) by ConsenSys Academy
 
 This is a good introduction course to blockchain. But it's worth to mention that it focus more on public blockchain/permissionless blockchain. It uses Bitcoin and Ethereum as examples in most cases. 
 
@@ -60,3 +62,19 @@ It consists of 5 parts:
 - - Use Case 2: Meridio: Ownership and Governance
 - - Use Case 3: Viant: Supply Chain and Asset Tracking
 - - Use Case 4: Ujo: Royalties in the Music Industry
+
+[**My Certificate**](./Blockchain_Foundations_and_Use_Cases/certificate/Coursera6T224TV58MAV.pdf) 
+<img src="./Blockchain_Foundations_and_Use_Cases/certificate/certificate.png" width="100" />
+
+# 3. [Blockchain and Business: Applications and Implications](Blockchain_and_Business_Applications_and_Implications) by INSEAD
+
+In this course you will learn 
+- how blockchain technology will penetrate into the structures of organizations. 
+- how blockchain will transform the roles of the C-Suite, and 
+- how a blockchain can be used to manage and protect intellectual property.  
+  
+You will be able to 
+- identify the different layers of the blockchain technology stack, and 
+- explain how these affect the governance of blockchain systems.  
+- identify seven qualities that a region in the world needs in order to attract technology startups and to build a vibrant blockchain ecosystem.
+
