@@ -226,3 +226,98 @@ Viant: Supply Chain and Asset Tracking
 
 # Use Case 4: Ujo: Royalties in the Music Industry
 
+Ujo: Royalties in the Music Industry
+
+- What is the business case, area, or topic that this use case applies to? 
+
+  - The Music Industry 
+
+ 
+
+- What problem are they trying to solve?  
+
+  - Roughly forty-percent of our music consumption is streamed from platforms like Spotify or Soundcloud. However, aside from artists on the “Top 40” playlists and those that are well-established in fame, smaller artists struggle to receive substantial compensation from these streaming services. Ujo seeks to solve the problem of unfair artist compensation by ensuring the artists are compensated fairly and transparently for their work. 
+
+ 
+
+- What is the value created by solving this problem? 
+
+  - The vision at Ujo is to empower music through a transparent and open ecosystem and the mission is to build resilient, sustainable and accessible infrastructure for artists, supporters, and developers. Through building towards the creation of a fair, efficient, and decentralized music ecosystem, Ujo hopes to enable opportunity and creativity to flourish. No matter how an artist’s music will be used, they should control the rate at which they are paid. Artists will see greater value received directly from the fans of their music, instead of passing through intermediaries like record labels.
+
+- Do they need a database? 
+
+  - Yes, there is a need for a database to record information about artists on the platform, as well as to record licensing rights, and record payment transactions. 
+
+ 
+
+- Does it require shared write access? 
+
+  - Yes, all artists need to be able to register identities on this platform in order to receive payments sent to their Ethereum addresses. Fans also need to be able to interact with the system in order to send payments to listen to songs, and purchase collectibles that are created by the artists. 
+
+ 
+
+- Are any of the parties unknown or untrusted? Or if they’re trusted is it possible for them to have conflicting interest? 
+
+  - In order for artists and fans to interact directly without having to go through an intermediary like the record industry, the participants have to be able to interact without directly knowing each other. 
+
+ 
+
+- How will a blockchain be applied to this use case? Which component pieces will be utilized?  
+
+  - The Ujo platform uses blockchain technology to create a transparent and decentralized database of rights and rights owners, automating royalty payments using smart contracts and cryptocurrency. For example, the blockchain is used to store the Ethereum address of artists, store information on licensing rights, and execute smart contracts that provide payments. These include a series of smart-contracts that include the following core functions: the Artist Registry, Licensing Handlers, Oracle for ETH to USD conversion, and Non-Fungible (NFT) Collectible Tokens. 
+
+ 
+
+    There are four layers to the Ujo platform, which can be seen below:
+
+    ![](4.2.png)
+
+
+ 
+
+- Will the blockchain used be public, private, or consortium and why? 
+
+  - Ujo is built on the public Ethereum blockchain . This gives the ability for any artist or fan the ability to participate in the system. It provides transparency into the transactions that are taking place on the Ujo platform. 
+
+ 
+
+ 
+
+- Is a token used (to digitize an asset, store value, or to provide access to the blockchain, for example)? Why is it needed and how will it be used? If a token is not utilized, why is ETH or another native token able to be used? 
+
+  - ETH is used for payment on the Ujo platform. In addition to ETH, Ujo uses a non-fungible token (a collectable token) they have defined as a Badge (specifically, the Badge contracts contain an implementation of the ERC-721 spec along with a type of Non-Fungible Token (NFT)). Badges are received for various actions users of the platform participate in including, but not limited to proof-of-purchases for music acquired through the platform. Other types of badges issued also include a variety of patronage tokens. Ujo first realized the potential of cryptocollectibles and experimented with the concept in early July of 2017 with the release of the RAC album Ego in a custom Ujo store (which was written about in a post taglined: An Experiment in Tokenizing Social Capital). This was before massively popular dApps such as CryptoKitties, and CryptoPunks popularized the idea and garnered the widespread attention of the web3 community. 
+
+ 
+
+- Are there overlay networks that will need to be utilized in order to make this use case operate? If so, what are they? If not, why does the existing infrastructure work? 
+
+  - In tandem with the development of a protocol for metadata and IP, we also realized the need for simplicity for developers to interact with decentralized storage systems in a modular way. This sparked the idea for a library that would serve as a middleware to make uploading to networks such as IPFS and Swarm as simple as importing a library and instantiating a service object with the capabilities to put and get files and data to the desired backend by calling the associated methods for doing so. This library called Constellate abstracts most of the complexity of dealing with each network directly. 
+
+ 
+
+- Are there other factors to consider in this use case? 
+
+  - In addition to the smart-contract components of the Core layer, Ujo has also done considerable amount of work contributing and building complementary tools they hope will benefit the greater decentralized ecosystem. One of these is COALA IP, which stands for The Coalition Of Automated Legal Applications — Intellectual Property Group (COALA IP). Members of the Ujo team joined the working group that formed when the need for a protocol for referencing licenses on the blockchain was realized. As stated on the COALA IP site: “COALA IP’s goal is to establish open, free, and easy-to-use ways to record attribution information and other metadata about works, assign or license rights, mediate disputes, and authenticate claims by others.” The initial implementation of the spec was built by BigchainDB. Following their lead and in close collaboration with their team, Ujo built the JavaScript implementation of of the protocol last year. The need for a metadata standard that fits the requirements of decentralized licensing is not specific to only Ujo, and there has been a lot of continued interest in this project so Ujo plans to continue iterating on this project in collaboration with the community.
+
+    Read more about the specifics of the Ujo use case and their road map at The Ujo Platform: A Decentralized Music Ecosystem
+ 
+# Example Blockchain use case
+
+ 
+Here are some examples to help you understand what your assignment should look like.
+
+- Example 1 Summary: 
+
+    uPort is self-sovereign identity solution that allows a user to create a digital identity, while simultaneously protecting their personally identifiable information. The public Ethereum blockchain is utilized in order to run a smart contract. The smart contract is used to create an identity on the Ethereum network. The smart contract acts as a unique identifier that is tied to cryptographic keys. These keys can be used for authentication, to sign documents, claims, or blockchain transactions. The only data visible on the blockchain are abstract identifiers and the public keys, so no personal data is publicly available. All claims data is held by the user and are not displayed on the blockchain. A wallet to store the claims will exist in the form of the uPort mobile application, giving the user control over these off-chain claims.
+
+    This example is a **good** illustration of explaining why the blockchain must be used, and how a smart contract is the key component that allows for this example to work. Notice how the learner has explained the use case in the summary, and has explained the problem that this solves. They also explain what data is not stored on the blockchain.
+
+    Now let's look at an example where blockchain does not fully apply to the use case:
+
+- Example 2 Summary:
+
+    In order to decentralize the control around student records, we propose recording all student data on the public Ethereum blockchain. All student assignments and tests will be encoded in a smart contract. When those assignments and tests are completed, a transaction will be immutably recorded on the blockchain. Students will be issued a token called Education Coin. Students can look up their grades publicly on the blockchain and use Education Coin to share their grades with any entity or individual, such as a university. Students will be able to tokenize their grades.
+
+    This example demonstrates the **common error** of attempting to use a blockchain to serve as a database. Notice how the learner has attempted to put all of the data on the blockchain, as opposed to appending the minimum amount of information to the blockchain, and using an overlay network, like IPFS, to store the data. Additionally, they introduce a token that does not make sense in the context of their idea. In fact, two tokens are actually introduced in this example, but the example lacks an explanation of their purpose and functions.
+
+    This error can be avoided by distinguishing data that needs to be on a blockchain from data that can be moved to an overlay network. They also need to carefully consider the purpose of a token and if a token scheme is even necessary.
