@@ -1,0 +1,58 @@
+Blockchain will bring about
+profound changes to business, and even to the nature
+of business itself. This technology will disrupt how enterprises are
+funded and manage, how they create value, and even how they perform basic functions like
+marketing and accounting. We'll see changes to the deep structure and
+architecture of the firm, and how we orchestrate capability
+in society to innovate, to create goods and services, and to engage with
+the rest of the world. Businesses of the past were
+vertically integrated, meaning that they did
+everything from soup to nuts, and there's a reason for that. The costs of transacting in an open market were
+prohibitively high. So we brought
+all this capability inside the boundaries of a firm where transaction
+costs were lower. These big companies
+dominated because it was costly and complex among other things to start a business, to find customers, to raise
+funds from investors. In that case, the list of
+potential candidates for funding being limited to a few local venture
+capitalists or banks. Well, many of
+these challenges and costs will be reduced or
+solved by blockchain. By reducing the transaction
+costs of doing business, companies will be
+able to launch, grow, create value more cheaply. The enterprise of the future may not look like the enterprise
+of the past at all, but rather more like
+a group of networks. In fact, the most
+successful companies may not be companies at all, but networks of
+organizations, individuals, and autonomous agents
+connecting via smart contracts to deliver all the value of today's
+big centralized behemoths. My name is Don Tapscott, and I'd like to welcome
+you to Blockchain and Business: Applications
+and Implications. In this course, you'll learn how blockchain technology will penetrate into the structures of organizations
+encouraging innovation. You'll learn how
+blockchain enables decentralization
+of value creation, and of the enterprise. You'll understand four kinds of transaction costs of a firm, and explain how blockchain
+reduces each kind of cost. We'll dive into how blockchain search differs
+from Internet search, and the factors business leaders
+should consider when to finding their
+corporate boundaries. You'll also be able to define four types of
+blockchain organizations; One, the distributed
+application or DApp. Two, the autonomous agent. Three, the open
+networked enterprise. Four, the distributed
+autonomous enterprise. We'll discuss
+seven new business models, and how blockchain technology
+could enhance these models. You'll learn how to find
+new ways to manage and protect intellectual property
+on a blockchain. We'll look at how blockchain will transform the rules of
+the C-suite executives. We'll also review
+the difference between regulation and governance
+of blockchain, and we'll get into
+the challenges of regulating in
+this new environment. You'll be able to identify the different layers of
+the blockchain technology stack, and how these layers help or hinder the governance
+of blockchain systems. You'll be able to describe 10 types of governance networks, and seven qualities that
+a region and the world needs to attract technology startups and build a vibrant ecosystem. If you have no prior
+knowledge of blockchain, then I recommend taking our course Introduction to
+Blockchain Technologies first. Before we dive into these really exciting lessons
+on blockchain and business. In the next video, I'm going to share with you some more details
+about my career, and introduce you to
+my co-instructor, Alex Tapscott. We'll explain why we're so passionate about this technology, and so committed to sharing our knowledge with
+people just like you.

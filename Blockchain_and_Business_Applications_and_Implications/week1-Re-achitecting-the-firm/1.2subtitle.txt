@@ -1,0 +1,117 @@
+Hello. I'm Don Tapscott
+and I've spent my career studying how digital technologies can
+transform our lives. I've written a lot of books
+about this, 16 in total, such as the Digital
+Economy and also Wikinomics: How Mass
+Collaboration Changes Everything. I'm also the co-author of the best-selling book
+Blockchain Revolution: How the Technology
+Behind Bitcoin and Other Cryptocurrencies
+is Changing the World. As well, I'm an adjunct professor at the business school, INSEAD. We're thrilled to have a couple of minutes to talk to you, to talk about what
+we're doing and what we hope to do with this course. Hi. I'm Alex Tapscott and I'm also the co-author of
+Blockchain Revolution, which was published in 2016, and remains to this day
+the best selling book on blockchain translated
+into over 15 languages. Harvard Business School's
+Clay Christiansen told us, "The blockchain revolution
+is the book on how to survive and thrive in this next wave of technology
+driven disruption." Tim Draper, the
+well known venture capitalist of Draper
+associates, told us that, "This book has
+the predictive quality of Orwell's Nineteen Eighty-Four, and the vision of Elon Musk." Satya Nadella, the CEO of
+Microsoft, told us that, "The book has had
+an enormous impact on the evolution of
+blockchain in the world." It's quite high praise and we are deeply humbled by all of it. So it's clearly got a lot
+of people thinking, about the power of
+this technology to transform both
+business and society. Well, those quotes
+are pretty humbling. So, CEOs and government
+leaders started asking some big questions
+above blockchain. How will this technology
+transform specific industries? What are the real challenges facing blockchain
+development today? How can we overcome
+those challenges? How will block chain change
+the nature of the enterprise, the way we manage our companies? What will it mean for
+government architecture and the creation of
+services of public value? How could this technology
+help us solve some big problems such
+as climate change? So a couple of years ago, we founded the Blockchain
+Research Institute. This is a think tank dedicated to answering these big questions. We're conducting
+the definitive investigation of blockchains impact on business,
+government, and society. Overall, we have more than
+a 100 projects underway. This is a big multi-million
+dollar program. We also developed this
+specialization of four courses, and much of these four
+courses are informed by the work that we did
+in those 100 projects. Much of the work that
+we have done to date is going to be available
+to all of you. We're also collaborating
+with INSEAD and Coursera, to share what we've
+learned thus far, and thus what we think is
+important for you to know. There are many big ideas we'll cover throughout
+this specialization. First, we are witnessing one of the largest transformation
+of assets in human history, from an analogue to
+a digital media. Bitcoin is but only one type
+of digital asset. We're going to look at
+the other six types of cryptoassets, the
+ones that we can create, record, and trade
+on the blockchain. This ability to trade
+assets peer-to-peer on the blockchain
+without going through a bank or some
+other intermediary, is already disrupting the financial services
+sector profoundly. We'll look at that and
+the many other opportunities in the finance industry Second, is the idea of
+self-sovereign identity. That's about our way to establish our own digital identities. Self-sovereign identities
+can't be given or taken away by
+any central administrator. They're enforceable
+in any context in person and online and
+anywhere in the world, and they let us capture
+and control our own data, and manage our own identities to benefit us and our lives. We no longer need to
+give up our data to big Internet landowners
+such as Alibaba, Facebook, or Google just
+to use their websites. We can store our data in a virtual black box that
+moves around with us, and we can sell that
+data or do whatever we want with it if we
+choose to do so. Third, is the idea
+of Smart contracts. A Smart contract, is a piece of special purpose code executing a complex set of instructions
+on the blockchain. It's a means of codifying the terms of a deal in software. Now, this could be
+a business deal between producers and consumers, or it could be a social pact between
+a government and its citizens. What's important here is this, Smart contracts ensure
+contractual compliance, they hold parties accountable. The blockchain provides
+a high degree of certainty as to the outcome
+of these agreements. Smart contracts self-executing
+without the need for intermediaries like
+banks or governments, and frankly we've never had that kind of assurance before. Fourth, is the idea of
+decentralized business models. These are business models distributed across
+a blockchain network, not centralized in
+a traditional corporation. They can be fully autonomous too, meaning, no humans involved. There's big potential for
+true peer-to-peer models like ride-sharing without Uber as a middleman taking fees. Owners of driverless cars
+will someday be able to put their autonomous
+vehicles to work. So even the big disruptors can be disrupted by this new technology. Fifth, is the idea of
+the Ledger of Things. We're already seeing
+applications of this new Internet of
+devices and things. Soon though, most
+transactions will happen between devices and
+not between people. Consider the smart home. Home owners were adding
+smart devices such as thermostats and solar panels, and soon potentially trillions of devices will be connected
+to the Internet. Doing everything from driving us around to keeping our house lit, to managing our affairs, and managing
+our health information. These devices need to be
+resistant to hacking. They need to be able to
+communicate value such as money or assets like
+electricity peer-to-peer. Consider electricity. If you imagine that your neighbor's home is
+generating energy from a solar panel and you've got a device that needs to
+buy that electricity, then those two devices need
+a way to be able to contract, bargain, and execute a
+payment peer-to-peer. It's not going to happen
+through the Visa network, it can only happen
+on the blockchain. We've given you a glimpse of cryptoassets,
+digital identity, Smart contracts,
+new business models, and the Ledger of Things. These are all themes of
+the modules ahead of you. We're just pleased to
+be working with INSEAD and Coursera to share
+all this information with you, and we're happy that
+you're joining us. If you've got questions for us, then just post them on
+the discussion forum. Remember, technology
+alone doesn't solve problems, people do. It doesn't create
+prosperity, people do. Our hope is that you'll
+connect with each other. Identify your common
+interests and let's solve some big
+problems together.

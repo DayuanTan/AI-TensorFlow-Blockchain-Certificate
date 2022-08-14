@@ -1,0 +1,95 @@
+Welcome back. You may
+remember our discussion of the Ethereum blockchain
+from our previous courses. It's hard to talk about distributed ledgers and not
+really mention Ethereum. Vitalik Buterin, a Canadian
+of Russian descent, was only 19 in 2013, when he came up with
+the idea for Ethereum. He told Bitcoin's core developers that the platform needed a robust scripting language
+for developing applications, and they reject him. So he decided to build
+his own platform. The day Ethereum went
+live in July of 2015, Don Tapscott and I were
+visiting the Brooklyn offices of consensus systems
+known as ConsenSys, and Ethereum production studio. There were high fives
+all around as the Ethereum network
+created its genesis block. Miners all over the world
+were racing to win the first block of ether,
+Ethereum's native currency. Ethereum runs
+decentralized applications such as smart contracts. It runs them as programmed, without the risk of downtime, censorship, fraud, or
+third party interference, according to its website. Like Bitcoin, ether is
+an incentive for participation. It attracts a network of
+peers to work together, to validate transactions,
+secure the network, and ultimately to achieve
+consensus on the blockchain. Unlike Bitcoin, the Ethereum platform allows
+for much greater creativity. Developers can create
+applications as diverse as online games to stock exchanges
+and not just currencies. ConsenSys's co-founder,
+Joseph Lubin, wants to do more than just
+build a great company. He wants to solve
+the world's biggest problems using blockchain technology. The apps that consensus
+and others building on the Ethereum network are developing could shake
+up a dozen industries. Projects include a distributed triple-entry
+accounting system that could change audit, an open energy market that
+could transform utilities, and prediction markets for business, sports,
+and entertainment, also rights management platforms for artists and musicians, and collectible digital assets
+like CryptoKitties. ConsenSys is pioneering important new ground
+in management science. The consensus management model
+takes its cues from the so-called Holacracy
+movement where individuals define and align the work they need to do together just
+to get the job done. There's no hierarchy in the traditional sense or
+no middle managers per se, but Lubin told us that Holacracy still feels a bit too
+rigid and structured. So, ConsenSys is
+adapting a lot of its philosophies
+into a new model. Instead of traditional
+job descriptions, ConsenSys employees have
+more dynamic roles. Authority is distributed
+not delegated. Rules are transparent to
+reduce office politics, and the enterprise is built to respond quickly to
+changing needs. ConsenSys works really more like a blockchain platform itself than a traditional corporation. How it creates value and
+how it manages itself is very different from
+the typical corporation or even technology company. Lubin believes that
+we need to change capitalism if we want to survive. Today's networks help us
+to communicate faster, better, and cheaper
+than ever before. But the old command and
+control hierarchies are really still the rule
+in most corporations. Blockhain challenges
+those top-down structures. Lubin told us, "Global human
+society can now agree on the truth and make decisions in 10 minutes or even 10 seconds." He believes that
+giving people more of a voice can lead to
+greater prosperity for everyone. ConsenSys operates
+according to a plan. The plan was developed, voted on, and adopted by all the
+members of ConsenSys. Joe Lubin describes
+its structure as a hub rather than a hierarchy. Each of its projects
+is a difference spoke. Major contributors to
+each spoke hold equity. As noted, participants are
+members not employees. Now, these members choose
+from two to five projects to work on at any point in time,
+no top-down assignments. Lubin said, "We build small, agile teams, but there's
+collaboration among them." They share as much as possible. The watchwords here are agility,
+openness, and consensus. A member sees a piece
+of work to be done, the member jumps in and
+pushes it a little or a lot as appropriate
+given the members role. Now, lots of open communication makes people aware
+of their priorities, but priorities can and do change, and they do so constantly. ConsenSys is a
+blockchain-based company or blockcom as opposed
+to what we call a.com. A blockcom is
+a company formed and functioning on
+blockchain technologies. The company runs on Ethereum
+really as much as possible. This includes funding,
+day-to-day tasks and projects, as well as software
+development and testing. That also includes hiring, it uses reputation systems where members can rate one
+another as collaborators. Boundaries are blurred
+in this new model. The ConsenSys ecosystem can form new spokes if they reach
+consensus on the spoke strategy, architecture, capital performance measures,
+and governance. They may launch a company
+to compete within an existing market or they may try to
+create a new market. The decentralized
+structure leaves him free to communicate, to be creative, and to adapt. This is a radical new experiment
+in creating value. Unlike every new experiment, it has experienced growing pains since that fateful day
+when Ethereum went live, ConsenSys has exploded
+to an organization that has over 1,000 members
+all around the world. Market volatility
+recently has forced the company to rethink
+its strategy and downsize, but the ethos and practice of the distributed enterprise
+still reigns. Regardless of whether
+ConsenSys itself succeeds, this new business model
+powered by blockchain is a profound change from the status quo of
+the old corporation.
