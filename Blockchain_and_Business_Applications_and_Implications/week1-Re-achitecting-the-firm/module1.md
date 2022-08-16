@@ -9,6 +9,27 @@ Learning Objectives
 - Describe three ways that blockchain search differs from Internet search
 - Describe some of the factors that firms should consider when defining their corporate boundaries
 
+# Content
+
+- [Week 1 Re-achitecting the firm](#week-1-re-achitecting-the-firm)
+- [Content](#content)
+- [1 Course Introduction](#1-course-introduction)
+  - [1.1 Course Introduction](#11-course-introduction)
+  - [1.2 Instructor Introduction](#12-instructor-introduction)
+- [2. Decentralizing the Enterprise](#2-decentralizing-the-enterprise)
+  - [2.1 Module 1/Week 1 Overview - Re-design the corporation](#21-module-1week-1-overview---re-design-the-corporation)
+  - [2.2 Decentralizing the Enterprise](#22-decentralizing-the-enterprise)
+  - [2.3 Practitioner Perspective - Andreas Wallendahl: Blockchain & ConsenSys](#23-practitioner-perspective---andreas-wallendahl-blockchain--consensys)
+  - [2.4 Reading: Decentralizing the Enterprise](#24-reading-decentralizing-the-enterprise)
+  - [2.5 Transaction Costs and the Structure of the Firm](#25-transaction-costs-and-the-structure-of-the-firm)
+- [3. Opportunities for Blockchain](#3-opportunities-for-blockchain)
+  - [3.1 Opportunity 1: Search](#31-opportunity-1-search)
+  - [3.2 Opportunity 2: Contracting](#32-opportunity-2-contracting)
+  - [3.3 Opportunity 3: Coordination](#33-opportunity-3-coordination)
+  - [3.4 Opportunity 4: Building Trust](#34-opportunity-4-building-trust)
+- [4 Corporate Boundary Decisions](#4-corporate-boundary-decisions)
+
+
 # 1 Course Introduction
 
 ## 1.1 Course Introduction
@@ -270,6 +291,10 @@ hierarchy Pros:
 hierarchy Cons:
 - The trouble is, in recent businesses history, hierarchies have often been ineffective. Managers often rise to a level where they lack the knowledge required for effective leadership.
 
+many hierarchical business structures have not been effective because:
+- Hierarchies have the propensity to kill creativity, undermine initiative, disempower human capital, and scapegoat responsibility through opacity
+- Managers often rise to a level of power where they lack the knowledge required for effective leadership
+- There is often a huge gap between executive pay and the value executives actually contribute
 
 how to build effective and innovative organizations? (troubles)
 - first generation of the Internet, the Internet of Information, helped these forward thinking managers to change the top-down assignment of work.
@@ -293,3 +318,39 @@ how can blockchain technology change how firms are managed and coordinated inter
   -  blockchain technology can enable people to function together, with the persistence and stability of an organization, but without the hierarchy.
 - managers are intermediaries which should be cut out
   -  Managers should brace for radical transparency and how they coordinate and how they conduct themselves. Shareholders will be able to see the inefficiencies, the unnecessary complexity in the huge gap between executive pay and the value executives actually contribute. Remember, managers are intermediaries between owners and workers. The blockchain is known for cutting out intermediaries.
+
+
+## 3.4 Opportunity 4: Building Trust
+
+trust 
+- in business and society 
+- is the expectation that the other party will act with **integrity**. 
+- That means acting with honesty, consideration, accountability, and transparency. It's a lot of work to establish trust
+
+
+lots of work to establish trust
+- We have vertically integrated firms because building trust is easier to build within corporate boundaries than in an open market.
+- the challenge for firms is figuring out what makes it possible to trust **external** parties? 
+-  integrity on the part of individuals or organizations, has enormous economic implications for value, productivity, quality of life, and more. 
+-  Integrity is as important as labor, capital, and technology.
+
+ What if parties didn't trust one another? 
+ - We could still act with honesty, accountability, consideration, and transparency. 
+ - What if those qualities were coded into the financial system?
+   - Blockchain developers have coded it into the software protocols and deployed it across this network. 
+   -  the industry can reestablish trust and keep it going forward. 
+ -  Blockchain is cutting the cost of searching, contracting, coordinating, and creating trust. 
+    -  So it should be easier for firms to open up and forge trusting relationships with external parties. 
+    -  Acting in one's self-interest serves everybody's interests, cheating the system costs more than using it. 
+    -  Blockchain helps ensure integrity and trust in transactions between peers, it also helps achieve transparency a critical factor in trust.
+       -  Corporate brands and ethical actions, these things still matter. Trusted brand are about more than reliable transactions. 
+       -  Smart contracts can hold executives accountable, they must stand by their commitments because the software enforces them. 
+       -  Companies can program relationships with radical transparency. So everyone has a better understanding about what each party has agreed to. 
+       -  Above all, they must be considerate of the interests of other parties when they conduct business, the platform demands it.
+
+What opportunity/ies does blockchain technology offer for reducing the costs of (re)building trust?
+- Blockchain technology helps ensure the integrity of transactions between peers
+- Blockchain technology helps achieve transparency—a critical factor in establishing trust
+- In principle, cheating the system would cost more than using it as designed
+
+# 4 Corporate Boundary Decisions
