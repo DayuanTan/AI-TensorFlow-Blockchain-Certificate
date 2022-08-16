@@ -28,6 +28,7 @@ Learning Objectives
   - [3.3 Opportunity 3: Coordination](#33-opportunity-3-coordination)
   - [3.4 Opportunity 4: Building Trust](#34-opportunity-4-building-trust)
 - [4 Corporate Boundary Decisions](#4-corporate-boundary-decisions)
+  - [4.1 Determining Corporate Boundaries](#41-determining-corporate-boundaries)
 
 
 # 1 Course Introduction
@@ -354,3 +355,6 @@ What opportunity/ies does blockchain technology offer for reducing the costs of 
 - In principle, cheating the system would cost more than using it as designed
 
 # 4 Corporate Boundary Decisions
+
+## 4.1 Determining Corporate Boundaries
+
