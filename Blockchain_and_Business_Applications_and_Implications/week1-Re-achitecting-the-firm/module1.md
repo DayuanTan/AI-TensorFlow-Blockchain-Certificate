@@ -165,3 +165,131 @@ next era of the Internet
   - Using consensus mechanisms to make decisions and conducting their businesses more openly. 
 
 # 3. Opportunities for Blockchain
+
+## 3.1 Opportunity 1: Search
+
+Outsourcing was just the beginning.
+- Sixty percent of PNG's innovation now comes from this sort of open market for brainpower.
+- global contests to solve problems
+
+How will innovative business leaders harness the World Wide Ledger? 
+- who's sold which discovery to whom? 
+  - And at what price? 
+  - Who owns this intellectual property? 
+  - Who's qualified to handle this project? 
+  - How many carbon credits has this company saved? 
+  - Which suppliers have experience in China? 
+  - Which subcontractors delivered on time and on budget according to their smart contract records? 
+- Query results won't be resumes, or advertising links. 
+  - You'll get transaction histories, proven track records of individuals and enterprises, may be ranked by reputation score.
+
+
+companies are working on search engines for blockchain.
+
+
+3 key distinctions between Internet search and blockchain search
+- 1 user privacy
+  - People own their personal data in a digital black box. They can choose their level of anonymity.
+  - Parties will be able to search for information that users have made open. 
+    - Firms will need to rethink recruiting. 
+      - Human resources will learn to query the blockchain with yes-no questions. Do you have a PhD in applied mathematics? Can you code in Java or Python? Can you work from January through June next year? These queries will yield a list of matches from job seekers black-boxes. 
+        - Hiring managers will use reputation systems to assess candidates without knowing necessarily age, gender
+      - upside 
+        - is an end to subconscious or institutional bias. 
+        - No headhunter or executive recruiting fees either. 
+      - downside 
+        - is that precise queries lead to precise results. T
+    - Black box marketing will call for new approaches too.
+      - Companies may pay to query these black boxes of prospective customers to see who might meet their target audience.
+      - Marketers will need to rethink strategies based on email, social media, and mobile marketing. Customers will need to charge whatever makes reading at firm's message worthwhile. So you'll be paying customers to listen to your elevator pitch. 
+      - But it'll be tailored to reach exactly the people you want to reach without invading their privacy. You can test different queries to learn about niche markets at every stage of product development. 
+- 2 search can be multi-dimensional.  
+  - A search on the web today finds a snapshot in time as index over the last few weeks. 
+  - Blockchain adds a new dimension to search, sequence: seeing records in the order they were hashed or uploaded. 
+- 3 value
+  - Blockchain Search offers more powerful performance at a lower cost. 
+  - Information on the Internet is abundant, but unreliable and perishable. 
+    - On the flip side, information on the blockchain maybe scarce, but it's tamperproof and permanent.
+    -  Imagine a permanent searchable record of important historical information.
+       -  an irrefutable view of their firm for developing their financial statements, their annual reports,
+       -  Companies could have transaction, ticker tapes, and dashboards.
+       -  So firms will have huge incentives to look for resources outside of their boundaries.
+
+## 3.2 Opportunity 2: Contracting
+
+- Previous: how companies can use the blockchain to reduce search costs? 
+- Now: how companies can use the blockchain to reduce the cost of agreeing on terms and sealing the deal.
+
+Contractual costs: 
+- negotiating the price of labor or an actual resources 
+- spelling of the terms and conditions
+- one of the primary reasons that firms exist
+
+companies will grow:
+- if it's cheaper to do things inside the boundaries of a firm than in an open market
+- If transaction costs, such as contracting, were to drop to zero, then we would be free to connect and build value in an open market rather than inside the confines of the corporation
+
+Contract: 
+- Contracts are a way of establishing trust and setting clear expectations. 
+
+
+- Contracts are a more recent phenomenon.
+  - We began trading **promises**, not **property**, but oral agreements proved to be as unreliable as the eyewitnesses to them.
+  - There had to be some legal framework for recognizing contracts and preserving each parties' rights. 
+    - Contracts within an organization are enforced by management.
+- corporate entities are nothing more than a collection of contracts and relationships. 
+    - Members of the blockchain industry have picked up on this view.
+    - economists Michael Jensen and William Meckling
+- A corporation is, therefore, nothing more than people and contracts all the way down. 
+  - Smart contracts on the blockchain create some new opportunities both inside and outside of corporate boundaries. 
+- Today, contracts are still largely made up of atoms in the form of paper, not bits in the form of software. 
+  - That means they still have some big limitations, serving only to document an agreement. 
+- But if contracts were software, 
+  - smart and distributed on the blockchain, they could open up a world of possibilities. 
+    - One important change would be to make it easier for companies to use external resources. 
+    - By reducing contracting costs, the blockchain makes it easier for firms to develop relationships outside their boundaries.
+
+## 3.3 Opportunity 3: Coordination
+
+- Previous Previous: You already searched and found them. 
+- Previous: You've agreed on terms and you've sealed the deal. 
+- Now, you need to manage them.
+
+the cost of coordinating different people, products, and processes into an enterprise for creating value. 
+
+
+2 significant coordinating systems:
+- 1 market
+  -  a price system for decentralized allocation of resources.
+- 2 hierarchy
+  - the organizing principle of traditional firms where some centralized authority allocates resources.
+
+hierarchy Pros: 
+- Managerial hierarchy is the most efficient, the hardiest, and the most natural structure ever devised for large organizations. Properly structured, hierarchy can release energy and creativity, rationalize productivity, and actually improve morale. (Elliot Jaques, defended hierarchy in the Harvard Business Review,)
+
+hierarchy Cons:
+- The trouble is, in recent businesses history, hierarchies have often been ineffective. Managers often rise to a level where they lack the knowledge required for effective leadership.
+
+
+how to build effective and innovative organizations? (troubles)
+- first generation of the Internet, the Internet of Information, helped these forward thinking managers to change the top-down assignment of work.
+- Companies are making an effort to empower employees and improve collaboration. Decentralization, networking, and empowerment, these things make sense.
+  - Teams and projects have become the basis for internal organizations. 
+  - Email and video conferencing let people work together across company silos and across boundaries. 
+  - But 
+    - today's social media tools are helping lots of firms achieve new levels of internal collaboration.
+- Agency costs - Businesses are focused on giving employees a voice. 
+  - Now there's a wide spread agreement about what happens when firms distribute responsibility and power. 
+  - It usually leads to better business functioning, customer service, and innovation.
+  - However, in practice, it's still easier said than done.
+  -  The Internet still hasn't really dropped the agency costs. The cost of making sure everybody inside the firm is acting in the owner's interest. 
+     -   agency costs have increased even as transaction costs have plummeted, because firm's sheer size and complexity
+ - there's a huge pay gap between chief executive officers and frontline workers.
+
+how can blockchain technology change how firms are managed and coordinated internally?
+- The blockchain's smart contracts and transparency should reduce agency costs at all levels of management to a dramatic degree.
+  -  these changes will make it harder to game the system.
+  -  So firms could go beyond transaction cost to tackle the real elephant in the boardroom, agency costs.
+  -  blockchain technology can enable people to function together, with the persistence and stability of an organization, but without the hierarchy.
+- managers are intermediaries which should be cut out
+  -  Managers should brace for radical transparency and how they coordinate and how they conduct themselves. Shareholders will be able to see the inefficiencies, the unnecessary complexity in the huge gap between executive pay and the value executives actually contribute. Remember, managers are intermediaries between owners and workers. The blockchain is known for cutting out intermediaries.

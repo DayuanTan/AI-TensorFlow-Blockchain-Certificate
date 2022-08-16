@@ -1,0 +1,69 @@
+[MUSIC] In this video, we'll build on what
+you've learned about smart contracts and how companies can use the blockchain
+to reduce search costs. The next step is agreeing on terms and
+sealing the deal. It's one thing to lower the costs of
+finding what you need to do a job, but that's not enough to shrink
+the size of a company. All parties still must
+agree to work together. Contractual costs,
+like negotiating the price of labor or an actual resources and
+spelling of the terms and conditions, are one of the primary
+reasons that firms exist. Companies need to monitor and
+enforce the terms and seek remedies if their counter
+parties don't deliver as promised. So long as it's cheaper to do things
+inside the boundaries of a firm than in an open market,
+companies will grow. If transaction costs, such as contracting, were to drop to zero, then we would be
+free to connect and build value in an open market rather than inside the confines
+of this thing called the corporation. Contracts are a way of establishing
+trust and setting clear expectations. We've always had contracts,
+especially social contracts, understandings of the relationship
+between specialized roles. Some people in the tribe hunted and
+protected the tribe and others gathered and created shelters. People have traded physical objects
+peer-to-peer really since the dawn of man. Contracts are a more recent phenomenon. We began trading promises,
+not property, but oral agreements proved to be as
+unreliable as the eyewitnesses to them. Arrangements between strangers were rare,
+or made by middle men who knew both parties. Even so,
+contracts had to be fulfilled right away. There were no formal mechanisms to fulfill
+the terms beyond what you could do by taking force. The written contract was a way to codify
+an obligation and spell out expectations. Written contracts provided a plan of
+action if someone didn't hold up his or her end of the bargain or
+if something unexpected happened. But they couldn't exist in a vacuum. There had to be some legal framework for recognizing contracts and
+preserving each parties' rights. So companies exist to enforce contracts among people who've agreed to
+work towards a common goal. Contracting costs are lower inside
+firms than outside of them in markets. Ronald Coase saw the corporate form as
+a vehicle for long-term contracting, when short-term contracting
+was just too much effort. Nobel laureate Oliver Williamson
+advanced this idea. He argued, firms exist to resolve
+conflicts largely through contracts made with various parties inside the firm. The only other dispute mechanism in
+the open market was the court and that was expensive, time consuming,
+and often unsatisfactory. Williamson also said, there were cases
+like fraud or other illegal acts or conflicts of interest where there
+was no dispute mechanism at all. Contracts within an organization
+are enforced by management. Williamson wrote quote, a firm becomes its
+own court of ultimate appeal, end quote. So firms can exercise authority
+within their boundaries in a way the markets just can't
+outside of those boundaries. Williamson thought of the firm as
+a governance structure for contracts. Organizational structure matters
+in reducing the costs of managing transactions. It's a recurring theme really in
+the study of economic organization. For example, economists Michael Jensen and
+William Meckling argued that corporate entities are nothing more than a
+collection of contracts and relationships. Members of the blockchain industry
+have picked up on this view. Ethereum's inventor, Vitalik Buterin, argues that corporate executives
+should use a firm's assets only for certain purposes approved by,
+say, a board of directors. They are, in turn,
+subject to shareholder approval. Buterin wrote,
+if a corporation does something, it's because it's board of directors
+has agreed it should be done. If a corporation hires employees, it means
+the employees are agreeing to provide services to the corporation's customers,
+following specific rules. Often these involve payments. Buterin also wrote,
+when a corporation has limited liability, it means that specific people have
+been granted extra privileges to act with reduced fear of legal
+prosecution by the government. A group of people with more rights
+than ordinary people acting alone, but still ultimately, people. A corporation is, therefore,
+nothing more than people and contracts all the way down. Smart contracts on the blockchain create
+some new opportunities both inside and outside of corporate boundaries. Today, contracts are still largely
+made up of atoms in the form of paper, not bits in the form of software. That means they still have
+some big limitations, serving only to document an agreement. But if contracts were software, smart and distributed on the blockchain, they
+could open up a world of possibilities. One important change would
+be to make it easier for companies to use external resources. By reducing contracting costs,
+the blockchain makes it easier for firms to develop relationships
+outside their boundaries.

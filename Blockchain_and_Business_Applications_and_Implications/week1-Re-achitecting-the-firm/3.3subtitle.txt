@@ -1,0 +1,55 @@
+[MUSIC] In this video, we'll look at
+the cost of coordinating people. So you've already searched and found them. You've agreed on terms and
+you've sealed the deal. Now, you need to manage them. A constant theme of economist,
+Ronald Coase, was the cost of coordinating different people, products, and processes
+into an enterprise for creating value. Traditional economist believed that firms
+had internal markets, Coase disagreed. He argued, when a workman moves from
+department Y to department X, he doesn't go because of a change in relative
+prices, he goes because he's ordered to. Nobel Laureate, Oliver Williamson, went on to explain there are two
+significant coordinating systems. The first is the market. It's a price system for
+decentralized allocation of resources. The second is hierarchy, it's
+the organizing principle of traditional firms where some centralized
+authority allocates resources. Centralized hierarchies are the norm for
+better or for worse. Hierarchies have come under
+scrutiny though, recently. They have been called structures for killing creativity and
+undermining entrepreneurial drive. Their opaque nature lets
+executives scapegoat employees. Yes, lots of management hierarchies
+have become unproductive bureaucracies. But the concept of hierarchy
+has gotten a bad rap. Canadian born psychologist, Elliot Jaques, defended hierarchy in
+the Harvard Business Review, arguing, Managerial hierarchy is
+the most efficient, the hardiest, and the most natural structure ever
+devised for large organizations. Properly structured,
+hierarchy can release energy and creativity, rationalize productivity,
+and actually improve morale. The trouble is, in recent businesses history,
+hierarchies have often been ineffective. Managers often rise to a level where
+they lack the knowledge required for effective leadership. Progressive managers are thinking
+about how to build effective and innovative organizations. The first generation of the Internet,
+the Internet of Information, helped these forward thinking managers to
+change the top-down assignment of work. Companies are making an effort to empower
+employees and improve collaboration. Decentralization, networking, and
+empowerment, these things make sense. Teams and projects have become
+the basis for internal organizations. Email and video conferencing let people
+work together across company silos and across boundaries. But today's social media tools are helping
+lots of firms achieve new levels of internal collaboration. Businesses are focused on
+giving employees a voice. Now there's a wide spread agreement
+about what happens when firms distribute responsibility and power. It usually leads to better business
+functioning, customer service, and innovation. But in practice,
+it's still easier said than done. The Internet still hasn't really dropped
+what economist call agency costs. The cost of making sure
+everybody inside the firm is acting in the owner's interest. Noble winning economist, Joseph Stiglitz,
+argued that agency costs have increased even as transaction costs have plummeted,
+because firm's sheer size and complexity. And there's a huge pay gap between chief
+executive officers and frontline workers. So how can blockchain technology
+change how firms are managed and coordinated internally? The blockchain's smart contracts and
+transparency should reduce agency costs at all levels
+of management to a dramatic degree. And these changes will make
+it harder to game the system. So firms could go beyond transaction
+cost to tackle the real elephant in the boardroom, agency costs. Harvard University law professor,
+Yochai Benkler told us, what's exciting to me about blockchain technology is that it
+can enable people to function together, with the persistence and stability of an
+organization, but without the hierarchy. Managers should brace for radical
+transparency and how they coordinate and how they conduct themselves. Shareholders will be able to see the
+inefficiencies, the unnecessary complexity in the huge gap between executive pay and
+the value executives actually contribute. Remember, managers are intermediaries
+between owners and workers. The blockchain is known for
+cutting out intermediaries.

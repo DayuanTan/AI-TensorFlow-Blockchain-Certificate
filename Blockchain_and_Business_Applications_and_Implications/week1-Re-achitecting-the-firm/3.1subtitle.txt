@@ -1,0 +1,107 @@
+In this video, we look
+at how companies can use blockchain technology
+define the information, goods and services they need. Outsourcing was
+just the beginning. Companies like Procter
+and Gamble are tapping into idea markets to find the best minds for dreaming up new products
+or processes. Sixty percent of PNG's innovation now comes from this sort of
+open market for brainpower. Companies like
+Goldcorp have created global contests to
+solve problems. Goldcorp published
+its geological data and challenged others to find the next place it
+should mind for gold. The gold they
+pointed to increased the company's market
+value 100 times over. The Worldwide Web brought
+changes to the enterprise. How will innovative
+business leaders harness the World Wide Ledger? The world wide ledger is a structured database of
+structured information. Being able to search this ledger, would yield new insights like, who's sold which
+discovery to whom? And at what price? Who owns this
+intellectual property? Who's qualified to
+handle this project? How many carbon credits
+has this company saved? Which suppliers have
+experience in China? Which subcontractors
+delivered on time and on budget according to
+their smart contract records? Query results won't be
+resumes, or advertising links. You'll get transaction histories, proven track records of
+individuals and enterprises, may be ranked by
+reputation score. Several companies are working on search engines for blockchain. Google has put a lot of manpower on studying the potential
+of this emerging platform. For example, there are three key distinctions between Internet search and
+blockchain search. First, is user privacy. People own their personal data
+in a digital black box. They can choose
+their level of anonymity. Parties will be
+able to search for information that
+users have made open. Firms will need to
+rethink recruiting. Human resources
+will learn to query the blockchain with
+yes-no questions. Do you have a PhD in
+applied mathematics? Can you code in Java or Python? Can you work from January
+through June next year? These queries will
+yield a list of matches from job seekers
+black-boxes. Firms could also pay
+prospective talent to place their qualifications on a blockchain platform
+to be sorted through. Hiring managers will use
+reputation systems to assess candidates without
+knowing necessarily age, gender, race or
+country of origin. The upside is an end to subconscious or
+institutional bias. No headhunter or executive
+recruiting fees either. The downside is that precise queries lead
+to precise results. There's less chance
+for serendipity, finding a candidate who
+lack some of what you need, but has great capacity
+to learn and make the random creative connections
+that a firm truly needs. Black box marketing will
+call for new approaches too. Companies may pay to query
+these black boxes of prospective customers to see who might meet
+their target audience. Customers may withhold
+certain data like say, gender. A no answer is still valuable, but the firms won't learn much beyond the yes or no results. Marketers will need to rethink
+strategies based on email, social media, and
+mobile marketing. Customers will need
+to charge whatever makes reading at
+firm's message worthwhile. So you'll be paying customers to listen to your elevator pitch. But it'll be tailored
+to reach exactly the people you want to reach without invading
+their privacy. You can test different
+queries to learn about niche markets at every stage
+of product development. The second distinction is that, search can be multi-dimensional. A search on the web today
+finds a snapshot in time as index over
+the last few weeks. Blockchain adds
+a new dimension to search, sequence: seeing records in the order they were
+hashed or uploaded. You can search
+the Bitcoin block chain and find its first
+commercial transaction. The famous purchase of
+two pizzas by Laszlo for 10, 000 Bitcoins, wish he'd
+hold onto the Bitcoins. For companies, this means
+a need for better judgment. Managers must hire people
+who've shown good judgment. Because there's no walking
+back these poor decisions. There's no spinning
+the order of events. Companies could use prediction
+markets to test scenarios, or implement internal mechanisms
+to reach consensus. Making all stake holders vote on the mission-critical
+decisions. Executives at a future Enron couldn't deny prior knowledge
+of bad behavior. The third distinction is, value. Blockchain Search offers
+more powerful performance at a lower cost. Information on
+the Internet is abundant, but unreliable and perishable. On the flip side, information on
+the blockchain maybe scarce, but it's tamperproof
+and permanent. Imagine a permanent
+searchable record of important historical
+information. Corporate staff will start
+with an irrefutable view of their firm for developing
+their financial statements, their annual reports, and reports to governments or donors. They'll use it to create
+marketing materials for prospective employees,
+clients, and consumers. Maybe they'll even
+create a filter enabling stakeholders to see what they can see at the press of a button. Companies could have transaction, ticker tapes, and dashboards. Some for internal use, and some for public use, and competitors will create
+dashboards and feeds of your firm as part of
+their competitive research. It makes sense to put those on your website and to
+draw everyone to you. So firms will have
+huge incentives to look for resources
+outside of their boundaries. Since they'll have far, far better information about the qualities and
+record of candidates, either individuals or companies. Companies like ConsenSys
+are developing identity systems where
+job prospects or contractors will program
+their personal avatars to disclose relevant
+information to employers. These can't be hacked like
+a centralized database can. Now, users are
+motivated to contribute information because they own
+and control their avatars. They can actually
+monetize their own data. This is fundamentally
+different than say LinkedIn, a central database
+owned and monetized and yet not entirely secured
+by a powerful company. What an amazing concept.
