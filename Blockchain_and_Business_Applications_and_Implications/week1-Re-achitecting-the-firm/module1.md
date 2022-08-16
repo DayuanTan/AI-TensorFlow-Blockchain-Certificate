@@ -114,3 +114,54 @@ Ethereum and the company ConsenSys
 ## 2.3 Practitioner Perspective - Andreas Wallendahl: Blockchain & ConsenSys
 
 it epitomizes what it means to be a blockchain company.
+
+## 2.4 Reading: Decentralizing the Enterprise
+
+Consider 7 new business models that can innovate better and create better value at lower cost.
+- Peer producers 
+- Rights creators 
+- Blockchain cooperatives 
+- Metering economy 
+- Platform builders 
+- Blockchain makers 
+- Enterprise collaborators 
+
+## 2.5 Transaction Costs and the Structure of the Firm
+
+first era of the Internet brought us organizational forms
+-  the networked enterprise, 
+-  the flat organization, 
+-  the open innovation movement and 
+-  business ecosystems
+
+3 types of transaction cost in economy
+- Nobel Prize winning economist Ronald Coase 80 years ago 
+- 1 the cost of search
+  - Finding all the right people and information and resources outside of a company to create something. 
+- 2 the cost of coordination
+  - getting all those people to work together efficiently
+- 3 contracting costs
+  - Keeping trade secrets, negotiating the cost of labor and materials, and policing and enforcing those agreements
+-  a firm would expand until the costs of performing a transaction inside the firm exceeded the cost of performing it outside the firm
+
+Internet's impact
+- It dropped transaction costs somewhat in an open market. 
+- It dropped search costs through browsers and the worldwide web. 
+- It dropped coordination costs through email, social media, cloud computing. It lowered the barriers to entering some markets. 
+  - Lots of companies benefitted from outsourcing customer service and accounting, as these costs in an open market became lower than doing things inside the boundaries of a firm. Marketers engage customers direct with product planners, crowdsourced innovations manufacturers tapped into vast supply networks.
+
+But Internet has limited impact on corpoate architecture
+- classic industrial age hierarchy
+- The old corporate model concentrates power at the top of the hierarchy, and in many cases it can stifle innovation
+- There's strong evidence of an increase of oligopolies in some industries even monopolies. 
+  - The Web didn't come from monopolies; it came from the edge. Google didn't come from Microsoft. Twitter didn't come from AT&T, or even from Facebook.
+  - Why? Because they lack what he calls the internal culture of pure and open exploration required for innovation.
+
+
+next era of the Internet 
+- there's real value in the next era of the Internet and real incentives to join in.
+- These platforms based on blockchain hold promise for protecting user identity, respecting user rights, ensuring network security, and dropping these transaction costs.
+  - Unlike traditional firms, blockchain platforms don't need a brand to convey the trustworthiness of their transactions,
+  - Using consensus mechanisms to make decisions and conducting their businesses more openly. 
+
+# 3. Opportunities for Blockchain

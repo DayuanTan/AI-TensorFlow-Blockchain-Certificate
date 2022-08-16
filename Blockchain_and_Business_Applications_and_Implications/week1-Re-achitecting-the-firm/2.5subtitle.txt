@@ -1,0 +1,101 @@
+In this video, we'll look at blockchain's potential to change the boundaries of the firm. The first era of
+the Internet brought us several different
+organizational forms. There was the
+networked enterprise, the flat organization, the open innovation movement
+and business ecosystems. I've had my share of writing
+about these over the years. But the big hierarchies of the early 20th
+century corporation remain pretty much intact. Even the big.coms and
+so called Internet companies adopted a top-down structure with decision-makers
+of Jeff Bezos, Sundar Pichai, and
+Mark Zuckerberg. Incumbent firms have shown little desire to
+use blockchain to distribute power to increase transparency or to
+be more inclusive. Respecting customer privacy
+and anonymity, is not really a priority
+to say the least. In fact, companies making
+money off other people's data and operating largely
+behind closed doors, have had data breach after data breach but they haven't
+really suffered much. They should be wary, we think. Blockchain has
+a potential to do to these companies what the Internet did to the Industrial
+Age companies. So, let's start with
+a little economics. Hang in there. This
+is going to be good. Nobel Prize winning
+economist Ronald Coase 80 years ago identified
+three types of what he called transaction
+costs in the economy. First, was the cost of search. Finding all the right people
+and information and resources outside of a company
+to create something. Second, was the cost
+of coordination, getting all those people to
+work together efficiently. Third, was contracting costs. Keeping trade secrets, negotiating the cost of
+labor and materials, and policing and enforcing
+those agreements. Coase argued that a firm would expand until the costs
+of performing a transaction inside the firm exceeded the cost of performing
+it outside the firm. The Internet did have an impact
+on business initially. It dropped transaction costs
+somewhat in an open market. It dropped search costs through browsers and the worldwide web. It dropped coordination
+costs through email, social media, cloud computing. It lowered the barriers
+to entering some markets. Lots of companies benefitted from outsourcing customer service
+and accounting, as these costs in
+an open market became lower than doing things inside
+the boundaries of a firm. Marketers engage customers
+direct with product planners, crowdsourced innovations
+manufacturers tapped into vast supply networks. But the Internet of
+information has really had limited impact on
+corporate architecture overall. Think about it. Capitalism's still runs on the classic industrial
+age hierarchy. Most functions that companies do are within their boundaries. Managers still view
+the hierarchy with a clear corporate boundary as a better model for
+organizing assets, talent, and capital, and intangible assets like
+intellectual property. The old corporate model concentrates power at
+the top of the hierarchy, and in many cases it
+can stifle innovation. At least compared to new models. Corporate boards still
+pay executives far beyond any reasonable measure of the value that they create. This is widely understood, but it's one of those sayings
+like Mark Twain said about the weather
+everybody's talking about it, nobody is doing
+anything about it. The industrial complex
+still generates wealth. But, increasingly not prosperity. That's a big problem. There's strong evidence
+of an increase of oligopolies in some industries
+even monopolies. Another Nobel laureate
+Oliver Williamson predicted these outcomes. He pointed out the bad effects of industry consolidation
+on productivity. It leads to weaker incentives
+and stronger controls. Not everybody agrees
+with what I just said. Peter Thiel, co-founder of PayPal praise monopolies in
+his book Zero to One. Thiel said, "Competition
+is for losers. Creative monopolies aren't just good for the rest of society; they're powerful engines
+for making it better". But Thiel gave
+no real evidence to prove monopolies are good for
+consumers or society as a whole. Companies strive to rule
+their industry or market. But most democratic
+capitalist countries have laws to protect
+fair competition. Firms with no real competition
+can grow inefficient, raising prices in and
+outside the firm. Monopolies may help with
+innovation in the short term, but overall, they harm
+society in the long term. Look at the technology industry
+is a case in point. Companies may get
+monopoly power through cool products and services
+that customers love. But their honeymoon
+typically ends, their creation remains popular. But over time innovation
+declines or even stops. Harvard University Law professor Yochai Benkler said to us, "The Web didn't come
+from monopolies; it came from the edge. Google didn't come
+from Microsoft. Twitter didn't come from AT&T, or even from Facebook." Why? Because they lack what
+he calls the internal culture of pure and open exploration
+required for innovation. Bureaucracy keeps
+executives at the top from seeing the signs of change
+at their companies edge. That's where accompanies
+bump up against one another. That's where
+innovation occurs and ignoring it is bad for business. So, there's real value
+in the next era of the Internet and
+real incentives to join in. These platforms
+based on blockchain hold promise for
+protecting user identity, respecting user rights,
+ensuring network security, and dropping
+these transaction costs. Even the unbanked can take part. Unlike traditional firms,
+blockchain platforms don't need a brand to convey the trustworthiness of
+their transactions, they can share their power by giving away
+their source code for free. Using consensus
+mechanisms to make decisions and conducting
+their businesses more openly. Earlier, we covered how
+blockchain technology can cut out the middleman or
+cause them to change. Well, it can do a
+lot more than that. It can turn vertically
+integrated hierarchies into networks. It can lower barriers
+to opportunity.
