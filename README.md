@@ -78,7 +78,7 @@ You will be able to
 - explain how these affect the governance of blockchain systems.  
 - identify seven qualities that a region in the world needs in order to attract technology startups and to build a vibrant blockchain ecosystem.
 
-- [Module 1 Re-achitecting the firm](Blockchain_and_Business_Applications_and_Implications/week1-Re-achitecting-the-firm/)
+- [Module 1 Re-achitecting the firm](Blockchain_and_Business_Applications_and_Implications/week1-Re-achitecting-the-firm/module1.md)
   - 1. Course Introduction
   - 2. Decentralizing the Enterprise 
       - Re-design the corporation
@@ -90,6 +90,6 @@ You will be able to
       - Determining Corporate Boundaries
   - 5 Module 1 Recap
 
-# [Week/Module 2 Distributed Business Entities](Blockchain_and_Business_Applications_and_Implications/week2-Distributed_business_entites/)
+# [Week/Module 2 Distributed Business Entities](Blockchain_and_Business_Applications_and_Implications/week2-Distributed_business_entites/module2.md)
 
 

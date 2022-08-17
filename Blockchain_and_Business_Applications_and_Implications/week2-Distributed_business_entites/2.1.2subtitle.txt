@@ -1,0 +1,104 @@
+In this video, we're going to take a little trip
+into the future, and we'll look at some of the new and very radical
+and very distributed forms of businesses that could be made possible by blockchain
+technology. These types of businesses
+need little or no traditional managers to create value for customers and owners. Millions of people could
+collaborate inventors like these and share in their profits. The result will
+distribute wealth to many instead of keeping it for the few at the top of a hierarchy. Here's how this could work. Smart contracts can go from
+the simple to the complex. Simple contracts involve
+few or no people and only one exchange of value. Remember the soda machine. Complex contracts call on
+more people and involve many exchanges making
+firms resemble networks. We call these open
+networked enterprises. These open networked
+enterprises are good at coordinating resources
+anywhere in the world. Companies could use smart
+contracts to program low-cost, self-enforcing agreements with new suppliers and partners. An automobile company could use blockchain search tools to check the trustworthiness
+of a distant maker parts. Expand this scenario to include finding a supply chain partner. Needs steel from China or
+rubber from Malaysia or maybe glass from Wichita,
+Kansas, no problem. Decentralized online
+clearing houses operating as distributed
+applications for each commodity will help you book the price quality
+and delivery dates with a few flexible months. You could have a detailed record
+of transactions showing exactly how companies lived
+up to their commitments. You could schedule
+goods to show up just in time,
+no warehouse required. Let's take smart contracts
+as a step further. Create them as autonomous agents, make them super smart having machine learning
+built into them, and pursuing our goals and making decisions on our behalf. This is where blockchain meets
+artificial intelligence. Artificial intelligence
+is not going to run on some massive
+supercomputer centralized in the world somewhere, it will be distributed in autonomous agents
+running on blockchains. So imagine a piece of software
+capable of learning and adapting roaming on this
+platform with its own wallet. It can purchase resources
+like electricity or power or computing
+processing power, while selling services
+to other entities. The software is an autonomous
+agent in that it can take end data from its environment and act on that data independently. The autonomous agents are more than just computer programs. They can modify how they
+do their work over time. A good example of a bad autonomous agent
+is a computer virus. It has a single function to copy itself from
+machine to machine. Unleashing a virus on
+a blockchain could be difficult. It might have to pay other
+parties to interact with it, and the network would quickly
+identify its public key, crash its reputation score or not validate its transactions. More complex agents can make
+more complex transactions. They could acquire resources or produce value for their owner. So let's say that there's a cloud computing service renting servers from
+specific providers, an autonomous agent
+might figure out how to make a deal
+with any provider. A more intelligent agent, an artificially
+intelligent agent could upgrade its own software
+adapting itself to new models like
+offering to pay users for the rental of
+their unused computers. It can begin to do things that it wasn't programmed to do. The next step would
+be for the agent to enter new businesses
+or new industries. In the future,
+autonomous agents will collaborate forming all kinds
+of new business models, in what we're calling a distributed
+autonomous enterprise. So buckle up here. Imagine a set of
+autonomous agents cooperating in a complex
+blockchain based ecosystem. They could be coded according to a clear mission statement
+and operating rules. People will give these agents computing power and capital. Together they'll create
+a suite of services and sell those services to
+other devices or to humans, or to human organizations. They'll buy what they need, hire or require resources like manufacturing or
+marketing resources, could be equipment or
+people or services, and they'll adapt in real time. This would be the ultimate
+distributed organization. Ultimately, it could have
+millions of shareholders who participated in a crowd
+funding campaign to create it. The shareholders having crafted the mission statement would
+vote to govern the entity, much of the day-to-day decision-making
+could be programmed. In theory, this entity
+could run without traditional managers or
+managers of any human kind. There would be no overpaid CEO
+or bloated bureaucracy. There would be no
+what's called moral hazard where managers
+do things that are not in the interest of the shareholders and
+stakeholders of a corporation. There would be no office
+politics, no red tape. Any human employees
+or partners would be paid under smart contracts. Smart contracts would
+run according to the best management practices. People would always know what they're supposed to be doing and have clear
+performance metrics which would be transparent. The enterprise would
+be able to apply customer feedback more
+quickly based on logic. Shareholders would get
+their share of profits based on real-time accounting
+and the rules of the crowdfunding campaign. It could be
+quarterly dividends or it could be hourly dividends. Now, you might say this
+sounds like science fiction. It is a bit, but companies like Consensus have
+already issued shares in their firms using tokens in initial coin offerings. You could legally record the ownership of
+private corporations and transfer those shares to
+other people on a blockchain. So imagine an initial coin offering on a massive scale with a 100 million shareholders each contributing a few pennies. Investors at the bottom of
+the pyramid could own shares of a wealth creating venture
+anywhere in the world. In theory, we could design a corporation without executives, just shareholders,
+money, and software. Code and algorithms could replace the executive board with
+shareholders in control. Now, this may not seem practical, but entrepreneurs are already writing code in languages like Solidity and Script to
+perform business functions. Innovators are using code to give multi-signature
+control over funds, and people are buying equity into blockchain startups through blockchain-based
+crowdfunding campaigns as they're called ICOs. DABs are already giving
+away two autonomous agents. The wallet for this distributed autonomous enterprise
+could require thousands of shareholders sign off on important transactions. All right. This structure would have some obvious challenges. There needs to be mechanisms to quickly
+achieve consensus, and we'd need
+mechanisms to determine legal liability for
+company actions, for someone who's contributed
+10,000 of a vote. Could there be self-propagating criminal or terrorist
+organizations on a block-chain? Computer scientists Andreas
+Antonopoulos is in concern. He believes the network
+will manage the danger and deliver enormous
+benefits to society.
