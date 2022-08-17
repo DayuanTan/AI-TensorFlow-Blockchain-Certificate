@@ -1,0 +1,85 @@
+In this video, we'll look at nine questions that
+you can ask yourself when you're deciding where to set the boundaries of your business at any given point in time. Company leaders have
+an opportunity to see their business through the lens of the blockchain entrepreneur. This exercise will give you a 360-degree view
+that will spark, I hope, eye-opening
+conversations about what's truly unique and critical
+in your business. Earlier, we talked about
+Joe Lubin and Consensus Systems, the Ethereum Software
+Development Studio that runs many bits functions on
+the Ethereum blockchain. Let's review the operations of a blockchain-based enterprise, and consensus will help us here. Remember, consensus
+is in its infancy. A lot can go wrong to
+undermine its business such as a huge drop in
+the market value of its native token called
+ether that occurred, and they needed to do
+a lot of reorganization, but we can still learn a lot from them and from Joe Lubin. First question companies
+should ask is, are there partners who could do certain activities better? Could we benefit from
+peer-to-peer production, for example, or open platforms or other blockchain business models? The company consensus is able to tap extraordinary expertise, much of it outside
+of its boundaries. Second question is, what are the new economics of corporate boundaries
+in any situation? What are the transaction costs of partnering versus doing
+activities in-house? Can you develop a suite of smart contract templates to reduce your coordination costs? That's what consensus does. Question three, how
+much of your business relies on technological
+interdependence, and how much is modular? Business modules have
+greater flexibility. Define these
+components, and you can reconfigure them outside
+corporate boundaries. Consensus sets standards
+for software development, then provides access to various software modules that
+its partners can build on. Question four, how
+good is your firm at managing this external
+or outsourced work? How good is your company
+at managing networks? Can smart contracts
+improve the process and lower the costs overall? Well, from the get-go, consensus was a
+blockchain business, and its founder, Joe Lubin, embraces that technology.
+They're good at it. Question five, is
+there a risk a partner might invade fundamental parts
+of your business? Some have suggested that the huge electronics
+manufacturer, Foxconn, may do this to their customers, the OEM smartphone companies, and eventually start competing directly with them
+selling phones. Consensus tries to reduce
+this risk of partners ending up competing with you by building loyalty
+through incentives. So its members share in
+the wealth they create. Questions six, are there
+legal, regulatory, or political obstacles to
+change and to networking more? Have you cut deals
+to lock you into your current structure
+or location and so on? Well, that hasn't been
+a problem for consensus yet. Questions seven, will
+working with partners help you improve your overall
+competitive advantage, your ability to create
+differentiated value? Speed and pace of innovation are important
+to boundary decisions. Sometimes companies have
+no choice but to partner because they can't develop something fast enough in-house. A partner arrangement
+can be a place holder. This is consensus strategy, build a network of collaborators around
+the Ethereum platform, grow the platform
+and its ecosystem, and increase the probability of success and competitive advantage for all of its components. Question eight, is there
+a danger of losing control of something fundamental, say a product or
+a network architecture? Business leaders need
+to deeply understand the elements and links in their
+value chains or networks. Which ones will be key to creating and capturing
+value in the future? The company will lose
+out if it forms this. The Ethereum platform is key
+to the success of consensus, and so Joe Lubin and
+other members of consensus are active
+in its governance. He doesn't leave it to others. Finally, question nine, can you rapidly expand
+your market or value proposition while at
+the same time shutting out a competitor by
+vertically integrating, by moving in the other direction
+at least temporarily? Foxconn, the Taiwanese electronic
+services manufacturer, has grown far larger than its competitors by
+vertically integrating. It's a unique situation. It manufactures many of the components used in
+electronics equipment, and using the profit from that, it undercuts its manufacturing
+services competitors like Solastica and J. Wall. Pharmacies need to
+change or else be undermined by the e-commerce onslaught of companies, in
+particular Amazon. So in 2018, drug retailers, CVS, expanded its offerings to enter the health insurance industry by purchasing a large
+insurance company, Aetna. Drugstore purchases
+an insurance company. In this case, it made sense to vertically integrate
+at least for now. But buyer beware, because
+having said that, history shows that
+most acquisitions fail to achieve their objectives
+or they just fail. Period. Then the second era
+of the Internet, acquisitions will tend to make less and less sense compared
+to building networks. Overall, blockchain
+technologies will introduce a new set of tools
+that the heads of every function really
+need to understand. That said, you can't move culture outside of
+your boundaries. Change is hard, and
+we've been urging corporate leaders to just start having conversations
+about blockchain now.

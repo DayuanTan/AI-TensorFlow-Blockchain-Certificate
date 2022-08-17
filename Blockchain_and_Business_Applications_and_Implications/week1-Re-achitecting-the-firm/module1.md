@@ -29,6 +29,8 @@ Learning Objectives
   - [3.4 Opportunity 4: Building Trust](#34-opportunity-4-building-trust)
 - [4 Corporate Boundary Decisions](#4-corporate-boundary-decisions)
   - [4.1 Determining Corporate Boundaries](#41-determining-corporate-boundaries)
+  - [4.2 Hacking Your Future: Boundary Decisions](#42-hacking-your-future-boundary-decisions)
+- [5 Module 1 Recap](#5-module-1-recap)
 
 
 # 1 Course Introduction
@@ -358,3 +360,97 @@ What opportunity/ies does blockchain technology offer for reducing the costs of 
 
 ## 4.1 Determining Corporate Boundaries
 
+how big should our company really be?
+- blockchain platforms are dropping transaction cost in an open market, causing the boundaries of firms to become more porous.
+- The boundaries separating a company from its vendors, consultants, customers, and peers, are becoming harder to define, and they're constantly changing.
+
+companies will still exist no matter how blockchain affects them.
+- because, of all the acts of searching, and contracting, and coordinating, and establishing trust, will remain more cost effective within a corporate ecosystem than in a completely open market. 
+- there will be more "Flexible business entities made up of individuals and groups partnering around projects
+- We will still need organizations acting as coordinating mechanisms
+
+leaders should be strategic in determining what gives their company a competitive advantage
+
+Core Competencies concept
+-  very famous Harvard Business Review article. 
+-  They said companies gain competitive advantage by mastering a distinct competence. Those could be specialized skills, proprietary techniques, and unique knowledge.
+-  Companies could go outside to acquire other resources. 
+-  But a company may have mastered some activities not critical to its core. 
+-  So it needs to decide whether to continue doing them. 
+-  On the other hand, you have strategist, Michael Porter who argued, "Competitive advantage comes from networks of activities. If the activities were organized to reinforce the value of each other, the network would be harder to copy as a whole".
+-  Competitive advantage comes from entire systems of activities. Any individual activity within the system may be copied, but competitors won't get the same benefit unless they somehow manage to clone the entire system.
+  
+keep mission critical functions inside their boundaries
+- Others argue that companies should keep mission critical functions inside their boundaries. 
+- Those are the ones that they must get right to survive, and to succeed. 
+- But what's mission-critical isn't always obvious.
+
+"Some mission-critical functions like the collection and analysis of big data, may be just too risky to move outside corporate boundaries, even if you don't have unique abilities in that area."
+
+We believe the starting point for corporate boundary decisions is to understand your industry, your competitors, and your opportunities for profitable growth.
+
+one thing you can't outsource is a corporate culture. 
+
+## 4.2 Hacking Your Future: Boundary Decisions
+
+9 questions that you can ask yourself when you're deciding where to set the boundaries of your business
+- 1 are there partners who could do certain activities better?
+  - Could we benefit from peer-to-peer production, for example, or open platforms or other blockchain business models? 
+- 2 what are the new economics of corporate boundaries in any situation? 
+  - What are the transaction costs of partnering versus doing activities in-house? 
+  - Can you develop a suite of smart contract templates to reduce your coordination costs? That's what consenSys does.
+- 3 how much of your business relies on technological interdependence, and how much is modular?
+  - Business modules have greater flexibility. Define these components, and you can reconfigure them outside corporate boundaries. 
+    - ConsenSys sets standards for software development, then provides access to various software modules that its partners can build on. 
+- 4 how good is your firm at managing this external or outsourced work?
+  - How good is your company at managing networks? 
+  - Can smart contracts improve the process and lower the costs overall? 
+    - Well, from the get-go, consenSys was a blockchain business, and its founder, Joe Lubin, embraces that technology. They're good at it.
+- 5 is there a risk a partner might invade fundamental parts of your business? 
+  - Some have suggested that the huge electronics manufacturer, Foxconn, may do this to their customers, the OEM smartphone companies, and eventually start competing directly with them selling phones. 
+    - ConsenSys tries to reduce this risk of partners ending up competing with you by building loyalty through incentives. So its members share in the wealth they create. 
+- 6 are there legal, regulatory, or political obstacles to change and to networking more? 
+  - Have you cut deals to lock you into your current structure or location and so on? Well, that hasn't been a problem for consenSys yet
+- 7 will working with partners help you improve your overall competitive advantage, your ability to create differentiated value? 
+  - Speed and pace of innovation are important to boundary decisions. 
+    - Sometimes companies have no choice but to partner because they can't develop something fast enough in-house. 
+    - A partner arrangement can be a place holder. 
+      - This is consenSys strategy, build a network of collaborators around the Ethereum platform, grow the platform and its ecosystem, and increase the probability of success and competitive advantage for all of its components.
+- 8  is there a danger of losing control of something fundamental, say a product or a network architecture? 
+  - Business leaders need to deeply understand the elements and links in their value chains or networks. 
+  - Which ones will be key to creating and capturing value in the future? 
+    - The Ethereum platform is key to the success of consensus, and so Joe Lubin and other members of consensus are active in its governance. He doesn't leave it to others.
+- 9  can you rapidly expand your market or value proposition while at the same time shutting out a competitor by vertically integrating, by moving in the other direction at least temporarily?
+  - Foxconn, 
+    - the Taiwanese electronic services manufacturer, has grown far larger than its competitors by vertically integrating. It's a unique situation. It manufactures many of the components used in electronics equipment, and using the profit from that, it undercuts its manufacturing services competitors like Solastica and J. Wall. 
+  - CVS
+    - Pharmacies need to change or else be undermined by the e-commerce onslaught of companies, in particular Amazon. So in 2018, drug retailers, CVS, expanded its offerings to enter the health insurance industry by purchasing a large insurance company, Aetna. Drugstore purchases an insurance company. In this case, it made sense to vertically integrate at least for now
+
+# 5 Module 1 Recap
+
+review how blockchain technology will change the firm operation. 
+- Not just how it does business, but how it sets and where it sets its boundaries. 
+- consenSys company systems, 
+  - the ethereum software development studio. This is really a new model for running a business on a blockchain.
+  - It has a decentralized structure that makes it agile and helps members collaborate. 
+  - Smart contracts include incentives for innovation and productivity. 
+
+Boundaries
+- The Internet did drop transaction costs outside corporate boundaries, but these boundaries of course remain and the architecture of the firm is pretty much still intact.
+- monopolies
+  - companies like Google and search or Amazon retail or Facebook, social media can really behave like monopolies because they're so popular and credit to them for creating great value for consumers. 
+    - But users have only recently come to understand how these big companies have been using their personal data.
+
+
+3 differences between Internet and blockchain search make it easier for companies to find external resources when using blockchain.
+- 1 is user anonymity with implications for recruiting and marketing
+- 2 is the sequencing of data with a history of all transactions as they occurred. 
+- 3 is value, the ability to gain insights at a lower cost.
+- Others we learned in previous courses 
+  -  The cost of finding money are lowered radically through new crowdfunded models like ICO on a blockchain.
+  -  contracting costs are lower on blockchain because smart contracts are self-enforcing
+     -  Companies won't need to rely on dispute mechanisms in the open market. 
+  - Blockchain lowers coordination costs in and outside boundaries of firms. It can reduce agency costs for executives learn far more than they contribute in value. 
+  - Integrity is built into the blockchain platform, so it's easier to build trust with outside entities. 
+    - Trust is the expectation that other parties will act with integrity. 
+      - But still companies need to be strategic in determining what gives them competitive advantage, when activities should stay inside corporate boundaries and what can be outside

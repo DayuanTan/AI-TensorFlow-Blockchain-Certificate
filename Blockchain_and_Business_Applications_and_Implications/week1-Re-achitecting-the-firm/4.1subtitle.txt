@@ -1,0 +1,88 @@
+Welcome back. So
+far in this module, we've been discussing how
+blockchain platforms are dropping transaction cost
+in an open market, causing the boundaries of
+firms to become more porous. Business owners have
+a chance to ask themselves, how big should
+our company really be? The boundaries
+separating a company from its vendors,
+consultants, customers, and peers, are becoming
+harder to define, and they're constantly
+changing too. So companies, of course, will still exist no matter
+how blockchain affects them. That's because, of
+all the acts of searching, and contracting,
+and coordinating, and establishing trust,
+will remain more cost effective within
+a corporate ecosystem than in a completely open market. Melanie Swan is the founder of the Institute for
+Blockchain Studies. She said that people
+won't be working solely as individuals
+or freelancers, the so-called gig economy. She believes that there will be more "Flexible business entities made up of individuals and groups partnering
+around projects." She views the new model of
+the firm more like the guild, the pre-industrial group of
+merchants and craftsmen. They work together in
+a particular town, and they also use
+the apprenticeship model to train the next
+generation of workers. Swan said, "We will still need organizations acting as
+coordinating mechanisms." But just how those teams
+will go about collaborating still isn't clear. So leaders should be
+strategic in determining what gives their company
+a competitive advantage. And what should be inside
+and what should be outside. Today, we often hear, firms should focus on their core. But core can change, and be constantly changing since blockchain technology is
+lowering transaction cost. Everyone seems to have
+a different idea of what the optimal
+firm size should be if the goal is to maximize
+shareholder wealth. Lots of firms we've studied, seem to follow whatever
+direction the wind was blowing. Sending back office processing
+outside the boundaries, was described as a no brainer. But often, managers didn't have a clear
+understanding of why. Some firms take
+a more disciplined approach. Management experts,
+Gary Hamel and C.K. Prahalad, years ago, developed the well-known "Core
+Competencies" concept, very famous Harvard
+Business Review article. They said companies gain competitive advantage by
+mastering a distinct competence. Those could be
+specialized skills, proprietary techniques,
+and unique knowledge. Companies could go outside
+to acquire other resources. But a company may have mastered some activities not
+critical to its core. So it needs to decide whether
+to continue doing them. On the other hand,
+you have strategist, Michael Porter who argued, "Competitive advantage comes
+from networks of activities. If the activities
+were organized to reinforce the value
+of each other, the network would be harder
+to copy as a whole". Competitive advantage comes from entire systems of activities. Any individual activity within
+the system may be copied, but competitors won't get
+the same benefit unless they somehow manage to clone
+the entire system. Others argue that companies
+should keep mission critical functions
+inside their boundaries. Those are the ones
+that they must get right to survive, and to succeed. But what's mission-critical
+isn't always obvious. Making computers is mission-critical for
+computer companies, right? Well, not really. I mean, Dell, HP, IBM out source much
+of this activity to manufacturers like Foxconn, Solastica, Flextronics or JBL. In fact, the whole industry
+was created and called the electronics manufacturing
+services industry. Computer companies don't
+really make computers. Final assembly vehicles is mission-critical for car makers, but BMW and Mercedes
+contract with Magna to do a lot
+of this activity. Stanford Business professor, Susan Athey has
+a persuasive argument. She says, "Some
+mission-critical functions like the collection and
+analysis of big data, may be just too risky to move outside
+corporate boundaries, even if you don't have
+unique abilities in that area." True. There may be
+some functions like data analytics where relying
+on a partner may be risky. Still, companies can
+decide how best to deploy external resources to
+build internal capability. Companies should always look
+out for opportunities to use their networks to
+grow and to innovate. We believe the starting point for corporate boundary decisions is to understand your industry, your competitors, and your opportunities for
+profitable growth. Then, use this knowledge as a basis for your
+business strategy, your competitive strategy which is all about being different. From there, blockchain opens up all kinds of new opportunities
+for networking. Every manager and
+knowledge worker, needs to understand and monitor these opportunities
+at all times. Boundary choices are not
+just for senior executives. They're for anyone who cares
+about putting together the best teams for innovation
+and high performance. Remember this one, one thing you can't outsource is
+a corporate culture. Up next, we'll dive deeper
+into the nine factors entrepreneurs should consider when making
+boundary choices.
