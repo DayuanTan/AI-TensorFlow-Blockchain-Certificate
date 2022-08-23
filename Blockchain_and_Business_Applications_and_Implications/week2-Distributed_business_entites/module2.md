@@ -330,6 +330,28 @@ Red flags created by the centralized structure
 
 ## 2.3.2 Example: bAirbnb
 
+Dapps represent a new era in the digital revolution with promise for distributing wealth.
+- share economy
+  - Airbnb is not really successful because it shares, rather it is successful because it does not share.
+
+
+bAirbnb
+- It would look more like a member owned cooperative than a company. 
+- Owners can upload information and pictures of their property. 
+- The platform keeps reputation scores of owners and renters to improve everyone's business decisions
+- Your user experience is identical to what you would get in Airbnb or at least very similar, except you communicate peer-to-peer on this network through encrypted messages, not stored in Airbnb's database.
+- You and the owner could complete the transaction entirely off chain, but there are several advantages to doing it on chain.
+  - 1 reputation
+    - People with good reputations can benefit from the same persona across multiple DApps
+  - 2 identity verification
+  - 3 privacy protection
+    - This separation of the identity layer from the transaction layer greatly improves your privacy. 
+  - 4 risk reduction
+    - On Airbnb, customers' identities and financial data are stored on centralized servers. 
+  - 5 insurance
+    - Renters with good reputations get lower rates and don't have to subsidize renters with a negative history.
+  - 6 payments
+  - 7 secure access to property
 
 # 2.4 Strategic Approaches to Intellectual Property
 # 2.5 Module 2 Review & Evaluation
