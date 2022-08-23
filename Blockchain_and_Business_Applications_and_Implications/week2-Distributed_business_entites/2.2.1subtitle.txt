@@ -1,0 +1,97 @@
+This is the first of two videos on Blockchain-based
+business models. We think distributed models will disrupt centralized ones. Why? Well, because
+they innovate better, they create value at lower cost, and producers can
+share in the wealth. Here are four examples. The first is the
+blockchain cooperative. It's formed by people coming together to meet common needs. Most of the so-called sharing economy
+companies like Uber, Airbnb and so on, are really large scale service aggregators and distributors. They aggregate services and
+they round up suppliers with excess capacity on
+a centralized platform. Could be cars, lawn equipment, vacant rooms, handyman skills. Then they resell them
+collecting fees, and creating valuable data about both sides of the exchange, the suppliers and the consumers. Airbnb competes with hotels, Lyft and Uber compete with
+taxis and limousines. Zipcar with its hourly rates
+compete up with rental car companies that was purchased by
+one of them, Avis. These companies have
+globalized the selling of what used to be
+local small businesses. They've monetized everything from spare bedrooms and family cars, to underemployed talent and people without full-time jobs. But blockchain technology
+can displace some of the matching and
+accounting functions performed by platforms like Uber. So, get ready for
+blockchain Airbnb, BAirbnb or blockchain Uber, call that one SUber or
+Blockchain Task Rubber. This is an opportunity to
+create a true sharing economy, where individuals and
+organizations work together as a cooperative and receive most of the value
+that they create. The second business model is for creators of
+intellectual property. There are a lot of people
+in our economy that create value and aren't
+fairly compensated for it. Writers, musicians, artists,
+scientists, engineers. Other creators often
+don't get paid fairly. Publishers, record labels,
+art galleries, universities, and corporations have acquired these inventors to sign away their intellectual
+property rights as part of their employment deal. Blockchain can help. Consider the appraisal
+of fine art. The annual art market
+is worth $67 billion. It's a business
+controlled largely by expert middlemen with access
+to restricted databases. Finding who owns the art, where it's stored, and in what condition it is, isn't easy. The Bitcoin based startup, Verisart is creating
+a public database of art and collectibles. Its goal is to serve
+artists and collectors, as well as curators, historians, art appraisers,
+art insurers and so on. With Verisart, we
+can record and track the provenance of any physical
+or digital work of art. Users can use their mobile device to check works authenticity, its condition, its
+chain of custody. Verisart founder, Robert Norton, believes the art world
+will embrace this decentralized model
+and a decentralized ledger. The third model is
+peer-to-peer production. Peer producers brought us open source software
+and Wikipedia. Out forming those are the biggest best
+finance corporations. I wrote an entire book about this called 'Wikinomics' with my co-author Anthony
+Williams, back in 2007. Community members take part for fun to network or because
+of their beliefs. Blockchain technology can improve their efficiency and reward them for the value they create through incentives and
+reputation systems. So, think of Linux. Nobody owns it but it's the world's most important
+operating system today. The Wikimedia foundation
+owns Wikipedia. The Mozilla foundation owns
+the Firefox web browser. They're now experimenting
+with blockchain technology. Peer production can also occur in the purely
+private sector. Sometimes a corporation
+acts as a curator. Readers create the content on the Reddit discussion platform but they don't own the site. It's now one of
+the top ten websites in the United States in
+terms of traffic. Companies can also tap into
+vast pools of external labor. So, IBM embraced
+the Linux community donating hundreds of millions of dollars worth of software. Why would they do that? Well, they save $900 million a year developing their own
+proprietary operating systems. IBM also got a platform
+on which it built a multi-billion dollar
+services business as well. Sustaining volunteer
+communities long-term can be challenging though. There's no economic incentive
+for good behavior. Incompetence and sabotage can
+cause problems, and trolls, post inflammatory, incorrect or off-topic messages
+sowing discord. Blockchain technology discourages bad behavior in
+these communities. Peers develop reputations
+for valuable contributions. Members can ante up
+a small amount of money and see it increase
+or decrease based on their contributions
+because we have a transactional platform
+for that occur. Peers could share in the values
+that they create for corporate-owned
+communities getting paid through smart contracts. Consider Reddit,
+the community won't accept centralized control
+but it suffers from rude, uncivil members. Any of you who've been on Reddit know what I'm talking about. Well, Reddit could benefit
+from moving to a model where great contributors
+are rewarded and bad behavior is
+penalized economically. Consensus is already working on a blockchain
+alternative to Reddit. The Consensus team thinks financial incentives can improve the quality of
+conversation without centralized control
+or censorship. The fourth model is based
+on metering of asset usage. This is a different take
+on the sharing economy. Renting our excess capacity for all kinds of things on
+the Internet of Things. Renting things like
+WiFi hot spots, computing processing power, storage capacity,
+extra mobile minutes, or our remaining battery charge. Your WiFi can run itself
+out in your absence charging fractions of pennies
+for every second of usage. Your energy sources can become sources of income
+metering their use and charging the user for
+it through micro-payments. All you need is
+a decentralized protocol for them to transact
+safely and securely. You decide how much access to allow and what to charge
+for those rights. Blockchain will meter
+time and energy usage and manage payments and
+transactions in real-time. Owners can pool
+their resources and then track will stands
+by their commitments, and those who don't will lower their reputation score
+and could even lose access if they
+don't do better.

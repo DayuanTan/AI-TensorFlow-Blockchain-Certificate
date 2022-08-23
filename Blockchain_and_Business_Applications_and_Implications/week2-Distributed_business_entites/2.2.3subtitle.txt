@@ -1,0 +1,130 @@
+This is our second video on new blockchain-based
+business models. We just covered four types
+of distributed models, ones that are ready to
+disrupt centralized ones. Here are three more. First up are what we call
+the platform builders. These are business models
+based on letting anyone use their technology
+platforms to create value. We've used the word prosumer to describe consumers who produce. They hack products to
+create something new. Blockchain technology
+supercharges prosumption. What if Nike running
+shoes could record data on a distributed ledger? Nike and the shoe wearer could monetize the data with
+a smart contract. Let's say, a consumer
+gets a tiny piece of Nike shares when she
+buys a pair of sneakers. In return, she agrees to
+activate the device or sync to other wearables like
+a glucose level calculator. Nike gets valuable data. Companies can use the power of blockchain
+programming languages and payment systems to
+create open platforms, or industry members
+can partner to create a blockchain utility. Think of the car of the future, is part of a blockchain-based
+network of things. Various parts of the vehicle
+can do transactions. Thousands of programmers and niche businesses could customize applications for your car. Open platforms could transform
+entire industries like financial services by settling all kinds of
+financial transactions. An alliance of big banks is
+already working on that idea. Marketplaces for ideas and inventions help companies like Procter and Gamble tap into global pools of
+highly skilled talent over 10 times the size of
+its own workforce. Firms use services
+like InnoCentive or Inno360 to find
+the right temporary talent to address critical
+business challenges. It's about using data to
+find the right talent at the right time to hack your
+business for the better. Uniquely-qualified minds, people with unique qualifications to solve problems can post their availability
+to the ledger. Think of a blockchain-based
+InnoCentive. Individuals could cultivate
+a portable resume to provide the right information
+to potential contractors, like a distributed
+skills inventory owned by no one or by everyone. The hackathon is
+an important form of an idea marketplace, or as I've referred
+to them, Ideagoras, as every business becomes
+a digital business. Every company could provide
+venues for geeks and other business builders
+to solve problems. Next up is animating
+the physical world, making things come
+alive on a blockchain. A modern aircraft has been
+described as a bunch of parts flying in tight formation. That's comforting. Actually, they fly
+together really well, and it's a safe mode of travel. Manufacturing-intensive
+industries though can use blockchain to source, design, and build better physical goods
+like that airplane. Companies in lots of
+industries are tending to separate into networks of
+suppliers and partners. Three-dimensional
+printing will move manufacturing closer to the user, bringing new life to
+mass customization. Soon, data and rights holders can store metadata about
+any substance, from human cells to powdered
+aluminum on a blockchain. They could expand the limits
+of corporate manufacturing. The technology can also
+track the origin of goods and their movement
+through a supply network. Consider the food industry. Your local grocery store
+may claim its beef is safe, raised humanely, fed
+quality ingredients, and given no unneeded drugs, but it can't guarantee it. We trust our hamburger with
+no means to verify it. Usually, it doesn't
+matter, but then, there's an outbreak of E.
+coli or mad cow disease. The food industry could
+store a number for every steer or every cut
+of meat on a blockchain. Smart database
+management would allow even the largest
+meat producers to guarantee quality and safety. This data would
+expedite lab tests and the response to
+a health crisis. We could lead the world
+in developing a modern open food system with down-to-earth family farm values. Transparency lets companies with superior practices
+set themselves apart. They become naked,
+and you get to see whether or not they're
+buff as a company. Food producers need to
+have an appetite for that. Last, there are what we call the enterprise
+collaborators. Commercial collaboration
+tools within a business are
+changing the nature of knowledge work and of
+management inside organizations. Products like Jive, IBM
+Connections, Microsoft Outlook, Salesforce Chatter,
+Google Apps for Work are improving performance
+and fostering innovation. The social software can transform business operations
+from human resources and product development
+to marketing, sales, and customer service. Email is yesterday's
+collaborative technology. While blockchain takes
+today's tools to the next level, existing vendors
+should face disruption or embrace blockchain
+technologies to deliver more
+powerful features. Think Facebook but
+for the corporation, where every user has
+a multi-functional wallet and a digital ID for
+the decentralized online world. The wallet stores personal and professional data and valuables, including money, but
+you own and control it, not whosoever paying
+you for your work. You hold your pair of
+public, private keys. The system delivers a stream of valuable information like
+a colleague's patch of code, a Twitter feed from
+a conference you missed, a live stream of a client
+using your new product, photos of your competitors'
+booths at a industry expo, or help in completing
+a patent application. You or your firm will
+gladly pay for this stream. The benefits of this open-sourced and
+blockchain model are huge. There's advertising, but you, not Facebook, get rewarded
+for paying attention. That's called an
+attention market. You can participate in or create discussion channels
+about important topics. Enhanced privacy means
+spy agencies can tell the source or
+destination of a message. No social media
+company can sell or leak your information
+without your permission. A dissident in
+a totalitarian country could speak out without fear of being tracked down
+by the government. Because you own your data, you share in the wealth
+of big data. Companies should be happy
+about their employees using platforms like
+this for business. Firms need to show
+integrity and respect their employees' security and privacy to attract
+the best talent. Companies are adapting into
+networked organizations, taking advantage of
+outside capabilities. These collaborative platforms
+can help enterprises establish trust with
+their external partners. So the business models that we've discussed in this module
+are seven out of dozens that are emerging and 100 more
+that are possible. Companies large and small can use these emerging business models to make it rain on
+the blockchain. The open distributed
+business models show radical potential to supercharge innovation and create
+value for shareholders, customers, and
+societies as a whole. In the final course
+of this program, we're going to ask
+you to come up with your own use cases
+and business models. If you do this well, it could be one of the most important
+business initiatives you've ever undertaken because it can help you
+transform your company for this second era
+of the Internet. If you've got
+questions or comments, please go to
+the discussion forum. For more on this topic, check out Chapter five of our book, Blockchain Revolution.

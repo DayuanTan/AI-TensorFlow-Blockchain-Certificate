@@ -1,0 +1,103 @@
+In this video, we'll look at what could go wrong with
+a Smart contract, and what it means for effective
+blockchain governance. So let's start with a story. A software startup named Slock.it designed a Smart contract
+on the ethereum network. The developers called it the DAO for Decentralized
+Autonomous Organization. The DAO was in essence
+a decentralized investment fund. Its developers promised
+that it would operate with the iron will of
+unstoppable code. Fundraising came first. Users could purchase DAO tokens by sending ether to
+the DAO Smart contract, then token holders could vote on which projects to fund out of the proposals
+that were submitted. Token holders would get
+a share of the DAO's holdings. Anyone who disagreed with the funding decision could
+trigger a split function, moving their funds
+into a new child DAO. A group of prominent members of the ethereum community volunteer
+to serve as curators. Their job was
+vetting submissions, testing the code, and rejecting flawed or fraudulent proposals. Some token holders thought the curators just
+audit the code of the chosen Smart contracts and verify the identities of
+the people behind them. Others thought they
+should be more proactive to promote
+the DAO success. The voting process
+itself was flawed and some curators called for moratorium to adjust the problem. However, there turned out to be a even more serious flaw
+in the DAO code, and ultimately, it would
+lead to the DAO's demise. An attacker used
+the flaw to drain funds by calling on the split function
+available to token holders. The attacker was
+able to, in essence, withdraw funds over and over without updating the account
+balance held in the DAO. The attacker funneled a third of the ether raised
+into a child DAO, where it had to sit
+for three weeks per the terms of the DAO.
+This was big money. The DAO at its peak had raised a $165 million in
+US dollar equivalent. The attack was spotted
+almost at once, but there was no way to stop it. 3.6 million ether was
+drained in a few hours. Almost a sixth of
+the total amount of ether available in the entire
+ethereum network at the time. The ethereum community had
+to decide how to respond. They can do nothing and
+let the attacker keep the funds or they could
+change the protocol. The clock was ticking. In 21 days retrieving the funds
+would be impossible. Ethereum developers had
+two possible fixes, both tough choices. One was a Soft fork. Blacklisting the child DAO, so the funds could
+never be spent. The other was a Hard fork, transferring
+the stolen ether into a new withdrawal contract where token holders could
+claim their funds. Both fixes were controversial. The Soft fork was considered a form of transaction censorship, and a security review showed it would create a new vulnerability. So Hard fork was really
+the only solution, but it meant admitting the ethereum blockchain could
+be altered or appended. Developers, we need to
+convince a majority of the mining power on the network to install this new version. The hope was that
+everyone would switch to this new protocol and leave
+the old one to die out. But there were dissenters. There were those who
+believed in the principle of immutability. They refused to move
+to the new ethereum. They argued only the unaltered
+blockchain was legitimate. So the ethereum blockchain split in two in its first year
+of existence, with significant mining
+power staying on to form what is now known
+as a Ethereum Classic. What can we learn from this? A key lesson was that effective blockchain
+governance requires both on-chain and
+off-chain mechanisms. The DAO showed the limitations
+of on-chain governance. Managed only by the rules
+coded into the network, and the Smart contracts that
+were running on top of it. People also influence
+its operation off-chain on discussion boards
+such as on Reddit. It took a combination of these efforts to
+address the DAO attack. The DAO's inventors said
+the DAO operated according to Smart contract code on
+the ethereum blockchain. The token holders
+and curators made the decision about the actions
+the DAO could take. The automation within
+the DAO couldn't replace the human side
+of governance. Developers will introduce changes to a blockchain protocol to improve the networks function
+or to fix technical issues. But some updates have
+been motivated not by technical reasons but
+by economic ones. Whether these interventions
+are legitimate, still in question
+in the community. The DAO was among
+the first major attacks on a distributed application, but it wouldn't be the last. Somebody exploited a flaw
+in the code running parodies multi-signature
+contracts freezing, at the time,
+hundreds of millions of dollars worth of ether
+in broken wallets. There's no way to
+recover the funds without another Hard fork. The consensus of the whole
+of ethereum network is necessary to make
+another protocol change. These incidents force us to rethink blockchain governance. Internal on-chain governance
+is not enough. We can set specific rules
+and Smart contract code, but we can't guarantee that these rules will
+execute as intended, and events could make
+the rules obsolete. So a mechanism is needed to
+update a blockchain protocol, and stake holders decide
+that it must be done. Both the bitcoin and
+ethereum communities created a series of procedures
+for members to follow. But they've been
+criticized for being too slow in for giving power to a small group of
+developers who decide which options to make available
+to the broader community. There's also the question
+of external regulation. The DAO attack got the attention of regulators and lawyers. Who was liable for any
+wrongdoing caused by the DAO? The US Securities and
+Exchange Commission concluded the DAO had likely issued
+securities without a license. Many jurisdictions
+have powerful means to enforce laws and regulations. People must comply
+with court orders or face seizure of their assets
+or even jail time. But the governance of
+a blockchain can't rely on these external
+mechanisms alone. A judge might order changes
+to a Smart contract to meet legal requirements
+or to right a wrong. The developers within
+the court's jurisdiction might be forced to comply. But the Smart contract would go on so long as a majority of miners in the blockchain network refuse to accept this fork.

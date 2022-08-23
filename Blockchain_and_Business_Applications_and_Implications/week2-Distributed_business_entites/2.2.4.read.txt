@@ -1,0 +1,10 @@
+Recommended Readings
+
+IBM. (2018, January 9). Combining IoT and Blockchain Toward New Levels of Trust. Retrieved from https://www.technologyreview.com/s/609932/combining-iot-and-blockchain-toward-new-levels-of-trust/ 
+
+Pauw, C. (2018, December 4). How Significant Is Blockchain in Internet of Things? Retrieved from https://cointelegraph.com/news/how-significant-is-blockchain-in-internet-of-things 
+
+Pop, S. (2018, March 5). Collaboration 2.0: The Future of Work is on the Blockchain. Retrieved from https://media.consensys.net/collaboration-2-0-the-future-of-work-is-on-the-blockchain-3ec520a80e22 
+
+Tapscott, A. (2016, August 8). The Internet of Things Needs A Ledger of Things. Retrieved from https://www.forbes.com/sites/alextapscott/2016/08/08/the-internet-of-things-needs-a-ledger-of-things/ 
+
