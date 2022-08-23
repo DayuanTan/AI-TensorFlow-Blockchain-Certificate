@@ -1,0 +1,59 @@
+[MUSIC] >> Tell me some more about
+your business model, and really how tactically you're
+looking to build liquidity. >> So in terms of our business model,
+we thought about it like this. We're taking major technological risk
+in terms of building a business on new technology. Let's not take other risks in
+other part of the business. And so other exchanges have been quite
+successful in their business model. And so
+we've decided to not be innovative yet, but rather duplicate what's been
+successful in terms of business model. And so what we have done is we take
+a percentage fee on every transaction. That connecting a buyer and seller,
+we take a percentage fee on that. And so our business model is
+based on increasing revenue, we take percentage on
+all those transactions. Now, how do we get volume to
+the exchange is our biggest challenge. And so what we're working on is
+different viral marketing strategies. So for example, referral programs
+have proved to be very successful. And so centralized exchanges,
+the regular exchanges that exist, have been quite successfully
+in doing referral programs. So now what we've done is,
+we've developed into our smart contracts referral programs,
+so it's in the code. So basically,
+if I refer someone to the exchange and they trade, in the collated portion
+of their fees, will come to me. And so this is all programmable. And so that's one way that we're
+trying to get viral marketing. And the other thing is
+there's a lot more value for the later users than the earlier users. And so things that we're thinking of is,
+if you're an early user, an early adopter,
+let's give give you free fees for life. And so we're effectively
+incentivizing you to come on now and believe in the exchange
+now before it has volume. And then if the exchange reaches the scale
+which we believe it can, you will have now a very valuable asset, because you'll
+never pay fees on trading on our exchange. And so we're kind of thinking of ideas
+like this to create virality, and to help bootstrap liquidity
+in the early days. >> A bit curious about how you
+compare to other exchanges. So you talked about how
+the use of blockchain should give you a security advantage. How great is that? How salient is it for users? And also do you have cost advantages
+from your technology choice? >> If I had to compare ourselves
+to the current exchanges, so 99% of the cryptocurrency trading volumes
+goes through centralized exchanges, exchanges that hold
+the custody of your tokens. Now, if I had to compare
+our technology to this, I would say we are ten times more
+secure than those exchanges. Some of the drawbacks we have is in terms
+of variable costs, or costs per trade. We have to pay the blockchain network for
+every transaction. So we have a variable cost for
+every transaction. Whereas when they do a trade, they update their database,
+which doesn't have any cost. So we've actually got a downside
+in terms of variable cost. But we're 10x more secure. Now, we are not the first exchange
+to have this noncustodial model. But what we are is the fastest
+noncustodial exchange. So the other noncustodial exchanges
+have provided as well 10x more security. But where their struggle is in creating
+a user experience which is similar to the exchanges that exist,
+specifically in speed. And so what we've managed to achieve
+is an innovative way to create fast and spontaneous transactions, the same as
+you would have on a regular exchange, with the 10x more security. So those are the positives. Currently, the challenges that
+we have is higher variable cost. And the user experience is
+slightly more challenging than a normal,
+current centralized exchange. And the reason for that is because you
+as the user need to have a wallet, and that's kind of a friction point. You need to be your own bank. You need to store your own cryptocurrency. And that's kind of an education point that
+we need to go through with the market. Because most people actually don't
+custody, and don't hold their own tokens, and actually hold their tokens
+on cryptocurrency exchanges.

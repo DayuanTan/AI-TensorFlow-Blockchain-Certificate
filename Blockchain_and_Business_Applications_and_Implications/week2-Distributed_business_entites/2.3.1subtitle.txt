@@ -1,0 +1,92 @@
+Welcome back. In this video, we look at distributed
+applications, or DApps. DApps represent a new era in the digital revolution with promise for distributing wealth. But before we get to that, let's look at how
+the digital landscape has evolved into a centralized
+power structure. Then, we'll look at how
+Blockchain Technology makes decentralization possible. Centralized
+organizations have held concentrated computing
+power for a long time. All software applications
+or apps ran on their owner's computers
+in the first decades of the Enterprise
+Computing, Citibank, General Motors, US
+Steel, Unilever, and the US federal government, owned huge data centers
+running proprietary software. Certain companies did rent or timeshare computer power from providers like
+the 1980's giant CompuServe to run their own applications. The software markets
+specialized as the personal computer
+or PC matured. Some focused on developing
+client apps for the PC. Some focused on server apps
+for the host computer. Widespread adoption of
+the internet allowed individuals and companies to use their computers to
+share information. First, it was text documents,
+and later images, multimedia contact like videos
+and software applications. Sharing began to democratize
+the information landscape, but it was short-lived. A new type of timesharing
+appeared in the 1990s, first called virtual
+private networks, or VPNs, and then
+cloud computing. Cloud computing let users
+and companies store and process their software and data in third party data centers. New technology companies like Salesforce.com made
+fortunes by using the cloud model to save customers the big costs of developing and running
+their own software. Cloud services providers
+like Amazon and IBM built huge multi-billion
+dollar businesses. Next, social media companies
+like Facebook and Google created services in the 2000 running on
+their own vast data center. Companies like Apple moved
+away from the worldwide webs open architecture to
+exclusive walled gardens, like the Apple store. So the trend of centralized
+computing continued. Large companies keep
+the applications they've created,
+processed, owned, or acquired on
+their own large systems, but there are red flags created by the centralized structure. Single points of control
+make companies and their customers vulnerable
+to catastrophic crashes, fraud, and security breaches. Customers of target,
+eBay, JPMorgan Chase, Home Depot, Uber and others all have felt
+the pain of identity theft. Systems of different parts
+of a company still have big challenges
+communicating with one another, let alone with systems
+outside the firm. For us users, it means we've
+never really had control, other people and companies define the services
+that we use and sometimes they're
+implicit values and goals are in conflict
+with our own. Other people own
+the valuable data we generate, and they're using it to build vast fortunes perhaps
+the greatest in history. Most of us get little benefit or compensation for
+handing over our data. Central Powers use it to sell
+us stuff or to spy on us. Then along came blockchain
+and distributed applications. Now, anyone can upload a program onto the
+blockchain and leave it to self execute with
+the strong guarantee that the program will continue
+to perform securely. This platform is public not inside an organization
+and it contains a growing set of resources like digital money to reward and
+promote certain behavior. We're moving into a new stage
+of the digital age where we can program and share
+distributed software. A distributed application, or DApp runs across
+many computing devices, not on a single server. All the computing
+resources running a particular blockchain
+make up a computer. Blockchain developer Gavin Wood
+makes this point too in describing the
+Ethereum blockchain as a platform for processor. He said, "There is only one a theorem
+computer in the world. It's multi-user. Anyone whoever uses it is
+automatically signed in." Ethereum is distributed
+and built to the highest standards
+of Crypto security. So no one can ever
+messed with the data. Critical rules are built into the computer to
+protect its integrity. BitTorrent, the peer-to-peer
+file sharing app came along even
+before blockchain, but its distributed nature
+shows the potential of DApps. At one point, it consumed over five percent of
+all internet traffic. Lovers of music, film and
+other media use it to share their files for free with no central server for
+authorities to shut down. The programmer in
+creator Bram Cohen who developed BitTorrent said this, "The revolution will
+not be monetized. " But we think generating
+revenue and economic value through technological innovation
+can be a good thing. What matters is making sure that revolution is not
+monetized by the few. Blockchain technology
+makes the possibilities for DApps basically unlimited, DApps are a new level
+of digital evolution. Here's just one example. The company's Storj provides a distributed cloud Storj
+platform in a suite of DApps. It lets users store data cheaply, securely, and privately. No centralized authority has access to a user's
+encrypted data. Storj eliminates the high costs of centralized
+storage facilities. It's super-fast. It pays users for renting their extra disk space and
+its censorship resistant. No single company
+can prevent you from accessing what is yours by right. It's like Airbnb for your
+computer spare memory space, allowing you to monetize
+latent capacity for profit.

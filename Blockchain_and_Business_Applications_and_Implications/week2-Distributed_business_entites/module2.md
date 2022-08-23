@@ -9,7 +9,12 @@
 - [2.2 New Business Models](#22-new-business-models)
   - [2.2.1 New Business Models Part 1](#221-new-business-models-part-1)
   - [2.2.3 New Business Models Part 2](#223-new-business-models-part-2)
+  - [2.2.5 Test](#225-test)
+  - [2.2.6 Practitioner Perspective - Yaniv Neu-Ner: Business Model for Counter](#226-practitioner-perspective---yaniv-neu-ner-business-model-for-counter)
+  - [2.2.7 Practitioner Perspective - Oleg Fomenko: Business Model for Sweatcoin](#227-practitioner-perspective---oleg-fomenko-business-model-for-sweatcoin)
 - [2.3 DApps](#23-dapps)
+  - [2.3.1 What Are DApps?](#231-what-are-dapps)
+  - [2.3.2 Example: bAirbnb](#232-example-bairbnb)
 - [2.4 Strategic Approaches to Intellectual Property](#24-strategic-approaches-to-intellectual-property)
 - [2.5 Module 2 Review & Evaluation](#25-module-2-review--evaluation)
 
@@ -290,6 +295,41 @@ distributed models will disrupt centralized ones.
     - attention market
   - These collaborative platforms can help enterprises establish trust with their external partners. 
 
+## 2.2.5 Test
+## 2.2.6 Practitioner Perspective - Yaniv Neu-Ner: Business Model for Counter
+## 2.2.7 Practitioner Perspective - Oleg Fomenko: Business Model for Sweatcoin
+
 # 2.3 DApps
+
+## 2.3.1 What Are DApps?
+
+1. how the digital landscape has evolved into a centralized power structure. 
+   - Centralized organizations 
+     - huge data centers
+   - Widespread adoption of the internet allowed individuals and companies to use their computers to share information.
+   - virtual private networks, or VPNs, and then cloud computing
+     - third party data centers.
+   - social media companies
+     - Facebook and Google 
+     - Apple store
+
+Red flags created by the centralized structure
+- Single points of control make companies and their customers vulnerable to catastrophic crashes, fraud, and security breaches. 
+- Systems of different parts of a company still have big challenges communicating with one another, let alone with systems outside the firm. 
+- Other people own the valuable data we generate
+- Central Powers use it to sell us stuff or to spy on us
+
+2. how Blockchain Technology makes decentralization possible.
+  - a new stage of the digital age 
+    - where we can program and share distributed software
+  - DApp runs across many computing devices, not on a single server. 
+    - All the computing resources running a particular blockchain make up a computer
+  - no one can ever messed with the data
+  - What matters is making sure that revolution is not monetized by the few.
+  - What matters is making sure that revolution is not monetized by the few.
+
+## 2.3.2 Example: bAirbnb
+
+
 # 2.4 Strategic Approaches to Intellectual Property
 # 2.5 Module 2 Review & Evaluation

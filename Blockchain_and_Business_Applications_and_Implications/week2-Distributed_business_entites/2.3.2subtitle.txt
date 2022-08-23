@@ -1,0 +1,88 @@
+In this video, we'll take a closer look at Distributed
+Applications or DApps. Dapps represent a new era in the digital revolution with promise for distributing wealth. Let's look at how a home sharing DApp could work on
+the blockchain. Airbnb was founded a month before the stock market crashed in 2008. Since then, it's become
+a $31 billion platform, now the world's largest supplier of rooms measured
+by market share, value in rooms occupied. But the people who provide the rooms get just part
+of the value they create. Western Union processes,
+international payments taking $10 for every transaction plus big foreign
+exchange off the top. Settlements take a long time. Airbnb stores in profits
+off of all of the data, and both owners and consumers have concerns
+about privacy. Companies like Airbnb are part of the so-called sharing economy. But Airbnb is not really
+successful because it shares, rather it is successful
+because it does not share. It aggregates
+excess capacity through a centralized platform and resells it at a profit
+pocketing fees. But more importantly, owning
+the platform outright. If you rent out
+a spare room in your home, you don't become an owner
+of Airbnb, right? Now, imagine a competitor to Airbnb but on the blockchain. We brainstormed with blockchain expert Dino Mark
+Angaritis to design one. We called it bAirbnb. It would look more like a member owned cooperative than accompany. All revenues except overhead
+would go to its members. They would control the platform and they would make decisions. bAirbnb is a distributed
+application. A DApp. A set of smart contracts on
+a home sharing blockchain. The bAirbnb app hasn't
+elegant interface. Owners can upload information and pictures of their property. The platform keeps
+reputation scores of owners and renters to improve
+everyone's business decisions. So, you're looking to rent, the bAirbnb software
+filters the listing meeting your criteria say 10 miles
+from the Eiffel Tower, two bedrooms and a
+four plus star rater. Your user experience is
+identical to what you would get in Airbnb or
+at least very similar, except you communicate
+peer-to-peer on this network through
+encrypted messages, not stored in Airbnb's database. You and the room owner are the only two people who
+can read these messages, and you can swap phone numbers and complete
+that exchange privately. You and the owner could complete the transaction
+entirely off chain, but there are several advantages
+to doing it on chain. First, is reputation. The network records the
+transaction on the blockchain. A positive review improves
+each user's reputation. The risk of a negative review motivates hosts and
+guests to be honest. People with good
+reputations can benefit from the same persona
+across multiple DApps. It doesn't have to be isolated
+to just one function. Second, is identity verification. We're not dealing with
+a centralized system to check ID for us. So hosts and guests
+need a weigh to confirm each other's
+real-world identity. The blockchain calls
+up a contract from a verify ID application to verify each party's
+public key or persona. Third, is privacy protection. Verify ID doesn't store
+all transactions in a database. It's simply returns a true or false to verification requests. Different kinds of DApps
+can use this verify ID. But verify ID never knows
+transaction details. This separation of
+the identity layer from the transaction layer greatly
+improves your privacy. Fourth, is risk reduction. On Airbnb, customers'
+identities and financial data are stored
+on centralized servers. These can be hacked and leaked, exposing owners to liabilities. But there's no central database to hack on the blockchain. There are only individual
+peer-to-peer transactions. Fifth, is insurance. Airbnb offers one million dollar million
+worth of insurance for owners and compensates them for theft and damage
+if necessary. On bAirbnb, owners can get
+the bAirbnb insurance DApp. Renters with good reputations get lower rates and don't have to subsidize renters with
+a negative history. Here's how this could work. You submit a booking requests and bAirbnb sends your public key to the insurance
+contract for a quote. The insurance DApp contacts list
+of trusted providers. Insurers perform
+their own calculations in real-time through
+an autonomous agent. This will consider inputs to the contract like the market
+value of the owner's house, how much the owner wants insured, owner and rent or reputations
+and the rental price. bAirbnb takes the best bid and adds it to
+the owners nightly feed. The blockchain processes this calculation
+in the background. Owners and renters have a user experience
+comparable to Airbnb, but with a better value exchange. Sixth, is payments. Funds are transferred to
+the owner in seconds, whereas on Airbnb
+it would take days. Owners can also manage security deposits better
+with smart contracts. Some parties use Escrow accounts to release payments nightly, weekly, hourly or in full
+as the parties agreed. Parties can call for arbitration even in cases of dispute. Seventh, is secure
+access to property. A Smart Lock connected to the blockchain knows
+when you've paid. Your near-field communication
+enabled smartphone can sign a message with
+your private key as proof of payment
+when you arrive, and the Smart Lock
+will open for you. Owners don't need to
+drop off keys or visit the property unless
+they want to say hello or maybe address
+some emergency. You and the owner have now
+saved most of the fees. Settlements are
+assured and instant. There are no foreign
+exchange fees for international contracts. You don't have to worry
+about stolen identity. Local governments and
+oppressive regimes can't subpoena bAirbnb for
+its rental history data. This is the real sharing
+and value economy. Both customers and service
+providers are the winners.
