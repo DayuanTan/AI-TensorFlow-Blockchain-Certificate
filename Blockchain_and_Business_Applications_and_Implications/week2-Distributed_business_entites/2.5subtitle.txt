@@ -1,0 +1,37 @@
+We've reached the end
+of our module on new business models. You've learned
+how smart contracts can do tasks ranging from the simple to the complex with
+little human involvement. They can act as what
+we call autonomous agents on behalf of whoever
+set them in motion. They have potential to form a distributed
+autonomous enterprise, co-operating a complex
+blockchain-based ecosystems. But they need
+some human governance, as we saw in the case
+of the DAO or D-A-O. Distributed applications run
+across a network of devices forming open network
+enterprises for creating value. We also learned about
+seven types of business models. First was the blockchain
+co-operative, like a blockchain-
+based Airbnb or Uber, where people pool their resources and share all of
+the value created. Second, was for intellectual
+property management, where startups like VeriSat help creators manage their copyrights, trademarks, and patents
+on the blockchain. Third was peer production. Blockchain-based versions
+of platforms like Linux or Reddit except everyone is rewarded for the value
+they create, and docked for bad behavior. Fourth, was micro metering, where people can rent
+out their Wi-Fi hotspot, excess electricity,
+computer processing power, and other assets when
+they're not in use. Fifth, was the platform building. Creating open source platforms for others to use
+and to build upon. Six was the making of
+things on the blockchain. Coordinating capital, talent, and assets to manufacture goods and deliver services from design right through
+to final usage. Last was enterprise
+collaboration, where we can expect the rise of new collaborative platforms for use within and
+between enterprises. These sets of applications and tools will be very
+different from those of today because they'll
+be based on an employee owned sovereign identity
+and powered by blockchain. Blockchain technology
+distributes ownership, supporting new forms
+of collaboration, and free of centralized control. So if you've got questions, please post them on
+the discussion forum, and for a review of these topics, please read Chapter 5 of
+our book Blockchain Revolution. On behalf of my co-author,
+Alex Tapscott, and our academic partner in
+[inaudible] thank you for joining us

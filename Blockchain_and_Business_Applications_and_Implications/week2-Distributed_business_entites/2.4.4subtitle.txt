@@ -1,0 +1,73 @@
+[MUSIC] In this video we'll explore how blockchain
+could transform the management of intellectual property rights. From attributions and payments,
+to licensing and the management of rights. Collecting royalties could be fast and
+transparent on the blockchain. Existing royalty systems are slow and inefficient with periodic
+payouts each year, if at that. Imagine royalty payments
+using cryptocurrencies. Those could happen in minutes or seconds, whenever people downloaded
+a song or used it in their commercial. Or played it on the radio, or streamed it on Spotify,or bought ads
+around the music video on YouTube. Smart contracts could track these
+different uses of a song and meter out royalties to the artists and to other
+stakeholders, all without human agents. That's the future on royalty
+payments on the blockchain. Consider sampling, when one artist repurposes part of
+another artist's sound recording. Current systems can't track
+sampling with precision, but Internet delivery of content makes
+at least precise tracking possible. The current system is still opaque. Blockchain-based registries can be as
+transparent as their users desire. Selective transparency
+could let artists and their managers see whether their
+payments were being processed properly. Some pundits predict the end of
+intermediaries, like collection societies, ASCAP and BMI, this monitor
+public performances of music and collect royalties on
+behalf of their members. They also handle blanket licensing of
+members works to third parties, like, say radio stations. We think these traditional clearing
+houses will need to adapt to stay viable, maybe serving as auditors of meta data,
+maybe even tokenizing that meta data. There's still lots for them to do if they
+take the leadership role in doing it. A distributed database
+built on blockchain for the creative industries would help artists
+register and protect their rights. Copyright is automatic
+upon creation of a work. But the current registration
+process can be costly and involve multiple jurisdictions. Blockchain platforms make
+global registration easier. An artist registers a work
+by uploading a digital file. The platform generates
+a hash of that file. Now, as we have discussed previously, a hash is a unique alphanumerical
+digest of the content. It serves as an identifier,
+like a digital fingerprint. It could be used for money like bitcoin. Or it could be used in this case for
+a song or a piece of art. The creator secures attribution and
+timestamps possession of a file. That could be critical in
+a dispute over authorship. Now, this global registry of
+intellectual property could replace the separate redundant and
+sometimes inconsistent and even outdated silos of
+metadata that we have today. This registry would be available
+to anyone anywhere and scalable to billion of creative works. It would help creators get paid and help audiences fund the content
+that they wanted to consume. Streaming content would really mean
+streaming payments to artists. Intermediaries could focus on helping
+audiences discover creative works instead of dealing with paperwork. This distributive database would also help
+creators license their works with ease. The complexity of licensing is still
+a barrier to user-generated content. The average YouTuber doesn't know
+how to go about licensing a song for a fan-made video. Digital certificates registered on a
+blockchain could store data on the rights status of a work, including conditions for
+use and for re-use. This data could unlock new
+revenue streams for creators. Let's change our tune a bit here and
+turn to gaming, where digital goods can be worth a lot. Virtual swords and armor change hands
+between gamers for large sums, but the digital assets
+are worthless if the game or the company that creates
+the game becomes obsolete. Digital goods could keep their
+value on the block chain. Spells of Genesis is a trading card game. Its storyline and mechanics
+are based on blockchain technology. The cards are based on counterparty, a platform using the BitCoin
+blockchain to issue custom tokens. The gaming company ClanPlay is also
+doing this built on the AEON protocol. Players of Spells of Genesis can trade
+their cards using the Book of Orbs. ORB stands for
+Ownership Revolution on the Blockchain. The cards and other rare in-game
+assets trade for thousands of dollars. The game Force of Will also
+offers game interoperability, players can use some assets
+in Spells Of Genesis. This field is growing very fast. MobileGo tokens let gamers trade virtual
+items on the Ethereum blockchain, for example, and there are many other. Ease of licensing is important
+in the world of digital design. Think of the content creator searching for
+an image to use in a presentation. Or libraries in museums wishing to
+declare a work in the public domain within a certain jurisdiction. The Monegraph platform helps artists and photographers license their content for
+commercial and editorial use. Monegraph sees digital art
+work as a tradable asset. And trading digital assets with blockchain
+technology allows for perfect provenance. Every transaction related to a registered
+work is recorded on this ledger. Off blockchain sales would be possible,
+but unlikely, since breaking the chain of provenance
+would reduce the work's value. That's the future of creative
+industries on the blockchain.

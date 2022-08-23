@@ -1,0 +1,56 @@
+This far, we've
+touched on blockchains potential for managing
+intellectual property, royalty payments, and licensing. In this section, we explore its impact on
+creative collaboration. The blockchain could automate resale royalties and
+event ticketing. It could transform how
+organizations monetize fund data and create a more inclusive model
+for writes data. The technology could even
+help creators to find new sources of capital and new models of
+distributed ownership. The blockchain makes
+decentralized collaboration possible for groups
+on a large scale. One crucial feature of blockchain
+is the ability to align the incentives of people who don't know or even
+trust each other. An early example of this
+potential was the Cypherfunks, musicians who are distributed
+around the globe. The group used cryptocurrency to share ownership of
+the music they created. This works on a more
+sophisticated level two. We can imagine thousands
+of people everywhere in the world collaborating on
+a blockchain based Wikipedia. Indeed, there's
+already an example of this called Everipedia. Backfeed is the name of an initiative
+launched to encourage massive open-source
+collaboration among a network of peers. It operates free of
+centralized control. Peers can use Back feed to evaluate contributions
+to a group project. Individual contributors
+receive rewards according to the perceived
+value of their work. It's a new form of commons-based peer production
+on the blockchain. Back feed uses
+cryptographic consensus to solve the challenges of
+large-scale cooperation, but it keeps the benefits of
+commons style governance. All-new forms of
+distributed autonomous art could be born on the blockchain. Here's a fun one, the Plantoid Project
+which is also based on decentralized collaboration,
+but with a twist. Blockchain scholar, Primavera
+De Filippi came up with the concept and planted the seeds so to speak
+for the project. Plantoid governance
+structure runs on the Ethereum blockchain. De Filippi called the
+Plantoid an artistic representation of
+a blockchain based life form. Its real-world body is a mechanical sculpture of a plant connected
+to the internet. It's Operating System
+is a smart contract. The Plantoid collects
+Bitcoin donations and responds with
+some form of appreciation. It might play a song, display a light show or
+perform a mechanical dance. It is actually fundraising
+for other projects. The smart contract has a targeted amount of
+Bitcoin to reach. When it reaches that amount, it issues a request
+for proposals for creating the next
+generation of Plantoid. Donors vote on the various
+proposals and Plantoid hires the artist whose
+submission receives the most votes to
+create an offspring. Let me put it another way, the Plantoid is
+a self-propagating artwork acting as an artist, art dealer, and agent. It achieves its own
+financial autonomy. It's the first instance of
+distributed autonomous art. This opens up a new set of
+possibilities for funding, commissioning, and making
+money from works of art. Ultimately, that's
+good for artists.

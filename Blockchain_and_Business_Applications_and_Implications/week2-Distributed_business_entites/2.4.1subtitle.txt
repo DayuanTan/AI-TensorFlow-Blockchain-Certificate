@@ -1,0 +1,98 @@
+In this video, we'll look at some of the strategic approaches to managing intellectual property in the blockchain ecosystem. There are pros and cons between patenting and not patenting. The US Constitution gives inventor's exclusive rights to their discoveries to
+promote progress. Startups have limited resources, patent protection blocks
+larger corporations from copying their innovations, and then putting those startups
+out of business. But obtaining patents is expensive and can be speculative. Software innovation changes fast. A brilliant invention
+might soon be obsolete. There is a more
+communal approach. Innovators can share
+their innovations and replace the time and
+energy spent filing patent applications
+with increased effort at research, and development. The community would contribute to a database of filed patent
+applications. Anyone can check to see what's been published in a given field to avoid directing resources
+at the same subject matter. The US Patent and
+Trademark Office waits 18 months to
+publish applications. Companies could join within the community to share
+applications much sooner. Contributors might lose
+some strategic advantage, but the overall ecosystem could benefit by not
+duplicating efforts. Patent pools are a mechanism for sharing issued patents to
+advance the overall industry. Individuals can choose to dedicate their patents
+to the public. Companies can assign patents to a trusted entity with
+a policy of non-enforcement. Patent pools can provide
+competitive benefits, and reduce transaction costs, sometimes clearing blocking
+patents from the market. Companies can cut
+their litigation costs. Here's how something
+like this would work. Companies will pool patents
+in a particular technology, then purchase a license
+to the pool usually at a discount from what would be negotiated for
+individual patents. But patent pools can
+also impede competition, conferring market power
+upon a group. Anti-trust concerns
+could also arise. Some patent pools are created
+for defensive purposes. Each member firm pays yearly dues depending
+on the revenues. The defensive patent
+pool seeks to buy patents relating to
+its members' businesses. Innovators are compensated, patents are taken off the market, and members get a license
+to the purchase patents. These mechanisms could be significant for the
+blockchain ecosystem. Blockchain essential patents
+are foundational. Any blockchain company
+would infringe them. What if Satoshi Nakamoto
+had filed for and been issued a patent for
+the basic concept of Bitcoin, and thus the blockchain? It would be broad enough
+to encompass pretty much any application in the various blockchain
+business models, stifling innovation. We could set up a pool of essential blockchain patents with volunteers managing the process. The entity could function
+like the RPX Corporation. Members of the company pay dues, the company then buys patents or patent portfolios making them
+royalty free for members. Guidelines would
+define what makes a patent essential in
+the blockchain space. The evaluation would determine who required a license
+to the same patent. Stakeholders could receive
+value for participating in the evaluation process with
+credits on their yearly dues. The amount wouldn't depend on whether a patent is
+a essential or not. So an evaluator wouldn't feel pressure to inflate
+a patent's potential. Incentives could also
+go to individuals who volunteer to submit their patents to the essential
+patent blockchain. An open process
+could give companies a valuable view of
+the competitive landscape. There are drawbacks when
+individual companies invest in invention but
+received no compensation. The proposed essential
+blockchain patent pool would use the best practices
+from earlier patent pools. Owners of patents deemed
+essential would be paid fairly. It seems logical to use innovative technology to
+advance our technology law. Using a blockchain
+for patent pools help streamline licensing,
+negotiation, and enforcement. Automated review systems
+become more feasible. High-fidelity tracking
+of changes is built-in, and it provides a testing bed
+for non-blockchain industries to move their pools
+to a blockchain system. But participation is
+crucial to ensure success of the blockchain
+essential patent pool. Voluntary communal
+coordination can also take place off blockchain. Individual companies don't have to share intellectual property, but community members could provide incentives for sharing. Companies could follow
+policies protecting some of their core intellectual property
+without being selfish. This approach would
+start with education. Industry leaders could
+agree upon a framework of suggested policies to share
+throughout the industry. Companies could be
+encouraged to publish open source blocking
+patents to the community. So blockchain-based
+technologies, and non-competing businesses
+wouldn't be blocked. Narrower patents confined to a vertical space will still protect
+the company's interests. This policy could take
+advantage of the first to file system from the 2011
+America Invents Act. Just publishing
+a document describing an invention prevents others from patenting the technology. Let's say the Acme
+innovation company discovers a way to prevent hacking better than
+existing technologies. This would likely apply across
+the blockchain industry. Acme could publish
+the discovery on its website or through a service run by the Chamber Of Digital
+Commerce, for example. No patent troll could attempt to monopolize the discovery. Voluntary publication
+already happens to some degree in the
+blockchain space. GitHub has thousands of
+blockchain related repositories. Not every repository
+holds innovative code, but the sheer volume indicates immense interest
+in the technology. The community would need to urge companies holding
+blockchain patents to make them unenforceable or agree to offer
+royalty free licenses. This would align with the
+motivations of companies using patents mainly to defend
+against patent trolls. If you've got questions, please go to
+the discussion forum. For more on this topic, checkout Tom Isaacson's work
+in the suggested readings.

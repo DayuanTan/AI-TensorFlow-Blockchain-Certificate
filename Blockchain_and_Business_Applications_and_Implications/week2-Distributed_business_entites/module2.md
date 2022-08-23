@@ -15,7 +15,15 @@
 - [2.3 DApps](#23-dapps)
   - [2.3.1 What Are DApps?](#231-what-are-dapps)
   - [2.3.2 Example: bAirbnb](#232-example-bairbnb)
+  - [2.3.3 read DApps](#233-read-dapps)
 - [2.4 Strategic Approaches to Intellectual Property](#24-strategic-approaches-to-intellectual-property)
+  - [2.4.1 Patents and Blockchain Innovation](#241-patents-and-blockchain-innovation)
+  - [2.4.2 Practitioner Perspective - Rolf Hoefer: Intellectual Property](#242-practitioner-perspective---rolf-hoefer-intellectual-property)
+  - [2.4.3 read Patents and Blockchain Innovation](#243-read-patents-and-blockchain-innovation)
+  - [2.4.4 Payments, Attribution, and Licensing](#244-payments-attribution-and-licensing)
+  - [2.4.5 read Payments, Attribution, and Licensing](#245-read-payments-attribution-and-licensing)
+  - [2.4.6 Distributed Ownership](#246-distributed-ownership)
+  - [2.4.7 read Distributed Ownership](#247-read-distributed-ownership)
 - [2.5 Module 2 Review & Evaluation](#25-module-2-review--evaluation)
 
 # 2.1 Distributed Business Entities
@@ -353,5 +361,93 @@ bAirbnb
   - 6 payments
   - 7 secure access to property
 
+## 2.3.3 read DApps
+
 # 2.4 Strategic Approaches to Intellectual Property
+
+## 2.4.1 Patents and Blockchain Innovation
+
+some of the strategic approaches to managing intellectual property in the blockchain ecosystem. 
+- obtaining patents is expensive and can be speculative. Software innovation changes fast. A brilliant invention might soon be obsolete.
+- database of filed patent applications
+  - The community would contribute to a database of filed patent applications. Anyone can check to see what's been published in a given field to avoid directing resources at the same subject matter. 
+- Patent pool
+  - It seems logical to use innovative technology to advance our technology law. Using a blockchain for patent pools help streamline licensing, negotiation, and enforcement. Automated review systems become more feasible. High-fidelity tracking of changes is built-in, and it provides a testing bed for non-blockchain industries to move their pools to a blockchain system.
+
+
+## 2.4.2 Practitioner Perspective - Rolf Hoefer: Intellectual Property
+
+## 2.4.3 read Patents and Blockchain Innovation
+
+Patents and Blockchain Innovation
+Recommended Reading
+
+Isaacson, T. M. (2018, January). Patents and Blockchain Innovation: Strategic Approaches to Intellectual Property (BRI Big Idea Whitepaper). Blockchain Research Institute.
+
+
+Isaacson_Patents and Blockchain Innovation_Blockchain Research Institute.pdf
+PDF File
+
+
+## 2.4.4 Payments, Attribution, and Licensing
+
+how blockchain could transform the management of intellectual property rights. From attributions and payments, to licensing and the management of rights.
+- Collecting royalties could be fast and transparent on the blockchain.
+  - Smart contracts could track these different uses of a song and meter out royalties to the artists and to other stakeholders, all without human agents. That's the future on royalty payments on the blockchain.
+- Copyright is automatic upon creation of a work. But the current registration process can be costly and involve multiple jurisdictions.
+    - Blockchain platforms make global registration easier. 
+- Streaming content would really mean streaming payments to artists.
+- Digital certificates registered on a blockchain could store data on the rights status of a work, including conditions for use and for re-use. 
+- gaming
+- Ease of licensing is important in the world of digital design.
+
+## 2.4.5 read Payments, Attribution, and Licensing
+
+Payments, Attribution, and Licensing
+Recommended Reading
+
+O’Dair, M. (2017, November). How Blockchain is Transforming the Creative Industries: Copyright and Rights Management in the Second Era of the Internet (BRI Big Idea Whitepaper). Blockchain Research Institute.
+
+## 2.4.6 Distributed Ownership
+
+we've touched on blockchains potential for managing intellectual property, royalty payments, and licensing. In this section, we explore its impact on creative collaboration. 
+- The blockchain could automate resale royalties and event ticketing. It could transform how organizations monetize fund data and create a more inclusive model for writes data. The technology could even help creators to find new sources of capital and new models of distributed ownership. 
+- The blockchain makes decentralized collaboration possible for groups on a large scale. 
+  - One crucial feature of blockchain is the ability to align the incentives of people who don't know or even trust each other. 
+-  All-new forms of distributed autonomous art could be born on the blockchain. 
+-  the Plantoid is a self-propagating artwork acting as an artist, art dealer, and agent. It achieves its own financial autonomy. It's the first instance of distributed autonomous art.
+
+## 2.4.7 read Distributed Ownership
+
+Distributed Ownership
+Recommended Reading
+
+Mustatea, K. (2018, January 31). Meet Plantoid: Blockchain Art With A Life Of Its Own. Forbes. Retrieved from:  https://www.forbes.com/sites/katmustatea/2018/01/31/meet-plantoid-blockchain-art-with-a-life-of-its-own/ 
+
 # 2.5 Module 2 Review & Evaluation
+
+- how smart contracts can do tasks ranging from the simple to the complex with little human involvement. 
+  - They can act as what we call autonomous agents on behalf of whoever set them in motion. 
+  - They have potential to form a distributed autonomous enterprise, co-operating a complex blockchain-based ecosystems. 
+  - But they need some human governance, 
+    - as we saw in the case of the DAO or D-A-O. 
+- Distributed applications run across a network of devices forming open network enterprises for creating value. 
+- seven types of business models. 
+  - 1 was the blockchain co-operative, 
+    - like a blockchain- based Airbnb or Uber, 
+      - where people pool their resources and share all of the value created. 
+  - 2, was for intellectual property management, 
+    - where startups like VeriSat help creators manage their copyrights, trademarks, and patents on the blockchain. 
+  - 3 was peer production. 
+    - Blockchain-based versions of platforms like Linux or Reddit except everyone is rewarded for the value they create, and docked for bad behavior. 
+  - 4, was micro metering, 
+    - where people can rent out their Wi-Fi hotspot, excess electricity, computer processing power, and other assets when they're not in use. 
+  - 5, was the platform building. 
+    - Creating open source platforms for others to use and to build upon. 
+  - 6 was the making of things on the blockchain. 
+    - Coordinating capital, talent, and assets to manufacture goods and deliver services from design right through to final usage. 
+  - 7 was enterprise collaboration, 
+    - where we can expect the rise of new collaborative platforms for use within and between enterprises. These sets of applications and tools will be very different from those of today because they'll be based on an employee owned sovereign identity and powered by blockchain. 
+- Blockchain technology distributes ownership, supporting new forms of collaboration, and free of centralized control.
+
+[Test](test.md)

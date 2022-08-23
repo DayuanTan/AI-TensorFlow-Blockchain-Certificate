@@ -1,0 +1,39 @@
+How do you approach protecting the IP in your
+blockchain solution? So there's two ways
+of approaching that. The first way is to
+say that some of the technological innovations
+that we develop natively, we acquire IP about it, and then we make sure that
+no one else is able to use it. So, it's not so much that we
+tried to keep people out, it's more that we make
+sure that other people cannot keep us out for
+something that we did. I think the second and more
+interesting idea is that initially what we're trying
+to build as a company is to develop a protocol level system. So, as opposed to building
+a very specific application, we're trying to build
+an underlying system that allows other people to build
+applications on top of it. The bet is that once we develop this underlying system,
+we then open sources, meaning anyone can copy it
+almost for free by just the clicking a button on GitHub, and they have the entire system. The entire technological
+expertise and the entire output is basically hosted and freely
+available for anybody. So, how is it that
+we still make money? The way that typically
+intelligent investors is that, as an organization we
+develop a protocol that's going to put the
+organization out of business. But the organization
+is going to have to repurpose itself to then provide services on top
+of this underlying protocol. The reason why this
+is important is because these
+underlying protocols are systems very often
+benefit from network effects. So, you yourself, if you try
+to keep other people out, are very unlikely to succeed. You need many, many
+other people to join you because
+the more people join you, the more exponentially
+stronger the network gets. Because you were
+the one who develop this protocol in the UK
+in the first place, and because you have
+some goodwill for developing it, and because you've
+essentially been working continuously to provide additional services on
+top of this protocol, the bet is that people are going to use this protocol with you to extract these additional
+premium services as opposed to
+just a free services of keyless case just login into the crypton blockchain
+technology walls.
