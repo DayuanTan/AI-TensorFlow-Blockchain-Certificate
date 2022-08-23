@@ -86,10 +86,21 @@ You will be able to
       - Transaction Costs and the Structure of the Firm
   - 3. Opportunities for Blockchain
       - Search, Contracting, Coordination, Building Trust
-  - 4 Corporate Boundary Decisions
+  - 4. Corporate Boundary Decisions
       - Determining Corporate Boundaries
-  - 5 Module 1 Recap
+  - 5. Module 1 Recap
 
-# [Week/Module 2 Distributed Business Entities](Blockchain_and_Business_Applications_and_Implications/week2-Distributed_business_entites/module2.md)
+- [Module 2 Distributed Business Entities](Blockchain_and_Business_Applications_and_Implications/week2-Distributed_business_entites/module2.md)
 
 
+# 4. [Blockchain: Understanding Its Uses and Implications](Blockchain_Understanding_Its_Uses_and_Implications/README.md) by The Linux Foundation
+
+
+
+
+- [Chapter 1. Introduction to Blockchain](Blockchain_Understanding_Its_Uses_and_Implications/Chapter1.Introduction_to_Blockchain/README.md)
+- [Chapter 2. Blockchain Mechanics](Blockchain_Understanding_Its_Uses_and_Implications/Chapter2.Blockchain_Mechanics/README.md)
+- [Chapter 3. Blockchain Functions](Blockchain_Understanding_Its_Uses_and_Implications/Chapter3.Blockchain_Functions/README.md)
+- [Chapter 4. Blockchains and Governance](Blockchain_Understanding_Its_Uses_and_Implications/Chapter4.Blockchains_and_Governance/README.md)
+- [Chapter 5. Blockchain Problem Solving and Future Trends](Blockchain_Understanding_Its_Uses_and_Implications/Chapter5.Blockchain_Problem_Solving_and_Future_Trends/README.md)
+- [Chapter 6. Blockchain Use Cases](Blockchain_Understanding_Its_Uses_and_Implications/Chapter6.Blockchain_Use_Cases/README.md)
