@@ -14,9 +14,19 @@ Understand what blockchain is, and gain an appreciation for this transformative 
 
 [Chapter 1. Introduction to Blockchain](Chapter1.Introduction_to_Blockchain/README.md)
 
+- Introduction to Blockchain and The Early Internet
+- Blockchain Basics
+- Career Opportunities in Blockchain
+- Blockchain Use Cases
+- Summary
+
 [Chapter 2. Blockchain Mechanics](Chapter2.Blockchain_Mechanics/README.md)
 
-
+- Introduction
+- Understanding Ledgers
+- Cryptography
+- Transparency and Immutability
+- Summary
 
 [Chapter 3. Blockchain Functions](Chapter3.Blockchain_Functions/README.md)
 
