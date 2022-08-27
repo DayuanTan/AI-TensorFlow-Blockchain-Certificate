@@ -63,3 +63,6 @@ You will be able to
   - 2.4.6 Distributed Ownership
   - 2.4.7 read Distributed Ownership
 - 2.5 Module 2 Review & Evaluation
+
+# [Week/Module 3 Blockchain and C-Suite](week3-Blockchain_and_C_Suite/module3.md)
+

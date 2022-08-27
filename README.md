@@ -90,7 +90,7 @@ You will be able to
   - Distributed Business Entities
   - New Business Models; DApps; Strategic Approaches to Intellectual Property
   
-  
+- [Module 3 Blockchain and C-Suite](Blockchain_and_Business_Applications_and_Implications/week3-Blockchain_and_C_Suite/module3.md)  
 
 
 # 4. [Blockchain: Understanding Its Uses and Implications](Blockchain_Understanding_Its_Uses_and_Implications/README.md) by The Linux Foundation
