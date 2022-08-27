@@ -1,5 +1,15 @@
 # Chapter 2. Blockchain Mechanics
 
+## Contents
+- [Chapter 2. Blockchain Mechanics](#chapter-2-blockchain-mechanics)
+  - [Contents](#contents)
+  - [Introduction](#introduction)
+  - [Understanding Ledgers](#understanding-ledgers)
+  - [Cryptography](#cryptography)
+  - [Transparency and Immutability](#transparency-and-immutability)
+  - [Knowledge Check](#knowledge-check)
+  - [Summary](#summary)
+
 ## Introduction
 
 1. Chapter Overview
@@ -42,7 +52,15 @@ By the end of this chapter, you should be able to:
     - we're just combining old technology in new and creative ways to create a brand new solutions development platform.
 11. Early Use of Cryptography: Caesar Cipher
 12. Cryptography Key Terms
-13. Video: Cryptography Basics
+13. Video: Cryptography Basics 
+    - two big takeaways:
+      - cryptography is normally a two-way function with four components: the secret, the key, the function, and the cipher
+      - a subclass of cryptographic functions called cryptographic hash functions, which exist as one-way functions, which can only encrypt the secret,
+
+14. Cryptographic Functions
+
+15. Video: Byzantine Fault Tolerance
+
 
 ## Transparency and Immutability
 

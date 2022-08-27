@@ -30,18 +30,45 @@ Understand what blockchain is, and gain an appreciation for this transformative 
 
 [Chapter 3. Blockchain Functions](Chapter3.Blockchain_Functions/README.md)
 
+- Introduction
+- Smart Contracts
+- Blockchain Security
+- Public and Permissioned Blockchains
+- The Blockchain Transaction
+- Consensus
+- Summary
 
 
 [Chapter 4. Blockchains and Governance](Chapter4.Blockchains_and_Governance/README.md)
 
 
+- Introduction
+- Open Source Code
+- Governance
+- Identity and Anonymity on Blockchain
+- Knowledge Check
+- Summary
+
 
 [Chapter 5. Blockchain Problem Solving and Future Trends](Chapter5.Blockchain_Problem_Solving_and_Future_Trends/README.md)
 
-
+- Introduction
+- Problems Blockchain Solves
+- Digital Currencies
+- Future Trends
+- Knowledge Check
+- Summary
 
 [Chapter 6. Blockchain Use Cases](Chapter6.Blockchain_Use_Cases/README.md)
 
+- Introduction
+- Blockchain in Practice
+- Enterprise Solutions
+- Public Sector Solutions
+- Social Impact Solutions
+- Platform Developer’s Solutions
+- End User Solutions
+- Future of Blockchain
+- Knowledge Check
+- Summary
 
-
-Final Exam

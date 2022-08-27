@@ -79,18 +79,18 @@ You will be able to
 - identify seven qualities that a region in the world needs in order to attract technology startups and to build a vibrant blockchain ecosystem.
 
 - [Module 1 Re-achitecting the firm](Blockchain_and_Business_Applications_and_Implications/week1-Re-achitecting-the-firm/module1.md)
-  - 1. Course Introduction
-  - 2. Decentralizing the Enterprise 
-      - Re-design the corporation
-      - Decentralizing the Enterprise
-      - Transaction Costs and the Structure of the Firm
-  - 3. Opportunities for Blockchain
+  - Decentralizing the Enterprise 
+      - Re-design the corporation; Decentralizing the Enterprise; Transaction Costs and the Structure of the Firm
+  - Opportunities for Blockchain
       - Search, Contracting, Coordination, Building Trust
-  - 4. Corporate Boundary Decisions
+  - Corporate Boundary Decisions
       - Determining Corporate Boundaries
-  - 5. Module 1 Recap
-
+  
 - [Module 2 Distributed Business Entities](Blockchain_and_Business_Applications_and_Implications/week2-Distributed_business_entites/module2.md)
+  - Distributed Business Entities
+  - New Business Models; DApps; Strategic Approaches to Intellectual Property
+  
+  
 
 
 # 4. [Blockchain: Understanding Its Uses and Implications](Blockchain_Understanding_Its_Uses_and_Implications/README.md) by The Linux Foundation
@@ -99,8 +99,14 @@ You will be able to
 
 
 - [Chapter 1. Introduction to Blockchain](Blockchain_Understanding_Its_Uses_and_Implications/Chapter1.Introduction_to_Blockchain/README.md)
+  - Internet history; Blockchain features; Blockchain usecases
 - [Chapter 2. Blockchain Mechanics](Blockchain_Understanding_Its_Uses_and_Implications/Chapter2.Blockchain_Mechanics/README.md)
+  - Ledgers; Cryptograhpy; Transparency and Immutability
 - [Chapter 3. Blockchain Functions](Blockchain_Understanding_Its_Uses_and_Implications/Chapter3.Blockchain_Functions/README.md)
+  - Smart Contracts; Blockchain Security; Public and Permissioned Blockchains; The Blockchain Transaction; Consensus
 - [Chapter 4. Blockchains and Governance](Blockchain_Understanding_Its_Uses_and_Implications/Chapter4.Blockchains_and_Governance/README.md)
+  - Open Source Code; Governance; Identity and Anonymity on Blockchain
 - [Chapter 5. Blockchain Problem Solving and Future Trends](Blockchain_Understanding_Its_Uses_and_Implications/Chapter5.Blockchain_Problem_Solving_and_Future_Trends/README.md)
+  - Problems Blockchain Solves; Digital Currencies; Future Trends
 - [Chapter 6. Blockchain Use Cases](Blockchain_Understanding_Its_Uses_and_Implications/Chapter6.Blockchain_Use_Cases/README.md)
+  - Blockchain in Practice; Enterprise Solutions; Public Sector Solutions; Social Impact Solutions; Platform Developer’s Solutions; End User Solutions; Future of Blockchain

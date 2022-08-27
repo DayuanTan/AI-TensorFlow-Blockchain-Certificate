@@ -35,3 +35,31 @@ You will be able to
 - 5 Module 1 Recap
 
 # [Week/Module 2 Distributed Business Entities](week2-Distributed_business_entites/module2.md)
+
+- Module 2 Distributed Business Entities
+- 2.1 Distributed Business Entities
+  - 2.1.1 Module 2 Overview
+  - 2.1.2 Distributed Business Entities
+  - 2.1.3 The DAO: A Cautionary Tale
+  - 2.1.4 Read - Distributed Business Entities
+- 2.2 New Business Models
+  - 2.2.1 New Business Models Part 1
+  - 2.2.2 Read
+  - 2.2.3 New Business Models Part 2
+  - 2.2.4 Read
+  - 2.2.5 Test
+  - 2.2.6 Practitioner Perspective - Yaniv Neu-Ner: Business Model for Counter
+  - 2.2.7 Practitioner Perspective - Oleg Fomenko: Business Model for Sweatcoin
+- 2.3 DApps
+  - 2.3.1 What Are DApps?
+  - 2.3.2 Example: bAirbnb
+  - 2.3.3 read DApps
+- 2.4 Strategic Approaches to Intellectual Property
+  - 2.4.1 Patents and Blockchain Innovation
+  - 2.4.2 Practitioner Perspective - Rolf Hoefer: Intellectual Property
+  - 2.4.3 read Patents and Blockchain Innovation
+  - 2.4.4 Payments, Attribution, and Licensing
+  - 2.4.5 read Payments, Attribution, and Licensing
+  - 2.4.6 Distributed Ownership
+  - 2.4.7 read Distributed Ownership
+- 2.5 Module 2 Review & Evaluation
