@@ -1,0 +1,240 @@
+0
+00:00:02,340 --> 00:00:11,500
+In this section, we're going to discuss the core components of the blockchain, starting with a high-level view of the blockchain components.
+
+1
+00:00:11,500 --> 00:00:14,640
+The first blockchain component that we're going to look at it's the ledger.
+
+2
+00:00:14,640 --> 00:00:20,020
+However, before we discuss the ledger, let's discuss briefly the history of the ledger.
+
+3
+00:00:20,020 --> 00:00:24,060
+The story of blockchain is tightly coupled with the story of accounting.
+
+4
+00:00:24,060 --> 00:00:35,440
+Historically, humans started off with no way to prove ownership and we began with a single entry accounting system.
+
+5
+00:00:35,440 --> 00:00:43,180
+The single entry accounting system for the first time in human history allowed us to prove ownership of the asset.
+
+6
+00:00:43,180 --> 00:00:47,540
+The ledger was associated with an owner.
+
+7
+00:00:47,540 --> 00:00:51,460
+The single entry accounting worked for centuries.
+
+8
+00:00:51,460 --> 00:01:02,960
+The issue with single entry accounting is that it mandated that there was a single authority, which is the reason why there was the necessity for a king or a queen to control the ledger.
+
+9
+00:01:02,980 --> 00:01:11,300
+In order to have trade, right, at the international level, we needed to have at least two authorities.
+
+10
+00:01:11,300 --> 00:01:26,760
+So, for instance, for England to do trade with France, we had the owner of the ledger, the single entry ledger, in England for instance, doing trade with the king or queen of France, who also had their ledger.
+
+11
+00:01:26,760 --> 00:01:39,040
+And so, we needed a new form of accounting, and that's where double entry accounting came in, which was in use up until very recently, now, within the last 40 years.
+
+12
+00:01:39,040 --> 00:01:51,680
+What blockchain is? Blockchain is the very first implementation of triple entry accounting, where we have an asset being recorded on the ledger in the context of a transaction.
+
+13
+00:01:51,680 --> 00:02:03,480
+The third entry and triple entry accounting is cryptography, where we have a cryptographic account of the transaction stored permanently and immutably on the ledger.
+
+14
+00:02:03,480 --> 00:02:08,580
+That's what the ledger is. A ledger is a collection of transactions.
+
+15
+00:02:08,580 --> 00:02:17,200
+It is not a collection of assets. Assets are part of a transaction, but the ledger records the transaction.
+
+16
+00:02:17,200 --> 00:02:25,520
+In blockchain, the differentiator is that no one owns the ledger, or all of the participants own the ledger.
+
+17
+00:02:25,520 --> 00:02:37,300
+The ledger is distributed. It is, in other words, it's decentralized. So, there's a copy of the ledger that exists on every node that exists on the network.
+
+18
+00:02:37,300 --> 00:02:45,780
+Said simply, the ledger is a distributed immutable record of a collection of transactions.
+
+19
+00:02:45,780 --> 00:02:49,140
+Bitcoin is the most popular asset.
+
+20
+00:02:49,140 --> 00:03:01,780
+It was the first asset to be recorded as a transaction on a blockchain ledger, and it remains the most popular, at least in terms of market share.
+
+21
+00:03:01,780 --> 00:03:03,940
+That's what the ledger is.
+
+22
+00:03:03,940 --> 00:03:17,360
+As we move to more modern blockchains, we start to look at blockchains such as Ethereum, which not only records the asset on the blockchain,
+
+23
+00:03:17,360 --> 00:03:31,340
+Ethereum and other public blockchains like Ethereum, they also allow you to have a permanent and immutable collection of code, also known as a smart contract, that runs on the blockchain.
+
+24
+00:03:31,340 --> 00:03:40,300
+So, the ledger stores the assets, the transactions that are on the blockchain, and it also holds the code.
+
+25
+00:03:40,300 --> 00:03:43,700
+The code that's stored on the blockchain is a smart contract.
+
+26
+00:03:43,700 --> 00:03:47,680
+Again, a smart contract is a program that runs on the blockchain.
+
+27
+00:03:47,680 --> 00:03:50,600
+The blockchain is a network.
+
+28
+00:03:50,600 --> 00:03:59,680
+The blockchain is a ... A public blockchain is equivalent to the Internet, complete with the its own set of protocols, etc.
+
+29
+00:03:59,680 --> 00:04:03,960
+Private blockchains are more synonymous with an intranet.
+
+30
+00:04:03,960 --> 00:04:15,360
+It is... just like we have a use case for public blockchains and public internet, we also have use cases for private blockchains and an intranet, if we're gonna stay with that analogy.
+
+31
+00:04:15,360 --> 00:04:25,340
+On each of these networks there are nodes. The nodes are going to be synonymous with the computers that make up the network.
+
+32
+00:04:25,340 --> 00:04:29,040
+On the nodes, they are put together by a collection of protocols.
+
+33
+00:04:29,040 --> 00:04:37,000
+Each blockchain has its own set of protocols that defines not only the nodes, but how those nodes communicate with each other.
+
+34
+00:04:37,000 --> 00:04:40,840
+So, when you hear the term "peer network", that's what we're talking about;
+
+35
+00:04:40,840 --> 00:04:48,820
+we're talking about how that blockchain is put together, what are the protocols that define the peers, and how those peers interact.
+
+36
+00:04:48,820 --> 00:04:59,140
+Those peer networks, they store the ledger, they provide the updates, they effectively, they maintain the ledger.
+
+37
+00:04:59,140 --> 00:05:03,856
+That's what a peer is on a peer network.
+
+38
+00:05:03,860 --> 00:05:14,660
+On a public blockchain, it's public, and, by definition, that means that anyone is allowed to join and participate in that public blockchain.
+
+39
+00:05:14,660 --> 00:05:18,700
+On the private blockchain, however, the situation is a little different.
+
+40
+00:05:18,700 --> 00:05:24,420
+On the private blockchain, we have to control who can access your network.
+
+41
+00:05:24,420 --> 00:05:33,420
+Just like no company would allow... no company would allow anyone to access their private intranet,
+
+42
+00:05:33,420 --> 00:05:40,200
+in a private blockchain you have to be asked to join, or you have to have permission to join.
+
+43
+00:05:40,200 --> 00:05:48,820
+So, a membership service is a gateway that allows users and components to enter a private blockchain.
+
+44
+00:05:48,820 --> 00:05:55,560
+So, a membership service or a membership service provider provides the services of user authentication,
+
+45
+00:05:55,560 --> 00:06:03,980
+user authorization, component authentication, component authorization, more specifically Identity Management.
+
+46
+00:06:03,980 --> 00:06:10,420
+If we're talking about a private blockchain, then we have to control who the members are, and not only the members.
+
+47
+00:06:10,420 --> 00:06:15,200
+We have to also control the nodes that access the blockchain.
+
+48
+00:06:15,200 --> 00:06:25,080
+So, as we're talking about membership, one of the key components of membership is we have to allow certain users to access the blockchain.
+
+49
+00:06:25,080 --> 00:06:30,520
+In order to do that, we have to have a definitive identity for each user.
+
+50
+00:06:30,520 --> 00:06:33,940
+In the blockchain, that's achieved in two ways.
+
+51
+00:06:33,940 --> 00:06:42,560
+One, we use PKI, to provide a public key. And that public key represents the identity of the user.
+
+52
+00:06:42,560 --> 00:06:48,060
+But we also need a private key that each user can hold to prove their identity.
+
+53
+00:06:48,060 --> 00:07:01,760
+That private key is stored in a wallet. And a wallet is a collection of the user credentials. It is effectively ... it encapsulates private keys.
+
+54
+00:07:01,760 --> 00:07:09,080
+Additionally, in the blockchain... blockchains are self-contained, or they should be self-contained.
+
+55
+00:07:09,080 --> 00:07:18,100
+And so, one of the key aspects for developing on a blockchain or using a blockchain is we have to have a way to interact with the blockchain.
+
+56
+00:07:18,100 --> 00:07:21,368
+And one of the ways that we do that is through events.
+
+57
+00:07:21,368 --> 00:07:29,920
+So, when something occurs on the blockchain, either public blockchains... most public blockchains anyway, and certainly all private blockchains,
+
+58
+00:07:29,920 --> 00:07:35,720
+they have events that are fired when certain key actions are triggered.
+
+59
+00:07:35,720 --> 00:07:51,200
+This allows end-users, other systems, other users, different components to be able to act off of the events that come from an update on a blockchain.
+

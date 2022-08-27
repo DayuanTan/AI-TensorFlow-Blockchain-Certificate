@@ -1,0 +1,60 @@
+In this section, we're going to discuss the core components of the blockchain, starting with a high-level view of the blockchain components.
+The first blockchain component that we're going to look at it's the ledger.
+However, before we discuss the ledger, let's discuss briefly the history of the ledger.
+The story of blockchain is tightly coupled with the story of accounting.
+Historically, humans started off with no way to prove ownership and we began with a single entry accounting system.
+The single entry accounting system for the first time in human history allowed us to prove ownership of the asset.
+The ledger was associated with an owner.
+The single entry accounting worked for centuries.
+The issue with single entry accounting is that it mandated that there was a single authority, which is the reason why there was the necessity for a king or a queen to control the ledger.
+In order to have trade, right, at the international level, we needed to have at least two authorities.
+So, for instance, for England to do trade with France, we had the owner of the ledger, the single entry ledger, in England for instance, doing trade with the king or queen of France, who also had their ledger.
+And so, we needed a new form of accounting, and that's where double entry accounting came in, which was in use up until very recently, now, within the last 40 years.
+What blockchain is? Blockchain is the very first implementation of triple entry accounting, where we have an asset being recorded on the ledger in the context of a transaction.
+The third entry and triple entry accounting is cryptography, where we have a cryptographic account of the transaction stored permanently and immutably on the ledger.
+That's what the ledger is. A ledger is a collection of transactions.
+It is not a collection of assets. Assets are part of a transaction, but the ledger records the transaction.
+In blockchain, the differentiator is that no one owns the ledger, or all of the participants own the ledger.
+The ledger is distributed. It is, in other words, it's decentralized. So, there's a copy of the ledger that exists on every node that exists on the network.
+Said simply, the ledger is a distributed immutable record of a collection of transactions.
+Bitcoin is the most popular asset.
+It was the first asset to be recorded as a transaction on a blockchain ledger, and it remains the most popular, at least in terms of market share.
+That's what the ledger is.
+As we move to more modern blockchains, we start to look at blockchains such as Ethereum, which not only records the asset on the blockchain,
+Ethereum and other public blockchains like Ethereum, they also allow you to have a permanent and immutable collection of code, also known as a smart contract, that runs on the blockchain.
+So, the ledger stores the assets, the transactions that are on the blockchain, and it also holds the code.
+The code that's stored on the blockchain is a smart contract.
+Again, a smart contract is a program that runs on the blockchain.
+The blockchain is a network.
+The blockchain is a ... A public blockchain is equivalent to the Internet, complete with the its own set of protocols, etc.
+Private blockchains are more synonymous with an intranet.
+It is... just like we have a use case for public blockchains and public internet, we also have use cases for private blockchains and an intranet, if we're gonna stay with that analogy.
+On each of these networks there are nodes. The nodes are going to be synonymous with the computers that make up the network.
+On the nodes, they are put together by a collection of protocols.
+Each blockchain has its own set of protocols that defines not only the nodes, but how those nodes communicate with each other.
+So, when you hear the term "peer network", that's what we're talking about;
+we're talking about how that blockchain is put together, what are the protocols that define the peers, and how those peers interact.
+Those peer networks, they store the ledger, they provide the updates, they effectively, they maintain the ledger.
+That's what a peer is on a peer network.
+On a public blockchain, it's public, and, by definition, that means that anyone is allowed to join and participate in that public blockchain.
+On the private blockchain, however, the situation is a little different.
+On the private blockchain, we have to control who can access your network.
+Just like no company would allow... no company would allow anyone to access their private intranet,
+in a private blockchain you have to be asked to join, or you have to have permission to join.
+So, a membership service is a gateway that allows users and components to enter a private blockchain.
+So, a membership service or a membership service provider provides the services of user authentication,
+user authorization, component authentication, component authorization, more specifically Identity Management.
+If we're talking about a private blockchain, then we have to control who the members are, and not only the members.
+We have to also control the nodes that access the blockchain.
+So, as we're talking about membership, one of the key components of membership is we have to allow certain users to access the blockchain.
+In order to do that, we have to have a definitive identity for each user.
+In the blockchain, that's achieved in two ways.
+One, we use PKI, to provide a public key. And that public key represents the identity of the user.
+But we also need a private key that each user can hold to prove their identity.
+That private key is stored in a wallet. And a wallet is a collection of the user credentials. It is effectively ... it encapsulates private keys.
+Additionally, in the blockchain... blockchains are self-contained, or they should be self-contained.
+And so, one of the key aspects for developing on a blockchain or using a blockchain is we have to have a way to interact with the blockchain.
+And one of the ways that we do that is through events.
+So, when something occurs on the blockchain, either public blockchains... most public blockchains anyway, and certainly all private blockchains,
+they have events that are fired when certain key actions are triggered.
+This allows end-users, other systems, other users, different components to be able to act off of the events that come from an update on a blockchain.

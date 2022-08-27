@@ -1,0 +1,10 @@
+A great way to think of blockchain is to think of blockchain as another layer of  the Internet, a layer that enables secure and trusted records and transactions to occur,
+which is why a lot of people associate the word blockchain with the  word trust.
+Blockchain creates a layer of trust between untrusted parties.
+Without blockchain to create trusted records and transactions, a third party intermediary is necessary.
+Blockchain eliminates the need for a centralized institution to act as intermediary, and instead uses cryptography and collaboration to create that trust.
+In an earlier chapter of this course we spoke about collaboration through distributed ledgers.
+Now, we will be taking a further look at how cryptography is used in blockchain to create the second element necessary for blockchain to be a source of trust.
+Information on the blockchain is stored on the ledger using cryptography.
+It can be accessed using keys and cryptographic signatures.
+Now, let's take a look into some of the key concepts of cryptography that are utilized with blockchain.

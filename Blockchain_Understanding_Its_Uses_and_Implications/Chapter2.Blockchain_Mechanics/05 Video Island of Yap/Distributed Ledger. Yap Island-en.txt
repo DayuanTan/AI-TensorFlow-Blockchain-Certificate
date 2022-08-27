@@ -1,0 +1,22 @@
+The concept of distributed ledge's has been around for hundreds of years.
+To understand the basics of blockchain, it's important to understand how distributed ledgers work.
+A distributed ledger is a collection of data with no central administrator that has been agreed upon by consensus.
+To understand more details, let's take a trip way back, back into 500 AD on the island of Yap.
+The Yapese people used a very unique form of currency: the Rai stone.
+Each of these stones weighed around 200 kilos, making them difficult to move.
+To exchange them as money for goods or services, they divided the stones into sections and then, they would announce to every adult on the island who owned what part of each stone.
+Each adult had to keep a mental ledger of ownership.
+Every time any Yapese conducted a trade, an announcement was made to the entire tribe.
+Each member of the tribe would then update their mental ledger.
+In today's description, this would be called a distributed ledger.
+All Rai stone ownership was known to everyone, and that knowledge was updated whenever a transaction was made.
+So why didn't just one member of the tribe keep track of the Rai stones?
+What if that main recordkeeper was sick, unable to do their job, or was found to be dishonest?
+If the only copy of the ledger was changed by any means, wealth would be lost or gained unfairly.
+The Yapese knew their distributed ledger system safeguarded it from tampering.
+Since all the Yapese knew who owned what, it would be very difficult to fool everyone on the island.
+Even if one tribe member moved away, the tribe still had multiple copies of their mental ledger.
+In this regard, the ledger was fault tolerant and could not be easily changed, corrupted, or lost.
+The tribe also decided that stones didn't have to be on the island to hold value.
+One day, a stone fell into the ocean and the Yapese decided that this stone, even though it could not be seen, still held value and could still be traded.
+This system of consensus by the majority of the adults on the island with no central administrator is one of the first examples of distributed ledger.

@@ -1,0 +1,88 @@
+0
+00:00:02,810 --> 00:00:07,680
+The concept of distributed ledge's has been around for hundreds of years.
+
+1
+00:00:07,680 --> 00:00:13,420
+To understand the basics of blockchain, it's important to understand how distributed ledgers work.
+
+2
+00:00:13,420 --> 00:00:21,360
+A distributed ledger is a collection of data with no central administrator that has been agreed upon by consensus.
+
+3
+00:00:21,360 --> 00:00:30,040
+To understand more details, let's take a trip way back, back into 500 AD on the island of Yap.
+
+4
+00:00:30,040 --> 00:00:35,600
+The Yapese people used a very unique form of currency: the Rai stone.
+
+5
+00:00:35,600 --> 00:00:40,940
+Each of these stones weighed around 200 kilos, making them difficult to move.
+
+6
+00:00:40,940 --> 00:00:52,240
+To exchange them as money for goods or services, they divided the stones into sections and then, they would announce to every adult on the island who owned what part of each stone.
+
+7
+00:00:52,240 --> 00:00:55,680
+Each adult had to keep a mental ledger of ownership.
+
+8
+00:00:55,680 --> 00:01:01,880
+Every time any Yapese conducted a trade, an announcement was made to the entire tribe.
+
+9
+00:01:01,880 --> 00:01:06,380
+Each member of the tribe would then update their mental ledger.
+
+10
+00:01:06,380 --> 00:01:10,500
+In today's description, this would be called a distributed ledger.
+
+11
+00:01:10,500 --> 00:01:18,120
+All Rai stone ownership was known to everyone, and that knowledge was updated whenever a transaction was made.
+
+12
+00:01:18,120 --> 00:01:22,480
+So why didn't just one member of the tribe keep track of the Rai stones?
+
+13
+00:01:22,480 --> 00:01:29,660
+What if that main recordkeeper was sick, unable to do their job, or was found to be dishonest?
+
+14
+00:01:29,660 --> 00:01:37,880
+If the only copy of the ledger was changed by any means, wealth would be lost or gained unfairly.
+
+15
+00:01:37,880 --> 00:01:42,840
+The Yapese knew their distributed ledger system safeguarded it from tampering.
+
+16
+00:01:42,840 --> 00:01:49,280
+Since all the Yapese knew who owned what, it would be very difficult to fool everyone on the island.
+
+17
+00:01:49,280 --> 00:01:56,115
+Even if one tribe member moved away, the tribe still had multiple copies of their mental ledger.
+
+18
+00:01:56,120 --> 00:02:02,820
+In this regard, the ledger was fault tolerant and could not be easily changed, corrupted, or lost.
+
+19
+00:02:02,820 --> 00:02:08,460
+The tribe also decided that stones didn't have to be on the island to hold value.
+
+20
+00:02:08,460 --> 00:02:18,760
+One day, a stone fell into the ocean and the Yapese decided that this stone, even though it could not be seen, still held value and could still be traded.
+
+21
+00:02:18,760 --> 00:02:31,509
+This system of consensus by the majority of the adults on the island with no central administrator is one of the first examples of distributed ledger.
+

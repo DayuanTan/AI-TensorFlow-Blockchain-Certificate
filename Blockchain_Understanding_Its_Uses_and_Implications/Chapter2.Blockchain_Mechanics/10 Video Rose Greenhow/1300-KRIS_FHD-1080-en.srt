@@ -1,0 +1,60 @@
+0
+00:00:03,080 --> 00:00:15,480
+So, one of the reoccurring themes in blockchain is that while blockchain itself may be new and cutting-edge, it's built out of nothing more than very old tried-and-true technology.
+
+1
+00:00:15,480 --> 00:00:19,420
+And one of the areas this is most true is in cryptography.
+
+2
+00:00:19,420 --> 00:00:25,360
+When a lot of people first get introduced to cryptography they think it's a very new cutting-edge science.
+
+3
+00:00:25,360 --> 00:00:31,700
+And while there are new developments being made everyday, cryptography itself is a very, very old science.
+
+4
+00:00:31,700 --> 00:00:36,200
+One great example of this is the story of Rose Greenhow.
+
+5
+00:00:36,200 --> 00:00:44,820
+Rose Greenhow lived in the Washington DC area during the Civil War, and she was actually an undercover spy for the Confederate Army.
+
+6
+00:00:44,820 --> 00:00:54,960
+Rose Greenhow was a wealthy socialite, and she threw many fancy, elaborate parties, and was also invited to many, many high-end social events.
+
+7
+00:00:54,960 --> 00:01:07,960
+Many of these events were attended by members of the Union Army, generals and strategists, who Rose pretended that she didn't know much about military strategy and wasn't too interested in the war in general.
+
+8
+00:01:07,960 --> 00:01:12,640
+In secret, at all these events she was soaking up all the information she could.
+
+9
+00:01:12,640 --> 00:01:17,980
+Rose actually developed her own method of encrypting data.
+
+10
+00:01:17,980 --> 00:01:31,100
+She came up with her own encryption scheme and she used this scheme to mail letters down to the Confederate Army, revealing the plans of the Union Army, troop positions, general high-level strategy, etc.
+
+11
+00:01:31,100 --> 00:01:42,120
+Rose did this for a number of years, until finally her encryption method was broken and she was actually one of the very first people who were arrested and prosecuted by the Pinkertons,
+
+12
+00:01:42,120 --> 00:01:44,640
+who later went on to form the Secret Service.
+
+13
+00:01:44,640 --> 00:01:52,640
+So, when you hear about blockchain and all the new cutting-edge things that it's doing, don't forget that it has its roots in very old technology,
+
+14
+00:01:52,640 --> 00:02:02,060
+and we're just combining old technology in new and creative ways to create a brand new solutions development platform.
+

@@ -1,0 +1,16 @@
+We've gone through history and seen how ledgers have evolved from stone tablets to double entry ledgers.
+We even took a look at the earliest known example of distributed ledgers.
+Now, let's discuss the evolution of the ledger in the modern world.
+Over the last few decades, ledgers have moved from the written form to the digital form, also known as computers and digitalized databases.
+This has allowed us to be interconnected - a truly global economy.
+Today, this recordkeeping system is being revolutionized again,
+going from the digital realm or centralized databases keeping track of transactions to information being stored across different locations across the globe.
+This system of record, information across a global network, is what we call decentralized ledgers.
+A decentralized ledger can be described as a ledger of any transactions or contracts supported by a decentralized network from across different locations and people, eliminating the need of a central authority.
+When a recording is made, every participant is notified of that recording.
+They now own an identical copy of the record of transactions, identical to every other node on that network.
+Every piece of information on a blockchain can be traced back to the exact moment when it was created.
+So, if an audit is necessary, information can be found and deemed reliable.
+This allows blockchain to serve as a truly reliable storage of public records and transactions, and therefore eliminating the need for a centralized authority of database of records.
+Now that we understand the foundational principle of blockchains - distributed ledgers, it's important to understand another important key element that makes blockchain so revolutionary: trust.
+Trust is created through two key principles: collaboration and cryptography, both of which will be discussed shortly.

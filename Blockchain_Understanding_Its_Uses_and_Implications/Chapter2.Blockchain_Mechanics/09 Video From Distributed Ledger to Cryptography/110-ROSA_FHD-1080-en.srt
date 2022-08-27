@@ -1,0 +1,40 @@
+0
+00:00:03,020 --> 00:00:13,460
+A great way to think of blockchain is to think of blockchain as another layer of  the Internet, a layer that enables secure and trusted records and transactions to occur,
+
+1
+00:00:13,460 --> 00:00:18,660
+which is why a lot of people associate the word blockchain with the  word trust.
+
+2
+00:00:18,660 --> 00:00:23,200
+Blockchain creates a layer of trust between untrusted parties.
+
+3
+00:00:23,200 --> 00:00:30,300
+Without blockchain to create trusted records and transactions, a third party intermediary is necessary.
+
+4
+00:00:30,300 --> 00:00:41,500
+Blockchain eliminates the need for a centralized institution to act as intermediary, and instead uses cryptography and collaboration to create that trust.
+
+5
+00:00:41,500 --> 00:00:47,280
+In an earlier chapter of this course we spoke about collaboration through distributed ledgers.
+
+6
+00:00:47,280 --> 00:00:57,100
+Now, we will be taking a further look at how cryptography is used in blockchain to create the second element necessary for blockchain to be a source of trust.
+
+7
+00:00:57,100 --> 00:01:01,220
+Information on the blockchain is stored on the ledger using cryptography.
+
+8
+00:01:01,220 --> 00:01:05,740
+It can be accessed using keys and cryptographic signatures.
+
+9
+00:01:05,740 --> 00:01:13,620
+Now, let's take a look into some of the key concepts of cryptography that are utilized with blockchain.
+
