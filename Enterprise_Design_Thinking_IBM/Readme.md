@@ -47,4 +47,4 @@ Scalable practices for enterprise team alignment
 ![](3.png)
 
 
-Design thinking [poster](EDT_poster.pdf) and [wallpaper](EDT_wallpaper.png).
+Design thinking [poster](EDT_poster.pdf) and [wallpaper](EDT_wallpaper.jpg).
