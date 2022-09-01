@@ -2,6 +2,16 @@
 
 # 1. The Enterprise Design Thinking Framework
 
+What is design thinking?
+- a human-centered, iterative method for problem solving
+
+Who can use design thinking?
+- Anyone
+
+What makes Enterprise Design Thinking different?
+- it’s more effective for enterprise teams and their problems
+
+
 Take a minute to explore the vocabulary of Enterprise Design Thinking.
 
 ## The Principles
