@@ -59,3 +59,15 @@ Scalable practices for enterprise team alignment
 ## Files
 - Design thinking [poster](EDT_poster.pdf) and [wallpaper](EDT_wallpaper.jpg).
 - [Introduction Summary](introduction-summary.pdf)
+
+
+# 2 What is important - A focus on user outcomes
+When you focus your team and your work around your users and their needs, you’re able to more easily decide what’s important. This makes your offerings more essential to the people who use them. If all you did was ask:
+
+- Who are our users?
+
+- What is their current experience?
+
+- How could it be improved?
+
+over and over again, you would get closer and closer to understanding your users and creating an ideal future for them. This allows you to put a more valuable offering into your client’s hands and into the market.
