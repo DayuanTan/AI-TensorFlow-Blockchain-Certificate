@@ -86,3 +86,16 @@ Observe to learn more
 
 [Summary - A focus on user 
 outcomes](a-focus-on-user-outcomes-summary.pdf)
+
+
+# 3. Restless reinvention 
+
+- Bias toward action
+- View everything as a prototype
+- Give form to ideas
+  - Everything starts as an idea, but you can’t learn much about an idea without giving it some form.
+  - **Visualize your ideas**, so that your team and users can understand them clearly. Making doesn’t have to be intricate. It can be as simple as a sketch on a napkin—but it does need to communicate the idea enough for someone else to understand it and give you feedback.
+- Low stakes, big reward
+  - iterate
+- Try it today
+  - The next time you have a new idea to share with your team, before you tell them about it, draw it on paper. Think about how a diagram or visual representation might convey something that words couldn’t. After all, a picture’s worth 1,000 words.
