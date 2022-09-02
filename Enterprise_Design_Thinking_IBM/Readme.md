@@ -90,7 +90,7 @@ outcomes](a-focus-on-user-outcomes-summary.pdf)
 
 # 3. Restless reinvention 
 
-- Bias toward action
+## Bias toward action
 - View everything as a prototype
 - Give form to ideas
   - Everything starts as an idea, but you can’t learn much about an idea without giving it some form.
@@ -99,3 +99,29 @@ outcomes](a-focus-on-user-outcomes-summary.pdf)
   - iterate
 - Try it today
   - The next time you have a new idea to share with your team, before you tell them about it, draw it on paper. Think about how a diagram or visual representation might convey something that words couldn’t. After all, a picture’s worth 1,000 words.
+
+
+## Actively seek great ideas
+- Quantity over quality
+  - The most brilliant ideas are found among a multitude of ideas. Don’t limit your brainstorming. Your first few ideas are going to be really obvious, so get them out onto paper first to make room for your more interesting ideas to flow. Don’t stop until you’ve come up with as many as possible, even if you think you have “the answer.”
+
+- Stretch your thinking
+  - ideating
+    - the practice of coming up with new ideas
+  - Ideas are everywhere. You have them everyday. And while there are no bad ideas, some ideas are better than others. Ideating takes practice. Your brain is a muscle (not really, but let’s pretend) that is really good at doing the things it’s done over and over again, but it needs to stretch and strengthen in new ways in order to do new things. 
+ 
+- “If at first, the idea is not absurd, then there is no hope for it.” - Albert Einstein
+  - Over the course of time, ideas ebb and flow. They’ll start as boring and move between absurd and brilliant. The more absurd the idea, the more likely it will spawn a brilliant one. So when ideating gets stale or hard, try a strange or silly prompt.
+
+![](6.png)
+
+## Take risks
+
+- Failing as opportunity
+  - Design thinking works in the same way. As you fail quickly and cheaply, you get closer and closer to the best solutions. In fact, if you’re not failing, you’re probably not doing anything interesting. When you recognize that it’s okay to be wrong, you open yourself up to new possibilities and better ideas.
+  - fail fask and cheap. fail early.
+
+[restless-reinvention-summary](restless-reinvention-summary.pdf)
+
+
+
