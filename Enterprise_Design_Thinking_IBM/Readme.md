@@ -180,3 +180,37 @@ See how different Playbacks look and feel depending on your desired outcome—fr
 
 
 [diverse-empowered-teams-summary](diverse-empowered-teams-summary.pdf)
+
+# 5. Make a plan
+
+## Define your problem
+Your first step to practicing Enterprise Design Thinking is to refocus your work as a user-centered problem.
+
+“A problem well-stated is a problem half-solved.” - Charles F. Kettering
+
+
+Put another way, the first step to answering the question is knowing what questions to ask. In design thinking, to solve for an actual need that exists in the world, you must take the time to write clear problem statements around your intent: What problem are you solving, for whom, and why?
+
+## Problem statements
+Problem statements help us answer the question: “Where do we start?”
+
+They put the user front and center, and align everyone around a clear issue to solve. However, they don’t dictate implementation or a specific solution. Problem statements are often the seeds of Hills.
+
+Here’s one formula for problem statements:
+- Our users struggle to achieve some task today because blockers, limitations, etc.
+
+Hills
+- a Key of Enterprise Design Thinking, a human-focused mission statement that describes a future enablement for a specific user
+
+## How To Write A Great Problem Statement?
+![](8.png)
+
+## Use the Principles
+- A focus on user outcomes: Problem statements should always include a user and their current problem—not yours.
+
+- Restless reinvention: Problem statements should be flexible and iterative as you learn more about your users and their current state.
+
+- Diverse Empowered Teams: Problem statements should be written with all members of your team who bring relevant expertise.
+
+[make-a-plan-summary](make-a-plan-summary.pdf)
+
