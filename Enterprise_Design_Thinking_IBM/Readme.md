@@ -121,7 +121,62 @@ outcomes](a-focus-on-user-outcomes-summary.pdf)
   - Design thinking works in the same way. As you fail quickly and cheaply, you get closer and closer to the best solutions. In fact, if you’re not failing, you’re probably not doing anything interesting. When you recognize that it’s okay to be wrong, you open yourself up to new possibilities and better ideas.
   - fail fask and cheap. fail early.
 
-[restless-reinvention-summary](restless-reinvention-summary.pdf)
+[restless-reinvention-summary](restless-reinvention-summarypdf.pdf)
 
 
+# 4. Diverse empowered Team
 
+## Include a variety of voices
+
+Diverse teams have varied perspectives, skills, and backgrounds. They build upon each other’s ideas, enrich each other’s knowledge, and challenge each other’s assumptions in ways that accelerate the work.
+
+Empowered teams have the agency to make everyday operational decisions on their own. They’re equipped with the expertise and authority to deliver outcomes.
+
+Diverse Empowered Teams
+an Enterprise Design Thinking Principle that represents that a group of people with varied perspectives more successfully make decisions together and work toward shared goals
+
+Collaboration in Action:
+![](7.png)
+
+## Build alignment across your team
+
+1. Overcome diversity pitfalls
+While inclusion of many voices builds strong ideas, it also increases chances of misunderstanding and conflict. These pitfalls can be detrimental if they aren’t addressed properly. Diverse teams are most successful when they can bring their different viewpoints together and find alignment.
+
+2. Identify if you’re aligned
+
+Sometimes you assume you’re aligned when you’re not. Teams break out into solo work and end up duplicating efforts, or delivering things that aren’t useful.
+
+Alternatively, teams might belabor a conversation when an agreement has already been reached, and get stuck spinning in circles. In order to break free from these business-as-usual problems, you first must recognize them.
+
+3. Try it today
+How’s your work calendar looking? Full of meetings? Many meetings lack productive outcomes. Maybe you’ve been there: an hour of talking ends in the same place it started or a contentious 30 minutes leaves everyone feeling frustrated. Instead, take these as opportunities to start aligning your team.
+
+Next time you’re in a meeting where the conversation spins in circles, ask everyone to grab something to write with, visualize their thoughts, and then take turns sharing.
+
+Next time you’re in a meeting where only one or two people share their opinion, hold a silent and anonymous voting session to expose everyone’s viewpoints.
+
+
+## Start sharing stories
+
+One way to drive healthy collaboration and alignment amongst your diverse team is through **storytelling**. Good storytelling is the reason kids remember Luke Skywalker and Elsa, but forget what they did after school yesterday. The same rules apply to your work. Playbacks are opportunities to tell memorable, human-centered stories that share ideas, prototypes, strategies, and more.
+
+Playbacks
+- an Enterprise Design Thinking Key, story-based presentations that bring stakeholders and whole teams together in a safe space to exchange feedback
+
+## Build Playbacks into your workflow
+There are a few specific moments where everyone on the team needs to be aligned:
+
+1. Starting a new project or initiative. Answer questions like: Who will be the users and stakeholders? What experience are we trying to improve and why?
+2. Deciding as a team on a future experience for your users. Answer questions like: What do we think our users need to be successful? How are we going to serve those needs?
+
+2. Reviewing progress as you deliver. Answer questions like: Do we successfully deliver value to our users? Are we still aligned as a team?
+
+Teams who share their goals by talking about a user and their needs, and invite feedback along the way, are more likely to understand and deliver on those goals together over time.
+
+## Different Types of Playbacks
+
+See how different Playbacks look and feel depending on your desired outcome—from quick and casual to formal and prepared.
+
+
+[diverse-empowered-teams-summary](diverse-empowered-teams-summary.pdf)
