@@ -33,6 +33,20 @@
     - [25. Video: Merkle Tree, Validation of Data](#25-video-merkle-tree-validation-of-data)
     - [26. Ethereum vs. Hyperledger Fabric](#26-ethereum-vs-hyperledger-fabric)
   - [Transparency and Immutability](#transparency-and-immutability)
+    - [27. Video: Disintermediation - Trust Through Transparency](#27-video-disintermediation---trust-through-transparency)
+    - [28. Traditional Database Updates](#28-traditional-database-updates)
+    - [29. Transparency of Traditional Databases](#29-transparency-of-traditional-databases)
+    - [30. Blockchain Updates](#30-blockchain-updates)
+    - [31. Transparency of a Blockchain](#31-transparency-of-a-blockchain)
+    - [32. Transparency: Databases vs. Blockchain](#32-transparency-databases-vs-blockchain)
+    - [33. Video: Transparency](#33-video-transparency)
+    - [34. Immutability in the Blockchain](#34-immutability-in-the-blockchain)
+    - [35. Video: Immutability](#35-video-immutability)
+    - [36. Immutability in the Blockchain Is Essential](#36-immutability-in-the-blockchain-is-essential)
+    - [37. Why Is the Blockchain Immutable?](#37-why-is-the-blockchain-immutable)
+    - [38. Immutability Mechanisms](#38-immutability-mechanisms)
+    - [39. Hashing and Chaining](#39-hashing-and-chaining)
+    - [40. Video: Hashing and Chaining with Proof of Work](#40-video-hashing-and-chaining-with-proof-of-work)
   - [Knowledge Check](#knowledge-check)
   - [Summary](#summary)
 
@@ -194,7 +208,142 @@ is one of the primary use cases for Zero-Knowledge Proofs in blockchain.
 
 ### 26. Ethereum vs. Hyperledger Fabric
 
+The use of public keys for identity management is a logical choice since knowledge of a public key is necessary for verification of digital signatures. Both Ethereum and Hyperledger Fabric use digital signatures on transactions and blocks to verify the identity of the creator and that the signed data has not been modified since signing. Public key cryptography is used in the blockchain as a method for managing users’ identities without revealing real world identities.
+
+In Ethereum, users are identified by an address that is directly related to the user's public key. This provides identity verification while preserving anonymity.
+
+In Hyperledger Fabric, users are identified via X.509 certificates. These certificates provide several pieces of information about the user, but one of these is also the user's public key.
+
+Hash functions are at the core of all blockchain technology. One of the primary uses for hash functions is chaining blocks together. In both Ethereum and Hyperledger Fabric, blocks include the hash of the previous block to tie the blockchain into a cohesive whole.
+
+Zero-knowledge proofs are to increase the privacy of users. Currently, Ethereum is working on a layer 2 solution, where a second layer blockchain would store large amounts of data and only prove the batch of information is valid to layer 1 (mainnet). Hyperledger Fabric has a pluggable cryptographic library that supports ZKP techniques for enhanced privacy measures.
+
+Merkle trees are a data structure that allows authenticated storage with efficient data retrieval. Both Ethereum and Hyperledger Fabric are smart contract platforms that use a particular type of Merkle tree called the Patricia tree to store the current state of their virtual machine.
+
+![](26.png)
+
 ## Transparency and Immutability
+
+### 27. Video: Disintermediation - Trust Through Transparency
+
+### 28. Traditional Database Updates
+
+Traditional databases use the CRUD method which has four main operations:
+
+- Create - add a new value to the database.
+- Read - read a value from the database.
+- Update - change an existing value in the database.
+- Delete - remove the value from the database.
+
+### 29. Transparency of Traditional Databases
+
+Traditional databases do not retain historical information:
+
+- Only the most recent versions of each value are visible.
+- Deleted values are not visible in the database.
+- This limits the transparency of data contained in the database.
+- Values can be modified or deleted after creation.
+
+The CRUD update model of databases allows data to be changed or removed from the database. This means that the visible data in a database is not an accurate historical record of the database. The existence of an update operation means that each value in the database is only the most recent version of that value and could have had different values in the past. The delete operation means that values can be removed from the database.
+
+This limits the transparency of data in the database since values can be modified or deleted after creation.
+
+### 30. Blockchain Updates
+
+The blockchain is designed to be a data structure that only allows appending:
+
+- The past history of the blockchain is visible and immutable.
+- Updates to the blockchain can be performed by including them in new blocks added to the blockchain.
+
+The blockchain is designed as a data structure where each block in the chain locks in the value of the previous block and so on, back to the first or genesis block. This means that the blockchain is an append-only data structure without support for modification or deletion.
+
+The entire history of the blockchain is publicly visible and stored in a distributed and decentralized fashion. Values in the blockchain can be “updated” by appending a new version of that value in a later block, but the complete history of the value is preserved.
+
+### 31. Transparency of a Blockchain
+
+![](31.png)
+
+### 32. Transparency: Databases vs. Blockchain
+![](32.png)
+
+### 33. Video: Transparency
+
+One of the big benefits we get in any blockchain solution, public or private, is the idea of transparency.
+
+### 34. Immutability in the Blockchain
+
+Blockchain is designed to be an authoritative ledger of the history of the network.
+
+![](34.png)
+
+This history may include financial transactions and business agreements where modifications to the ledger may have wide-reaching business impacts. Blockchain is based on an untrusted network, so trust that the blockchain has not been modified needs to arise from the structure of the blockchain itself, rather than from trust in the organization storing a certain copy.
+
+### 35. Video: Immutability
+
+One of the big benefits of blockchain is what's known as immutability.
+
+Blockchain doesn't do anything to validate that the information on it is correct.
+- All it validates is that that information hasn't been changed since it was originally written.
+
+### 36. Immutability in the Blockchain Is Essential
+
+All four of these features help to make the blockchain resistant against changes occurring after the fact.
+
+- At the bottom level, transactions are digitally signed by their creators. An attacker can’t forge a transaction unless they steal a private key.
+- A block structure is predefined. Attackers can’t modify it to suit their purposes.
+- The chain part of the blockchain is achieved using hash functions. Each block includes the hash of the previous block, creating a clear link between each block in the blockchain.
+- Each block is digitally signed by its creator. The creator is selected through the blockchain’s consensus protocol, making it difficult for an attacker to be a legitimate creator.
+
+### 37. Why Is the Blockchain Immutable?
+
+Each transaction cannot be forged or modified because it is mathematically infeasible to forge a digital signature. The structure of blocks is publicly defined, and invalid blocks will be publicly rejected.
+
+Each block “locks in” the value of previous blocks by including their hash. Attackers cannot find another block that will produce the same hash.
+
+A block cannot be forged or modified, because it is digitally signed by the creator. The creator of a block is either publicly known (Proof of Stake) or difficult to become (Proof of Work), making masquerading as the real creator difficult or impossible.
+
+Now, let’s take a moment to discuss how each of the features mentioned contribute to the immutability of the blockchain.
+
+At the bottom level, each transaction is digitally signed. This means two things about transactions:
+
+- Existing transactions can’t be changed after the fact, because the signature will no longer match.
+- Fake transactions can’t be created since an attacker can’t create a valid digital signature for a transaction between other parties.
+
+Both of these contribute to the immutability of the blockchain since they limit the range of transactions that an attacker has to work with if he wants to create a fake but valid blockchain.
+
+Next, the block structure is publicly defined in the protocol. This limits the types of modifications that an attacker can make to a block when trying to modify the blockchain.
+
+Third, each block contains the hash of the previous block. This is what ties the blocks of the chain together. Remember from earlier that one of the properties of a hash function is that it is extremely difficult to find two inputs to a hash function that create the same output. Since a block contains the hash of the previous block, it’s difficult to find a different version of the ledger’s history that matches the most recent block, as that would require finding two different versions of the previous block that have the same hash.
+
+Finally, each block is digitally signed by its creator. Since the creator of a block is selected via a consensus algorithm, it’s difficult for an attacker to become the legitimate creator of a given block. If an attacker is not the legitimate creator of a block, it’s impossible for them to create a digital signature that others would accept.
+
+### 38. Immutability Mechanisms
+
+In Ethereum and Hyperledger, the immutability mechanism is the one that we’ve described previously. Each transaction and block is digitally signed and are linked using cryptographic hashes.
+
+Corda, a multi-party application development platform, relies on its notary service for immutability. Each Corda network has one or more notary services that verify transactions. Each transaction is considered separately and, if approved, is signed by the notary service. Transactions signed by a notary are finalized and cannot be modified after the fact.
+
+### 39. Hashing and Chaining
+
+[The value of locking in the previous block by including its hash in the next block “A Gentle Introduction to Immutability of Blockchains”](39%20A%20gentle%20introduction%20to%20immutability%20of%20blockchains%20–%20Bits%20on%20Blocks.pdf)
+
+![](39.png)
+
+### 40. Video: Hashing and Chaining with Proof of Work
+
+This demo uses the Proof of Work to show how blocks are chained together and how tampering with information in a past block destroys the integrity of the proceeding blocks.
+
+![](40.png)
+Blockchain Demo by  Anders Brownworth:
+https://andersbrownworth.com/blockchain/block
 
 ## Knowledge Check
 ## Summary
+
+In this chapter, we discussed:
+
+- Distributed ledger technology (DLT) and how it differs from previous ledger storage techniques.
+- Cryptography and how it is used in several different ways in blockchain.
+- Hashing functions, zero-knowledge proofs (ZKPs) and Merkle tree data structures and how they are used to secure the blockchain.
+- Public-key cryptography and public/private key pairs to support privacy, authenticity and security.
+- Ledger immutability and transparency result from combining these technologies for an agreed-upon, append-only distributed ledger system chained together by blocks.
