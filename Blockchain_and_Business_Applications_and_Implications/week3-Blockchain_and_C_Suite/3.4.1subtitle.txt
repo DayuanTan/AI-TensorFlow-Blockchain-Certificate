@@ -1,0 +1,57 @@
+In this video, we'll
+look at the role of the Chief Legal Officer
+in a world of smart contracts
+where code is law. Economist Ronald Coase and
+his successors argued that a corporation was a vehicle for creating long-term contracts, when short-term contracts were too much effort to
+negotiate and enforce. Blockchain aids
+the contracting process whether short or long term. Smart contracts can
+automate terms. They can refer to data fields
+elsewhere online, known as Oracles, such as a party's account balance or a change in a commodity price. They can trigger alerts
+and automate payments. Smart contracts
+are self-enforcing and so corporations will not
+want to enter them lightly. Chief Counsel and
+corporate lawyers will need to learn how to audit legal templates and make sure the contract software supports what it's parties
+intended it to do. The watch phrase is don't roll your own crypto.
+What does that mean? Well, basically, it
+means don't create some new cryptographic
+means of securing your smart contracts
+without at least publishing it for peer review
+and outside testing. That's apparently what Iota did. Iota is a block chain protocol, developed on
+the concept of a tangle also known as
+a Directed Acyclic Graph. It was developed to turbo
+charge the Internet of Things. Iota's team named
+its hash function Curl. Iota kept its new Curl
+hash function to itself. Experts found security problems
+with Curl and they also found that Iota's response to their fighting's worries them. Iota went ahead with its launch. The two lessons here a simple for lawyers developing
+smart contracts. One, stick with
+well-tested methods for creating and running
+Smart contracts, keep it simple. And two, make sure you have someone on staff who
+can audit the code of a smart contract template
+or the code of a distributed app behind
+an ICO or other crypto asset. Lawyers also need to stay on top of cases involving
+block chain. Those include smart contracts, initial coin offerings, and patent filings and
+across jurisdictions. Keeping up will be
+a challenge for lawyers practicing in heavily regulated
+areas like health care, financial markets,
+and pharmaceuticals. General counsels want to understand the patent
+strategies in the space. Tom Isaacson is a lawyer and shareholder of
+Pulse Donnelly. He summed up what
+blockchain innovators are doing. They're filing patent
+applications to do three things. One, to profit from
+their invention. Two, to prevent others from
+using their invention and three to make
+an invention available to collaborators
+through patent pools or through open source. Isaacson said the bar is
+high for receiving a grant. He said a blockchain
+patent application must meet three criteria. One, it must be eligible and
+that's not always clear. Two, it must be truly novel. The courts don't favorite patents codifying existing
+business practices in software and three the design
+must be non-obvious. The question of obviousness
+is rich and deep, he says. The more narrow and
+focus the claims the better the chances of
+getting claims allowed. To borrow a quote from Spiderman, "With great power comes
+great responsibility." Blockchain technology
+gives lawyers lots of benefits but there are risks
+that could be significant. Chief counsel and
+their legal teams must be on top of the cases and on top
+of pending regulations.
