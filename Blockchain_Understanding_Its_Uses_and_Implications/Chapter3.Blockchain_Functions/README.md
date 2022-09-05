@@ -43,6 +43,13 @@
   - [29. Proof of Stake](#29-proof-of-stake)
   - [30. Fault Tolerance in the Blockchain](#30-fault-tolerance-in-the-blockchain)
   - [31. Video: Fault Tolerance](#31-video-fault-tolerance)
+  - [32. The Byzantine Generals' Problem](#32-the-byzantine-generals-problem)
+  - [33. Video: Proof of Work vs. Proof of Stake](#33-video-proof-of-work-vs-proof-of-stake)
+  - [34. Proof of Work vs. Proof of Stake](#34-proof-of-work-vs-proof-of-stake)
+  - [35. Bitcoin Consensus Model](#35-bitcoin-consensus-model)
+  - [36. Ethereum Consensus Model](#36-ethereum-consensus-model)
+  - [37. Hyperledger Fabric Consensus Model](#37-hyperledger-fabric-consensus-model)
+  - [38. Corda Consensus Model](#38-corda-consensus-model)
 - [G. Knowledge Check](#g-knowledge-check)
 - [H. Summary](#h-summary)
 
@@ -443,14 +450,21 @@ In this section, we will discuss the details of how a blockchain network comes t
 
 Blockchain is inherently a very inefficient system. All nodoes keep a copy. But this is what we need for the consensus.
 
+Blockchain is inefficient
+- but gives us consensus
+- immutability (later sub-chapter)
+- and fault tolerance (later sub-chapter) 
+
 Methods for consensus:
 - Proof of Work
+  - Oldest, 2009, original consensus alg
   - Widely used
     - in Bitcoin, every major public and most private blockchain
   - Limitation
     - how big and how fast it can scale
     - currently 15-20 transactions worldwide per second
       - Visa: 70000 transactions per second
+    - (almost 80% of the processing power behind the Bitcoin network resides in six major data centers in mainland China.)
 - Other solution
   - Tangle, use a blockless solution
   - Proof of Stake
@@ -499,6 +513,61 @@ In blockchain, it is essential all participants agree to the state of the ledger
 
 ## 31. Video: Fault Tolerance
 
+inefficient and redundant blockchain is by design.
+- that's what gives us immutability.
+- and fault tolerance.
+- consensus (in above sub-chapter)
+
+## 32. The Byzantine Generals' Problem
+
+## 33. Video: Proof of Work vs. Proof of Stake
+
+## 34. Proof of Work vs. Proof of Stake
+
+
+![](34.1.png)
+
+![](34.2.png)
+
+## 35. Bitcoin Consensus Model
+
+Bitcoin, the first blockchain to appear, uses **Proof of Work** which requires miners to solve a complex cryptographic mathematical puzzle for which they get rewarded. Block rewards are newly minted Bitcoin granted to the miners that solve the puzzle first. Built into the Bitcoin blockchain protocol, is an event called halving. [Bitcoin halving](https://www.investopedia.com/bitcoin-halving-4843769) (or [pdf](35.investopedia.com-Bitcoin%20Halving%20What%20You%20Need%20to%20Know.pdf)) happens every four years and Bitcoin’s block reward gets cut in half. The halving occurs when the block height reaches a certain point (210,000 blocks) which is programmed into the protocol. The first halving occurred in November 2012 and the block reward was cut from 50 BTC to 25 BTC. The second occurred July 9, 2016 and the reward was reduced to 12.5 BTC. The third occurred on May 11th 2020, cutting the block reward to 6.25. The next halving is estimated in the year 2024 and the reward will be reduced to 3.125 BTC. The Bitcoin network is programmed to produce only 21 million bitcoin and the halving is what keeps inflation in check by slowing down the distribution. About ⅔ of the 21 million BTC have been mined so far.
+
+## 36. Ethereum Consensus Model
+
+Ethereum currently uses Proof of Work for a consensus model. Ethereum was introduced in a white paper by Vitaly Dmitriyevich "Vitalik" Buterin, a Russian-Canadian entrepreneur and programmer from Toronto. He envisioned the second-largest cryptocurrency when he “forked” or copied the Bitcoin code, made improvements and created the Ethereum blockchain. This new blockchain was not only a currency exchange system but along with the [Ethereum Virtual Machine](https://ethereum.org/en/developers/docs/evm/), an interconnect, turing complete computer, open to programmers to develop. It creates a platform that smart contracts can be executed and applications can be built upon. Ethereum has always planned to move away from a Proof of Work consensus mechanism. Sometime in 2022, in a dramatic event termed [the Merge](https://ethereum.org/en/upgrades/merge/) (or [pdf1](36.ethereum.org-The%20Merge%20%20ethereumorg.pdf) [pdf2](36.The%20Merge%20|%20ethereum.org.pdf)), Ethereum plans to transition its entire network to a different consensus mechanism: Proof of Stake, which comes with significant promises of change and improvements:
+
+- It will use 99% less energy.
+- It will allow the network to scale.
+- It could potentially help it reach 100,000 transactions per second.
+
+Ethereum said the transition will be  done on Sept 2022.
+
+
+## 37. Hyperledger Fabric Consensus Model
+
+Hyperledger Fabric is a private permissioned blockchain platform that breaks consensus into components, allowing users to pick a consensus algorithm for their particular situation. Instead of a predetermined consensus model, Hyperledger has an ordering service that performs consensus related events, this ordering component can pick the consensus model that best suits the blockchains needs. By approaching consensus in this modular fashion, Hyperledger DLT’s can change consensus models without huge overhauls to the code base.
+
+As explained by Demiro Massessi,
+
+"Hyperledger Fabric deliberately avoided hard-coding a consensus mechanism into the protocol by defining an “orderer component” that performs all of the consensus-related operations. This allows users of Hyperledger Fabric to select a consensus algorithm that fits their use case without being forced to make large-scale code edits".
+
+## 38. Corda Consensus Model
+
+[Corda](https://www.corda.net) is a private permissioned blockchain. Each Corda network has a notary service made up of independent parties that approve blocks using any applicable consensus algorithms.
+
+As mentioned in [Jamiel Sheikh](https://jamiel.io/#about-me)'s book “Mastering Corda: Blockchain for Java Developers”, R3 provides a set of Corda applications called The Corda Business Network Toolkit to manage one or more Corda networks. Corda does not follow the standard blockchain model of transactions being bundled into blocks and then being finalized by the network as a whole. Instead, a Corda network contains one or more notaries consisting of several independent parties. Transactions in Corda are finalized by a notary with a multiparty digital signature using an algorithm like Raft.
+
+
 # G. Knowledge Check
 
 # H. Summary
+
+In this chapter, we discussed:
+
+- Smart contracts and benefits from using smart contracts.
+- Differences between blockchain security vs. standard security.
+- Differences between private and public blockchains.
+- Factors in deciding on blockchain.
+- Transaction flow in blockchain.
+- Consensus mechanisms used in blockchain.
