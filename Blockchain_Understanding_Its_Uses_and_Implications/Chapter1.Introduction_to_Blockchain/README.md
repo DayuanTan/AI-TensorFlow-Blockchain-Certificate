@@ -1,5 +1,16 @@
 # Chapter 1. Introduction to Blockchain
 
+- [Chapter 1. Introduction to Blockchain](#chapter-1-introduction-to-blockchain)
+  - [Chapter Overview](#chapter-overview)
+  - [Learning Objectives](#learning-objectives)
+  - [Introduction](#introduction)
+  - [Introduction to Blockchain and The Early Internet](#introduction-to-blockchain-and-the-early-internet)
+  - [Blockchain Basics](#blockchain-basics)
+  - [Career Opportunities in Blockchain](#career-opportunities-in-blockchain)
+  - [Blockchain Use Cases](#blockchain-use-cases)
+  - [Knowledge Check](#knowledge-check)
+  - [Summary](#summary)
+
 ## Chapter Overview
 
 In this chapter, we will discuss a brief history of the Internet and how it was designed. This foundation will help you understand blockchain technology and how it builds upon the current internet protocols while enhancing and improving them. We will see how blockchain technology is changing the Internet from one of information exchange to one of value exchange. Also, we will discuss Bitcoin and how it was the first real application to showcase blockchain technology.
