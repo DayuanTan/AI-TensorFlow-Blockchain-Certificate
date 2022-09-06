@@ -128,12 +128,46 @@ Understand what blockchain is, and gain an appreciation for this transformative 
 [Chapter 4. Blockchains and Governance](Chapter4.Blockchains_and_Governance/README.md)
 
 
-- Introduction
-- Open Source Code
-- Governance
-- Identity and Anonymity on Blockchain
-- Knowledge Check
-- Summary
+- Chapter 4. Blockchains and Governance
+- A. Introduction
+  - 1. Chapter Overview
+  - 2. Learning Objectives
+- B. Open Source Code
+- C. Governance
+  - 3. Introduction to Governance
+  - 4. Video: Governance Explained
+  - 5. Governance Models
+  - 6. How Does Blockchain Fit Into Governance?
+  - 7. On-Chain vs. Off-Chain Governance
+  - 8. What Is Blockchain Governance?
+  - 9. Blockchain Governance Strategies
+  - 10. Consortium Governance
+  - 11. Who Really Governs the Blockchain?
+  - 12. Bitcoin Network and Governance
+  - 13. Bitcoin Improvement Protocols (BIP)
+  - 14. Governance in Ethereum
+  - 15. Ethereum Improvement Proposals EIP’s
+  - 16. DAO Hard Fork on Ethereum
+  - 17. Governance in Hyperledger Frameworks
+  - 18. Governance in Corda
+  - 19. Working Groups and Special Interest Groups
+  - 20. Video: Governance With Autonomy - Driverless Cars
+  - 21. Decentralized Autonomous Organization (DAO)
+  - 22. Video: Decentralized Autonomous Organization (DAO)
+  - 23. Governance for Enterprise
+  - 24. Governance for Enterprise: Consortiums
+  - 25. Consortiums: Pros and Cons
+- D. Identity and Anonymity on Blockchain
+  - 26. Video: Identity on the Blockchain
+  - 27. Identity
+  - 28. Video: Anonymity in the Blockchain
+  - 29. Advanced Blockchain Anonymity Techniques
+  - 30. Specific Anonymity Implementations
+  - 31. Trust in Blockchains
+  - 32. Establishing Trust in Blockchains
+  - 33. What Do Blockchains Really Do?
+- E. Knowledge Check
+- F. Summary
 
 
 [Chapter 5. Blockchain Problem Solving and Future Trends](Chapter5.Blockchain_Problem_Solving_and_Future_Trends/README.md)
