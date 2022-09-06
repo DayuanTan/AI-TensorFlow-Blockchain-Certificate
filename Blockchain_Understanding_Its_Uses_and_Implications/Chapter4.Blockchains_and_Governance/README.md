@@ -27,7 +27,17 @@
   - [21. Decentralized Autonomous Organization (DAO)](#21-decentralized-autonomous-organization-dao)
   - [22. Video: Decentralized Autonomous Organization (DAO)](#22-video-decentralized-autonomous-organization-dao)
   - [23. Governance for Enterprise](#23-governance-for-enterprise)
+  - [24. Governance for Enterprise: Consortiums](#24-governance-for-enterprise-consortiums)
+  - [25. Consortiums: Pros and Cons](#25-consortiums-pros-and-cons)
 - [D. Identity and Anonymity on Blockchain](#d-identity-and-anonymity-on-blockchain)
+  - [26. Video: Identity on the Blockchain](#26-video-identity-on-the-blockchain)
+  - [27. Identity](#27-identity)
+  - [28. Video: Anonymity in the Blockchain](#28-video-anonymity-in-the-blockchain)
+  - [29. Advanced Blockchain Anonymity Techniques](#29-advanced-blockchain-anonymity-techniques)
+  - [30. Specific Anonymity Implementations](#30-specific-anonymity-implementations)
+  - [31. Trust in Blockchains](#31-trust-in-blockchains)
+  - [32. Establishing Trust in Blockchains](#32-establishing-trust-in-blockchains)
+  - [33. What Do Blockchains Really Do?](#33-what-do-blockchains-really-do)
 - [E. Knowledge Check](#e-knowledge-check)
 - [F. Summary](#f-summary)
 
@@ -221,10 +231,238 @@ Governance becomes much easier when it’s in a controlled environment, with eac
 
 The point we would like to get across here is that a consortium governance model is currently more efficient than most decentralized blockchains.
 
+## 24. Governance for Enterprise: Consortiums
+
+These consortium blockchains have historically taken two approaches:
+
+- Business-focused consortia
+  - They aim to build and operate blockchain-based business platforms to solve a specific business problem (e.g. Digital Trade Chain – focused on cross-border payments).
+- Technology-focused consortia
+  - They seek to develop reusable blockchain platforms based on technical standards (e.g. Hyperledger).
+
+## 25. Consortiums: Pros and Cons
+
+![](25.png)
+
+
+
+
 # D. Identity and Anonymity on Blockchain
+
+## 26. Video: Identity on the Blockchain
+
+- Napster
+  - founded 1999
+  - peer to peer digital audio file distribution
+  - Napster had a decentralized network architecture, but they maintained the centralized authority.
+    - Therefore, the central authority could be attacked and, by taking out the central authority, could effectively control Napster. This is because Napster relied on that mix of centralized control over a decentralized network.
+  - This impacted identity because you need an identity to control.
+
+- Torrents
+  - Torrents provide a decentralized network with decentralized authority.
+  - to manage identity differently.
+  - It's also the reason why torrents are still being used today, in spite of the entertainment industry's best efforts to stop it.
+  - Why Torrent is not blockchain?
+    - Because there's no guarantee that the nodes would do the right thing.
+    - Nobody could guarantee that the nodes would cooperate with each other.
+    - No incentive, no punish => no trust on transaction being processed correctly
+      - blockchain solves this problem
+        - It perfectly incentivized how to create a decentralized self-contained network using crypto economics.
+        - This is why all public blockchains can operate without an authority.
+        - It is also the reason why cryptocurrency is mandatory for a public blockchain, and not needed for a private blockchain.
+
+- blockchain
+  - On the blockchain, identity is important.
+    - You have to be able to prove that your assets actually belong to you.
+    - Incentives, punishments to id
+  - for tracking identity and identity information
+    - most use public key cryptography 
+      - hard math problem
+        - e.g. multiplication and factoring
+        - exponents and logarithms 
+    - famous public key cryptography algorithms
+      - RSA 
+  - identity 
+    - A user's address on the blockchain it's their public key.
+    - This has several useful properties.
+    - Users do not need to reveal their identity on the blockchain, but they can positively identify themselves,
+  - Ethereum
+    - a user's identity is managed using a public key or address
+  - Hyperledger (Fabric) and Corda 
+    - identity is encoded in x.509 certificates, which include the user's public key.
+  - Corda, 
+    - specifically, certificates can either be 
+      - public, which means that they are published to the blockchain,
+      - or confidential, meaning that they are only shared with the parties that the owner performs transactions with.
+
+
+## 27. Identity
+
+Self-sovereign identity and blockchain solutions introduce identity management in a way that can improve a system considered broken. This topic will be examined in the next chapter. In this section, we will cover identity as seen through transactions and how and if you want your identity tied to a transaction.
+
+## 28. Video: Anonymity in the Blockchain
+
+Privacy and anonymity on the blockchain are a crucial part of its success in some applications.
+
+- relationship between a user's keys and a user's actual identity
+  - there is nothing about a public key that ties it to its corresponding private key.
+    - no way to know the private key from public key
+      - calculation from private key to public key is doable
+    - private key cannot be tied with a person's real identity
+      - if private key stolen, cannot identify the owner actual identity
+- privacy
+  - blockchain users have a limited amount of built-in privacy.
+  - but
+    - users' identity could be learned through sifting through the data stored on the blockchain to obtain the metadata
+      - Based on the repeated transactions to places like a coffee shop or a market, someone could get an idea of where an individual lives and their habits.
+      - For businesses, repeated transactions may indicate business relationships that may lead to a loss of a competitive advantage if leaked.
+      - On basic blockchains, anonymity only goes so far.
+- enhancements that increase privacy
+  - while still allow transactions to be verified and validated and publicly 
+  - some mechanisms
+    - zero knowledge proofs ZKP
+      - to prove your knowledge of a secret without revealing the secret
+        - e.g. a colorblind person and two objects identical except for the color
+    - stealth addresses
+      - use one-time address (impossible to link a transaction to an account) to perform transactions on the blockchain
+    - ring signatures
+      - a group sign transactions instead of only one member signing them
+      - others can only link a transaction to a group but cannot link to a particular member
+      - protocol CoinJoin
+        - mix several transactions together, 
+          - so that it is diffcult to pair senders with recipients
+    - Confidential transactions 
+      - take advantage of homomorphic encryption,
+        - which makes it possible to perform mathematical operations on encrypted data.
+        - 同态加密 2009年9月克雷格·金特里（Craig Gentry）
+          - 同态加密是一种加密形式，它允许人们对密文进行特定的代数运算得到仍然是加密的结果，将其解密所得到的结果与对明文进行同样的运算结果一样。换言之，这项技术令人们可以在加密的数据中进行诸如检索、比较等操作，得出正确的结果，而在整个处理过程中无需对数据进行解密。其意义在于，真正从根本上解
+  - implemation 
+    - Etherrum
+      - no enhancement
+      - still in the level that no one can tie a public key to a real world identity
+      - plan to include  ZKP
+    - Hyperledge Fabric
+      - provides several options for privacy and anonymity.
+        - channel
+          - At the lowest levels, users can achieve increased anonymity through channels which can further encrypt the data that's stored on the channel using keys only available to members of the channel.
+        - private transactions
+          - At the next level, Hyperledger Fabric also allows users to perform private transactions.
+            - in a private transaction, data is stored on the cloud, but the hash of the data is stored on the blockchain.
+            - This allows users to use the blockchain to ensure data authenticity without storing the actual data publicly on the blockchain.
+        - ZKP
+          - Finally, Hyperledger supports zero knowledge proof, where a prover can demonstrate possession of some data without revealing the data itself.
+    - Corda 
+      - allows users to perform transactions either as a party or an anonymous party on their blockchain.
+      - An anonymous party has the same level of anonymity protection as a basic blockchain, relying on the fact that public keys cannot be tied directly to real-world identities.
+      - A party on the Corda blockchain reveals the real-world identity of the user which intentionally sacrifices anonymity for identity validation.
+
+## 29. Advanced Blockchain Anonymity Techniques
+
+The following are only some of the mechanisms developed and implemented in various blockchains:
+
+- Zero-knowledge proofs
+  - Zero-knowledge proofs use cryptographic algorithms to allow a user to prove knowledge of a secret without revealing the secret. A prover proves knowledge of a secret without revealing it. New technology referred to as SNARK (Succinct Non-interactive - ARgument of Knowledge) are fine tuning privacy issues on blockchains.
+- Stealth addresses
+  - Stealth addresses involve using one-time addresses to perform transactions on a blockchain. A stealth address is just a one-time address that makes it impossible to link a transaction to a known account. This prevents the data mining attacks on privacy that we discussed earlier.
+- Ring signatures
+  - We mentioned previously that transactions are digitally signed. With ring signatures, all that can be determined from a transaction is that a member of a group signed it, but not the particular member.
+- CoinJoin
+  - The ability to see who is performing transactions with whom is dangerous to user privacy and anonymity. Protocols like CoinJoin mix several transactions together so that it is difficult to pair senders with recipients.
+- Confidential transactions
+  - Confidential transactions take advantage of homomorphic encryption, which makes it possible to perform mathematical operations on encrypted data. This means that the data contained in a transaction can be hidden from the public, while still allowing the network to verify that the transaction is valid.
+
+
+## 30. Specific Anonymity Implementations
+
+- Ethereum
+  - Ethereum is working on improving the zero-knowledge proofs, mixing and DAPPS (applications developed to improve anonymity) to strengthen privacy. Also ConsenSys, the Enterprise Solutions builder for Ethereum introduced QUORUM, a fork of the Ethereum blockchain which enables users to benefit from the public Ethereum blockchain while enjoying features from a private network. Developed by JPMorgan, it is a permissioned implementation.
+- Hyperledger
+  - Channels: Subsections of the blockchain that make transactions visible only to members.
+  - Private transactions: Hashes of private data are stored to publicly verify it on the blockchain.
+  - Zero-knowledge technology: One can demonstrate knowledge of a secret without revealing the secret itself.
+- Hyperledger Besu
+  - Besu is an Ethereum client that runs on the Ethereum public network, private networks, and test networks such as Rinkeby, Ropsten, and Görli. Hyperledger Besu includes several consensus algorithms including PoW, PoA, and IBFT, and has comprehensive permissioning schemes designed specifically for uses in a consortium environment.
+- Corda
+  - Parties on the Corda Network can be represented in one of two ways:
+  - Party: A public key and name.
+  - Anonymous party: Only a public key.
+
+
+## 31. Trust in Blockchains
+
+Just as there are benefits with blockchain technology, there are also some challenges. Blockchain is a culmination of technologies that have been blended to provide a trustless platform. Expect some challenges and use case justifications taking the old line of business apps to the blockchain.
+
+Let's recap the features of a blockchain that establishes trust:
+
+- Blockchain technology is about storing some kind of data (which are transactions in regards to the Bitcoin blockchain).
+- Blockchain is essentially transferring trust from an intermediary to technology.
+- Storing data in the blockchain is through cryptographic functions.
+- Private key/public key.
+- Collaboration through consensus.
+
+
+## 32. Establishing Trust in Blockchains
+
+All transaction data on a chained block is assumed to be trustworthy.
+
+The users base this trust on the fact that:
+
+- This data has not been tampered with.
+- The blockchain is immutable.
+
+
+## 33. What Do Blockchains Really Do?
+
+Blockchains minimize the amount of **trust** required from any single actor in the system. **They do this by distributing trust among different actors in the blockchain as defined by the consensus protocols.**
+
+Blockchains have a shared ledger that gives us the absolute truth of the state of the system. **It uses mathematics, economics, and game theory to incentivize all parties in the system to reach a “consensus”** (i.e. coming to an agreement on a single state of the ledger).
+
+- Consensus algorithms
+  - The blockchain is based on a consensus algorithm where all nodes agree that the transaction is valid.
+- Financial transparency
+  - Financial transparency can reduce the need for intermediaries.
+- Smart contracts
+  - Smart contracts reduce the need for accountants, lawyers, bankers, etc., as computer code can replace some basic functions. Trust shifts to technology.
+- Trust in technology
+  - Trustless blockchains is a transfer of trust to technology from organizations, governments and corporations.
+- Confidential transactions
+  - Privacy techniques mask details of transactions while still proving they occurred.
+- Decentralized ledger
+  - The ledger acts as a trust broker when two parties who don’t trust each other want to interact.
+- Transparent code
+  - Most blockchains are built on open-source software that is transparent, community-driven code that is open for comment.
 
 
 # E. Knowledge Check
 
+Blockchain governance models resemble:
+
+x Dictatorship
+ 
+x Sole decision making
+ 
+! Democracy
+ 
+x None of the above
+
+
+The decision process for a Decentralized Autonomous Organization relies on which of the following?
+
+An elected group
+ 
+A select few
+ 
+Popular vote
+ 
+! Smart contracts
 
 # F. Summary
+
+In this chapter, we discussed:
+
+- Open source communities and blockchain source code.
+- Governance models for blockchain and who is really in charge.
+- How a blockchain is “trustless”.
+- Why a trustless system is more secure than a system that requires trust.
+- Why anonymity is required in public blockchains.
+- How private/public key cryptography provides anonymity
