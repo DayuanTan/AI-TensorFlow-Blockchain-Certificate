@@ -18,7 +18,18 @@
 - [B.4. Autonomy](#b4-autonomy)
   - [10. Autonomy Defined](#10-autonomy-defined)
   - [11. Autonomy: Human Process-Driven Complexity](#11-autonomy-human-process-driven-complexity)
+  - [12. Autonomy with Smart Contracts](#12-autonomy-with-smart-contracts)
+  - [13. Video: Smart Contracts](#13-video-smart-contracts)
+  - [14. Multi-Party Transactions](#14-multi-party-transactions)
+  - [15. Blockchain Multi-Party Sync (Removing Middlemen)](#15-blockchain-multi-party-sync-removing-middlemen)
+  - [16. Cross Border Payments and Ledgers](#16-cross-border-payments-and-ledgers)
+  - [17. Video: Double Spend](#17-video-double-spend)
+  - [18. Blockchain Solves The Double Spend Problem](#18-blockchain-solves-the-double-spend-problem)
+  - [19. Digital Currency Difficulties](#19-digital-currency-difficulties)
 - [C. Digital Currencies](#c-digital-currencies)
+  - [20. Digital Currencies Overview](#20-digital-currencies-overview)
+  - [21. Cryptocurrency Defined](#21-cryptocurrency-defined)
+  - [22. Cryptocurrencies Markets](#22-cryptocurrencies-markets)
 - [D. Future Trends](#d-future-trends)
 - [E. Knowledge Check](#e-knowledge-check)
 - [F. Summary](#f-summary)
@@ -150,7 +161,187 @@ In the context of business/technology, this can be seen as a way of operating th
 
 ## 11. Autonomy: Human Process-Driven Complexity
 
+- intermediaries - complex
+  - solve this complex
+    - The blockchain world is looking to solve all of this complexity with autonomy from intermediaries via automated smart contracts. In the traditional world of doing any kind of transaction with another party, there tends to be a lot of administrative paperwork, with third parties intervening every step of the way. Some of this is needed, but most of it becomes wasted time and effort which could be spent elsewhere.
+    - Depending on how complex a transaction is between two parties, designated specialists can make the process more efficient. Many players are involved in the process, from contract drafters, signatories, and regulators. If a dispute over the contract occurs, many parties can be involved, including the courts.
+
+    - This complexity can be seen within many areas of life. Take a moment to dissect the backend of certain services or products you use and this concept will become exposed very quickly.
+
+## 12. Autonomy with Smart Contracts
+
+- Smart Contract for Autonomy
+  - Autonomy in the blockchain world can be seen from many different angles. We are going to focus solely on smart contracts in this section, due to the amount of autonomy they provide everyone involved. 
+
+  - An example of a smart contract could be,
+
+    - "if this happens before the end of the year, then you pay me, else I pay you".
+
+- smart contact need human/AI/Oracle
+  - At the present moment, they can't make decisions without human intervention, or AI, which is a highly debated topic at the moment by many neuroscientists/philosophers. Companies are emerging as reliable Oracles that filter in real world facts to the blockchain. An Oracle is defined as a reliable source of information and blockchain makes that information immutable.
+
+- 3 main attributes that can bring more autonomy to exchanging information between parties
+  - Anyone is able to create their own smart contracts without a central authority giving the right to do so
+  - These contracts are executed without too much human intervention, and 
+  - they’re stored on blockchain technology which provides a sense of permanence. 
+  
+- smart contract benefits  
+  - not only improving our autonomy as individuals or companies, 
+  - but shifting wasted resources (middle men/women) toward more impactful work.
+
+## 13. Video: Smart Contracts
+
+- Blockchain 1.0 
+  - capturing and recording data, but not acting upon it. 
+  - Bitcoin
+    - only record
+- Blockchain 2.0
+  - Ethereum 2015
+    - capture data, act upon it as well.
+      - implemented by the technology "Smart Contracts"
+  - Smart Contract
+    - a Smart Contract is some computer code deployed to a blockchain network. 
+      - Users can transact with the Smart Contract just as they would another user, except when transacting with a Smart Contract, the rules defined in the code are used to process the transaction. 
+    - This advancement now allows blockchain solutions to manage and automate processes, and record their results on a permanent, immutable, secure ledger shared with all relevant parties.
+
+
+## 14. Multi-Party Transactions
+
+- third party -- most efficient
+
+  - In our current world of transactions, there’s always a third party to assist with connecting the sender and receiver. This has always been the most efficient way to move something from Point A to Point B. 
+
+  - But with a third party making the connection comes the need to trust that they’ll get whatever is being sent in an efficient, economical, and effective way. This trust is open to human and process error. But we’ve discovered through experimentation that certain use cases could be automated via smart contracts.
+
+![](14.png)
+
+- cross-border payments
+  - One example is cross-border payments. Sending money from one country (border) to another country (different border). The major issue with how this is traditionally done today (e.g. correspondent banking) is that certain transactions end up stopping off at 7–10 different checkpoint banks. This constant stopping is making the money movement more expensive (each bank takes a fee), slower, and less reliable (sometimes it might never make it). This type of transaction is heavily reliant upon third parties to facilitate the movement of information and money.
+
+
+## 15. Blockchain Multi-Party Sync (Removing Middlemen)
+
+- Blockchain benefits: remove middle men
+  - Blockchain technology has been shown to provide many benefits, but one of the most prominent and immediate benefits is removing middlemen (third parties) from a variety of processes. 
+- middlemen already removed:
+  - There is a long list of examples for middlemen currently being removed, such as:
+    - Energy distributors
+    - Payment networks (Visa and Mastercard)
+    - Content distributors (YouTube, Facebook, Medium, etc.)
+    - Central exchanges (NASDAQ, London Stock Exchange, NYSE, etc.)
+    - Cloud database providers (AWS, Azure, etc.).
+- Blockchain trust
+  - How is the blockchain world removing this middleman? The answer is all around trust. Within the public blockchain world, where everyone is theoretically anonymous, there needs to be trust so we’re able to exchange valuable things without the concern of bad actors. Trust is built into the consensus mechanism that we’ve mentioned multiple times throughout this course. This incentivizes all the participants to help secure and validate good actions throughout the network. With that built-in "trustless" trust, we’re able to remove those middlemen that provide no additional value, plus it could potentially increase the efficiency based on which public blockchain is being used.
+
+![](15.png)
+
+
+## 16. Cross Border Payments and Ledgers
+
+- Traditional centralized ledger  -- changable, not safe
+  - Traditional centralized ledger systems have weaknesses. Accuracy is dependent on intermediaries who can change details of the centralized ledger. Data derived from the ledger is siloed and misused.
+    ![](16.1.png)
+- Distributed decentralized ledgers - immutable, secure
+  - Distributed decentralized ledgers are not dependent on intermediaries who can manipulate the data. Data is secure and tamper resistant.
+    ![](16.2.png)
+
+
+## 17. Video: Double Spend
+
+Bitcoin was not the first attempt to create a digital currency, but it was the first which
+was able to successfully solve a long-standing problem - the "Double Spend" problem.
+
+## 18. Blockchain Solves The Double Spend Problem
+
+Bitcoin was the **first** decentralized protocol to solve this problem and now more protocols are following, such as: 
+- Proof of Stake (PoS), 
+- Delegated Proof of Stake (DPoS), 
+- Directed Acyclic Graphs (DAG) structures, 
+- Proof of Authority (PoA), etc.
+
+
+## 19. Digital Currency Difficulties
+
+
+
+- to create digital cash, many failed due to a variety of reasons, such as:
+  - adoption
+  - security
+  - fraud
+
+
+- digital currency attempts:
+  - DigiCash
+    - 1983, when David Chaum introduced the idea of digital cash in a research paper 
+    - 1992, he founded DigiCash, an electronic cash company, which eventually went bankrupt in 1998 due to adoption (buyout by another financial institution). 
+    - Today, David is a leading pioneer of blockchain companies such as Elixxir and Praxxis to provide scalable digital sovereignty.
+
+  - CyberCash in 1994 (failed after the Y2K bug of 2000).
+  - E-gold in 1996 (sunk by continuous money laundering, hacking, and extortion).
+  - Liberty Reserve in 2006 (shut down in 2013 due to this becoming a great hangout spot for cybercriminals).
+
 # C. Digital Currencies
+
+## 20. Digital Currencies Overview
+
+- Digital currencies
+  - Digital currencies are available only in the digital world and not in the physical world. 
+- Digital currencies define
+  - They can be defined as any currency, money, or money-like asset that is primarily managed, stored or exchanged on computer systems. 
+- Examples of digital currencies include 
+  - cryptocurrency, 
+  - virtual currency and 
+  - central bank digital currency.
+
+## 21. Cryptocurrency Defined
+
+According to Investopedia,
+
+"A cryptocurrency, broadly defined, is currency that takes the form of tokens or “coins” and exists on a distributed and decentralized electronic ledger. While a large majority remain completely intangible, some cryptocurrencies have ventured into the physical world by building associations with companies offering traditional payment rails (credit cards and payment processors)".
+
+[10 Important Cryptocurrencies Other Than Bitcoin](21.investopedia.com-10%20Important%20Cryptocurrencies%20Other%20Than%20Bitcoin.pdf)
+
+
+## 22. Cryptocurrencies Markets 
+
+To break down the crypto markets, let's start with some basic definitions.
+
+- Crypto Wallet
+
+  - A cryptocurrency wallet is an application on your computer or smart phone that connects you to a blockchain where you can trade cryptocurrencies. A Bitcoin wallet allows you to trade Bitcoin, an Ethereum wallet accommodates Ether. You can not send Bitcoin to the Ethereum blockchain, each cryptocurrency must transact on its own blockchain.
+
+- Multi-currency Wallets
+  - Some wallets allow you to hold multiple cryptocurrencies in the same application. In these wallets, each cryptocurrency will have its own balance. To initiate a transaction, the application will create a cryptographically secure address (specific for the particular blockchain). This address acts as your account number and lets you send and receive the cryptocurrency.
+
+- Atomic Swaps
+  - Additional features in these wallets lets you “swap” one cryptocurrency for another. The application provider acts as the intermediary to secure the transactions from one chain to the other.
+
+- Metamask
+
+  - Metamask is a cryptocurrency wallet used to interact with the Ethereum blockchain and other blockchains issued in accordance with the Ethereum Platform. Tokens issued in accordance with the ERC-20 standard for utility tokens can be stored in a metamask wallet. Metamask not only stores cryptocurrencies but acts as a gateway to blockchain applications. You can access the wallet through a mobile application or a browser extension.
+
+- ConsenSys
+  - ConsenSys, spearheaded by Joe Lubin, an early Ethereum programmer, is a software engineering company that helps developers build next-generation networks and enable enterprises to launch more powerful financial infrastructure. Consensys Mesh is a playground for entrepreneurs and programmers to build decentralized platforms and projects, Metamask is just one project to come out of the efforts at Consensys.
+
+- CryptoKittes
+  - One example of how the Metamask wallet is used is with the CryptoKittes project. CryptoKitties are one of the first examples of a digital collectible where you own the rights (private keys) to code that represents a unique kitten. A kitten is a set of identifiers built or “bred” by a smart contract to be one of a kind. In order to purchase, view or interact with a digital kitten you must open your Metamask wallet and connect it to the cryptokitties.co website.
+  - Kittens purchased on the cryptokitties.co site will be stored in the Metamask wallet associated with your account or can be put up for sale at an NFT marketplace. Any fees or revenue from your kittens will automatically be reflected in your Metamask wallet totals. Cryptokitties are the first example of a non-fungible token which we will cover in the next section.
+
+- Exchanges
+
+  - Cryptocurrency exchanges vary in complexities and user experience.
+
+- Beginners
+  - To start off, it is advantageous to deal with a centralized solution to store your cryptocurrency. These larger exchanges act as a bank for your cryptocurrencies. Offering features like loans and staking rewards (rewards for being an active part in a network).They vet the currencies they allow you to trade and store, while controlling the private keys for you, so accessing your currencies is as easy as a username and password. Such examples of these organizations are Coinbase and Gemini. Below you can see a screenshot of the Gemini Custodial Crypto Account Dashboard:
+  - ![](22.jpeg)
+
+- Advanced
+  - In keeping with the decentralization nature of the cryptocurrency markets, exchanges exist where you are the custodian of your accounts and trading is done from your computer or smartphone. This is where the term Decentralized Finance was born. It gives you the ability to apply smart contracts to govern your trades and access to markets previously only for accredited investors. Such examples of decentralized exchanges are Liquid, SushiSwap and Uniswap. Below is the screenshot of the Liquid Exchange:
+  - ![](22.2.jpeg)
+- Hardware Wallets
+
+  - Hardware wallets offer an alternative to storing your cryptocurrency online. These devices plug into a USB port and transfer your private keys (ownership rights to the cryptocurrency) from your “hot wallet” (mobile, computer or web based) to be stored offline. If the device is damaged or lost, so are the cryptocurrencies stored. This is what the ledger wallet looks like:
+
 
 
 # D. Future Trends
