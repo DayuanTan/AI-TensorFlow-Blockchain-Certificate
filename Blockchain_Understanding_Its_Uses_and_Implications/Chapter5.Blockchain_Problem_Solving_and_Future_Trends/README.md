@@ -31,6 +31,12 @@
   - [21. Cryptocurrency Defined](#21-cryptocurrency-defined)
   - [22. Cryptocurrencies Markets](#22-cryptocurrencies-markets)
 - [D. Future Trends](#d-future-trends)
+  - [23. Self-Sovereign Identity (SSI)](#23-self-sovereign-identity-ssi)
+  - [24. Key Concepts](#24-key-concepts)
+  - [25. Decentralized Finance](#25-decentralized-finance)
+  - [26. Benefits of Decentralized Finance](#26-benefits-of-decentralized-finance)
+  - [27. Central Bank Digital Currencies (CBDC)](#27-central-bank-digital-currencies-cbdc)
+  - [28. Types of Central Bank Digital Currencies](#28-types-of-central-bank-digital-currencies)
 - [E. Knowledge Check](#e-knowledge-check)
 - [F. Summary](#f-summary)
 
@@ -345,6 +351,115 @@ To break down the crypto markets, let's start with some basic definitions.
 
 
 # D. Future Trends
+
+## 23. Self-Sovereign Identity (SSI)
+
+
+- Web 1.0 vs 2.0 vs 3.0
+
+    As explained by Drummond Reed,
+
+  - "Web 1.0 used centralized identity; 
+  - Web 2.0 graduated to federated identity; now 
+  - Web 3.0 is using decentralized digital identity, a model known as "self-sovereign identity" or "SSI" 
+    - because now individuals control their own portable digital identity credentials in their own digital wallets—just like we prove our identity with physical credentials from our physical wallets every day. The digital signatures on these credentials use blockchain technology for decentralized public key management. Finally we can have a trust layer for the Internet that doesn't require everyone to rely on centralized authorities".
+
+- SSI
+  - The concept of self-sovereign identity (SSI) is based on the idea that the Internet was created without a way to properly deal with identifying participants. 
+    - Innovative minds, such as Drummond Reed and Alex Preukscha, have been working on solutions to this problem. 
+    - We will start with some key terms taken from the "Self-Sovereign Identity: Decentralized Digital Identity and Verifiable Credentials" book by Reed and Preukscha.
+
+- Internet and Identity
+  - Problem 
+    - The Internet was designed to identify computers, not users. The result is a tangled web of passwords, and usernames, and siloed data that is bought and sold without our consent. 
+  - Blockchain solution
+    - With blockchain and cryptographic techniques, solutions are being developed to fix what is broken with identity and the Internet. 
+    - W3C
+      - The W3C Consortium is an international community where members work together to develop web standards. Led by web inventor and Director Tim Berners-Lee and CEO Jeffrey Jaffe, W3C's mission is to lead the Web to its full potential. W3C is working on standards that can be used to define a new paradigm for the Internet and Identity.
+
+## 24. Key Concepts
+
+- Self-sovereign identity (SSI)
+
+  - SSI is relatively new, having only emerged onto the Internet stage in 2016. At one level, SSI is a set of principles about how identity and personal data control should work across digital networks. At another level, SSI is a set of technologies which build upon core concepts in identity management, distributed computing, blockchain or Distributed Ledger Technology (DLT), and cryptography.
+
+- Verifiable credentials
+
+  - The essence of decentralized identity is transitioning physical identity credentials (birth certificate, driver licenses, passports, college degrees, medical records, etc.) to a digital twin that the individual can possess in a digital wallet.
+
+- Verifier
+
+  - A verifier is the person, organization or computer program granting verification of an assertion. They request proof that a claim or statement about a credential is true.
+
+- Issuers
+
+  - Issuers are the source of credentials—every credential has an issuer. Most issuers are organizations such as government agencies (passports), financial institutions (credit cards), universities (degrees), corporations (employment credentials), NGOs (membership cards), or churches (awards).
+
+- Holders/Provers
+
+  - Providers request verifiable credentials from issuers, hold them in the holder’s digital wallet (below), and present proofs of claims from one or more credentials when requested by verifiers (and approved by the holder). Although we most commonly think of individuals as holders/provers, holders/provers can also be organizations using enterprise wallets, or things in the sense of the Internet of Things (IoT). The trust triangle represents the Trust over IP version of how the new relationship will operate.
+  - ![](24.1.png)
+
+- Decentralized identifiers
+  - According to the WC3, [decentralized identifiers (DIDs)](24.DIDComm%20and%20the%20Self-Sovereign%20Internet.pdf) (or [pdf file](24.windley.com-DIDComm%20and%20the%20Self-Sovereign%20Internet.pdf)) are a new type of identifier for verifiable, decentralized digital identity credentials. These new identifiers are designed to enable the controller of a DID to prove control over it and to be implemented independently of any centralized registry, identity provider, or certificate authority. WC3 is working on ways to standardize the format for DIDs.
+  - ![](24.2.png)
+  - The DID above is structured to identify what type of credential, the issuer and the cryptographic hash of the credential.
+
+  - The [Sovrin Foundation](https://sovrin.org) and [Everynym](https://www.evernym.com) are leading pioneers in this new emerging sector offering identity solutions in sectors such as Healthcare and Refugee Management.
+
+
+## 25. Decentralized Finance
+
+- DeFi
+  
+  According to "[The Complete Beginner's Guide to Decentralized Finance (DeFi)](25.A%20Beginner's%20Guide%20to%20Decentralized%20Finance%20(DeFi)%20%7C%20Binance%20Academy.pdf)" article by Binance Academy, 
+    - Decentralized Finance or DeFI refers to a system of financial software that enables financial products to be made available to the public on decentralized blockchains. 
+  - New interact
+    - As we have learned, the term decentralized and its ramifications will revolutionize how we interact with each other. 
+    - These new interactions can have different effects in various sectors. 
+    - New interacr in financial
+      - In the financial markets, new interactions will dramatically change the current structure by eliminating the need for intermediaries. 
+      - Banks, lending institutions, Money Managers, Market Analysts, Hedge Fund Managers, and other positions and functions can now be performed using smart contracts.
+
+  - New platform 
+    - With new technology platforms, open source projects are fueled by blockchains, incentive models, stablecoins, smart contracts and self hosted wallets that remove financial middlemen. Users' funds that are pooled together for investment advantages are now managed by a series of smart contracts that execute programmed financial trades instead of a third party.
+  - ![](25.png)
+
+## 26. Benefits of Decentralized Finance
+
+Along with the new decentralized financial model come new innovations that have far reaching ramifications. Microloans, smaller loans made from pools of capital, now are available granting access to these financial vehicles to participants previously excluded. For example, in agriculture, farmers are able to secure small loans to help them get crops to market.
+
+![](26.png)
+
+Regulating these new financial instruments is proving challenging as government agencies wrestle with controlling currencies that do not recognize borders. And have a steep learning curve. A stable price coupled with the benefits of blockchain, new financial markets are emerging that will change the current financial markets making them more inclusive.
+
+## 27. Central Bank Digital Currencies (CBDC)
+
+- studying how blockchain can improve the way governments handle their central banking systems.
+
+- CBDC
+  - Central Bank Digital currencies are a digital form of central bank money that is issued by the central bank as part of its overall monetary policy. 
+    - In the Ledger Insights article titled "[IMF Outlines Pros and Cons of Central Bank Digital Currency](27.ledgerinsights.com-IMF%20outlines%20pros%20and%20cons%20of%20Central%20Bank%20Digital%20Currency.pdf)" it is estimated that 80% of central banks are exploring CBDC.
+
+
+- benefits of Central Bank Digital Currencies include:
+
+  - Transparent monetary policy
+    - Due to the distributed ledger technology’s feature of transparency, creating a digital currency will bring clarity to the government's monetary system, where policy can be recorded on the blockchain and remain immutable.
+  - Combat money laundering
+    - Money laundering is converting illegal funds into legal payments systems. Blockchain can eliminate this practice with a shared ledger that keeps a complete transaction history, making it impossible to erase. Like with all money transfers, certain safeguards are in place to identify wallets or accounts to users. Anti Money Laundering (AML) policies like Know Your Customer (KYC) further ensure citizens are following laws in their countries.
+  - Cross-border payments
+    - Blockchain technology eliminates middlemen in cross-border payments, reducing transfer fees, and making interactions faster and frictionless while keeping the integrity of the underlying asset.
+  - Government efficiency
+    - A huge benefit for governments to research CBDC is to overcome existing problems inherent in the existing antiquated systems. By moving to the digital realm, governments can enjoy the cost reductions blockchain offers.
+  - Banking the unbanked
+    - To be unbanked describes a person who does not have a checking or savings account. Being unbanked puts individuals at an extreme dis-advantage as they do not have access to financial services like loans and usually pay more for check cashing. By creating a digital currency governments can include this market segment, onboarding people with mobile phones.
+
+
+## 28. Types of Central Bank Digital Currencies
+
+
+
 
 
 # E. Knowledge Check
