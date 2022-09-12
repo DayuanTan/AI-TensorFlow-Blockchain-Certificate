@@ -37,6 +37,8 @@
   - [26. Benefits of Decentralized Finance](#26-benefits-of-decentralized-finance)
   - [27. Central Bank Digital Currencies (CBDC)](#27-central-bank-digital-currencies-cbdc)
   - [28. Types of Central Bank Digital Currencies](#28-types-of-central-bank-digital-currencies)
+  - [29. Non-Fungible Tokens (NFTs)](#29-non-fungible-tokens-nfts)
+  - [30. Interoperability](#30-interoperability)
 - [E. Knowledge Check](#e-knowledge-check)
 - [F. Summary](#f-summary)
 
@@ -459,10 +461,69 @@ Regulating these new financial instruments is proving challenging as government 
 ## 28. Types of Central Bank Digital Currencies
 
 
+- Wholesale CBDC
+  - A wholesale CBCD is a type of currency used by financial institutions to buy and sell financial assets. It would replace real time settlement systems used today.
+- Retail CBDC
+  - Retail central bank digital currency would be used as a digital twin for fiat currency. Citizens would use it to pay for things, send money and save it.
 
 
+## 29. Non-Fungible Tokens (NFTs)
+
+- Web 1.0 
+  - and how it revolutionized the way exchanged value, looking back it is hard to believe we managed without email. Then came 
+- Web 2.0 
+  - and our social status and personal information flowed on the net as freely as the air we breathe. 
+- Web 3.0 
+  - started with blockchain and the transfer of value, the first killer application being Bitcoin.
+
+
+- What's next?
+  - That's where non-fungible tokens come into play and are set to revolutionize art, music, sports and gaming by offering a new kind of digital ownership and the ability to transfer unique value with digital collectables. We first saw a glimpse of this new market with CryptoKitties but let's look deeper into this phenomenon.
+- a non-fungible token:
+
+  - "is a unit of data stored on a digital ledger, called blockchain, that certifies a digital asset to be unique and therefore not interchangeable".
+
+
+
+- types of non-fungible tokens:
+
+- Digital artwork
+  - By guaranteeing uniqueness of a digital item and applying smart contracts to the terms of the sale, artists are now in control of the ownership rights to their work giving control of royalties back to the creator. The New York Times reported art entitled "Everydays – The First 5000 Days", by artist Mike Winkelmann, also known as Beeple, sold for $69.3 million USD in 2021.
+- Collectables
+  - As we saw with CryptoKitties, non-fungible tokens create unique items. One of the more popular collectables are CryptoPunks, a collection of 10,000 uniquely generated characters each having a unique owner registered on the Ethereum blockchain. A crypto punk, Punk 1651 sold for 78 ETH or $136,850.22 USD.
+- Games
+  - NFTs can be used to represent assets in computerized games. With the ability to trade assets created in a gaming platform, users and creators of assets in the digital game can trade assets on a third party marketplaces and store them in a wallet where the private keys are controlled by the gamer, taking control away from the game developer.
+- Music and film
+  - With NFTs, musicians and filmmakers can now tokenize their work where the artist monetizes and profits from their content. When artists release music or film as NFT, they retain control and realize royalties in a more equitable way. Musicians can join in decentralized marketplace such as Mediachain a Ujo to ensure artists are paid fairly, musicians enter into smart contracts that state royalty stipulations without the need of a third party.
+- Sports 
+  - The sports industry has embraced the idea of NFTs from tokenizing memorable sporting moments to trading card collectables. NBA Top Shots being the leader for creating a marketplace for NBA collectible cards and moments.
+- University research 
+  - In May 2021, UC Berkeley announced it would auction off NFTs for the patent disclosure for two Nobel Prize-winning inventions dealing with gene editing and Cancer Immunotherapies.
+
+## 30. Interoperability
+
+- Interoperability in blockchains 
+  - deals with creating standards so different types of blockchains can communicate with each other.
+
+
+- Hyperledger Besu
+  - If new emerging blockchains can’t communicate with each other, we will have the same issues with siloed data that created frustration with the Internet of Today. As different blockchains take different approaches to interoperability, standards will emerge that will help regulate the industry and help with widespread adoption. Currently Hyperledger and Ethereum are working together on interoperability projects from Hyperledger Besu (to learn more about Hyperledger Besu enroll into Hyperledger Besu Essentials: Creating a Private Blockchain Network (LFS176x)), an open source Ethereum client for enterprise solutions that can be run on the Ethereum public network or on a private permissioned network. Other projects in the Hyperledger labs that deal with interoperability are working on standards that will make it easier for blockchains to talk to each other.
+
+- email interoperability
+  - When considering how blockchain interoperability can work, consider email and smartphone. Both of these technologies have the ability to interoperate. Outlook email server can receive email from the Gmail server and Verizon cell phone carriers can transfer and accept calls from T-Mobile. These services would not operate efficiently, if these companies couldn't exchange data. With this in mind, blockchain are developing projects that, like smartphones and emails, will transfer value and information across blockchain seamlessly.
 
 # E. Knowledge Check
 
 
 # F. Summary
+
+In this chapter, we discussed:
+
+- How some features of blockchain are solving real world problems.
+- How immutability is opening up new cooperation models for business.
+- How the concept of autonomy will reduce conflict by eliminating human processes.
+- New emerging business models as multiparty exchanges, with built in trust, are being developed.
+- How the double spend accounting issue is solved with blockchain.
+- Future trends in decentralized finance and Central Bank Digital Currencies.
+- The importance of interoperability between blockchains.
+- Non-fungible tokens (NFTs) and their importance to the blockchain ecosystem.

@@ -172,13 +172,48 @@ Understand what blockchain is, and gain an appreciation for this transformative 
 
 [Chapter 5. Blockchain Problem Solving and Future Trends](Chapter5.Blockchain_Problem_Solving_and_Future_Trends/README.md)
 
-- Introduction
-- Problems Blockchain Solves
-- Digital Currencies
-- Future Trends
-- Knowledge Check
-- Summary
 
+- A. Introduction
+  - 1. Chapter Overview
+  - 2. Learning Objectives
+- B. Problems Blockchain Solves
+  - B.1. Immutability
+    - 3. Immutability Defined
+    - 4. Video: Immutability
+    - 5. Traditional Database Immutability Concept
+    - 6. Blockchain Immutability Concept
+  - B.2. Transparency
+    - 7. Transparency Defined
+  - B.3. Append-Only
+    - 8. Traditional CRUD Explanation
+    - 9. Blockchain Append-Only
+  - B.4. Autonomy
+    - 10. Autonomy Defined
+    - 11. Autonomy: Human Process-Driven Complexity
+    - 12. Autonomy with Smart Contracts
+    - 13. Video: Smart Contracts
+    - 14. Multi-Party Transactions
+    - 15. Blockchain Multi-Party Sync (Removing Middlemen)
+    - 16. Cross Border Payments and Ledgers
+    - 17. Video: Double Spend
+    - 18. Blockchain Solves The Double Spend Problem
+    - 19. Digital Currency Difficulties
+- C. Digital Currencies
+  - 20. Digital Currencies Overview
+  - 21. Cryptocurrency Defined
+  - 22. Cryptocurrencies Markets
+- D. Future Trends
+  - 23. Self-Sovereign Identity (SSI)
+  - 24. Key Concepts
+  - 25. Decentralized Finance
+  - 26. Benefits of Decentralized Finance
+  - 27. Central Bank Digital Currencies (CBDC)
+  - 28. Types of Central Bank Digital Currencies
+  - 29. Non-Fungible Tokens (NFTs)
+  - 30. Interoperability
+- E. Knowledge Check
+- F. Summary
+- 
 [Chapter 6. Blockchain Use Cases](Chapter6.Blockchain_Use_Cases/README.md)
 
 - Introduction
