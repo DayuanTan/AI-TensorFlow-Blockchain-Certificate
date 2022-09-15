@@ -11,13 +11,19 @@
     - [5. Global Supply Chains](#5-global-supply-chains)
   - [6. Video: Supply Chain - Maersk](#6-video-supply-chain---maersk)
   - [7. Farm to Table - Walmart](#7-farm-to-table---walmart)
+  - [8. Video: Walmart](#8-video-walmart)
+  - [9. Healthcare](#9-healthcare)
+  - [10. Finance Markets](#10-finance-markets)
 - [D. Public Sector Solutions](#d-public-sector-solutions)
+  - [11. Public Sector Solutions Overview](#11-public-sector-solutions-overview)
 - [E. Social Impact Solutions](#e-social-impact-solutions)
+  - [12. Social Impact Solutions Overview](#12-social-impact-solutions-overview)
 - [F. Platform Developer’s Solutions](#f-platform-developers-solutions)
 - [G. End User Solutions](#g-end-user-solutions)
 - [H. Future of Blockchain](#h-future-of-blockchain)
 - [I. Knowledge Check](#i-knowledge-check)
 - [J. Summary](#j-summary)
+  - [Chapter Summary](#chapter-summary)
 
 
 
@@ -96,26 +102,142 @@ Learn more about the collaboration between Maersk and IBM from the ["Digitizing 
 
 ## 6. Video: Supply Chain - Maersk
 
-[IBM and Maersk demo: Cross-border supply chain solution on blockchain](https://www.youtube.com/watch?v=tdhpYQCWnCw&t=110s)
+[Youtube: IBM and Maersk demo: Cross-border supply chain solution on blockchain](https://www.youtube.com/watch?v=tdhpYQCWnCw&t=110s)
+
+
+- shipping containers 1956
+  - manual, paper-based process
+  - today, 90% goods in global trade are carried by shipping
+  - supply chain are slowed down by the complexity and huge point-to-point communication
+- blockchain
+  - IBM and Maersk are addressing this problem with a distributed permission platform accessible by the supply chain ecosystem designed to exchange event data and handle document workflows.
+    -  create a global tamperproof system for digitizing trade workflow and tracking shipments end-to-end, eliminating frictions including costly point-to-point communications.
+    -  track millions of container journeys per year  
+    -  integrate with customs authorities on selected trade lanes.
+    -  E.g. from Kenya to the port of Rotterdam, nearly 200 communications. Blockchain has been implemented to create trust and security in the digitized document workflow and improve the efficiency of global supply chains.
+       -  ![](6.png)
+       -  More detials of steps: (see above video)
+       -  ![](6.2.png)
+- advantages
+  - Blockchain provides secure data exchange and a tamperproof repository for these documents and shipping events.
+  - This system could significantly reduce delays and fraud saving billions of dollars annually.
+  - And, according to the WTO, reducing barriers within the international supply chain could increase worldwide GDP by almost 5% and total trade volume by 15%.
+
 
 The resulting solution is called [TradeLens](https://www.tradelens.com). You can take the TradeLens tour [here](https://tour.tradelens.com/challenge).
 
+
+![](6.3.png)
+
+
 ## 7. Farm to Table - Walmart
 
-Farms are complicated ecosystems with many moving parts, careful timing, and seasonal financing structures. However, after the food leaves a farm, it becomes part of a wide-reaching supply chain with a lot of parties. Buyers, sellers, distributors, and grocery chains all want to know where the food is along its journey. You also probably want to know where your food has been before you serve it on your dinner table.
+- Motivation:
 
-The trend toward blockchain agriculture promises to make each step of growing and distributing food simpler. It will offer all parties involved a single source of truth for the agriculture supply chain.
+  - Farms are complicated ecosystems with many moving parts, careful timing, and seasonal financing structures. However, after the food leaves a farm, it becomes part of a wide-reaching supply chain with a lot of parties. Buyers, sellers, distributors, and grocery chains all want to know where the food is along its journey. You also probably want to know where your food has been before you serve it on your dinner table.
 
-To learn more, read [Hyperledger's case study "How Walmart Brought Unprecedented Transparency to the Food Supply Chain with Hyperledger Fabric".](https://www.hyperledger.org/learn/publications/walmart-case-study)
+- Solution:
+  - The trend toward blockchain agriculture promises to make each step of growing and distributing food simpler. It will offer all parties involved a single source of truth for the agriculture supply chain.
 
 
+To learn more, read [Hyperledger's case study "How Walmart Brought Unprecedented Transparency to the Food Supply Chain with Hyperledger Fabric".](https://www.hyperledger.org/learn/publications/walmart-case-study) (or [pdf file](7.Hyperledger_CaseStudy_Walmart_Printable_V4.pdf))
+
+
+## 8. Video: Walmart
+
+[Youtube: Walmart's food safety solution using IBM Food Trust built on the IBM Blockchain Platform](https://www.youtube.com/watch?v=SV0KXBxSoio)
+
+- [IBM's Food Trust Solution](https://www.ibm.com/blockchain/supply-chain) building faith in food supply chains.
+  - [IBM Blockchain Services for Supply Chain - Solution Brief](8.1.%20IBM%20Blockchain%20Services%20for%20Supply%20Chain%20Solution%20Brief.pdf)
+  - [Forrrester's study on blockchain for supply chain](8.2.Forrester_study_on_blockchain_Emerge%20Stronger%20At%20A%20Time%20Of%20Uncertainty%3A%20Blockchain%20For%20Supply%20Chain.pdf)
+- [Paramount's Farm to Table](https://www.farmtoplate.io) creates an inclusive blockchain supply chain solution [from the farm all the way to your plate.](https://www.producebluebook.com/2021/05/21/paramount-software-solutions-launches-farm-to-plate-blockchain-platform/#) 
+  - [Paramount Software Solutions launches Farm to Plate blockchain platform](8.3.Paramount%20Software%20Solutions%20launches%20Farm%20to%20Plate%20blockchain%20platform%20%E2%80%93%20Produce%20Blue%20Book.pdf)
+  - [Paramount resources](https://www.farmtoplate.io/resources/) Their website has many good resources
+    - whitepaper
+    - case study/PoC
+    - ebook
+
+## 9. Healthcare
+
+Blockchain is transforming the healthcare industry. Some challenges the healthcare industry faces are counterfeit drugs, siloed data, health record management to name a few. Blockchain can solve these issues with interoperability, data integrity and security. Let's look at some solutions.
+
+- Moderna 
+  - Moderna uses blockchain to support smart COVID vaccine management. To learn more see "[Moderna, IBM Explore Blockchain Tech, AI to Support 'Smarter' Management of COVID-19 Vaccines](https://www.marketwatch.com/story/moderna-ibm-explore-blockchain-tech-ai-to-support-smarter-management-of-covid-19-vaccines-2021-03-04) (or [pdf](9.1.marketwatch.com-Moderna%20IBM%20explore%20blockchain%20tech%20AI%20to%20support%20smarter%20management%20of%20COVID-19%20vaccines.pdf))" article by Tomi Kilgore.
+- SAP  
+  - SAP has an existing solution unrelated to blockchain called Advanced Track and Trace for Pharmaceuticals (ATTP) which generates the unique identifiers. To further explore this solution read the following article by Nicky Morris "[SAP Leads Pharma Supply Chain Blockchain](https://www.ledgerinsights.com/sap-pharma-supply-chain/) (or [pdf](9.2.ledgerinsights.com-SAP%20leads%20Pharma%20Supply%20Chain%20blockchain.pdf))" and watch "[Verifying Pharmaceutical Products Using Blockchain](https://www.sap.com/assetdetail/2018/05/c48ee5c2-047d-0010-87a3-c30de2ffd8ff.html)" video.
+
+- Pfizer
+  - Pfizer has been using blockchain in transparent clinical trials. You can learn more about this project by reading the following blog post, "Clinical Trial Data Should Be Accessible and Transparent".
+
+
+## 10. Finance Markets
+
+Reduction of settlement times will improve the flow of money through fintech companies.
+
+Swiss Exchange, SIX has a solution that solves the issue in the trade markets of long settlement times. The new blockchain platform runs parallel to the existing SIX platform, which involves three steps to complete a trade, often over several days. Two of those steps vanish in a blockchain distributed ledger, meaning a transaction can be completed in fractions of a second.
+
+Trade finance is showing promise for blockchain solutions in letter of credits by making available financial mechanisms previously excluded for most people. In a paper from Andrea Frosinini, "Reshaping Trade Finance: Towards a “New” Letter of Credit", he supplied trade finance paired with blockchain that provides delivery and payment assurance to buyers and sellers, reducing operation and transactional cost and opening up market opportunities.
+
+Voltron Trade Finance was co-founded by eight member banks including Bangkok Bank, BNP Paribas, CTBC, HSBC, ING, Natwest, SEB and Standard Chartered. The consortium has since grown to more than 50 banks and corporations. The platform is built on Corda blockchain, it solves the problem that most letters of credit are based on paper and take 5 to 10 days. By using blockchain technology, the letters of credit may be efficiently transacted in less than 24 hours. You can learn more about Voltron from the following two articles "Blockchain Based Letter of Credit Processed by HSBC on Voltron Trade Finance Platform" (by JD Alois) and "Trade Finance Solution Voltron Launches Open Platform on Corda Blockchain".
 
 # D. Public Sector Solutions
+
+## 11. Public Sector Solutions Overview
+
+Blockchain benefits of security, efficiency and speed have government leaders research the far reaching implications that will improve lives and accelerate global blockchain solutions. Public sector can be categorized by, Public Administration, Public Service, Land and Community, and Government. According to a presentation by Bobbi Muscara, Saptarshi Choudhury and Sean O’Kelly, "Re-thinking Public Sector through Blockchain", all blockchain public sector project must consider in the design these four factors:
+
+- Identity management for Governments
+- Interactions (highly regulated transactions)
+- Regulations
+- Governance
+
+
+One solution that we have already mentioned in Chapter 1 is Smart Dubai. Its goal is to become the happiest city on Earth. Watch these additional resources to learn more about the Smart Dubai initiative, "Smart Dubai's Paperless Strategy" and "Happy Cities Forum 2019".
+
+Dutch Blockchain Coalition established three pillars of society working together to build a blockchain future:
+
+Developing blockchain building blocks - digital identities
+Realizing the conditions for utilizing blockchain
+Developing and realizing the Human Capital Agenda
+ 
+
+
+Wyoming has now enacted a total of 13 blockchain-enabling laws, making it the only US state to provide a comprehensive, welcoming legal framework that enables blockchain technology to flourish, both for individuals and companies. This effort was led by Caitlin Long.
 
 
 # E. Social Impact Solutions
 
+## 12. Social Impact Solutions Overview
 
+The Blockchain for Social Impact Coalition (BSIC) is a not-for-profit organization that incubates, develops, and collaborates on blockchain products and solutions that can address social and environmental challenges across the United Nations Sustainable Development Goals. The aim is to inspire, federate, and create bridges between NGOs, and government agencies, foundations, impact investors, philanthropists and technologists.
+
+ 
+
+Blockchain for Social Impacy
+
+ 
+
+According to the "7 Ways Blockchain Can Be Used for Social Good" article by Kayla Matthews, areas that are seeing blockchain social impact projects are:
+
+Philanthropy and remittances
+Financial empowerment
+Identity and land rights
+Governance and democracy
+Supply chain and environmental protections
+ 
+
+Kiva logo
+
+ 
+
+More than 1.7 billion people around the world are unbanked and can’t access the financial services they need. Kiva is an international nonprofit, founded in 2005 in San Francisco, with a mission to expand financial access to help underserved communities thrive. Kiva accomplishes this by crowdfunding loans and unlocking capital for the underserved, improving the quality and cost of financial services, and addressing the underlying barriers to financial access around the world. Through Kiva's work, students can pay for tuition, women can start businesses, farmers are able to invest in equipment and families can afford needed emergency care.
+
+ 
+
+Kiva - how it works
+
+ 
+ 
 # F. Platform Developer’s Solutions
 
 
@@ -124,8 +246,19 @@ To learn more, read [Hyperledger's case study "How Walmart Brought Unprecedented
 
 # H. Future of Blockchain
 
+Video: What Is the Future of Blockchain?
 
 # I. Knowledge Check
 
 
 # J. Summary
+
+## Chapter Summary
+
+In this chapter, we discussed:
+
+- Blockchain use cases in an enterprise environment.
+- Public sector and how blockchain is important in shaping citizens' futures.
+- The relevance of blockchain in social impact projects.
+- Developing new blockchain platforms emerging as the ecosystem evolves.
+- Blockchain and how it will improve human experience.
