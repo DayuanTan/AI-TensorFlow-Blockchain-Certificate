@@ -110,3 +110,6 @@ You will be able to
   - Problems Blockchain Solves; Digital Currencies; Future Trends
 - [Chapter 6. Blockchain Use Cases](Blockchain_Understanding_Its_Uses_and_Implications/Chapter6.Blockchain_Use_Cases/README.md)
   - Blockchain in Practice; Enterprise Solutions; Public Sector Solutions; Social Impact Solutions; Platform Developer’s Solutions; End User Solutions; Future of Blockchain
+
+[**My Certificate**](./Blockchain_Understanding_Its_Uses_and_Implications/LinuxFoundationX%20LFS170x%20Certificate%20|%20edX.pdf) 
+<img src="./Blockchain_Understanding_Its_Uses_and_Implications/certificate.png" width="100" />
