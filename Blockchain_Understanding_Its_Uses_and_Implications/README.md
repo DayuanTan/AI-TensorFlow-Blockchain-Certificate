@@ -8,8 +8,11 @@ Understand what blockchain is, and gain an appreciation for this transformative 
 - LFS170x is part of the Blockchain for Business Professional Certificate. Skills in blockchain are being reported as the top job-skill in demand. This program is designed for the business professional who needs to understand the potential (or threat) of blockchain to their company and industry. Armed with better information of the blockchain landscape, this program will help you rise to new challenges in your current role by giving you a new dimension on which you can add value to your employer
 
 
+[Certificate](LinuxFoundationX%20LFS170x%20Certificate%20|%20edX.pdf)
+
 
 [Syllabus](syllabus.pdf)
+
 
 
 [Chapter 1. Introduction to Blockchain](Chapter1.Introduction_to_Blockchain/README.md)
