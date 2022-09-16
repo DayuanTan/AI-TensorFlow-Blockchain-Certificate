@@ -17,6 +17,11 @@ Contents:
   - [3.3.1 COO](#331-coo)
   - [3.3.2 Read](#332-read)
 - [3.4 The Chief Legal Officer (CLO)](#34-the-chief-legal-officer-clo)
+  - [3.4.1 Video The CLO](#341-video-the-clo)
+  - [3.4.2 Read The CLO](#342-read-the-clo)
+- [3.5 The Chief Financial Officer (CFO)](#35-the-chief-financial-officer-cfo)
+  - [3.5.1 Video The CFO](#351-video-the-cfo)
+  - [3.5.2 Read the CFO](#352-read-the-cfo)
 
 # 3.1 Intro to the C-Suite
 ## 3.1.1 Module 3 Overview: Intro to the C-Suite
@@ -97,5 +102,91 @@ Serres, T., & Warburg, B. (2017, November). Introducing Asset Chains: The Cognit
 
 # 3.4 The Chief Legal Officer (CLO)
 
+## 3.4.1 Video The CLO
+
+- Blockchain aids the contracting process whether short or long term. - Smart contracts can automate terms. 
+  - They can refer to data fields elsewhere online, known as Oracles, such as a party's account balance or a change in a commodity price. 
+  - They can trigger alerts and automate payments. 
+  - Smart contracts are self-enforcing and so corporations will not want to enter them lightly. 
+   
+- Chief Counsel and corporate lawyers will need to learn how to audit legal templates and make sure the contract software supports what it's parties intended it to do.
+
+
+- Lesson Learned
+  - One, stick with well-tested methods for creating and running Smart contracts, keep it simple. And 
+  - two, make sure you have someone on staff who can audit the code of a smart contract template or the code of a distributed app behind an ICO or other crypto asset
+
+
+
+- Lawyers 
+  - also need to stay on top of cases involving block chain. 
+  - Those include 
+    - smart contracts, 
+    - initial coin offerings, and 
+    - patent filings and 
+    - across jurisdictions.
+
+
+- Rationale 理论基础 for Blockchain patent application 
+  - to profit from their invention
+  - to prevent others from using their invention
+  - to make an invention available to collaborators
+
+- Blockchain patent application criteria
+  - it must be eligible
+  - it must be truly novel
+  - the design must be non-obvious
+
+## 3.4.2 Read The CLO
+
+
+Recommended Reading
+
+
+De Filippi, P., & Wright, A. (2018). The Rule of Code vs. The Rule of Law. In Blockchain and the Law: The Rule of Code. Harvard University Press. Retrieved from https://harvardpress.typepad.com/hup_publicity/2018/04/blockchain-and-the-law.html
+
+or [pdf1](3.4.2.harvardpress.typepad.com-The%20Rule%20of%20Code%20vs%20The%20Rule%20of%20Law.pdf) [pdf2](3.4.2.The%20Rule%20of%20Code%20vs.%20The%20Rule%20of%20Law%20-%20Harvard%20University%20Press%20Blog.pdf)
+
+Wright, A., & De Filippi, P. (2015). Decentralized Blockchain Technology and the Rise of Lex Cryptographia Retrieved from https://papers.ssrn.com/abstract=2580664    or [pdf](3.4.3.Decentralized%20Blockchain%20Technology%20and%20the%20Rise%20of%20Lex%20Cryptographia.pdf)
+
+
+# 3.5 The Chief Financial Officer (CFO)
+
+## 3.5.1 Video The CFO
+
+- CFOs balance the internal markets of corporations with the external markets of finance. They must understand the profound changes in store.
+- basic 8 functions the industry provides, in no particular order. 
+  - The industry forces anti money laundering and know-your-customer regulations. 
+  - It verifies identity and account balances, 
+  - it facilitates payments, savings, loans, asset exchanges, investment, insurance, risk management, and accounting. 
+- Blockchain, it turns out, is transforming all of these.
+- double book keeping
+  - we used for centuries
+  - every transaction you record a debit and a credit, and 
+  - in the end, the books must balance, which is why we call it a balance sheet.
+- triple-entry book keeping
+  - Blockchain is now giving rise to an alternative
+  - The idea was circulated first by cryptographer, Ian Grigg, before the release of the Bitcoin blockchain.
+    -  a cryptographically sealed record of transactions was the same as a third-entry extending double-entry systems. 
+    -  The idea translated into a shared receipt on the blockchain.
+
+  - It underscores our ability to write transactions to a blockchain in real time and between multiple parties. 
+  - It results in a ledger showing the whole history of assets and the relationship among transactions. 
+  - That's more than a credible audit trail. 
+- The CFO is one of the main leaders inside the enterprise, and the finance role involves everything from cash flow and risk management to capital investing, corporate recruiting, and strategy. 
+
+## 3.5.2 Read the CFO
+
+Recommended Reading
+
+Oris Valiente, I. (2020). Blockchain and the CFO: How Distributed Ledger Technology is Changing the Profession (Big Idea White Paper). Blockchain Research Institute. Retrieved from: https://www.blockchainresearchinstitute.org/project/blockchain-and-the-cfo/
+
+
+- Abstract:
+  - Within each industry, distributed ledger technology is influencing the value chain and the role of a CFO. This project outlines why the CFO, as the CEO’s business partner, should understand blockchain’s impact on enterprise strategy, not just on corporate finance, capital investment, and operations. It shows how blockchain could catalyze change in the near term, with finance use cases in taxation, accounting and audit processes and in digital asset payments for consumer goods, employee payroll, and cross-border transactions. In the longer term, CFOs will help make the business case for blockchain applications in trade finance, supply chain financing, and insurance. To prepare for that future, CFOs must understand token economics, initial coin offerings, and blockchain-based analytics.
+
+- Blockchain and the CFO
+  - [Research paper](3.5.2.Oris%2BValiente_Blockchain%2Band%2Bthe%2BCFO_Blockchain%2BResearch%2BInstitute.pdf)
+  - [infographic](3.5.2.BRI-CFO2020-Inf.png)
 
 
