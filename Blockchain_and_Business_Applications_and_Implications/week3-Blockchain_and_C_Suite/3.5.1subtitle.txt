@@ -1,0 +1,43 @@
+[MUSIC] In this video,
+we'll explore corporate accounting and finance through the eyes of
+the Chief Financial Officer, or CFO. In Blockchain Revolution, Don Tapscott and
+I looked closely at how blockchain would affect what we call the world's second
+oldest profession, financial services. We saw the unstoppable force of blockchain
+on a collision course of what seemed like an immovable object,
+the financial services industry, and we expected fireworks. Financial services grease
+the wheels of the global economy. The industry moves trillions of dollars
+a day and serves billions of people. Their leaders have even been
+dubbed masters of the universe, albeit with tongue firmly in cheek. CFOs balance the internal markets of
+corporations with the external markets of finance. They must understand
+the profound changes in store. The financial services industry
+needs a major upgrade. Sleek user interfaces act as digital
+wallpaper for old technologies, processes, and systems. We've looked at the basic eight
+functions the industry provides, in no particular order. The industry forces anti money laundering
+and know-your-customer regulations. It verifies identity and account balances,
+it facilitates payments, savings, loans, asset exchanges, investment, insurance,
+risk management, and accounting. Blockchain, it turns out,
+is transforming all of these. So let's start with accounting. For centuries, we've used a system
+of double book keeping, where for every transaction you record a debit and
+a credit, and in the end, the books must balance,
+which is why we call it a balance sheet. Blockchain is now giving rise to
+an alternative, triple-entry book keeping. You may remember we discussed
+the idea of triple-entry accounting. The idea was circulated first
+by cryptographer, Ian Grigg, before the release of
+the Bitcoin blockchain. Grigg argued, a cryptographically
+sealed record of transactions was the same as a third-entry
+extending double-entry systems. The idea translated into a shared
+receipt on the blockchain. Others have said a digitally signed and
+shared receipt isn't really a departure from double-entry bookkeeping, but
+the concept, I think, is still useful. It underscores our ability to write
+transactions to a blockchain in real time and between multiple parties. It results in a ledger showing
+the whole history of assets and the relationship among transactions. That's more than a credible audit trail. That's real time status of all
+transactions relevant to us. Accounting is but one of dozens of central
+building blocks at the CFO's disposal. Innovation needs to come from
+all areas of the enterprise, and this includes the CFO's office. And today's CFO is not the stereotypical
+green-shaded bean counter of the movies. The CFO is one of the main
+leaders inside the enterprise, and the finance role involves
+everything from cash flow and risk management to capital investing,
+corporate recruiting, and strategy. We've already discussed how policies and
+regulations attempt to balance the need for innovation
+with the need to protect stakeholders. The CFO can help explain how
+an organization could deploy blockchain in a novel but principled way.

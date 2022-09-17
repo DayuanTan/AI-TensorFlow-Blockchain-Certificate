@@ -1,0 +1,61 @@
+[MUSIC] Welcome back. In this video, we'll look at the impact of blockchain technology
+on the job of the Chief Information Officer and the Chief Technology Officer, the CIO and CTO respectively. The job is a tough one. It involves securing
+the enterprise against cyberattacks
+and systems failure, while transforming
+IT architecture for the Fourth
+Industrial Revolution. Quite a task. The fourth
+Industrial Revolution is here. We're in it. It involves artificial
+intelligence, machine learning, advanced
+robotics, smart buildings, autonomous fleets, the
+Internet of things, additive manufacturing, energy microgrids, and
+even biotechnology. We see blockchain as a coordinating mechanism for all of these emerging
+technologies. It will support reliable search, verification of
+device IDs and accounts, execution of distributed apps
+and smart contracts, micropayment systems, and
+exchanges of tokenized assets. CIOs and CTOs will have to go beyond implementing
+enterprise business strategy. They'll need to do so, using or recommending a range
+of technologies. So, there are
+four key ways to do this. First, CIOs and CTOs must effectively communicate their
+bold visions of the future. Their peers in the C-suite
+will need help understanding these
+evolving technologies, and their impact on
+enterprise strategy. CIOs and CTOs can move them to action with
+compelling examples, relevant use cases, and
+proposals for exciting projects. Second, they will need to orchestrate innovation
+across the enterprise. Blockchain technology will affect external processes and
+enterprise architecture. Moving business
+logic and business processes out of
+enterprise silos and on to shared blockchains will help to coordinate internal initiatives
+with industry efforts, such as the Hyperledger project, or the Enterprise
+Ethereum Alliance. Third, they must cultivate
+the necessary skills, talent, and relationships
+in house or in the network. There's already a shortage of accomplished blockchain
+developers who understand smart contracts
+in blockchain integration. Attending blockchain meetups
+and participating in consortia can help to build
+these key connections. Fourth, CIOs and CTOs should keep an eye on
+quantum computing. Google has already built
+a 72-qubit processor. Qubits are quantum bits, rather than conventional ones. Quantum processors can solve extremely difficult math
+problems really fast, and this can potentially shatter public-key cryptography and weekend symmetric
+key cryptography. It can undermine
+the cyber security now protecting your enterprise
+infrastructure and systems. Some block chains are
+technically quantum resistant, but it would be
+foolish to assume that any system is
+completely unhackable. Users don't always protect
+their private keys. Developers make trade-offs
+between security and scalability at
+the implementation layer. CIOs and CTOs should
+audit their systems. Which data are vulnerable
+because of encryption? What is the threat level
+and the timing? It makes no sense to deploy a blockchain that's
+not quantum resistant, if not quantum proof, for managing your
+most valuable assets. Now, experts say there's
+a one in seven chance a quantum computer will be commercially available by 2026, and that's less
+than a decade away. By 2031, the odds
+become one in two. CIOs and CTOs who take
+these actions will be preparing their
+enterprise architecture for the fourth industrial age. For more detail about the CIO and Enterprise
+Technology Architecture, check out the new preface to the paperback edition of
+Blockchain Revolution, as well as the work of
+Blockchain Research Institute author, Oliver Bussmann.

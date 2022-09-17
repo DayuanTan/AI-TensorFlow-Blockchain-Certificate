@@ -91,6 +91,10 @@ You will be able to
   - New Business Models; DApps; Strategic Approaches to Intellectual Property
   
 - [Module 3 Blockchain and C-Suite](Blockchain_and_Business_Applications_and_Implications/week3-Blockchain_and_C_Suite/module3.md)  
+  - Intro to the C-Suite
+  - CEO, COO, CLO, CFO, CMO, CIO CTO, CHRO 
+
+- [Module 4 Leadership for Next Era](Blockchain_and_Business_Applications_and_Implications/week4-Leadership_for_Next_Era/module4.md)
 
 
 # 4. [Blockchain: Understanding Its Uses and Implications](Blockchain_Understanding_Its_Uses_and_Implications/README.md) by The Linux Foundation

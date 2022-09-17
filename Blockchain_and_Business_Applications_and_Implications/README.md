@@ -66,3 +66,33 @@ You will be able to
 
 # [Week/Module 3 Blockchain and C-Suite](week3-Blockchain_and_C_Suite/module3.md)
 
+- Module 3 Blockchain and C-Suite
+- Learning Objectives
+- 3.1 Intro to the C-Suite
+  - 3.1.1 Module 3 Overview: Intro to the C-Suite
+- 3.2 The Chief Executive Officer (CEO)
+  - 3.2.1 The CEO
+  - 3.2.2 Recommended Reading
+- 3.3 The Chief Operating Officer (COO)
+  - 3.3.1 COO
+  - 3.3.2 Read
+- 3.4 The Chief Legal Officer (CLO)
+  - 3.4.1 Video The CLO
+  - 3.4.2 Read The CLO
+- 3.5 The Chief Financial Officer (CFO)
+  - 3.5.1 Video The CFO
+  - 3.5.2 Read the CFO
+- 3.6 The Chief Marketing Officer (CMO)
+  - 3.6.1 Video: The CMO
+  - 3.6.2 Read The CMO
+- 3.7 The Chief Information Officer and Chief Technology Officer (CIO & CTO)
+  - 3.7.1 Video CIO CTO
+  - 3.7.2 Read CIO CTO
+- 3.8 The Chief Human Resources Officer (CHRO)
+  - 3.8.1 Video CHRO
+  - 3.8.2 Read CHRO
+- 3.9 Recap of the C-Suite
+  - 3.9.1 Video: Practitioner Perspective: Mihai Alisie, Co-Founder, Ethereum
+  - 3.9.2 Video: Practitioner Perspective: Rob Carter, Executive VP and CIO, FedEx
+  - 3.9.3 Video: Recap of the C-Suite
+- 3.10 exam
