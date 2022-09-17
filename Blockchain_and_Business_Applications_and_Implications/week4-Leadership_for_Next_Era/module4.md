@@ -3,26 +3,26 @@
 - [Module 4 Leadership for Next Era](#module-4-leadership-for-next-era)
 - [Learning Objectives](#learning-objectives)
 - [4.1 Blockchain Regulation](#41-blockchain-regulation)
-  - [4.1.1 Video: VideoModule 4 Overview](#411-video-videomodule-4-overview)
-  - [4.1.2 Video: VideoIntro to Blockchain Regulation](#412-video-videointro-to-blockchain-regulation)
-  - [4.1.3 Video: VideoPractitioner Perspective - Andreas Wallendahl: Regulation](#413-video-videopractitioner-perspective---andreas-wallendahl-regulation)
-  - [4.1.4 Video: VideoFundamental Questions](#414-video-videofundamental-questions)
-  - [4.1.5 Video: VideoRegulatory Principles](#415-video-videoregulatory-principles)
-  - [4.1.6 Video: VideoPractitioner Perspective - Hariton Korizis: Regulation](#416-video-videopractitioner-perspective---hariton-korizis-regulation)
+  - [4.1.1 Video: Module 4 Overview](#411-video-module-4-overview)
+  - [4.1.2 Video: Intro to Blockchain Regulation](#412-video-intro-to-blockchain-regulation)
+  - [4.1.3 Video: Practitioner Perspective - Andreas Wallendahl: Regulation](#413-video-practitioner-perspective---andreas-wallendahl-regulation)
+  - [4.1.4 Video: Fundamental Questions](#414-video-fundamental-questions)
+  - [4.1.5 Video: Regulatory Principles](#415-video-regulatory-principles)
+  - [4.1.6 Video: Practitioner Perspective - Hariton Korizis: Regulation](#416-video-practitioner-perspective---hariton-korizis-regulation)
 - [4.2 Blockchain Governance](#42-blockchain-governance)
-  - [4.2.1 Video: VideoRegulation vs. Governance](#421-video-videoregulation-vs-governance)
-  - [4.2.2 Video: VideoPractitioner Perspective - Ana Trbovich: Regulation & Governance](#422-video-videopractitioner-perspective---ana-trbovich-regulation--governance)
-  - [4.2.3 Video: VideoThe Blockchain Stack](#423-video-videothe-blockchain-stack)
-  - [4.2.4 Video: VideoMultiple Layers of Blockchain Governance](#424-video-videomultiple-layers-of-blockchain-governance)
-  - [4.2.5 Video: VideoA New Framework for Blockchain Governance](#425-video-videoa-new-framework-for-blockchain-governance)
-  - [4.2.6 Video: VideoPractitioner Perspective - Rob Carter: Governance](#426-video-videopractitioner-perspective---rob-carter-governance)
-  - [4.2.7 Reading: ReadingBlockchain Governance](#427-reading-readingblockchain-governance)
+  - [4.2.1 Video: Regulation vs. Governance](#421-video-regulation-vs-governance)
+  - [4.2.2 Video: Practitioner Perspective - Ana Trbovich: Regulation & Governance](#422-video-practitioner-perspective---ana-trbovich-regulation--governance)
+  - [4.2.3 Video: The Blockchain Stack](#423-video-the-blockchain-stack)
+  - [4.2.4 Video: Multiple Layers of Blockchain Governance](#424-video-multiple-layers-of-blockchain-governance)
+  - [4.2.5 Video: A New Framework for Blockchain Governance](#425-video-a-new-framework-for-blockchain-governance)
+  - [4.2.6 Video: Practitioner Perspective - Rob Carter: Governance](#426-video-practitioner-perspective---rob-carter-governance)
+  - [4.2.7 Reading: Blockchain Governance](#427-reading-blockchain-governance)
 - [4.3 Seven Conditions for Success](#43-seven-conditions-for-success)
-  - [4.3.1 Video: VideoProfile of a Blockchain Hotbed](#431-video-videoprofile-of-a-blockchain-hotbed)
-  - [4.3.2 Reading: ReadingProfile of a Blockchain Hotbed](#432-reading-readingprofile-of-a-blockchain-hotbed)
+  - [4.3.1 Video: Profile of a Blockchain Hotbed](#431-video-profile-of-a-blockchain-hotbed)
+  - [4.3.2 Reading: Profile of a Blockchain Hotbed](#432-reading-profile-of-a-blockchain-hotbed)
 - [4.4 Module 4 Review & Evaluation](#44-module-4-review--evaluation)
-  - [4.4.1 Video: VideoRecap of Module 4](#441-video-videorecap-of-module-4)
-  - [4.4.2 Reading: ReadingLeadership for Transformation](#442-reading-readingleadership-for-transformation)
+  - [4.4.1 Video: Recap of Module 4](#441-video-recap-of-module-4)
+  - [4.4.2 Reading: Leadership for Transformation](#442-reading-leadership-for-transformation)
   - [4.4.3 Quiz: Blockchain Governance & Leadership](#443-quiz-blockchain-governance--leadership)
 
 
@@ -38,66 +38,66 @@ Blockchain alone is just a tool. In order for this technology to fulfill its lon
 # 4.1 Blockchain Regulation
 
 
-## 4.1.1 Video: VideoModule 4 Overview
+## 4.1.1 Video: Module 4 Overview
 
 
-## 4.1.2 Video: VideoIntro to Blockchain Regulation
+## 4.1.2 Video: Intro to Blockchain Regulation
 
 
-## 4.1.3 Video: VideoPractitioner Perspective - Andreas Wallendahl: Regulation
+## 4.1.3 Video: Practitioner Perspective - Andreas Wallendahl: Regulation
 
 
-## 4.1.4 Video: VideoFundamental Questions
+## 4.1.4 Video: Fundamental Questions
 
 
-## 4.1.5 Video: VideoRegulatory Principles
+## 4.1.5 Video: Regulatory Principles
 
 
-## 4.1.6 Video: VideoPractitioner Perspective - Hariton Korizis: Regulation
+## 4.1.6 Video: Practitioner Perspective - Hariton Korizis: Regulation
 
 
 # 4.2 Blockchain Governance
 
 
-## 4.2.1 Video: VideoRegulation vs. Governance
+## 4.2.1 Video: Regulation vs. Governance
 
 
-## 4.2.2 Video: VideoPractitioner Perspective - Ana Trbovich: Regulation & Governance
+## 4.2.2 Video: Practitioner Perspective - Ana Trbovich: Regulation & Governance
 
 
-## 4.2.3 Video: VideoThe Blockchain Stack
+## 4.2.3 Video: The Blockchain Stack
 
 
-## 4.2.4 Video: VideoMultiple Layers of Blockchain Governance
+## 4.2.4 Video: Multiple Layers of Blockchain Governance
 
 
 
-## 4.2.5 Video: VideoA New Framework for Blockchain Governance
+## 4.2.5 Video: A New Framework for Blockchain Governance
 
 
-## 4.2.6 Video: VideoPractitioner Perspective - Rob Carter: Governance
+## 4.2.6 Video: Practitioner Perspective - Rob Carter: Governance
 
 
-## 4.2.7 Reading: ReadingBlockchain Governance
+## 4.2.7 Reading: Blockchain Governance
 
 
 
 # 4.3 Seven Conditions for Success
 
 
-## 4.3.1 Video: VideoProfile of a Blockchain Hotbed
+## 4.3.1 Video: Profile of a Blockchain Hotbed
 
 
-## 4.3.2 Reading: ReadingProfile of a Blockchain Hotbed
+## 4.3.2 Reading: Profile of a Blockchain Hotbed
 
 # 4.4 Module 4 Review & Evaluation
 
 
-## 4.4.1 Video: VideoRecap of Module 4
+## 4.4.1 Video: Recap of Module 4
 
 
 
-## 4.4.2 Reading: ReadingLeadership for Transformation
+## 4.4.2 Reading: Leadership for Transformation
 
 
 
