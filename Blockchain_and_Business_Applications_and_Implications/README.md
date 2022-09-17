@@ -96,3 +96,7 @@ You will be able to
   - 3.9.2 Video: Practitioner Perspective: Rob Carter, Executive VP and CIO, FedEx
   - 3.9.3 Video: Recap of the C-Suite
 - 3.10 exam
+
+# [Week/Module 4 Leadership for Next Era](week4-Leadership_for_Next_Era/module4.md)
+
+# [Week/Module 5 Blueprint for a New Social Contract](week5-Blueprint_for_a_New_Social_Contract/module5.md)

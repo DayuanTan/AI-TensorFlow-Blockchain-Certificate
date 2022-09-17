@@ -96,6 +96,7 @@ You will be able to
 
 - [Module 4 Leadership for Next Era](Blockchain_and_Business_Applications_and_Implications/week4-Leadership_for_Next_Era/module4.md)
 
+- [Module 5 Blueprint for a New Social Contract](Blockchain_and_Business_Applications_and_Implications/week5-Blueprint_for_a_New_Social_Contract/module5.md)
 
 # 4. [Blockchain: Understanding Its Uses and Implications](Blockchain_Understanding_Its_Uses_and_Implications/README.md) by The Linux Foundation
 
