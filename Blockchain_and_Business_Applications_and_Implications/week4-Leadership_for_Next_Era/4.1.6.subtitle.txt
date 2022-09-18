@@ -1,0 +1,31 @@
+What's the reaction, Ben, of regulators to your work on structured financial products? So when we approached the UK's Financial
+Conduct Authority, we presented our case,
+our business, what we wanted to create, to use blockchain technology to broaden access to
+structured products, and their response was positive. Because what we tested
+with the regulator was to demonstrate whether a blockchain technology can
+make this products cheaper, faster to exchange,
+they ask to the money, and also make them
+more transparent. So the UK's regulator
+has a sandbox. So they're one of the most forward-looking
+regulators globally. So when we entered, we were successful to be accepted in the FCA
+regulatory sandbox, and we tested within
+their control environment, blockchain technology by using the world's first
+structure product on a blockchain to be cleared
+settled in custody. At the same time, we issued a second structure product of the same economics but using the traditional
+financial system. The outcome of
+this experiment was that the extraction product
+issued using blockchain technology
+was cheaper, was faster, and the regulator, and the issuer, and the investor had better visibility
+on their product. From the regulator's perspective and from the financial
+service perspective, it also enhances compliance. Because when you have
+a security which is tokenized, you can have
+visibility real-time. So the regulator has
+better visibility, the issuer has better visibility, and all the right counter
+parties on the chain of events. So the approach from
+the regulator was positive. We did this test in the
+beginning of last year of 2018, which gave us
+very good visibility. This also helped us, as follow-up, be accepted in two of the world's best
+FinTech accelerators. We are also currently in the UK Investment Management
+Association accelerator, which is the UK industry body for asset management's
+first accelerator. Essentially, this gave us a very good boost in
+a very young startup.

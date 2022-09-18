@@ -99,4 +99,54 @@ You will be able to
 
 # [Week/Module 4 Leadership for Next Era](week4-Leadership_for_Next_Era/module4.md)
 
+- Module 4 Leadership for Next Era
+- Learning Objectives
+- 4.1 Blockchain Regulation
+  - 4.1.1 Video: Module 4 Overview
+  - 4.1.2 Video: Intro to Blockchain Regulation
+  - 4.1.3 Video: Practitioner Perspective - Andreas Wallendahl: Regulation
+  - 4.1.4 Video: Fundamental Questions
+  - 4.1.5 Video: Regulatory Principles
+  - 4.1.6 Video: Practitioner Perspective - Hariton Korizis: Regulation
+- 4.2 Blockchain Governance
+  - 4.2.1 Video: Regulation vs. Governance
+  - 4.2.2 Video: Practitioner Perspective - Ana Trbovich: Regulation & Governance
+  - 4.2.3 Video: The Blockchain Stack
+  - 4.2.4 Video: Multiple Layers of Blockchain Governance
+  - 4.2.5 Video: A New Framework for Blockchain Governance
+  - 4.2.6 Video: Practitioner Perspective - Rob Carter: Governance
+  - 4.2.7 Reading: Blockchain Governance
+- 4.3 Seven Conditions for Success
+  - 4.3.1 Video: Profile of a Blockchain Hotbed
+  - 4.3.2 Reading: Profile of a Blockchain Hotbed
+- 4.4 Module 4 Review & Evaluation
+  - 4.4.1 Video: Recap of Module 4
+  - 4.4.2 Reading: Leadership for Transformation
+  - 4.4.3 Quiz: Blockchain Governance & Leadership
+
 # [Week/Module 5 Blueprint for a New Social Contract](week5-Blueprint_for_a_New_Social_Contract/module5.md)
+
+- Module 5 Blueprint for a New Social Contract
+- Learning Objectives
+- 5.1 The Current Social Contract is Breaking
+  - 5.1.1 Video: Module 5 Overview
+  - 5.1.2 Video: The Current Social Contract is Breaking
+- 5.2 Drivers for Change
+  - 5.2.1 Video: Drivers for Change
+  - 5.2.2 Video: Four Pillars of Society
+  - 5.2.3 Reading: Drivers for Change
+- 5.3 Blueprint for a New Social Contract
+  - 5.3.1 Video: Intro to a New Social Contract
+  - 5.3.2 Video: Rethinking Work
+  - 5.3.3 Video: The Pre-distribution of Wealth
+  - 5.3.4 Video: Distributed Power
+  - 5.3.5 Video: Collaborative Institutions
+- 5.4 Module 5 Review
+  - 5.4.1 Video: Recap of Module 5
+  - 5.4.2 Discussion Prompt: Toward a New Social Contract
+  - 5.4.3 Video: Course Wrap-up
+- 5.5 Blockchain and Business: Course Assignment
+  - 5.5.1 Video: Mihai Alisie on Business Models
+  - 5.5.2 Peer-graded Assignment: Problem Solving with Blockchain
+  - 5.5.3 Review Your Peers: Problem Solving with Blockchain
+  - 5.5.4 Video: Mihai Alisie on What's next for AKASHA?

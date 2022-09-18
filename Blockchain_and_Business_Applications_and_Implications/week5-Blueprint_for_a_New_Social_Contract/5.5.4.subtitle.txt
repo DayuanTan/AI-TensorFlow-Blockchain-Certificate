@@ -1,0 +1,14 @@
+After the beta which was
+again like a desktop app, we focused our attention
+on also releasing a web app simply because
+of the adoption, let's say, many
+people use a browser. It was quite an interesting
+journey because we've rewritten the IPFS part which stands for
+the Inter-Planetary File System. So what we did there is like, even if it looks like
+a normal website that you visit, in the background when
+you're reading an article, your browser connects
+peer-to-peer with the browser of another person
+that published the article. So again, like at every step
+we are trying to remove ourselves from the middle of
+this flow of communication, and create a framework enabling people to communicate
+peer-to-peer.

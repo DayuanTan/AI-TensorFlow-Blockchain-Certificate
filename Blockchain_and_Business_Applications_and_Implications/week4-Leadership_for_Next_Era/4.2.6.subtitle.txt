@@ -1,0 +1,20 @@
+So we think governing bodies are particularly important because
+the only way to create the trust that's needed in blockchain implementations is to have standard bodies
+that are open, and that have a large group of participants that
+establish those standards. The Blockchain In
+Transportation Alliance or BITA is a critically
+important one. We currently have a team member
+at FedEx who chairs BITA, and we share many of
+the committees that exist in BITA that are establishing
+those technical standards, and the business standards associated with
+what supply chain, blockchains should represent;
+how they'll represent them. It's critically
+important that you have those kinds of standards
+and agreement in place if you want large communities to
+participate because, as things get gray
+around the edge, the trust gets broken. So we're very much believers in the fact that if we can put clear and concise standards out there that businesses
+can participate in, all the way from
+the Internet of Things interaction to business
+interaction on a chain. We think that that's
+what will make the technology scale and
+be relevant globally.

@@ -1,0 +1,121 @@
+In this lesson, once again, we call on the work of Blockchain Research Institute
+contributor, Joel Telpner. He's Chair of the Fintech and Blockchain Practice
+at the law firm, Sullivan and Worcester. We look at some
+general principles to guide blockchain
+regulation development. We must always identify the rationale for regulation
+as a starting point. Internet and finance innovations
+offer a guide because the rationales for these markets apply somewhat to blockchain too. We hope to improve data handling, agency expertise in coordination, and to fill regulatory gaps, also to incentivize stewardship
+of the ecosystem overall, stewardship what's beyond
+required by regulation. We also need to include
+the adaptability and flexibility required in our
+regulations and markets, and make sure that diverse stakeholders are
+involved in the process. As long as we do it
+the right way to support not to impede
+the developing market, we've rationale
+aplenty to develop clear and certain regulations. So, a guiding principle
+must be to pair regulations with the evolution of distributed ledger
+technology the best we can. Environments like the growing
+blockchain ecosystem, where facts are
+unclear and evolve, this is sometimes
+beyond the ability of regulators to understand
+and to manage. A wait-and-see approach may be the only feasible balance
+between premature action and acting too late to avert harm or to uproot bad practices. With technology evolving as
+unpredictably as blockchain, stiff regulations are obsolete as quickly as they're issued. Regulation development
+should track with the technology's
+development. Regulators cannot
+afford to underestimate the speed force and the scope of this
+particular disruption. It's clear technological change happens faster than
+social change, and certainly faster than
+regulatory response. So, we need to focus
+on buy-in and identify new ways to achieve
+existing goals. Blockchain-based solutions
+will grow and influence and results clearly in
+a radical economic shift and some big changes. Regulations based on
+certain approaches and old economy embedded costs
+will need to be re-imagined. New technologies and
+methodologies may have significant and
+unexpected influence on how those regulations
+operate and are enforced. So, policymakers must identify the actors and aspects of
+the old way of doing business. One way to approach this
+is to focus on users, how they're helped to earn
+by blockchain applications. We need to distinguish
+upfront between regulation of the blockchain, regulation of applications running on distributed ledgers, and regulation of
+the ecosystem overall. Bitcoin is a perfect example. It has lots of different uses who touch
+lots of different users. So, the chameleon-like
+characteristics of cryptocurrencies tell us that a one-size-fits-all regulatory approach doesn't work. Policymakers should
+always begin with the application, how it's used, who will use it, and so on because applications will drive blockchain usage. This approach should help
+regulators identify and analyze the social costs and benefits
+of blockchain applications. As a policy matter, brokers and exchangers have
+a special responsibility to ensure the safety and soundness
+of securities markets. Some argue the best approach is the use of regulatory threats, the threat to enact
+laws or to impose new regulations if
+people don't behave. Regulatory threats take the form of warning letters,
+interpretations, and reports or speeches by the heads of
+regulatory bodies, private meetings with parties,
+and also enforcement. Combining a wait-and-see
+approach with the occasional regulatory threat may give regulators time to undertake the
+necessary research and analysis to learn about
+technologies while stepping in as needed to
+protect the public in the case of clearly
+egregious acts. This approach also allows regulators to use
+some public policy, developing new forms
+and practices, without locking in
+premature and inflexible rules. So, selective regulatory
+threats can serve as pilot programs for
+eventual rule-making. They can spark
+productive public debate. Those aren't possible when formal rule-making processes are dominated by regulators,
+lawyers, and lobbyists. But the overall rule of regulatory threats is
+likely to be limited. It still can't serve,
+in the long-term, to allow regulators
+to do informally what they lack formal
+authority to undertake. Threats made without
+the proper authority are nothing more than
+abuses of power. A regulatory sandbox is a more benign testing ground for new business models not governed
+by current regulations. The UK Financial
+Regulatory Authority launched a regulatory
+sandbox in 2015. So, firms could test products and services in
+a controlled environment. Sandboxes are being used in
+other jurisdictions like the province of Ontario organized by the Ontario
+Securities Commission. Testing in a sandbox, at least in theory, lets firms reduce time
+to market at lower cost. They can identify
+appropriate consumer protections and gain better access
+to finance. Distributed ledger technology was the most popular technology
+at the UK programs outset. Several firms use
+the sandbox to test run its deployment across sectors. Regulatory sandbox aren't always appropriate and should
+be used carefully. But when conducted responsibly, they can be a helpful tool
+for observing how innovators might use highly disrupted and unpredictable technologies. Markets suffer when
+regulators don't attempt to coordinate and harmonize
+their efforts as well. They need to work with jurisdictions overlapping
+theirs within a nation state and also
+between countries. Regulators learned
+this lesson during the 2008 financial crisis. They collaborated
+afterward to reform derivatives markets
+on a global scale. We also see the effects
+of poor coordination among the Securities and
+Exchange Commission, the Commodity Futures
+Trading Commission, and the Financial Crimes
+Enforcement Network on the treatment of
+ICO-issued tokens. Minimizing unintended
+consequences is a great aspirational goal, but it's easier said than done. At the very least, Nascent technologies have
+a life of their own, something regulators
+must take into account. Regulatory attempts,
+if too heavy handed, can push the technology
+and its users to explore unanticipated
+directions. Such force can even drive developers and users underground, or outside of a country, or otherwise beyond
+regulatory reach in search of more
+favorable jurisdictions. This has happened
+in many countries, where some of
+the best innovations and innovators and
+entrepreneurs have been forced to go to a more understanding jurisdiction to say raise money using an ICO. Now, this doesn't mean we should hold off
+trying to regulate new and unpredictable
+technologies like blockchain. But also regulators must
+acknowledge that, often, they just don't know whether a blockchain application
+will lead to an ultimately net-positive
+or even negative outcome. Forecasting is difficult and, in some cases, it's impossible. So, flexibility is key. We don't want to use
+a hammer to attack everything that needs to be done in this construction site. Social norms developing with distributed ledger
+technology become easier to identify as
+the ecosystem stabilizes, and over time,
+regulatory intervention becomes easier too as we start to track the evolution and grow resistant to unforeseen forces. Once we have some predictability
+in the technology, it'll be easier to
+mesh regulations with the new framework
+for social norms.

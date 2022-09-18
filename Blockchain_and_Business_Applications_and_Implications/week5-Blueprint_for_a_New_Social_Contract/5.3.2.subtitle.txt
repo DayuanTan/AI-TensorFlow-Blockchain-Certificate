@@ -1,0 +1,115 @@
+In this lesson, we look at the need
+to rethink work. Again, I've always been a
+technology optimist that technology displaces jobs but
+it creates more new jobs. But with the power of this
+Fourth Industrial Revolution, I think that's no longer true. Automation has already
+displaced workers across sectors and we're seeing signs of early
+structural unemployment. Up to half of the
+activities now performed by humans will be handled by artificial
+intelligence based on blockchain in
+the next few decades. More and more workers
+have to piece together a living from several
+employers even today. Freelancers, independent
+contractors in the United States need to buy their own
+health insurance, pay self-employment, tax on
+top of their income taxes, and set aside money
+for their retirement. Arguably, we need to
+change how we think about economic opportunity as we enter this Fourth Industrial
+Revolution. Private sector,
+the state, academics, civil society all have roles to play in finding or making
+these opportunities. Governments,
+especially, need to get much better at anticipating
+where the economy is going. We need new measures and we
+need to cut some old ones. Many have questioned the value of national unemployment rates. They are not based on
+the concept of a full-time job. Anyone who worked an hour and got paid would be
+considered employed. Anyone who didn't
+look for a job in the last 30 days
+wouldn't be counted. Some estimate that
+this metric excludes between five million and six
+million unemployed people in the United States alone. So should it really
+be a key metric of prosperity in
+the digital economy? We propose two other measures
+worth exploring. The first is the idea
+of a guaranteed job. Now of course this would
+have to be backed up by a Universal Basic Income
+or UBI as well. We should decide that
+everyone has the right to work and guarantee
+a job for everyone. Why? Well, people get fulfillment and
+a sense of self-worth through work and also
+there's plenty to be done. There are problems to
+be solved everywhere. So if the private sector can
+guarantee full employment, we need to find other ways. Funding can come from
+philanthropy, from civil society, from social innovation,
+from the state, or through the
+other measures we've talked about to pre-distribute wealth. Of course some people will be unable to work: disabled people, people with mental
+illnesses, or dementia, or others who are temporary or permanently unable to work. Others may temporarily
+lack the skills for the new workforce
+and need to spend considerable time in
+education and training. So a guaranteed job, but for those who
+are unable to work, we of course need
+a fallback position. We're not going to have
+people starving in the streets in an age
+of growing wealth. So the idea of
+a Universal Basic Income has been discussed for
+awhile since the 1970s. It's made the rounds under
+a lot of labels like a guaranteed annual income
+or a negative income tax. But if society does
+have the wealth to support the basic livelihood
+of these people, and we do, then we will need to guarantee them some
+kind of way of surviving. The basic idea is this:
+let's ensure everyone has a level of income
+security regardless of their status or position. There would be no discrimination, everyone will get one, and therefore no stigma attached. Contrasts that with
+today's subsidies implemented through
+government silos. It means tests. There's the Medicaid and the
+Children's Health Insurance. There's supplemental
+nutrition insurance. There's public housing, there's welfare payments, and so on. Let's break down those silos. Let's end the stigma. Let's use the global
+solution networks that we've discussed
+in this course, running distributed applications
+on blockchains to manage these sources with
+efficiency and transparency. Supporters say it's
+the best model to give income security. It will restore dignity and
+autonomy to the individual, and it would also reduce the complexity and
+the bureaucracy. Others argue that a UBI is too expensive to be sustainable. They think it would be a
+disincentive for people to work. It would undermine
+organized labor. It would undo the better
+benefits some workers enjoy. On balance, the arguments for a UBI tend to outweigh
+those against one. Guys standing of the University
+of London wrote, "The 20th century
+income distribution system is broken
+down irretrievably." A UBI is not only
+necessary, it's urgent. We can learn much from
+UBI pilot programs in Finland, Canada, and other places. We can apply those lessons on a larger scale along
+with other measures to give social security
+for those who work but don't get
+employer benefits. One other measures are
+second modest proposal. A portable safety net.
+What does that mean? Well, a portable safety net
+isn't a new idea. There are lots of models
+out there for it, how would work and so on. It's a matter of mustering the political will
+to get it done. One model developed
+by Steven Hill is based on multi-employer
+benefits plans. These kinds of
+plans already exist and are used by
+a lot of industries, and this model would establish individual security
+counts into which all employees would
+contribute based on each workers hours. Such a program would restore benefits to people who
+worked multiple jobs, change roles often,
+or contractors, freelancers,
+other part-time giggers, and also an arbitrary rules
+separating types of workers. These measures could also help stabilize the economy
+and eliminate loopholes for employers to hire part timers and cut
+benefits entirely. The ship would also cut golden handcuffs where
+you stay in a job too long when you could be pursuing more fulfilling or productive
+opportunities elsewhere. Most important, this
+Universal Basic Income and a portable safety net together could reestablish
+economic security, kind of inspired way
+back by the New Deal. Such bold programs, and
+all the accounting for them, wouldn't be possible without distributed ledger
+technology to track individual counts over
+lifetimes with transparency. So it's time to think about how to avoid or at least minimize the unintended consequences of these powerful new technologies as they fuse across the physical, the digital, and
+the biological spheres as part of this Fourth
+Industrial Revolution. If you've got
+questions or comments, please post them on
+the discussion forum. We'd love to hear from you. For more on this topic, checkout the new Afterward to the paperback edition of
+Blockchain Revolution. Up next, we look at
+the pre-distribution of wealth.

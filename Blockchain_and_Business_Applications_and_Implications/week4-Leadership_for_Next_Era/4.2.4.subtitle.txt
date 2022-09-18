@@ -1,0 +1,111 @@
+In this video, we'll
+call on the work of Blockchain Research
+Institute contributors, Primavera De Filippi
+and Greg McMullen. We'll look at the multiple
+layers of governance and the possible effects on
+the blockchain ecosystem. The two distinct governance
+structures on blockchain, are governance by
+the infrastructure and governance of
+the infrastructure. These mechanisms can be
+either endogenous or exogenous to
+a particular community depending on that
+communities viewpoint. Endogenous rules consist of all the rules, the social norms, the customs and
+other governance structures developed or endorsed from
+within that community. Exogenous rules are
+all other rules influencing the activities
+of community, but originating from
+outside that community. You may recall from
+the prior session, how governance of most decentralized
+blockchain applications or DApp's splits into
+different layers. Of course, the first layer, the Internet Protocol layer,
+known as TCPIP. The second, the
+blockchain network layer, like the Ethereum
+protocol and the third the application
+layer such as DApp frameworks like Oregon and the DApp layer District 0X. Each layer designed and run by different people with
+different purposes and from separate communities, who might converse
+with one another. Usually, communities from
+the bottom layer of the stack enact their own
+governance structure with little regard to
+the above layers. These layers also apply
+their own governance structure, but they are still related to the governance structures
+of the other layers. The bottom layers play
+an especially important role. They are the foundation. They dictate how the applications deployed on the upper layers
+of the stack will operate. They define what's possible to build at the highest levels. Governance by the
+infrastructure refers to governance rules encoded directly into the blockchain itself. We call this,
+On-Chain Governance. These rules are usually absolute and
+the blockchain network will guarantee their execution in a secure and decentralized way. As I said, the nature of the rules depends on
+the community's perspective. Let's look at Ethereum. It's blockchain protocols
+and consensus algorithm are endogenous rules because they're directly built into the network. But if a DApp were deployed
+on top of Ethereum, endogenous rules would
+also include all of the decision-making
+procedures and technical rules embodied in the smart contracts
+that govern that DApp. The underlying protocol of the Ethereum network
+would qualify at that point as exogenous because it's
+an outside influence. On-chain governance presents both advantages
+and disadvantages. On-chain governance
+is predictable and fair in its execution. Changing the process
+or the result of on-chain governance
+is extremely difficult. This makes the entire system fully transparent and auditable. Everyone can see why
+a particular decision was made and it's not influenced on
+the whims of human judgment. Because on-chain governance
+isn't easily influenced, it's unlikely to handle new and unexpected
+situations effectively. In such cases, vagueness can
+be a feature, not a bug. Flexibility can help
+a system cope with unique circumstances
+it was not built for. Where possible, developers
+should provide tools allowing changes to
+the protocol rules that are supporting the network. Let's look at developers and
+open-source communities. They arranged the rules and
+procedures used to decide on the future development and evolution of an open
+source software project. These rules are usually norms or customs enforced
+through peer pressure. The community might
+also implement formalized mechanisms of
+enforcement and oversight. Failure to follow these rules
+could lead to exclusion from the community or other
+forms of social punishment. In Bitcoin, these
+decisions are mostly made through Bitcoin
+improvement proposals. It's an informal mechanism
+through which people can propose new features and improvements to
+the Bitcoin protocol. Ethereum also implemented
+such a system called Ethereum
+Improvement Proposals. It's informal procedure
+allows users to suggest or request changes to the
+Ethereum protocol or code. Once a suggestion is made, developers of a blockchain system will put forth a proposal. Then the voting system determines whether the community
+adopts it as a whole. For Bitcoin, miners
+vote by running new software with certain
+settings enabled or disabled. This indicates support
+or lack thereof. The approval of lead developers
+can be influential, but it's not always decisive. On the flip side, the governance of the infrastructure refers to all influencing forces outside of a technological platform. These rules operate at the
+social or institutional level, not at a technical level. This is called
+Off-chain Governance. These systems are more
+informal and unstructured than their code based counterpart
+and this makes them more complex to
+oversee and control. A third-party authority
+like say, the government, might be required for enforcement or oversight in
+certain instances. This may impose rules to ensure public order, morality,
+and interest. These rules would be remedied by the proper national legal system, should any violations occur. In governance by the
+infrastructure and governance of the infrastructure
+can coexist. Indeed, they must to steward
+this resource effectively. They can even help regulate each other based on
+their differing rules. Off-chain governance is
+difficult to enforce, because if it's social component. But it's also got
+a great deal of flexibility. It can quickly react unforeseen circumstances
+and easily adapt to changes in environment. On-chain governance
+excels at doing what it's expressly designed
+to do but it's unable to cope with
+unexpected situations and takes much much longer to adjust
+to changing circumstances. If there's a design flaw, malicious parties could
+exploit them to disrupt the system or mold it
+to their own benefit. Basically, the ambiguity of off-chain governance rules lends flexibility to shrink or expand the scope of
+the on chain rules. Today, lots of experts
+are mainly looking at endogenous rules related to on-chain and
+off-chain governance. Lots of projects and
+initiatives are now trying to implement new mechanisms of governance by the infrastructure, through a particular
+set of rules, that are embedded
+in the blockchain. More people are identifying the need for these
+blockchain networks. They're also looking to the communities around
+them to define the rules. Endogenous rules play
+a crucial role in governance, but stakeholders must
+also account for the impact of the exogenous ones. Ultimately, it is
+the combination of endogenous and exogenous rules that will dictate how
+blockchain systems operate.

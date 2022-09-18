@@ -1,0 +1,110 @@
+In this video, we'll
+call on the work of Blockchain Research Institute
+contributor, Joel Telpner. He's chair of the Fintech and
+Blockchain practice at the law firm,
+Sullivan & Worcester. We'll identify the most relevant legal and regulatory questions to ask and develop a framework
+for Blockchain regulation. When regulators face an industry in a state of high uncertainty, they have three
+possible responses. They can make new laws, they can just observe, or they can periodically
+issue reports, guidance, and even threats. The situation may call for some combination of
+these responses. To determine
+which approach is best, we need to start with the
+process of informed questioning. Intervention to
+protect human life, of course, is always
+a top priority. But otherwise,
+regulators should ask some basic questions about
+Blockchain before they set new regulations and apply existing regulations to
+something that's very new. The most basic question is
+whether the Blockchain and/or the various activities
+that are growing using this technology should
+be self-regulated, government regulated,
+or unregulated. Historically, regulation
+works best when there's a balanced combination
+of all three approaches. Despite the view of
+Blockchain anarchist, the internet taught us that the lack of
+physical boundaries doesn't put technology
+beyond a regulator's reach. A critical question is this; does this technology raise
+unique legal issues? If Blockchain technology
+lets us chase and reach our current
+objectives in new ways, we may need to consider how
+we regulate those pursuits. Significant tech
+advancement can alter how laws and regulations
+function even when the changes have
+nothing to do with the affected laws and
+regulations themselves. Acknowledging this type
+of impact is a star. Whether the impact
+raises truly novel, legal issues is
+a separate question. Another question is what exactly are we
+trying to regulate? Any discussion must cover the whole Blockchain ecosystem of which Bitcoin and other
+cryptocurrencies are just a part. It needs to separate regulation
+of the ecosystem itself from regulation of
+distributed applications that run on these platforms. There are different concerns and stakeholders at each level. Regulatory efforts
+must incorporate such differences if
+they're going to succeed. Cryptocurrencies don't
+meet the strict definition of legal tender in our view. They aren't backed by the full faith and credit
+of any government. They don't qualify
+as a fiat currency, electronic money, or as
+a payment instrument. The Financial Action Task Force, an inter-governmental
+body established in 1989, and it defined a virtual
+currency as "a digital representation of value. It can be digitally
+traded and functions as a medium of exchange
+and/or a unit of account, and/or a store of value, " and that's right. If cryptocurrencies function
+that way in practice, should they be regulated as money or at least
+in a similar way? Well, in the United States, Bitcoin and its peers
+are considered commodities under
+the US Commodities Exchange Act. Lots of ICOs released tokens with features falling
+outside the definition of a virtual currency. These tokens function more
+like membership interests, so are frequent flier miles or bits of software that
+represents some functionality. But those things are
+usually subject to transfer restrictions while Blockchain tokens
+typically aren't. So, it's not a simple one-to-one. Alternative tokens that trade on prices based on
+the perceived value of their platforms and projects sound like a security to some. In this context, purchasing an alternative
+Blockchain token is less like a currency
+investment and more like an equity investment. So, the US Securities and
+Exchange Commission, the SEC, thinks their securities should be regulated by security's rules. Regulators can decide of current laws do or
+should apply to Blockchain technologies
+as they assess whether an application is
+a new medium or a new activity. Problem is regulators
+don't usually work together to determine when a cryptocurrency is subject to one set of regulatory
+requirements or another. Just because policymakers can
+make existing laws work for Blockchain applications
+doesn't mean they should. We may not be able to answer
+this question without observing the new technology
+in action over time. It may be necessary to
+apply existing laws in the meantime because Blockchain evolves in rapid and
+unexpected ways. Consider the gray area between currency, commodity,
+and security. Just because something's called a cryptocurrency or
+described as a token, doesn't automatically
+mean that it's not a security, or it is. Four factors called
+the Howey Test define an investment contract
+or security as "an investment of money in
+a common enterprise with an expectation of profits to be derived solely from
+the efforts of others." The focus should be on economic reality,
+substance over form. Cryptocurrencies and
+tokens are unique despite the Security and Exchange
+Commission's view. They act like a currency, a commodity, a security, or some combination of the three depending on
+their characteristics, how they're being used, and who's using them
+at any point in time. So, cryptocurrencies
+may represent a completely new way
+of raising capital. We can't always predict
+what happens when regulators apply existing
+regimes to new paradigms. Regulatory bodies
+shouldn't charge head first into Blockchain without coordinating with
+other regulators who may have legitimate
+roles to play. Anytime officials proposed
+new laws and regulations, they ought to conduct a
+rigorous cost-benefit analysis. Premature rule-making can create confusion for merging industries, particularly when poorly
+thought out rules result in multiple
+judicial challenges. So, at the very least, informal processes may be the best approach giving
+regulators time to conduct helpful cost-benefit analyses
+prior to new formal rules. Global consensus and coordination among regulators is also critical to address the question
+of whose law applies. The only way to avoid
+unintended consequences is to understand the seamless nature of Blockchain applications. Global commerce is no stranger to regulating goods and
+service disclosures, fraud and canceled transactions. So, moving to
+a Blockchain ecosystem, relying on smart contracts
+doesn't change that. Parties and smart contracts
+had the ability to elect a governing law and to submit voluntarily to a particular
+country's jurisdiction. The world has rich jurisprudence for dealing with these types
+of conflicts of law, and nobody can say
+with certainty what impact Blockchain
+will have on this, and overall, on society. But regulators can develop scenarios and they
+can test assumptions.

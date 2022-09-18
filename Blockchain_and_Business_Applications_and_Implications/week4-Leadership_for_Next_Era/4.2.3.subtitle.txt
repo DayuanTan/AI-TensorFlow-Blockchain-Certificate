@@ -1,0 +1,113 @@
+In this video, we'll
+call on the work of Blockchain Research
+Institute contributors. Primavera De Filippi
+and Greg McMullen. We'll look at a framework for analyzing the Internet
+applications, on which the Blockchain is built. Blockchain applications
+ultimately operate on internet applications
+and protocols. Each new layer of the stack, inherits the protocols and
+rules of the layer below, including the lower layers
+and governance. There are three main layers. The Internet layer,
+the Blockchain layer, and the application layer. We begin with the internet layer, because block chain
+networks cannot operate without
+an internet connection. Blockchains like Bitcoin
+and Ethereum rely on Transmission Control
+and internet protocols also known as TCP-IP. These protocols
+route and transfer data packets between
+nodes on the internet. Blockchain systems may
+be censorship resistant, but they're not entirely
+censorship proof. Internet Service
+Providers or ISPs, control the transportation layer
+of the internet. They can discriminate
+against packets going to or from these networks. Net neutrality is a foundational principle
+of the Internet. It's the idea that
+all traffic on the network, should receive equal priority. Information should be
+transmitted as it is received. It shouldn't matter
+who created it. This is critical for decentralized
+peer-to-peer networks, like Blockchains. These networks rely on users unrestricted access
+to the network. Both the United States and the European Union had rules and laws protecting
+net neutrality. These rules safeguarded
+internet users from ISPs offering
+paid priority services, highlighting their
+own bundled services, and downgrading
+competing content. These laws also
+encouraged innovation and competition in
+network services. In December 2017, the US Federal
+Communications Commission, the FCC, repealed
+its net neutrality rules. This opened the door to increase interference at
+the internet level. Let's look at
+Deep Packet Inspection. This allows governments
+and ISPs to restrict the use of cryptocurrencies
+or other Blockchain systems, within specific countries
+or around the world. Internet governance might
+also play a role in defining who can join in the governance of specific Blockchain networks. One such barrier is data
+caps imposed by ISPs. Customers can transfer
+only a certain amount monthly. If the cap is exceeded, ISPs recoup costs
+through overage fees, or reducing speed of service. Active participation in
+the unchained governance of a Blockchain network
+is bandwidth intensive. To vote as a minor, users typically download
+the entire Blockchain and operate a full node. The amounts of data involves
+can be quite sizable. Operating a node involves monthly data transfers of
+between 70 and 140 gigabytes. The limits are imposed by choices made at
+the internet level. The Great Firewall of China, through which all internet
+traffic in China must pass, impeded mining operations. Extra limits on bandwidth and delays in packet transmission, hindered profit with
+participants outside of China. To a large extent, China's
+internet governance system had indirectly and unintentionally shaped
+Bitcoin governance. Anyone designing
+a Blockchain network or DApp, must understand the realities of the present day internet. They must create a system to suit them or work around them. The Blockchain layer operates on top of the internet layer, and introduces
+mechanisms of governance and protocols unique
+to each network. Each Blockchain network
+implements its own protocols, its own consensus algorithms,
+and fork choices. Despite their
+technical complexity, Blockchain networks have a pretty simple set
+of operating rules. They use cryptoeconomics,
+to boost collaboration among users and increase the utility
+of the network, and they also punish
+users who tried to cheat. Processing transactions is driven mostly by an economic
+incentive system. The higher the transaction
+fees paid to the network, the greater chance miners will include these transactions
+in the next block. Besides fees and rewards, four other factors influenced miner's behavior from outside
+Blockchain infrastructure. A large mining pool
+might contract with third parties to speed up certain transactions at
+the expense of others. Miners could jointly
+agree not to process specific transactions
+coming from or directed towards and criminal
+application and a blog. Miners could blacklist
+specific addresses, or regulators could ban all miners in
+certain jurisdictions, from validating transactions
+of a specific account. These external forces
+exist beyond the control of
+any Blockchain system, and could have
+significant consequences over the operations
+of the systems. The application layer is also made up of its own
+multiple layers. It includes,
+two specific components. The DApp frameworks and
+then the DApps themselves. DApp frameworks are
+built on top of a Blockchain network and provide the basic building
+blocks for DApps. Some are general purpose
+with loosely defined logic. So developers can repurpose
+in almost any DApp. Others are more specific
+for certain kinds of DApps. DApps are of course
+decentralized applications, built directly on top of
+a Blockchain network, or on an existing DApp framework. They're designed to be
+decentralized and autonomous. No single party has the power to control or influence
+their operations. But still, they're affected
+by the operations of their underlying
+Blockchain network and their underlying
+DApp framework. There are two ways to alter
+the operation of a DApp. The first, is
+changed the state of the Blockchain to overwrite
+the code of the DApp. You might have heard
+of the hack of the DAO which we covered earlier. In response,
+the Ethereum community did what's called a hard fork. That meant basically altering the protocol and the state of the Ethereum Blockchain so that users could withdraw
+their stolen funds. These Hard forks can change
+the balance or code of a particular DApp or even
+delete the DApp entirely. This level of intervention
+is rare and has been used really only an
+outstanding circumstances, and not without some controversy. The second change, is to a small piece of the
+code the DAPp lies on, like a smart contract
+library or proxy contract. A proxy contract is a smart contract delegating calls to other smart contracts. We must make sure there isn't a reference to
+a third party code. Otherwise, risks like
+manipulation of shared code, or undue influence over decentralized
+applications may arise. To summarize,
+Blockchain applications exist in a larger ecosystem
+and not in a vacuum.

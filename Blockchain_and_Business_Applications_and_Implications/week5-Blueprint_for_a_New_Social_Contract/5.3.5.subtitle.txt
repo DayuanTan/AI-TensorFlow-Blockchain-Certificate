@@ -1,0 +1,109 @@
+In this video, you'll learn how the Internet second era enabled by the rise of
+Blockchain Technology, gives us a chance to replace our old top-down
+industrial age model of institutions
+with something new, with a digital age model of mutually-beneficial
+collaboration. Today's institutions are based on an outdated view of the world, one of powerful
+industrial forces. Forces pushing ads, media, lectures, and medicines at us. Mass production,
+mass marketing, mass media, mass transportation, education, and democracy
+for the masses. This mass mindset has a hold on every institution from
+agriculture in healthcare, to energy, and housing, all push their message one way to passive recipients also
+known as mass consumers. But now, thanks to
+digital technologies, we can distribute
+power outside of these institutions to
+the masses, to consumers, to teachers,
+journalists, drivers, farmers, doctors, and
+representatives of neighborhoods. They can collaborate with
+their peers and the people they serve to co-create value. Digital technology has already changed how education and
+health care are planned, how they're managed
+and delivered, and how research and
+development are conducted. The flipped classroom
+is an exciting model of collaboration powered
+by new technologies. Students access course content outside of the classroom
+and at their own pace. They collaborate with
+their peers both online and off. They define and
+solve problems under the guidance of
+a teacher or mentor. It's happening now as I speak. Some professions such as engineering and
+mechanics are using virtual reality and
+augmented reality to train and update
+their knowledge on the job. Educators and students,
+caregivers and patients, researchers and developers, have a new shared tool set across sectors and
+across geographies. How do we design and deliver the infrastructure to
+give access to all? The state needs to step up
+and support funding for education and health care as part of this new
+social contract. This is essential
+infrastructure for our modern economy and for a strong and healthy
+democratic society. As we have discussed one of the key areas of innovation
+is around identity. Self-sovereign identity is now becoming a possibility
+because of blockchain. Students and their parents will begin claiming rights
+to student data. Higher education must
+put ownership of student data into the hands of students and their parents. Students can own and control their own data but not alter
+their grades or degrees. Protecting the privacy and cybersecurity of
+students is a must. University systems have been
+hacked in recent years. Blockchain startup
+the learning machine and MIT are at the forefront of preserving the student rights. Micro-credentialing of skills and know-how is also a must. Mass adoption of
+blockchain certificates re-balances power between the institutions
+and the students. You become your own
+lifelong registrar. Importantly, new funding models
+are also emerging. Blockchain technology helps
+us create new ways to pay for higher education including
+pay-as-you-go models. The finishing four-year mandate should go the way
+of the buggy web. No student should be rejected
+for financial reasons, or graduate with a pile
+of student debt. The healthcare sector is
+also ripe for disruption. Blockchain offers
+a potential solution. It helps put the patient
+at the center of the health care system
+and it allows them to own and control
+their own data. Distributed ledgers serve
+a set of principles; collaboration, openness,
+and integrity. They increase security, privacy, and our ability to
+audit our health data. It increases the interoperability of systems housing
+our information. Stakeholders include
+medical schools, hospitals, laboratories,
+medical suppliers, public health agencies, National Food and Drug
+regulators, Global Centers for
+Disease Control, and professional associations. They need to come together and co-create data with
+full transparency, public access, and
+shared control, all through the health of the communities that they serve. Blockchain startups
+are working on applications for genomics
+and precision medicine. They're also working on solutions for managing
+patient data, clinical trials,
+healthcare, and insurance. They're also looking
+to track drugs from the formulary
+to the pharmacy, and these are just the beginning. In general, digital technologies can enable you to
+take more active role in or even full control of your own education
+and health needs. Multi-stakeholder, global solution networks
+do the heavy lifting here. As we've pointed out
+in earlier lessons, these networks unite people
+across multiple fields, sectors, and geographies to tackle the complex
+challenges of our day. There are groups of
+independent parties who come together to address a problem they all
+find important, in which no single group
+can tackle on its own. They become a true network
+when they start working together rather
+than on their own, or at cross purposes. They begin communicating
+about a problem, and coordinating
+their activities on a solution. Turns out several such collaborative networks
+already exist. We have Wikipedia for
+knowledge-sharing. We have Avaaz.org for advocacy. We have Human Rights Watch
+as a watchdog. We have the World Wide
+Web Consortium to develop policies and
+standards for the Internet. We have the Internet Society
+for governance. We have ICANN for operations. We have the World Economic Forum to play several of
+these roles at once. All of these collaborations
+and the benefits gained from them can be supported by
+blockchain technologies, and each of these groups can
+support blockchain in turn. These networks engage and strengthen civil
+society at all levels. In earlier sessions, we discussed the four
+pillars of society, all of whom are stakeholders
+standing to benefit from a successful collaboration
+and outcome, and we know that global solution networks
+will bind them all. Businesses are called upon to contribute both concepts
+and solutions, while governments
+bring data, ideas, and usually play an important
+implementation role. Global solution
+networks break silos and cut across traditional
+established lines. It's the digital era's best model to bring together the knowledge, the experience, and the ideas of lots of individuals
+and organizations. It brings together
+communities, regions, nations, and international bodies
+to collaborate on options and solutions for the challenges and opportunities that we face.

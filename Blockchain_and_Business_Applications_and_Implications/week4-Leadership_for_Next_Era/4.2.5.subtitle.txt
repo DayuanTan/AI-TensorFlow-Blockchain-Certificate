@@ -1,0 +1,154 @@
+Welcome back. In this video, we'll look at our new framework for Blockchain Governance, and it involves you. For the first time
+in human history, non-state multi-stakeholder
+networks are forming to solve global problems and even to govern
+resources in the world. These networks that
+consist of private sector, civil society, governments
+at various levels, are attacking
+many problems and even governing resources like
+old growth forests, fisheries, and even
+the internet itself. We've been studying
+these networks, and in 2010, we dubbed them global
+solution networks, or GSNs. This approach goes far
+beyond regulation. It can complement an existing
+system of regulation. Governments can improve
+the behavior of industries by encouraging
+transparency and by including the public
+and private sector in decision-making in governance
+process of a resource. Our research led us to conclude
+that if the internet of information could be
+governed by these networks, then so could
+perhaps the internet of value be similarly governed. Call it a Blockchain
+Governance Network. There are several critical issues that we need to consider when creating a Blockchain Governance
+Network. There's design. Should we start fresh or build something on existing networks? What's the network mandate? Will it have the power to
+apply or enforce policy? Who's benefiting? Who's accountable? Will countries be involved? If so, will they yield authority
+to a network like this? These networks all have two
+defining characteristics. First, is composition. Each network involves a mix of different pillars of society. Private sector and companies, governments could
+be at all levels not just states, could
+be cities, academics, and non-government
+organizations along with other players,
+developers and users. They're not just a network of companies like
+a trade association, and they're not
+an organization of states like the UN or the World Bank or the International Monetary Fund. So they're multi-stakeholder. Second is control. These networks are not
+controlled by states or by state based organizations like
+the UN or the World Bank. In these networks,
+all participants could play a key role in the leadership and the governance of
+Blockchain technology. Now, what we discovered almost a decade ago
+is that there are 10 types of these networks. We're going to focus in
+detail on the top three; they're called
+knowledge networks, policy networks, and
+standards networks. A knowledge network develops new thinking; research, ideas, and policies to help solve global problems or to
+help govern something. More informed users
+can better protect themselves from fraud and theft and protect their privacy. They can create opportunities for greater share in
+global prosperity and greater financial
+connectivity. Knowledge networks do need to foster a culture of
+openness and inclusion. They should be
+transparent and they must involve multiple
+stakeholders. Private sector, civil society, maybe even government and others. They are also sources
+of new ideas for other of these GSNs
+in the broader world. They prevent the pitfalls
+and the showstopper. There's a real need today to
+create spaces for ideas and information to be
+shared and debated. So an example of a knowledge
+network in Blockchain would be MIT's Digital
+Currency Initiative. So leading Knowledge Network
+in the academic space. It's trying to unite and excite academics in
+universities globally, and it's producing very helpful knowledge
+and information. Our Blockchain
+Research Institute is another leading example
+of a knowledge network, and that we're doing research
+creating knowledge and educating C-suite executives
+in the enterprise space. Reddit, the online
+form and community is also a breeding ground for new knowledge in
+the user's space. Secondly, there are
+policy networks. These networks support
+policy development and create alternatives regardless
+of government support. Sometimes, networks create
+government policy even though they may consist of
+non-government players. Welcome to this new world of
+multi-stakeholder solutions. Their goal is not
+to wrest control of the policy-making process
+from governments. Instead, it's to change the decision-making from the traditional closed
+hierarchy to want to open discussion and
+collaboration and to bring more diverse forces and factors into the process
+of creating policy. A promising policy
+network is emerging. Among its nodes are Coin Center and Not-For-Profit Policy
+Group in Washington DC. Coin Center focuses
+on five verticals; innovation, consumer
+protection, privacy, licensing and
+anti-money laundering, AML, or know your customer, KYC. There's also the Chamber
+of Digital Commerce. It's a trade organization focusing on promoting acceptance and use of digital currencies
+and Blockchain. Promoting policy and uniting
+lots of strong voices in the policy area will ensure Blockchain has a better chance
+of fulfilling its promise. We know proof of work mining
+consumes a lot of energy. We also know climate change
+is a serious problem. So responsible policy will
+lead to a sustainable future, and government can't do it alone. A third type of
+global solution network, that's part of the creation of a global Blockchain
+Governance Network, focuses on standards. Standards networks are
+non-state based organizations. But most standards
+activity today in almost every area's not done by
+nation-states anymore, it's done by these
+multi-stakeholder groups. They develop standards and technical specifications
+for almost anything. These include standards
+for the internet itself. They determined
+the central building blocks for product development. They also allow
+promising innovation to make the leap
+to mass adoption. To work, they need to engage the expertise
+of individuals, institutions, civil society,
+organizations, and private sector enterprise. Again, MIT's Digital
+Currency Initiative recognize the importance
+of Blockchain and the need for
+guidance and standards. It's bankrolled
+the Bitcoin core developers so that they can
+continue their work. Scalingbitcoin.org is an organization
+convening engineers and academics to address major technical issues
+and develop standards. Its chair is Pindar Wong. He's been a leader and rallying
+stakeholders and clearing technical log jams in
+the sector for years. Each of these attack the problem from a different angle and
+with a different agenda. Yet they do share
+a common goal to make this technology ready for
+prime time. All right. So now that we've covered
+the three types of these GSNs critical to
+Blockchain buildup, let's briefly look
+at the other seven. Delivery networks bring
+about the changes they seek. They just deliver stuff. ICANN is a Not-For-Profit
+organization, and one of these
+delivery networks. It performs an essential role
+in the internet and in governing the internet in that
+it delivers domain names. Advocacy Network seek to
+change the agenda or policy of governments and corporations
+and other institutions. In the world of the internet, an Advocacy Network would be the Electronic
+Frontier Foundation. Watchdog networks monitor
+institutions to hold those accountable who
+act without integrity. Something like
+Human Rights Watch is a watchdog network scrutinizing governments around the world to make sure that they correspond to global human rights
+legislation. Topics for watchdog networks
+can range from human rights, to corruption, to the environment,
+to financial services. The next type of network is
+something we call a platform. Platforms can foster creation innovation in
+global problem-solving. Ethereum is a platform and has its own type of governance. Another type of these
+networks are what we call networked institutions. These are very complex networks
+involving a lot of players and providing
+wide range of capabilities. They're true
+multi-stakeholder networks, not state-based networks. Example would be
+the World Economic Forum. It's actually called now
+a global institution, but it's not
+controlled by states. Then there are diasporas. These are global networks form by people dispersed from
+their ancestral lands, but united by culture and
+identity with their homeland. They can play a role in governance of
+all kinds of things. Finally, you bring
+them all together, this is something we call
+governance networks. These combine all the
+features and attributes of the nine other GSN types. So here's an issue for you. What's your role going to be in the governance of Blockchain? Well, you may think, why do I have to get involved in that? Well, sure you're
+building a business, you're starting up a company, you're trying to transform
+a big organization or government, you're a student. But just like business can't succeed in
+a world that's failing, Blockchain can't
+succeed unless it has good stewardship
+and governance. This is a role for you. So, what do you want to do? You want to get
+involved in standards. There are lots of
+ways to do that. Would you like to
+become an advocate? Join an advocacy network. Perhaps you'd like
+to work with us in the Blockchain Research Institute to help to develop knowledge. Perhaps you're interested in the MIT Media Lab to help in
+the creation of good policy. There are all kinds of
+ways to get involved, and there's a way for you. You have a role to play, and Blockchain Governance is not somebody else's
+responsibility, it's yours.

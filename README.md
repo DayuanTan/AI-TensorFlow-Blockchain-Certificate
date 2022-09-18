@@ -96,7 +96,18 @@ You will be able to
 
 - [Module 4 Leadership for Next Era](Blockchain_and_Business_Applications_and_Implications/week4-Leadership_for_Next_Era/module4.md)
 
+  - Leadership for Next Era
+  - Blockchain Regulation, Fundamental Questions, Regulatory Principles
+  - Blockchain Governance, Regulation vs. Governance, The Blockchain Stack, Multiple Layers of Blockchain Governance, A New Framework for Blockchain Governance
+  - Seven Conditions for Success, Profile of a Blockchain Hotbed
+
+
 - [Module 5 Blueprint for a New Social Contract](Blockchain_and_Business_Applications_and_Implications/week5-Blueprint_for_a_New_Social_Contract/module5.md)
+
+  - The Current Social Contract is Breaking
+  - Drivers for Change, Four Pillars of Society
+  - Blueprint for a New Social Contract, Intro to a New Social Contract, Rethinking Work, The Pre-distribution of Wealth, Distributed Power, Collaborative Institutions
+  - Course Wrap-up
 
 
 [**My Certificate**](./Blockchain_and_Business_Applications_and_Implications/Coursera%20S4CV95ETCVG6.pdf) 
