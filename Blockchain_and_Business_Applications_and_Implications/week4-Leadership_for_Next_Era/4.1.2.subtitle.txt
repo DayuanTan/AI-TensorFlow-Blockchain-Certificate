@@ -1,0 +1,147 @@
+In this video, we'll
+call on the work of Blockchain Research Institute
+contributor, Joel Telpner. He's chair of the FinTech and blockchain practice
+at the law firm, Sullivan & Worcester. We look at attempts to regulate the Internet previously and also financial
+markets and what they can teach us about
+blockchain regulation. The Internet is a good
+comparison with blockchain, another disruptive in
+global technology, and finance of course is tied to blockchain by cryptocurrency
+applications like Bitcoin and the Ethereum and overall the digitization of financial assets,
+which is underway. It's still no simple task
+to regulate the Internet. It sits at the intersection of computing and communications,
+and it's global. Some of the early
+Internet pioneers insisted the Internet
+couldn't be regulated because of its openness and its international
+and global reach. A more mainstream group of users agreed the Internet was
+free from state regulation, but they recognized the value
+of self-regulation. Lots of blockchain users now repeat these arguments
+almost word for word. It's safe to assume that
+blockchain industry folks like early Internet developers
+have more expertise than most regulators
+do on the subject. We can learn from
+the Internet's development in areas like technical
+standards setting. In reality, the Internet
+didn't develop in a fully regulation free zone. It's public adoption was marked by massive copyright
+infringement, so much so international
+treaties were signed to get a handle on the industry
+shaking problem of piracy. The Internet of
+information really broke our whole intellectual property
+regime because it was a platform for
+publishing information. We didn't have a platform
+for communicating assets so we ended up
+publishing assets, and that was a big problem. So there were treaties along with some heavy handed domestic
+regulations to implement them, and they show us that the mainstream reaction is
+two little self regulation. The debate over net neutrality
+is a good example. Net neutrality means
+broadband providers should allow equal access to
+all content in applications. Supporters say it would lead to better information,
+freedom of speech, prevent cost, discrimination,
+encourage innovation, competition, and investment
+in infrastructure. It would also make full Internet more accessible to everyone. Opponents argue that
+a neutral network would actually decrease
+innovation and investment. So the United States implemented a net neutrality policy under
+the Obama administration. The current administration is
+since reversed the policy. Regulators should watch what
+happens next and still the lessons relevant to blockchain technologies and applications. We'll eventually find out
+which approach actually protects the public and
+promotes innovation. So blockchain, the second
+era of the Internet, is also fundamentally
+different from the first era. The first era enabled people and organizations
+to communicate, copy, and manage information. The second era deals
+much more with very fundamental things,
+assets like money, securities, intellectual
+property, our identities, cultural assets like
+music, or votes. All of which there is
+a stronger public interests. In these areas, societies expect governments
+and regulators to get involved and to protect
+their interests and to ensure that there's
+no criminal behavior and to create stable, opened, and well-functioning
+market places. So the old view,
+hands-off the Internet, doesn't apply
+the same way to hands-off blockchain because it's dealing with assets at the core
+of our economy. We can elect to finance
+when asking whether complex problems call
+for complex regulation. Some 9.3 million
+American families lost their homes in the great
+mortgage meltdown of 2008. The Dodd-Frank Wall Street Reform and Consumer
+Protection Act of 2010 was the answer
+to this crisis. But that regulation
+is thousands of pages long and
+contains hundreds of provisions requiring
+US regulators to make and roll out new rules and
+conduct dozens of studies. The big financial services
+institutions have spend billions of dollars to
+comply with these new rules. Community banks and credit unions who don't have those kinds
+of resources have struggled. The cost of complying with the new rules has hit them hard. Over half of those people pulled on Dodd-Frank's impact agreed. Financial services regulation had little effect or destabilize
+markets even more. Regulators need to
+pause and to learn from the unintended consequences of their overreaction to a crisis
+or to some new innovation. European Parliamentary
+Research Services issued this caution. They said legal systems
+may not be able to assert any control
+over the borderless, decentralized activities taking place on distributed ledgers. Geographically defined
+legal systems don't usually prosecute crimes
+beyond their borders, and in a sense
+national regulation is the wrong size for this global technology
+and global economy. So blockchain will
+test the resolve of local officials who tried to assert their separate and
+sometimes opposing interests. Blockchain community needs to push governments
+before it's too late. They need to push for adoption of a set of global
+blockchain rights, guiding government's
+approach to regulation. These rights should address a minimum things like unrestricted access to
+blockchain applications, as appropriate, unless
+those applications violate our overall
+social contract. They should also address the balance between your right to distribute and to
+access information, and your right to privacy
+and to protect your data. They should also address
+the legitimate need for governments to restrict
+the flow of information, provided it's infrequent and
+the reasons are transparent. The enforcement of
+contractual rights must also be enshrined because
+international commerce depends on such confidence. These rights must also keep
+in mind civil societies wide-ranging a variety of standards for measuring torches, libelist, and defamatory acts. Blockchain applications
+will continue to push the limits on how to deal with
+such varied perspectives. We mustn't use distributed
+ledger technology to disregard societies
+behavioral norms, nor should regulators
+disregard our core values. As with the Internet, there are different approaches
+to the level of regulation around blockchain
+development and growth. As for major brands
+and institutions, for their work developing
+blockchain applications to fit their existing products. They're creating apps
+to handle all kinds of transactions more
+cheaply and securely. Their large global
+footprints can withstand the cost of regulatory compliance across multiple jurisdictions, and then the experience
+and resources to deal with competing
+regulatory demands. These dynamics don't
+apply to start-ups, especially in this space. Small companies usually lack
+the resources to create the needed policies and
+procedures across jurisdictions. Sometimes regulators don't
+even have start-ups on their radar and make no regulatory efforts
+to monitor them. It's clear that there's
+no single regulatory model we can apply to both powerful incumbents
+wading into blockchain and to the smaller development
+groups and startups. To complicate things,
+such start-ups and entrepreneurs aim to disrupt how
+we do business. Their new blockchain applications will eventually displace or could destroy current players
+in market, after market. Think about what Amazon did to the traditional not
+just book industry, but to the retail industry. Some of these businesses
+hope to bring millions of people into
+the global economy, especially in
+developing markets with financial products
+offered on blockchain. They work outside
+traditional banking channels, outside the reach of current
+regulations and oversight. A patchwork of
+regulators won't cut it to govern a
+blockchain-based market driven by small diverse players. A key challenge for
+regulators is to protect the public interest
+but not to crush innovation because
+this technology is at the heart of building
+a whole new innovation economy. Distributed ledgers have already changed how we do transactions, and it usually cuts the cost of intermediaries like exchanges
+and clearing agents. The applications and
+methods coming from these technologies may have significant unexpected effects on operations and
+enforcement even when unrelated to
+existing regulations. So policymakers need to rethink how they regulate
+certain activities. Overall we'll be well-served if regulators understand
+blockchain adopt principles tailored to
+distributed ledger technology and then implement
+them in an open, clear, and consistent way.

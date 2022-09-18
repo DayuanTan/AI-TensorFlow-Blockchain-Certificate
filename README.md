@@ -98,6 +98,11 @@ You will be able to
 
 - [Module 5 Blueprint for a New Social Contract](Blockchain_and_Business_Applications_and_Implications/week5-Blueprint_for_a_New_Social_Contract/module5.md)
 
+
+[**My Certificate**](./Blockchain_and_Business_Applications_and_Implications/Coursera%20S4CV95ETCVG6.pdf) 
+<img src="./Blockchain_and_Business_Applications_and_Implications/certificate.png" width="100" />
+
+
 # 4. [Blockchain: Understanding Its Uses and Implications](Blockchain_Understanding_Its_Uses_and_Implications/README.md) by The Linux Foundation
 
 

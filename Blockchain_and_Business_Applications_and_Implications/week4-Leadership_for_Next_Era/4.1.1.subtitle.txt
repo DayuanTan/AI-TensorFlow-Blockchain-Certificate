@@ -1,0 +1,39 @@
+This module is about leadership for this second era
+of the Internet, it's an era that's changed
+by blockchain technologies. Blockchain alone is a tool. It's humans that build value, creating businesses and
+solve social problems. Technology doesn't do that. Humans need to lead
+for this technology to fulfill its long-term promise. Blockchains must be
+self-governed through collaborations of
+civil society, private sector, governments and stakeholders in non-state networks or networks that are not controlled
+by nation states. State-based institutions can't lead through regulations alone. By the end of this module, you'll be able to
+explain the difference between regulation and
+government on the one hand, and governance on the other. Blockchain expertise lies
+with developers and users, not with government bureaucrats
+and regulatory bodies. So we need to educate
+the full field of stakeholders from
+governments to individuals, on the scope of
+this disruption and about the block chains ability to unleash capability across
+different sectors. So we're going to check out
+some of the key issues, the trade offs and the scenarios related to blockchain
+and regulation. Some current regulations
+apply to blockchain use, lots more don't, and there's no framework in
+place to fill the gap. But you'll also learn about
+how the regulation of the Internet of information was governed and you'll
+get insights into how we might regulate and govern
+blockchain on a global scale. You'll be able to identify
+different layers of the block chain technology stack
+that need governance, and you'll understand
+how these layers affect the whole challenge of
+stewarding this resource. We'll discuss the idea of block chain governance networks. This is a term that
+we've developed, and how they can support blockchain leadership and
+stewardship at three levels. One is the platform level, where you find crypto currencies and other digital assets
+like Bitcoin. At the application level, that's where you'll find standards that need
+to be coordinated for the development of
+apps that actually change businesses and
+events in the real world. At the ecosystem level, we'll see leaders shape the future of
+the technology overall. In all, you're going to learn what conditions are necessary for a blockchain based hub of innovation in a given
+country to succeed, and that's really important. For preview of
+the leadership that we need check out the new preface to the paperback edition of our book 'Blockchain Revolution'
+as well as chapter 11. If you've got
+questions or comments, please check out
+the discussion forum.

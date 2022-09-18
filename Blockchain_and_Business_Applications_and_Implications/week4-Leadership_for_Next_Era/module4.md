@@ -40,8 +40,37 @@ Blockchain alone is just a tool. In order for this technology to fulfill its lon
 
 ## 4.1.1 Video: Module 4 Overview
 
+- human lead
+  - It's humans that build value, creating businesses and solve social problems. Technology doesn't do that. Humans need to lead for this technology to fulfill its long-term promise.
+- self-governed
+  - Blockchains must be self-governed through collaborations of civil society, private sector, governments and stakeholders in non-state networks or networks that are not controlled by nation states. 
+  - State-based institutions can't lead through regulations alone. 
+- difference 
+  - between regulation and government 
+  - and governance
+- education people
+  - Blockchain expertise lies with developers and users, not with government bureaucrats and regulatory bodies. 
+  - So we need to educate the full field of stakeholders from governments to individuals, on the scope of this disruption and about the block chains ability to unleash capability across different sectors
+- key issues, the trade offs and the scenarios related to blockchain and regulation
+  - current regulations
+    - some apply to blockchain use
+    - most don't apply
+      - there's no framework in place to fill the gap
+  - regulation
+    - how the regulation of the Internet of information was governed
+    - how we might regulate and govern blockchain on a global scale
+  - tech stack
+    - different layers of the block chain technology stack that need governance
+  - block chain governance networks
+    - how they can support blockchain leadership and stewardship at three levels
+      - platform level
+      - application level
+      - ecosystem level
 
 ## 4.1.2 Video: Intro to Blockchain Regulation
+
+- at attempts to regulate the Internet previously and also financial markets
+- It's still no simple task to regulate the Internet. It sits at the intersection of computing and communications, and it's global.
 
 
 ## 4.1.3 Video: Practitioner Perspective - Andreas Wallendahl: Regulation
