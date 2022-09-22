@@ -8,6 +8,16 @@ Understand what blockchain is, and gain an appreciation for this transformative 
 - LFS170x is part of the Blockchain for Business Professional Certificate. Skills in blockchain are being reported as the top job-skill in demand. This program is designed for the business professional who needs to understand the potential (or threat) of blockchain to their company and industry. Armed with better information of the blockchain landscape, this program will help you rise to new challenges in your current role by giving you a new dimension on which you can add value to your employer
 
 
+## Course Learning Objectives:
+
+By the end of this course, you should be able to:
+- Discuss blockchain technologies.
+- Understand why Blockchain is a transformative technology with potential for change
+around the world.
+- Understand how blockchain is solving problems that were difficult in the past.
+- Discuss blockchain use cases in production today.
+
+
 [Certificate](LinuxFoundationX%20LFS170x%20Certificate%20|%20edX.pdf)
 
 
@@ -219,14 +229,28 @@ Understand what blockchain is, and gain an appreciation for this transformative 
 - 
 [Chapter 6. Blockchain Use Cases](Chapter6.Blockchain_Use_Cases/README.md)
 
-- Introduction
-- Blockchain in Practice
-- Enterprise Solutions
-- Public Sector Solutions
-- Social Impact Solutions
-- Platform Developer’s Solutions
-- End User Solutions
-- Future of Blockchain
-- Knowledge Check
-- Summary
-
+  
+- Chapter 6 Blockchain Use Cases
+- A. Introduction
+  - 1. Chapter Overview
+  - 2. Learning Objectives
+- B. Blockchain in Practice
+  - 3. Blockchain Use Case Categories
+- C. Enterprise Solutions
+  - 4. Enterprise Solutions Overview
+  - 5. Global Supply Chains
+  - 6. Video: Supply Chain - Maersk
+  - 7. Farm to Table - Walmart
+  - 8. Video: Walmart
+  - 9. Healthcare
+  - 10. Finance Markets
+- D. Public Sector Solutions
+  - 11. Public Sector Solutions Overview
+- E. Social Impact Solutions
+  - 12. Social Impact Solutions Overview
+- F. Platform Developer’s Solutions
+- G. End User Solutions
+- H. Future of Blockchain
+- I. Knowledge Check
+- J. Summary
+- Chapter Summary

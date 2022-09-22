@@ -117,7 +117,7 @@ You will be able to
 # 4. [Blockchain: Understanding Its Uses and Implications](Blockchain_Understanding_Its_Uses_and_Implications/README.md) by The Linux Foundation
 
 
-
+A excellent introduction to blockchain with a little technology details. This one is my No. 1 recommedation for Blockchain Introduction courses.  
 
 - [Chapter 1. Introduction to Blockchain](Blockchain_Understanding_Its_Uses_and_Implications/Chapter1.Introduction_to_Blockchain/README.md)
   - Internet history; Blockchain features; Blockchain usecases
