@@ -1,0 +1,4 @@
+Can you give another example of a production blockchain system, such as Ethereum, and how is it different from Bitcoin?
+Sure. Ehereum also has a public blockchain. It also groups and orders transactions into blocks.
+However, Ethereum may be defined as an open source platform that enables  developers to build and deploy both smart contracts and decentralized applications, also known as Dapps.
+In addition to the Ethereum public blockchain, there are numerous versions of Ethereum which are designed to be private and are permissioned.

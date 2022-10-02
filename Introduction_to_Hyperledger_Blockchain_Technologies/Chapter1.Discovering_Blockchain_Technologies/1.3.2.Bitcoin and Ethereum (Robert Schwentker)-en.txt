@@ -1,0 +1,18 @@
+And so, why were Bitcoin and Ethereum created? What problems do they solve?
+So, Bitcoin was first launched in January of 2009, as a response to the global financial crisis at the time.
+Part of the motivation for the system was to be able to transfer value over the internet, without an intermediary.
+So, one of the biggest inventions and problems that it solved was that of the 'double spend' problem.
+So, Bitcoin, in fact, is programmable money.
+Ethereum, on the other hand, was created as a response to Bitcoin.
+While Bitcoin is focused upon transferring monetary value between parties, it has a very limited programming language.
+Ethereum, on the other hand, uses a more expansive set of programming languages and tools to allow for many other types of programs and applications.
+The core invention of Ethereum is it's EVM, or Ethereum Virtual Machine.
+The EVM runs on the Ethereum network, and it runs a Turing-complete software.
+So, Vitalik Buterin is the person who wrote the white paper for Ethereum.
+Some of its key features include the immutability of data, that unauthorized users cannot make changes to that data,
+the Ethereum development platform is designed to make corruption and tamper proof applications,
+the secure apps are sent decentralized and secured with cryptography,
+and they're protected against hacking attacks and fraudulent activities,
+and lastly, it's designed with zero downtime.
+That is because the applications on the network are decentralized, and on many, many machines,
+if some of those machines go down, the Ethereum network maintains a stable state of the Ethereum network.

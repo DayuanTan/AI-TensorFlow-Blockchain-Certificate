@@ -1,0 +1,16 @@
+0
+00:00:03,620 --> 00:00:10,780
+Can you give another example of a production blockchain system, such as Ethereum, and how is it different from Bitcoin?
+
+1
+00:00:10,780 --> 00:00:17,930
+Sure. Ehereum also has a public blockchain. It also groups and orders transactions into blocks.
+
+2
+00:00:17,930 --> 00:00:32,300
+However, Ethereum may be defined as an open source platform that enables  developers to build and deploy both smart contracts and decentralized applications, also known as Dapps.
+
+3
+00:00:32,299 --> 00:00:41,600
+In addition to the Ethereum public blockchain, there are numerous versions of Ethereum which are designed to be private and are permissioned.
+

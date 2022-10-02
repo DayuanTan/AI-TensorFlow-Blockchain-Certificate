@@ -1,0 +1,72 @@
+0
+00:00:03,620 --> 00:00:09,780
+And so, why were Bitcoin and Ethereum created? What problems do they solve?
+
+1
+00:00:09,780 --> 00:00:17,740
+So, Bitcoin was first launched in January of 2009, as a response to the global financial crisis at the time.
+
+2
+00:00:17,740 --> 00:00:25,060
+Part of the motivation for the system was to be able to transfer value over the internet, without an intermediary.
+
+3
+00:00:25,060 --> 00:00:32,440
+So, one of the biggest inventions and problems that it solved was that of the &#39;double spend&#39; problem.
+
+4
+00:00:32,439 --> 00:00:35,660
+So, Bitcoin, in fact, is programmable money.
+
+5
+00:00:35,660 --> 00:00:39,629
+Ethereum, on the other hand, was created as a response to Bitcoin.
+
+6
+00:00:39,629 --> 00:00:47,560
+While Bitcoin is focused upon transferring monetary value between parties, it has a very limited programming language.
+
+7
+00:00:47,560 --> 00:00:57,400
+Ethereum, on the other hand, uses a more expansive set of programming languages and tools to allow for many other types of programs and applications.
+
+8
+00:00:57,400 --> 00:01:02,940
+The core invention of Ethereum is it&#39;s EVM, or Ethereum Virtual Machine.
+
+9
+00:01:02,940 --> 00:01:09,300
+The EVM runs on the Ethereum network, and it runs a Turing-complete software.
+
+10
+00:01:09,300 --> 00:01:15,500
+So, Vitalik Buterin is the person who wrote the white paper for Ethereum.
+
+11
+00:01:15,500 --> 00:01:22,740
+Some of its key features include the immutability of data, that unauthorized users cannot make changes to that data,
+
+12
+00:01:22,740 --> 00:01:29,960
+the Ethereum development platform is designed to make corruption and tamper proof applications,
+
+13
+00:01:29,960 --> 00:01:35,000
+the secure apps are sent decentralized and secured with cryptography,
+
+14
+00:01:35,000 --> 00:01:39,300
+and they&#39;re protected against hacking attacks and fraudulent activities,
+
+15
+00:01:39,300 --> 00:01:42,660
+and lastly, it&#39;s designed with zero downtime.
+
+16
+00:01:42,660 --> 00:01:48,960
+That is because the applications on the network are decentralized, and on many, many machines,
+
+17
+00:01:48,960 --> 00:01:58,800
+if some of those machines go down, the Ethereum network maintains a stable state of the Ethereum network.
+

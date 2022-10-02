@@ -9,12 +9,12 @@ those who don't have any background. The workload is not high. You can finish th
 understanding of AI/ML and how to code them!
 
 It consists of 4 courses:
-- Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
-- Convolutional Neural Networks in TensorFlow
-- Natural Language Processing in TensorFlow
-- Sequences, Time Series and Prediction
+- 1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+- 2. Convolutional Neural Networks in TensorFlow
+- 3. Natural Language Processing in TensorFlow
+- 4. Sequences, Time Series and Prediction
 
-[**My Certificate**](./AI_Tensorflow_in_Practice_Specialization/certificate/5P3LRSEK9A9A.pdf) 
+[**My Certificate to This Speciallization**](./AI_Tensorflow_in_Practice_Specialization/certificate/5P3LRSEK9A9A.pdf) 
 <img src="./AI_Tensorflow_in_Practice_Specialization/certificate/5P3LRSEK9A9A.png" width="100" />
 
 
@@ -134,3 +134,35 @@ A excellent introduction to blockchain with a little technology details. This on
 
 [**My Certificate**](./Blockchain_Understanding_Its_Uses_and_Implications/LinuxFoundationX%20LFS170x%20Certificate%20|%20edX.pdf) 
 <img src="./Blockchain_Understanding_Its_Uses_and_Implications/certificate.png" width="100" />
+
+# 5. [Introduction to Hyperledger Blockchain Technologies](Introduction_to_Hyperledger_Blockchain_Technologies/README.md) by The Linux Foundation
+
+Chapter 1. Discovering Blockchain Technologies
+- Introduction and Learning Objectives
+- Distributed Ledger Technology (DLT)
+- Bitcoin and Ethereum Blockchains
+- Exploring Permissionless Blockchains
+- Consensus Algorithms
+- Hyperledger
+- Other Open Source Permissioned Distributed Ledgers
+- Challenges in the Adoption/Deployment of Distributed Ledger Technologies
+- Knowledge Check (Verified Certificate track only)
+
+Chapter 2. Introduction to Hyperledger Foundation
+- Introduction and Learning Objectives
+- Hyperledger Foundation
+- Q/A with Brian Behlendorf, former Executive Director of Hyperledger
+- Knowledge Check (Verified Certificate track only)
+
+Chapter 3. Hyperledger Foundation Hosted Projects
+- Introduction and Learning Objectives
+- Graduated Hyperledger Projects
+- Incubating Hyperledger Projects
+- Dormant Hyperledger Projects
+- Knowledge Check (Verified Certificate track only)
+
+Chapter 4. The Promise of Business Blockchain Technologies
+- Introduction and Learning Objectives
+- Existing Blockchain Use Cases
+- When to Use or Not to Use Blockchain Technologies
+- Knowledge Check (Verified Certificate track only)
