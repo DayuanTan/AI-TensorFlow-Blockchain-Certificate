@@ -38,8 +38,28 @@ IS Auditing is related to risks, controls and assurance. In the first module, Pr
 - Classify internal controls into three major categories
 - Practice categorizing internal controls using different IT-related scenarios
 
-[Week1 note](week1/readme.md)
+[Module 1 note](Module1/readme.md)
 
 ## Module 2 Perform IS auditing
+
+
+You may have heard of financial auditing, do you know the difference between IS auditing and financial auditing? You are going to explore more about IS auditing through the conversation between Prof. Dias and the IS audit practitioner. Prof. Dias then explains the general IS audit procedures and two major testings that IS auditors/compliance officers have to conduct. Prof. Dias also explains the procedure to obtain evidence in order to produce justified audit reports.
+
+### Learning Objectives
+- Discuss the situation where organizations need to set up the IS audit procedure
+- Explain the three major categories of the general IS audit procedure
+- Identify the major audit areas of the audit client, which IS auditors need to get prepared
+- Identify the major audit subjects of the audit client
+- Explain the basic steps involved in performing IS audit, from Planning to Reporting and Follow up
+- Compare compliance testing and substantive testing
+- Describe the situations IS auditors need to perform substantive testing
+- Explain the purpose of obtaining evidence in IS auditing
+- Discuss major ways to obtain evidence
+- Interpret a typical technique of obtaining evidence - Re-performance
+- Interpret a typical technique of obtaining evidence - Confirmation
+- Explain the four determinants to evaluate the quality of the evidence
+
+[Module 2 note](Module2/readme.md)
+
 ## Module 3 Business Application Development and the Roles of IS Auditors
 ## Module 4 IS Maintenance and Control

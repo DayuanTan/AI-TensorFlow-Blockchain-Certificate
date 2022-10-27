@@ -249,7 +249,22 @@
   - step 3 analyze whether different controls can be applied in different situation
 
 - example 1 - encryption software
-
+  - which control it is
+    - preventative control
+    - prevent revealing confidential information (it's not prevent from data lost)
+- example 2 - job rotation
+  - to understand the big picture of the company
+  - preventative control
+  - prevent the knowledge of the system by a single employee only
+  - detective control
+    - banking (societe generale case)
+- example 3 - system backup & restoration
+- ![](4.example3.png)
+- ![](4.example4.png)
+- ![](4.example5.png)
+- ![](4.example6.png)
+- ![](4.example7.png)
+- ![](4.example8.png)
 
 
 # 4. Module 1 Quiz

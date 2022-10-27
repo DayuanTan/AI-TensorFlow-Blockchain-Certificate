@@ -1,0 +1,116 @@
+We all are very familiar
+with financial auditing. So as we all know
+that listed companies need to reviewed by financial auditors at least once a year. So financial auditing is being with us for very long time, but now we talk about
+information systems auditing. So the first question
+probably come to your mind would be what is the difference? Are they doing the same thing? What's the difference between financial auditing and IS auditing? Now, I would like to ask Gloria. Could you please
+explain a little bit about to our audience what is the main difference between financial
+auditing and IS auditing? Okay. I think many
+of the people know financial auditing
+especially when they read the annual report from
+different listed company. That's right. So that is actually
+mainly focusing on the balance sheet
+and also the P&L. So those are mainly focusing
+on the financial figures. Looking at the numbers. They will also look
+into the business operations. But the ultimate purpose is
+for the financial figures itself and see whether there is anything that
+could be misleading, and the auditor would
+provide the opinion on that particular
+financial reports for listed companies or even through some of the non-listed companies. They may also get
+the auditors to help them to audit the financial
+statements as well. So that's I think many
+of the people would know about that and be
+familiar with that. But then for IS audit,
+actually nowadays, because many of the companies or even most of the companies, they will have a lot of different technologies that helps their business to operate. We can't survive without
+technology nowadays. Right, exactly. Also because of the financial
+statement itself. It actually generates
+from a financial systems. Systems are the
+keywords here, right? Exactly. So that's
+why it's really important that we
+get someone to look into the system itself
+and especially for their financial systems or
+for those present systems, it will finally hit the
+financial statements. So we need to ensure all those information
+flowing through, really reliable, especially when we talk about the
+financial auditors. They need to utilize
+all this kind of data to perform their work. So an IS auditor is actually helping to ensure or to check the controls over their
+systems and see whether it is what we call
+is control reliable, whether there could be
+any risk in the systems that could possibly
+affect the accuracy of those data and whether
+those data could be amended by somebody who are not really supposed to
+do that kind of work. Yes. Sometimes some people
+manipulate the data, right? Yeah. So some of the work that IS auditor will
+do is they would check those assets to different
+systems and see whether those system
+can can be manipulated or accessed by any
+unauthorized people that may impact the accuracy and also the integrity
+of the data. So that's will be part of the work that IS
+auditor would do. But, of course, we're
+not just focusing on the financial data at the end because for some of the
+work that IS auditor do, they may not be doing from
+financial audit perspective. They may do it from
+like, for example, an internal audit perspective or internal control perspective. Basically looking at the way things happened that
+as management wish. Yeah, exactly because these days, many of the management, they will just assume that I have invested certain amount
+of money in the system, so I would expect my
+colleagues would really utilize this kind of systems and perform the business operations
+as what they think. But in actual case, is it really happening as
+what management expect? So the IS auditor, they can actually help
+the management to review or those kind of systems and see whether it is really getting in line with what
+the management is thinking. They give assurance. Yes, some of the projects. Give assurance to the
+management and assurance to the government authorities and assurance to us, as customers. Right. Other than
+assurance type of work. There are, of course,
+some of the management, they just want to dig out
+what are the gaps or issues. So sometimes the IS
+auditor will try to help the management to
+find out all those gaps, what those gaps means. That means it could
+be a gap between the policy setup
+within the companies, or it could be some gaps as compared to the
+regulatory requirements. That's true. So the gaps between what they would like to have and what's
+really practicing. Exactly. Yeah. So then that's what's so-called gap analysis sometimes. So we do call it as
+gap analysis. Yes. So many of the work that
+the IS auditor would do is helping the the management to really identify all these
+kind of exception and, of course, not just identify the exception but
+as an IS auditor, I will also provide
+recommendation to the management. How to streamline the
+business process, how can we improve
+information security, how can you improve the
+customers data protection. So all these things, auditors
+give some recommendations. Those recommendations
+becomes policies and procedures come from
+the senior management. That's right. So for this
+recommendation, of course, we need to, for each of the case, it depends on
+different companies, different industries
+and also depends on different requirements from
+the regulators so that we can come up with
+a better solution for the management
+to consider whether they would think of
+any other ways to fix the problems or
+to minimize the gap. So this is how the IS
+auditor would do most of the time and in some
+other occasions, we're not really just positioning
+us as an auditor alone. Sometimes we'll also
+help our clients to provide different
+advisory as well. So you call IT advisory. Yeah. We're trained to position ourself to advise our clients by providing
+them with some, for example, value-added
+recommendation. How can they start
+with new technologies, how can they use new technologies to streamline their
+business process, and compete with their
+business customer, the competitors, right? So we're not just picking the wrong things
+from this process. Not really policing,
+but also helping them. Helping them as well. I don't like in auditors always
+looking at trying to find out what are the things that you guys do wrong
+but not really that. You do something
+called IT advisory. That means how they
+can use streamline, the new business processes, new technologies to compete better with the competitors
+and be more productive. Yeah. Because we serve different clients and
+different companies, we can share our knowledge and experience with our
+clients in terms of how they can improve and enhance
+the existing practice so that they can really compete with their
+competitors as well. So it's really important. It's survival is the
+most important things in a competitive environment
+like today, right? Yes. So I think we all do have a
+very good understanding now. At least difference between
+we should thank to Gloria for giving us a good
+understanding and, of course, try to understand
+the main difference between financial auditing and IT
+auditing. Thanks, Gloria. Thank you.
