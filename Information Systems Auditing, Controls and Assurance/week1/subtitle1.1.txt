@@ -1,0 +1,61 @@
+Hello, I'm Percy Dias, teaching information systems here in The Hong Kong University
+of Science and Technology for more than 20 years. Welcome all of you to my course. Information Systems Auditing,
+Controls, and Assurance. Information systems
+change our lives a lot. The way we work, the way we
+play over many years. About 20 years ago, we had to go to the bank branch physically and get
+our services done. Then about 10 years ago, with e-Banking
+development, we could do some of the banking services
+in front of our computers. Now, we can see that almost everybody has a
+mobile phone in their hand. With this, then we
+have mobile banking. With the virtual banking, we don't have to go
+to the bank branch. We could do everything
+using our mobile phone. Problem here is this, whether the money that I'm going to deposit in the virtual bank, will it be safe enough? Somebody need to check those
+information systems to see whether information systems work they supposed to be. So the human touch is the one given by the Information
+System Auditor. Now, I would like to introduce a practitioner who has been practicing information
+systems auditing for many decades. Gloria Luk. Hi Gloria, nice to
+meet you again. Could you share with us why Information System Auditing is important in
+organizations nowadays? I think nowadays, IS Auditing is getting
+more and more important, given that many of the
+companies nowadays, you cannot imagine any of them would not
+use technologies. That's true. Right. That's why it
+is very important that IS Audit is part
+of their consideration. Right. Given that they have adopted
+different technologies. Right. We need to ensure
+that whether those technologies it's really
+reliable especially That's true. from the management perspective, whether they can rely on those system data,
+business data to do- That's right. -their financial analysis. To do their protection
+of their business. To understand their customer, what are their behavior, and how could they improve the expectation or the
+customer experience. Yeah, because it's a
+competitive world, right? Yes. It's really important nowadays to have
+all these kinds of advice to be provided to the management and also
+even to the public. So that they can give an idea to the public
+and management, in terms of how the
+system is providing the solution for the
+business operations, how it can actually
+helps them to improve all those business operations, how would it be more efficient to perform their
+daily work or whether it is possible to
+help the management to minimize some tedious
+many work as well. That's actually
+really important to have IT Auditor or IS
+Auditor to get in to help the companies and their management so
+that they could enhance their existing IT controls within their IT environment
+of the companies. At the very beginning, I
+will explain to you guys the most important keywords in Information Systems Auditing, which are Risks and Controls. Then will talk about
+IS Audit procedures. The next part would be how to embed controls into
+your information systems. We talk about systems
+development life cycle and how the controls can be implemented in the
+information system itself. Finally, things keep changing. We have to add new modules to the systems. We have to correct problems with your
+information systems, we call it Change Management. One of the very important
+area in information systems. These are the important
+key things that I am going to go through with
+you all in this course. IT auditing is a team work. In IT Auditing team, we have a lot of people
+with lot of specialties. So if you are IT person, who would like to getting
+to know more about controls and assurance?
+Yes, it's for you. If you're the management people,
+who'd like to learn about a little bit technology
+and join the IT auditing? Yes, this is for you. This is a course for someone that would
+like to work hard, who would like to develop
+yourself for the future. IT people, non-IT people, doesn't matter, even if you
+don't have an IT background. If you get into the Big 4
+companies, they're going to train you well. So, look forward to see
+you all in my course.
