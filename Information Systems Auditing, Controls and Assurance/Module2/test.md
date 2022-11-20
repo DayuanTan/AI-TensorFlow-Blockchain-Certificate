@@ -49,7 +49,6 @@ iii.	Approval flow and approval matrix for posting an accounting journal
 
 iv.	System change controls
 
-0 / 1 point
 
 (i) only
 
@@ -88,15 +87,14 @@ No – IS auditors should not share any observations as they have no responsibil
 Question 5
 Which of the following is the best way to review whether the system users have changed their password in accordance to the password policy in the past 12 months during the relevant compliance testing?
 
-0 / 1 point
 
-Review the global security setting of the system and check whether it is configured in accordance to the company password policy
+x Review the global security setting of the system and check whether it is configured in accordance to the company password policy
 
 
 Randomly extract and review the password change audit trail from the system, say 3 of 12 months of audit trail
 
 
-Interview the IT administrator of the system and ask for the usual practice x
+Interview the IT administrator of the system and ask for the usual practice 
 
 
 Interview a good sample, say 25% of total staff
@@ -106,15 +104,14 @@ Interview a good sample, say 25% of total staff
 Question 6
 What is “Substantive Testing”?
 
-0 / 1 point
 
-Audit procedure to understand and review whether the internal controls are well designed and being effectively followed x
+Audit procedure to understand and review whether the internal controls are well designed and being effectively followed 
 
 
 Audit procedure to check whether there is proposal internal policy and procedure are implemented
 
 
-Audit procedure to collect evidence and evaluate the integrity of detail data, programming code and/or change requests
+x Audit procedure to collect evidence and evaluate the integrity of detail data, programming code and/or change requests
 
 
 Audit procedure to observe the users' system behaviors in a system 
@@ -124,18 +121,17 @@ Audit procedure to observe the users' system behaviors in a system
 Question 7
 Under what circumstance IS auditors must perform “Substantive Testing”?
 
-0 / 1 point
 
 Proper programme change policy is in place, but with bad internal controls design
 
 
-Proper program change policy is in place, with good internal controls design
+Proper program change policy is in place, with good internal controls design 
 
 
-Proper programme change policy is in place, with good internal controls design, but it is not followed properly by the company x
+Proper programme change policy is in place, with good internal controls design, but it is not followed properly by the company 
 
 
-No program change policy is in place
+x No program change policy is in place
 
 
 

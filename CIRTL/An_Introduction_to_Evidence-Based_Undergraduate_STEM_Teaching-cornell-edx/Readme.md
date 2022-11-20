@@ -1,4 +1,4 @@
-# CornellX CIRTL.1x (Fall 2022) An Introduction to Evidence-Based Undergraduate STEM Teaching
+# Cornell CIRTL.1x (Fall 2022) An Introduction to Evidence-Based Undergraduate STEM Teaching
 
 
 ## [edx.org](https://learning.edx.org/course/course-v1:CornellX+CIRTL.1x+3T2022/block-v1:CornellX+CIRTL.1x+3T2022+type@sequential+block@4db151e97cf141c8be4072fdfb1b8fd8/block-v1:CornellX+CIRTL.1x+3T2022+type@vertical+block@c4737c753fd24bca8e445c06fd3acb84)
@@ -64,3 +64,10 @@
 - Motivating Students to Learn
   - cognitive domain - how we think
   - affective domian - how we feel
+
+
+
+# 3: Learning Objectives
+## 3.1 Learning Goals vs. Objectives
+- Backwards Design
+- Course Scale Goals vs. Topic Level Objectives

@@ -62,4 +62,20 @@ You may have heard of financial auditing, do you know the difference between IS 
 [Module 2 note](Module2/readme.md)
 
 ## Module 3 Business Application Development and the Roles of IS Auditors
+
+IT practitioners develop business applications following the Systems Development Life Cycle (SDLC). IS auditors are in place to ensure the controls are implemented to mitigate the risks of developing application systems throughout the SDLC. Prof. Dias is going to review what IT practitioners usually do, and further elaborate the role that IS auditors play in different phases of SDLC.
+
+### Learning Objectives
+- Explain the rationale of developing new applications
+- Justify the most important phase in the System Development Life Cycle (SDLC)
+- Review the role of IS auditors during different phases of SDLC
+- Analyze different situations and suggest which of the three different kinds of testing should be applied during the development phase of SDLC
+- Explain different input/output controls when during the system configuration to secure the information systems
+- Recommend the best system changeover approach in terms of risks, cost and limitation
+- Explain the importance of post-implementation review, how we should conduct it and who are the best parties to conduct
+- Give examples of the risks of application development
+
+
+[Module 3 note](Module3/readme.md)
+
 ## Module 4 IS Maintenance and Control
