@@ -167,6 +167,13 @@ Chapter 4. The Promise of Business Blockchain Technologies
 - When to Use or Not to Use Blockchain Technologies
 - Knowledge Check (Verified Certificate track only)
 
+# Power BI
+
+[**My Certificate 1**](./PowerBI/Prepare_Clean_Transform_and_Load_Data_using_PowerBI/Coursera%20MHFCLZ6CNL6G.pdf) 
+<img src="./PowerBI/Prepare_Clean_Transform_and_Load_Data_using_PowerBI/cert.png" width="100" />
+[**My Certificate 2**](./PowerBI/Build_Dashboards_in_Power_BI/Coursera%20DPGRLTPASCWW.pdf) 
+<img src="./PowerBI/Build_Dashboards_in_Power_BI/cert.png" width="100" />
+
 
 # CIRTL - Center for the Integration of Research, Teaching and Learning
 
