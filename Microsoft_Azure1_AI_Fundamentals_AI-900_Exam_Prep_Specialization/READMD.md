@@ -18,7 +18,47 @@ This Specialization will prepare you to take the AI-900: Microsoft Azure AI Fund
 
 ## [1 Artificial Intelligence on Microsoft Azure](./1_Artificial_Intelligence_on_Microsoft_Azure/READMD.md)
 
+AI Workloads
+- Uses of AI
+- Prediction/forecasting
+- Features of anomaly detection
+- Computer vision
+- Natural language
+- Conversational
+
+Responsible AI development (6 principles)
+- Fairness
+- Reliability & safety
+- Privacy & Security
+- Inclusiveness
+- Transparency
+- Accounttability
+
+Career in AI
+- Solutions Architect
+- AI Engineer
+- Data Scientists
+
+[Certificate](1_Artificial_Intelligence_on_Microsoft_Azure/Coursera%20QGMBMU4NM5R5.pdf)
+
 ## [2 Microsoft Azure Machine Learning](./2_Microsoft_Azure_Machine_Learning/READMD.md)
+
+
+
+- 1: Azure Machine Learning to train and deploy a predictive model  
+  - some fundamental machine learning concepts, and how to use the Azure Machine Learning service to create and publish machine learning models.  
+
+- 2: Create a Regression Model with Azure AI  
+
+  - how to train and publish a regression model with Azure Machine Learning designer without needing to write any code.  
+
+- 3: Create a Classification Model with Azure AI  
+  - how to train and publish a classification model with Azure Machine Learning designer.  
+- 4: Create a Clustering Model with Azure AI  
+  - how to train and publish a clustering model with Azure Machine Learning designer.  
+
+
+
 
 ## [3 Computer Vision in Microsoft Azure](./3_Computer_Vision_in_Microsoft_Azure/READMD.md)
 
