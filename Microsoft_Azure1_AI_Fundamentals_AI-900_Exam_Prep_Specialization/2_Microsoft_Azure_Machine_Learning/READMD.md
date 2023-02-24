@@ -7,7 +7,9 @@
     - [1.1 Introduction to Create No-code Predictive Models with Azure Machine Learning](#11-introduction-to-create-no-code-predictive-models-with-azure-machine-learning)
     - [1.2 Azure Machine Learning to Train and Deploy a Predictive Model](#12-azure-machine-learning-to-train-and-deploy-a-predictive-model)
       - [1.2.1 Azure ML](#121-azure-ml)
-      - [1.2.2.](#122)
+      - [1.2.2. Try Automated Azure ML](#122-try-automated-azure-ml)
+  - [Week 2: Create a regression model with Azure Machine Learning designer](#week-2-create-a-regression-model-with-azure-machine-learning-designer)
+    - [Learning Objectives](#learning-objectives-1)
 
 
 ## Module Overview 
@@ -100,4 +102,16 @@ Microsoft Azure Machine Learning is a cloud based service with a wide range of f
       - Evaluate the performance. 
       - Deploy the model to a service. Connect to an application. 
 
-#### 1.2.2. 
+#### 1.2.2. Try Automated Azure ML
+
+See folder [1.2.2.try_AzureML](./1.2.2.try_AzureML/)
+
+## Week 2: Create a regression model with Azure Machine Learning designer 
+
+**Regression** is a supervised machine learning technique used to **predict numeric values**. in this module, you will learn how to create regression models using Azure Machine Learning designer.
+### Learning Objectives
+- Deploy a regression model as a service.
+- Use a regression model for inferencing.
+- Use Azure Machine Learning designer to train a regression model.
+
+
