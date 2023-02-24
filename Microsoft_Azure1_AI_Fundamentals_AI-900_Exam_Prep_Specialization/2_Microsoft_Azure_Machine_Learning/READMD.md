@@ -6,6 +6,8 @@
     - [Learning Objectives](#learning-objectives)
     - [1.1 Introduction to Create No-code Predictive Models with Azure Machine Learning](#11-introduction-to-create-no-code-predictive-models-with-azure-machine-learning)
     - [1.2 Azure Machine Learning to Train and Deploy a Predictive Model](#12-azure-machine-learning-to-train-and-deploy-a-predictive-model)
+      - [1.2.1 Azure ML](#121-azure-ml)
+      - [1.2.2.](#122)
 
 
 ## Module Overview 
@@ -66,4 +68,36 @@ Microsoft Azure Machine Learning is a cloud based service with a wide range of f
 - publish predictive services, and 
 - monitor their usage.
 
+
 ### 1.2 Azure Machine Learning to Train and Deploy a Predictive Model
+
+#### 1.2.1 Azure ML
+- What is machine learning? 
+  - Machine learning is a technique that uses mathematics and statistics to create a model that can predict unknown values. 
+  - It is the foundation for most artificial intelligence solutions.
+- Develop ML model 
+  - Training and deploying an effective machine learning model involves a lot of work. It can be a time consuming and resource intensive process.
+- Azure
+  - cloud based services
+    - help data scientists 
+      - prepare data, 
+      - train models, 
+      - publish predictive services, and 
+      - monitor their usage
+      - increase their efficiency by automating many of the time consuming tasks associated with training models
+- Common steps
+  - 1. Data ingestion
+    - Get the data
+  - 2. Data pre-processing
+    - Iteratively explore the data and prepare it for modeling
+    - Steps
+      - Feature selection. Identify the features that will help to predict the label and discarding others
+      - Data cleaning. Find errors or outliners and remove them. 
+      - Impute missing feature values with a suitable replacement. 
+      - Feature engineering, to derive new features from existing ones.
+      - Generally normalize your numeric features so thay are on the same scale. 
+      - Apply a algorithm to fit your prepared data to train a model.
+      - Evaluate the performance. 
+      - Deploy the model to a service. Connect to an application. 
+
+#### 1.2.2. 
