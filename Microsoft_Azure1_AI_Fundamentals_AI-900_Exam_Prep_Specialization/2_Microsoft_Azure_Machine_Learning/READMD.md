@@ -2,14 +2,20 @@
 
 - [Microsoft Azure Machine Learning](#microsoft-azure-machine-learning)
   - [Module Overview](#module-overview)
-  - [Week 1: Use Automated ML in Azure ML](#week-1-use-automated-ml-in-azure-ml)
+  - [Week 1: Use *Automated ML* in Azure ML](#week-1-use-automated-ml-in-azure-ml)
     - [Learning Objectives](#learning-objectives)
     - [1.1 Introduction to Create No-code Predictive Models with Azure Machine Learning](#11-introduction-to-create-no-code-predictive-models-with-azure-machine-learning)
     - [1.2 Azure Machine Learning to Train and Deploy a Predictive Model](#12-azure-machine-learning-to-train-and-deploy-a-predictive-model)
       - [1.2.1 Azure ML](#121-azure-ml)
       - [1.2.2. Try Automated Azure ML](#122-try-automated-azure-ml)
-  - [Week 2: Create a regression model with Azure Machine Learning designer](#week-2-create-a-regression-model-with-azure-machine-learning-designer)
+  - [Week 2: Create a regression model with Azure Machine Learning *designer*](#week-2-create-a-regression-model-with-azure-machine-learning-designer)
     - [Learning Objectives](#learning-objectives-1)
+    - [2.1 What is Regression?](#21-what-is-regression)
+      - [2.1.1 Azure ML Designer (Drag and drop; non-code)](#211-azure-ml-designer-drag-and-drop-non-code)
+      - [2.1.2 Try Azure ML Designer (Drag and drop)](#212-try-azure-ml-designer-drag-and-drop)
+  - [Week 3: Creeate a Classification Model with Azure AI ***Designer***](#week-3-creeate-a-classification-model-with-azure-ai-designer)
+    - [Learning Objectives](#learning-objectives-2)
+    - [3.1 What is Classification?](#31-what-is-classification)
 
 
 ## Module Overview 
@@ -53,7 +59,7 @@ After completing this lesson, you will be able to:
 - - 2) Use a clustering model for inferencing; 
 - - 3) Deploy a clustering model as a service. 
 
-## Week 1: Use Automated ML in Azure ML
+## Week 1: Use *Automated ML* in Azure ML
 
 Training a machine learning model is an iterative process that requires time and compute resources. Automated machine learning can help make it easier. In this module, you'll learn how to identify different kinds of machine learning model and how to use the automated machine learning capability of Azure Machine Learning to train and deploy a predictive model.
 
@@ -106,7 +112,7 @@ Microsoft Azure Machine Learning is a cloud based service with a wide range of f
 
 See folder [1.2.2.try_AzureML](./1.2.2.try_AzureML/)
 
-## Week 2: Create a regression model with Azure Machine Learning designer 
+## Week 2: Create a regression model with Azure Machine Learning *designer* 
 
 **Regression** is a supervised machine learning technique used to **predict numeric values**. in this module, you will learn how to create regression models using Azure Machine Learning designer.
 ### Learning Objectives
@@ -115,3 +121,39 @@ See folder [1.2.2.try_AzureML](./1.2.2.try_AzureML/)
 - Use Azure Machine Learning designer to train a regression model.
 
 
+### 2.1 What is Regression?
+
+
+#### 2.1.1 Azure ML Designer (Drag and drop; non-code)
+- Azure ML Designer
+- - use Azure Machine Learning designer to train a regression model, 
+- - use a regression model for inferencing, and 
+- - deploy a regression model as a service.
+- Regression 
+- - is a form of machine learning that is used to predict a numeric label based on an item's features
+- - Regression is an example of a supervised machine learning technique in which you train a model using data.
+
+#### 2.1.2 Try Azure ML Designer (Drag and drop)
+
+See foler [2.1.2_try_Azure_ML_Designer](./2.1.2_try_Azure_ML_Designer/)
+
+## Week 3: Creeate a Classification Model with Azure AI ***Designer***
+
+Classification is a supervised machine learning technique used to predict categories or classes. In this module, you will learn how to create classification models using Azure Machine Learning designer.
+
+### Learning Objectives
+- Describe capabilities of no-code machine learning with Azure Machine Learning studies
+- Describe core machine learning concepts
+- Identify core tasks in creating a machine learning solution
+- Identify common machine learning types
+
+### 3.1 What is Classification?
+
+This course:
+- use Azure Machine Learning Designer to train a classification model, 
+- use a classification model for influencing, and 
+- deploy a classification model as a service.
+
+What is classification? 
+- Classification is a form of machine learning that is used to predict which category or class an item belongs to.
+- Classification is an example of a supervised machine learning technique in which you train a model using data that includes both the features and known values for the label. 
