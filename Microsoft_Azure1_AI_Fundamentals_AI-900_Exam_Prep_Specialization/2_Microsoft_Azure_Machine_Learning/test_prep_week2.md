@@ -153,3 +153,4 @@ Compute Instances
 
 Correct
 Inference Clusters are used as deployment targets for predictive services that use your trained models. 
+

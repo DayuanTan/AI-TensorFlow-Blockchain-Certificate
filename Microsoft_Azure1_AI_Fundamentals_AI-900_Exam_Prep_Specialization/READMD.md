@@ -45,19 +45,22 @@ Career in AI
 
 
 
-- 1: Azure Machine Learning to train and deploy a predictive model  
+- 1: Azure Machine Learning to train and deploy a predictive model  (*Automated ML*)
   - some fundamental machine learning concepts, and how to use the Azure Machine Learning service to create and publish machine learning models.  
 
-- 2: Create a Regression Model with Azure AI  
+- 2: Create a **Regression** Model with Azure AI  (*Designer*)
 
   - how to train and publish a regression model with Azure Machine Learning designer without needing to write any code.  
+  - supervised
 
-- 3: Create a Classification Model with Azure AI  
+- 3: Create a **Classification** Model with Azure AI   (*Designer*)
   - how to train and publish a classification model with Azure Machine Learning designer.  
-- 4: Create a Clustering Model with Azure AI  
+  - supervised
+- 4: Create a **Clustering** Model with Azure AI   (*Designer*)
   - how to train and publish a clustering model with Azure Machine Learning designer.  
+  - unsupervised
 
-
+[Certificate](./2_Microsoft_Azure_Machine_Learning/Coursera%20EC4U6DBG4JQD.pdf)
 
 
 ## [3 Computer Vision in Microsoft Azure](./3_Computer_Vision_in_Microsoft_Azure/READMD.md)

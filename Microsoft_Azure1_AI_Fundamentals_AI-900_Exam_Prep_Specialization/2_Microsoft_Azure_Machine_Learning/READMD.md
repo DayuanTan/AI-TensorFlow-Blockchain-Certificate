@@ -8,14 +8,19 @@
     - [1.2 Azure Machine Learning to Train and Deploy a Predictive Model](#12-azure-machine-learning-to-train-and-deploy-a-predictive-model)
       - [1.2.1 Azure ML](#121-azure-ml)
       - [1.2.2. Try Automated Azure ML](#122-try-automated-azure-ml)
-  - [Week 2: Create a regression model with Azure Machine Learning *designer*](#week-2-create-a-regression-model-with-azure-machine-learning-designer)
+  - [Week 2: Create a regression model (*supervised*) with Azure Machine Learning *designer*](#week-2-create-a-regression-model-supervised-with-azure-machine-learning-designer)
     - [Learning Objectives](#learning-objectives-1)
     - [2.1 What is Regression?](#21-what-is-regression)
       - [2.1.1 Azure ML Designer (Drag and drop; non-code)](#211-azure-ml-designer-drag-and-drop-non-code)
-      - [2.1.2 Try Azure ML Designer (Drag and drop)](#212-try-azure-ml-designer-drag-and-drop)
-  - [Week 3: Creeate a Classification Model with Azure AI ***Designer***](#week-3-creeate-a-classification-model-with-azure-ai-designer)
+      - [2.1.2 Try Azure ML Designer (Drag and drop) for Regression](#212-try-azure-ml-designer-drag-and-drop-for-regression)
+  - [Week 3: Creeate a Classification Model (*supervised*) with Azure AI ***Designer***](#week-3-creeate-a-classification-model-supervised-with-azure-ai-designer)
     - [Learning Objectives](#learning-objectives-2)
     - [3.1 What is Classification?](#31-what-is-classification)
+    - [3.2 Try Azure ML Designer for Classficiation](#32-try-azure-ml-designer-for-classficiation)
+  - [Week 4: Create a clustering model (*unsupervised*) with Azure Machine Learning designer](#week-4-create-a-clustering-model-unsupervised-with-azure-machine-learning-designer)
+    - [Learning Objectives](#learning-objectives-3)
+    - [4.1 What is Clustering?](#41-what-is-clustering)
+    - [4.2 Try Azure ML Designer for Clustering](#42-try-azure-ml-designer-for-clustering)
 
 
 ## Module Overview 
@@ -112,7 +117,7 @@ Microsoft Azure Machine Learning is a cloud based service with a wide range of f
 
 See folder [1.2.2.try_AzureML](./1.2.2.try_AzureML/)
 
-## Week 2: Create a regression model with Azure Machine Learning *designer* 
+## Week 2: Create a regression model (*supervised*) with Azure Machine Learning *designer* 
 
 **Regression** is a supervised machine learning technique used to **predict numeric values**. in this module, you will learn how to create regression models using Azure Machine Learning designer.
 ### Learning Objectives
@@ -131,13 +136,13 @@ See folder [1.2.2.try_AzureML](./1.2.2.try_AzureML/)
 - - deploy a regression model as a service.
 - Regression 
 - - is a form of machine learning that is used to predict a numeric label based on an item's features
-- - Regression is an example of a supervised machine learning technique in which you train a model using data.
+- - Regression is an example of a **supervised** machine learning technique in which you train a model using data.
 
-#### 2.1.2 Try Azure ML Designer (Drag and drop)
+#### 2.1.2 Try Azure ML Designer (Drag and drop) for Regression
 
-See foler [2.1.2_try_Azure_ML_Designer](./2.1.2_try_Azure_ML_Designer/)
+See folder [2.1.2_try_Azure_ML_Designer](./2.1.2_try_Azure_ML_Designer/)
 
-## Week 3: Creeate a Classification Model with Azure AI ***Designer***
+## Week 3: Creeate a Classification Model (*supervised*) with Azure AI ***Designer***
 
 Classification is a supervised machine learning technique used to predict categories or classes. In this module, you will learn how to create classification models using Azure Machine Learning designer.
 
@@ -156,4 +161,29 @@ This course:
 
 What is classification? 
 - Classification is a form of machine learning that is used to predict which category or class an item belongs to.
-- Classification is an example of a supervised machine learning technique in which you train a model using data that includes both the features and known values for the label. 
+- Classification is an example of a **supervised** machine learning technique in which you train a model using data that includes both the features and known values for the label. 
+
+### 3.2 Try Azure ML Designer for Classficiation
+See folder [3.2_try_Azure_ML_Designer_Classification](./3.2_try_Azure_ML_Designer_Classification/)
+
+## Week 4: Create a clustering model (*unsupervised*) with Azure Machine Learning designer
+
+Clustering is an unsupervised machine learning technique used to group similar entities based on their features. In this module, you will learn how to create clustering models using Azure Machine Learning designer.
+
+### Learning Objectives
+- Train and publish a clustering model with Azure Machine Learning designer
+
+### 4.1 What is Clustering?
+
+This class:
+- use Azure Machine Learning Designer 
+  - to train a clustering model, 
+- use a clustering model for inferencing and deploy a clustering model as a service. 
+
+Clustering
+
+- Clustering is a form of machine learning that is used to group similar items into clusters based on their features.
+- Clustering is an example of **unsupervised** machine learning in which you train a model to separate items into clusters based purely on their characteristics or features. 
+
+### 4.2 Try Azure ML Designer for Clustering
+See folder [4.2_try_Azure_ML_Designer_Clustering](./4.2_try_Azure_ML_Designer_Clustering/)
