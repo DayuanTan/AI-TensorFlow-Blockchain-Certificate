@@ -1,5 +1,7 @@
+# Microsoft Azure AI Fundamentals AI-900 Exam Prep 2/5
 # Microsoft Azure Machine Learning
 
+- [Microsoft Azure AI Fundamentals AI-900 Exam Prep 2/5](#microsoft-azure-ai-fundamentals-ai-900-exam-prep-25)
 - [Microsoft Azure Machine Learning](#microsoft-azure-machine-learning)
   - [Module Overview](#module-overview)
   - [Week 1: Use *Automated ML* in Azure ML](#week-1-use-automated-ml-in-azure-ml)
@@ -29,7 +31,7 @@ Course Syllabus
 
 This course aims to help you learn more about Microsoft Azure Machine Learning. Machine learning is the foundation for modern AI solutions. In this course, you will learn about some fundamental machine learning concepts, and how to use the Azure Machine Learning service to create and publish machine learning models. This course forms part of the preparation for the AI 900 Exam. When you pass the AI-900 exam, you earn the Microsoft Certified Azure AI Fundamentals certification.  
 
-- Module 1: Azure Machine Learning to train and deploy a **predictive** model  
+- #### Module 1: Azure Machine Learning to train and deploy a **predictive** model  
 
 In this lesson, you will learn about some fundamental machine learning concepts, and how to use the Azure Machine Learning service to create and publish machine learning models.  
 
@@ -37,7 +39,7 @@ After completing this lesson, you will be able to:
 - - 1) Identify different types of machine learning model; 
 - - 2) Use the automated machine learning capability of Azure Machine Learning to train and deploy a predictive model. 
 
-- Module 2: Create a **Regression** Model with Azure AI  
+- #### Module 2: Create a **Regression** Model with Azure AI  
 
 In this lesson you will learn how to train and publish a regression model with Azure Machine Learning designer without needing to write any code.  
 
@@ -46,7 +48,7 @@ After completing this lesson, you will be able to:
 - - 2) Use a regression model for inferencing; 
 - - 3) Deploy a regression model as a service. 
 
-- Module 3 Create a **Classification** Model with Azure AI  
+- #### Module 3 Create a **Classification** Model with Azure AI  
 
 In this lesson you will learn how to train and publish a classification model with Azure Machine Learning designer.  
 
@@ -55,7 +57,7 @@ After completing this lesson, you will be able to:
 - - 2) Use a classification model for inferencing; 
 - - 3) Deploy a classification model as a service. 
 
-- Module 4 Create a **Clustering** Model with Azure AI  
+- #### Module 4 Create a **Clustering** Model with Azure AI  
 
 In this lesson you will learn how to train and publish a clustering model with Azure Machine Learning designer.  
 

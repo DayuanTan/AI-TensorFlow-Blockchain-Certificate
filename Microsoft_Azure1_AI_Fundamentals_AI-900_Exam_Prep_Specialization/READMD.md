@@ -65,6 +65,30 @@ Career in AI
 
 ## [3 Computer Vision in Microsoft Azure](./3_Computer_Vision_in_Microsoft_Azure/READMD.md)
 
+
+- 1:  Analyze and Classify Images with the Computer Vision Service   
+
+
+  - Use the Computer Vision service to analyze images
+
+  - Use the Custom Vision service to create an image classification solution.  
+
+- 2:  Object Detection with Azure AI 
+
+
+  - Use the Custom Vision service to create an object detection solution.  
+
+- 3:  Analyze Faces, Text, and Receipts with Azure AI 
+
+
+  - Use the Face cognitive service to detect and analyze faces in images; integrate Face detection, analysis, and recognition into your application
+
+  - Have your application use the Computer Vision service to read text in images using optical character recognition (OCR) 
+
+  - Use the built-in receipt processing capabilities of the Form Recognizer service 
+
+[Certificate]()
+
 ## [4 Natural Language Processing in Microsoft Azure](./4_Natural_Language_Processing_in_Microsoft_Azure/READMD.md)
 
 ## [5 Preparing for AI-900: Microsoft Azure AI Fundamentals exam](./5_Preparing_for_AI-900_Microsoft_Azure_AI_Fundamentals_exam/READMD.md)
