@@ -22,6 +22,9 @@
       - [If custom vision resource](#if-custom-vision-resource)
       - [1.3.3 Exercise: Create an image classification solution](#133-exercise-create-an-image-classification-solution)
   - [Week 2 Detect objects in images with the Custom Vision service](#week-2-detect-objects-in-images-with-the-custom-vision-service)
+    - [2.1 What is object detection?](#21-what-is-object-detection)
+    - [2.2 Get started with object detection on Microsoft Azure's Custom Vision (a part of Cognitive Services)](#22-get-started-with-object-detection-on-microsoft-azures-custom-vision-a-part-of-cognitive-services)
+    - [2.3 Exercise: Create an object detection solution](#23-exercise-create-an-object-detection-solution)
   - [Week 3 Analyze Faces, Text, and Receipts with Azure AI](#week-3-analyze-faces-text-and-receipts-with-azure-ai)
 
 
@@ -260,6 +263,74 @@ The ***Computer Vision cognitive service*** uses pre-trained models to analyze i
 
 ####  1.3.3 Exercise: Create an image classification solution
 
+[exercise](1.3.3.exercise/1.3.3.exercise.pdf)
+
+[quiz](./1.3.quiz.md)
+
+[test pre](./1.3.test_pre.md)
+
 ## Week 2 Detect objects in images with the Custom Vision service
 
+### 2.1 What is object detection?
+
+- Object detection 
+  - is a form of machine learning-based computer vision in which a model is trained to classify individual objects within an image and identify their location with a bounding box.
+
+- Custom Vision functionality can be divided into two features:  
+  - Image classification 
+    - Image classification is a machine-learning technique in which a model is trained to categorize images based on the primary subject matter they contain.
+  - Object detection
+    - Object detection goes further than this, to classify individual objects within the image and to return the coordinates of a bounding box that indicates the object's location.
+
+### 2.2 Get started with object detection on Microsoft Azure's Custom Vision (a part of Cognitive Services)
+
+- Deep Learning yourself VS Custom Vision
+  - You can create an object detection machine learning model by using advanced deep learning techniques. 
+    - However, this approach requires significant expertise in a large volume of training data. 
+  - The Custom Vision cognitive service in Microsoft Azure enables you to create object detection models that meet the needs of many computer vision scenarios with minimal deep learning expertise and fewer training images.
+
+- 3 main tasks
+  - Creating an object detection solution with Microsoft Azure's Custom Vision service consists of three main tasks
+  - 1. Upload and tag images
+  - 2. Train the model
+  - 3. Publish the trained model (Generate predictions)
+- 2 ways to do
+  - a Custom Vision resource, 
+    - a dedicated resource for the Custom vision service, which can be either a training or a prediction resource 
+  - or a cognitive services resource 
+    - a general cognitive services resource that includes custom vision along with many other cognitive services. For training, prediction or both.
+    - this one is simpler
+- Train
+  - Taging and bounding
+    - Before you can train an Object Detection model, you must tag the classes and bounding box coordinates in a set of training images. 
+    - The interface will automatically suggest areas of the image where discrete objects are detected and you can apply a class label to these suggested bounding boxes or drag to adjust the bounding box area. 
+    - This process can be time consuming, but the custom vision portal provides a graphical interface that makes it straightforward
+  - Smart tagging and bounding
+    - After tagging and training with an initial data set, the Computer Vision service can use smart tagging to suggest classes and bounding boxes for images you added to the training data set. 
+    - Ensuring that you have sufficient images of the objects in question, 
+      - preferably from multiple angles and making sure that the bounding boxes are defined tightly around each object
+  - Train
+    -  Custom Vision portal
+    -  or Custom Vision Service Programming language specific software development kits SDKs
+  - Iterative
+     - Model training is an iterative process in which the Custom Vision Service repeatedly trains the model using some of the data but hold some back to evaluate the model.
+  - Performance
+    - Precision
+    - Recall
+    - Mean avg precision
+  - Publish
+  - Use in application
+    - Project ID
+    - Model name
+    - Prediction endpoint
+    - Prediction key
+
+### 2.3 Exercise: Create an object detection solution 
+[Exercise](2.3.exercise.pdf)
+
+[quiz](2.3.quiz.md)
+
+[test pre](2.3.test_pre.md)
+
 ## Week 3 Analyze Faces, Text, and Receipts with Azure AI
+
