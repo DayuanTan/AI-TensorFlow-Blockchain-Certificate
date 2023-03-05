@@ -26,6 +26,13 @@
     - [2.2 Get started with object detection on Microsoft Azure's Custom Vision (a part of Cognitive Services)](#22-get-started-with-object-detection-on-microsoft-azures-custom-vision-a-part-of-cognitive-services)
     - [2.3 Exercise: Create an object detection solution](#23-exercise-create-an-object-detection-solution)
   - [Week 3 Analyze Faces, Text, and Receipts with Azure AI](#week-3-analyze-faces-text-and-receipts-with-azure-ai)
+    - [3.1 Detect and Analyze Faces with the Face Service](#31-detect-and-analyze-faces-with-the-face-service)
+    - [3.2 Get Started with Face Analysis on Microsoft Azure](#32-get-started-with-face-analysis-on-microsoft-azure)
+      - [Azure has multiple cognitive services:](#azure-has-multiple-cognitive-services)
+      - [To use](#to-use)
+      - [Needed info](#needed-info)
+      - [improve accuracy](#improve-accuracy)
+    - [3.3 Exercise: Detect and analyze faces with the Face service](#33-exercise-detect-and-analyze-faces-with-the-face-service)
 
 
 ## Overview
@@ -334,3 +341,79 @@ The ***Computer Vision cognitive service*** uses pre-trained models to analyze i
 
 ## Week 3 Analyze Faces, Text, and Receipts with Azure AI
 
+### 3.1 Detect and Analyze Faces with the Face Service
+
+- What is Face Detection
+  - Face detection and analysis is an area of artificial intelligence, or A.I., in which you use algorithms to locate and analyze human faces in images or video content
+    - Face detection
+      - identifying regions of an image that contain a human face
+      - returning bounding box coordinates
+    - Facial Analysis
+      - facial landmarrks - features with which to train a machine learning model
+    - Facial recognition
+- Application
+  - Security
+  - Social media
+  - Intelligent monitoring 
+  - Advertising
+  - Missing persons
+  - Identity validation
+
+### 3.2 Get Started with Face Analysis on Microsoft Azure
+
+#### Azure has multiple cognitive services:
+- Azurre computer vision
+  - face detection and some basic face analysis
+    - determining age
+- Azure Video indexer
+  - detect and identify faces in a video
+- Azure Face
+  - pre-built algorithms that can detect, recognize, and analyze faces
+  - functionalities
+    - Face detection, 
+    - face verification, 
+    - find similar faces, 
+    - group faces based on similarities and 
+    - identify people
+  - return 
+    - rectangle coordinates
+    - attributes
+      - age
+      - blur
+      - emotion
+      - facial hair
+      - smile
+      - head pose 3D
+      - makeup
+      - hair
+      - glasses
+      - noise
+      - occulsion
+      - exposure
+
+#### To use 
+- Face, 
+  - you use this specific resource type, 
+    - if you don't intend to use any other cognitive services 
+    - or if you want to track utilization and costs for Face separately. 
+- Cognitive Services, 
+  - a general cognitive services resource that includes computer vision, along with many other cognitive services 
+    - if you plan to use multiple cognitive services and want to simplify administration and development.
+
+#### Needed info
+- two pieces of information
+  - end point 
+    - HTTP addr
+  - key
+  
+#### improve accuracy   
+- format
+  - JPEG, PNG, GIF, and bitmap
+- file size 
+  - maximum file size the system supports is  6MB six megabytes
+- face size
+    - the minimum detectable face size is 36 by 36 pixels, 
+    - maximum detectable face size of 4096 by 4096 pixels
+
+
+### 3.3 Exercise: Detect and analyze faces with the Face service  
