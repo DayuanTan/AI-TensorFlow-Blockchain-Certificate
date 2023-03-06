@@ -25,14 +25,26 @@
     - [2.1 What is object detection?](#21-what-is-object-detection)
     - [2.2 Get started with object detection on Microsoft Azure's Custom Vision (a part of Cognitive Services)](#22-get-started-with-object-detection-on-microsoft-azures-custom-vision-a-part-of-cognitive-services)
     - [2.3 Exercise: Create an object detection solution](#23-exercise-create-an-object-detection-solution)
-  - [Week 3 Analyze Faces, Text, and Receipts with Azure AI](#week-3-analyze-faces-text-and-receipts-with-azure-ai)
+  - [Week 3 Analyze Faces, Text, and Receipts with Azure AI - Cognitive Service](#week-3-analyze-faces-text-and-receipts-with-azure-ai---cognitive-service)
     - [3.1 Detect and Analyze Faces with the Face Service](#31-detect-and-analyze-faces-with-the-face-service)
+      - [What is Face Detection?](#what-is-face-detection)
     - [3.2 Get Started with Face Analysis on Microsoft Azure](#32-get-started-with-face-analysis-on-microsoft-azure)
       - [Azure has multiple cognitive services:](#azure-has-multiple-cognitive-services)
       - [To use](#to-use)
       - [Needed info](#needed-info)
       - [improve accuracy](#improve-accuracy)
     - [3.3 Exercise: Detect and analyze faces with the Face service](#33-exercise-detect-and-analyze-faces-with-the-face-service)
+    - [3.4 Read Text with the Computer Vision Service](#34-read-text-with-the-computer-vision-service)
+      - [What is Optical Character Recognition?](#what-is-optical-character-recognition)
+    - [3.5 Get started with OCR on Microsoft Azure​](#35-get-started-with-ocr-on-microsoft-azure)
+    - [3.6 Exercise:Read text with the Computer Vision service](#36-exerciseread-text-with-the-computer-vision-service)
+    - [3.7 Analyze receipts with the Form Recognizer service](#37-analyze-receipts-with-the-form-recognizer-service)
+      - [What is Receipt Analysis?](#what-is-receipt-analysis)
+    - [3.8 Get Started with Receipt Analysis on Azure](#38-get-started-with-receipt-analysis-on-azure)
+    - [3.9 Exercise: Analyze receipts with the Form Recognizer - Prebuild Receipt Model](#39-exercise-analyze-receipts-with-the-form-recognizer---prebuild-receipt-model)
+    - [3.10 Additional resources](#310-additional-resources)
+    - [clean up](#clean-up)
+  - [Summary](#summary)
 
 
 ## Overview
@@ -339,9 +351,11 @@ The ***Computer Vision cognitive service*** uses pre-trained models to analyze i
 
 [test pre](2.3.test_pre.md)
 
-## Week 3 Analyze Faces, Text, and Receipts with Azure AI
+## Week 3 Analyze Faces, Text, and Receipts with Azure AI - Cognitive Service
 
 ### 3.1 Detect and Analyze Faces with the Face Service
+
+#### What is Face Detection?
 
 - What is Face Detection
   - Face detection and analysis is an area of artificial intelligence, or A.I., in which you use algorithms to locate and analyze human faces in images or video content
@@ -417,3 +431,199 @@ The ***Computer Vision cognitive service*** uses pre-trained models to analyze i
 
 
 ### 3.3 Exercise: Detect and analyze faces with the Face service  
+
+[Exercise](./3.3.Detect_and_analyze_faces_with_the_Face_service.pdf)
+
+[quiz](./3.3.quiz.md)
+
+### 3.4 Read Text with the Computer Vision Service
+
+#### What is Optical Character Recognition?
+
+- process written or printed text 
+  - Computer Vision + NLP
+    - need computer vision capabilities to read the text
+    - need natural language processing capabilities to make sense of it
+  - base
+    - optical character recognition OCR
+      - model can be trained to recognize individual shapes
+        - letters, 
+        - numerals, 
+        - punctuation, or 
+        - other elements of text
+      - read it line by line or even word by word
+    - machine reading comprehension or MRC
+      - AI use the semantic model to interpret what the text is about
+- this lesson
+  - Detect and convert -> use or store -> process or analyze
+  - 1. use of OCR technologies to detect text and images 
+  - 2. converted into a text-based data format which can then be stored, printed, or used as input 
+  - 3. for further processing or analysis
+
+### 3.5 Get started with OCR on Microsoft Azure​
+
+- Computer Vision service can
+  - extract text from images 
+  - image analysis capabilities
+
+- To use CV service, 2 resource types
+  - **1. computer vision**  
+    - a specific resource for the Computer Vision service. 
+      - You use this resource type if you don't intend to use any other cognitive services, or if you want to track utilization and cost for your computer vision resource separately.
+    - it has 2 types API
+      - **OCR API**
+        - designed for **quick** extraction of **small** amounts of text and images
+        - It operates **synchronously** to provide immediate results, and can recognize text in numerous languages.
+        - returns a hierarchy of information that consists of 
+          - **regions** in the image that contain text, 
+          - **lines** of text in each region and 
+          - **words** in each line of text.
+          - For each of these elements, also returns bounding box (rectangle to indicate the location in the image)
+      - **Read API**
+        - uses the latest recognition models, and is optimized for images that have a significant **amount** of text or have considerable visual noise
+        - a better option for scanned documents that have **a lot of text**.
+        - automatically determine the **proper recognition model** to use, taking into consideration lines of text and supporting images with printed text such as recognizing handwriting.
+        - works **asynchronously** so as not to block your application while it is reading the content and returning results to your application.
+        - 3 steps
+          - use the Read API, your application must use a three step process. 
+          - First, it **submits** an image to the API, and retrieves an **operation ID** in response. 
+          - Then it uses the **operation ID** to check on the **status** of the image analysis operation and **waits** until it has completed. 
+          - Finally, it **retrieves** the **results** of the operation. 
+        - Results
+          - Pages. 
+            - One for each page of text, including information about the page size and orientation. 
+          - Lines. 
+            - The lines of text on a page. 
+          - Words. 
+            - The words in a line of text. Each line and word includes bounding box coordinates indicating its position on the page.
+  - **2. cognitive services**
+    - a general cognitive services resource that includes computer vision along with many other cognitive services
+      - You use this resource type if you plan to use multiple cognitive services, and you want to simplify administration and development.
+
+- two pieces of information if use 
+  - an endpoint that provides the HTTP address  
+  - a key 
+
+### 3.6 Exercise:Read text with the Computer Vision service 
+
+[exercise](./3.6.Read_text_with_the_Computer_Vision_service.pdf)
+
+[quiz](3.6.quiz.md)
+
+
+### 3.7 Analyze receipts with the Form Recognizer service
+
+#### What is Receipt Analysis?
+
+- form recognizer service 
+  - to automate data extraction from 
+    - receipts, 
+    - invoices, and 
+    - other form related documents. 
+
+- this lesson you will be able to
+  - use the built-in receipt processing capabilities of the form recognizer service. 
+    - Scanning receipts into digital images or PDF documents, and 
+    - then using OCR technologies to extract the text contents from the digitized documents 
+  - organizations may want not only extract the text data from receipts, but also intelligently interpret the information they contain.
+
+### 3.8 Get Started with Receipt Analysis on Azure
+
+- Form Recognizer in Azure
+  - combines state of the art **optical character recognition** with **predictive models** 
+  - so it can i**nterpret form data** by 
+    - **matching** **field names** to values, 
+    - processing **tables** of data, 
+    - identifying specific **types of field**, such as 
+      - dates, 
+      - telephone numbers, 
+      - addresses, 
+      - totals, and others. 
+- Form Recognizer - Receipt Model
+  - a **pre-built** receipt model that is provided out of the box开箱即用 
+    - and is trained to recognize and extract data from sales receipts.
+    - pre-built receipt model is designed to recognize common receipts in English that are common to the USA
+      - restaurants, 
+      - retail locations, and 
+      - gas stations
+    - it can **return**
+      - time of transaction, 
+      - date of transaction, 
+      - merchant information, 
+      - taxes paid, 
+      - receipt totals, 
+      - other pertinent information that may be present on the receipt, 
+      - and all other text on the receipt 
+    - Requirements
+      -  Images must be JPEG, PNG, bitmap, PDF, or TIFF **formats**. 
+      -  The **file size** must be less than 50 megabytes. 
+      -  The **image size** must be between 50 by 50 pixels and 10,000 by 10,000 pixels. 
+      -  For PDF files, the document can be no larger than 17 inches by 17 inches. 
+      -  There's a free tier subscription or paid subscriptions. 
+         -  For the free tier, only the first 200 pages will be processed when passing in PDF or TIFF formatted documents.
+- Form Recognizer - Custom Model
+  - enable you to **extract** what are known as key value pairs and table data from forms
+  - Custom models are **trained using your own data**, which helps to **tailor** this model to your specific forms.
+    - **Train**: 
+      - at least 5 samples of your forms to train the custom model
+    - **Re-train**:
+      - After the first training exercise, you can evaluate the results, and consider if you need to add more samples and retrain
+- To Use Form Recognizer service
+  - 1. create a Form Recognizer resource, 
+  - 2. or a Cognitive Services resource
+  - Both resource types give you access to the Form Recognizer service
+
+
+### 3.9 Exercise: Analyze receipts with the Form Recognizer - Prebuild Receipt Model
+
+[Exercise](./3.9_Analyze_receipts_with_the_Form_Recognizer-Prebuild_Receipt_Model.pdf)
+
+[Quiz](./3.9.quiz.md)
+
+[Test pre](./3.9.test_pre.md)
+
+### 3.10 Additional resources
+During this course you have had an opportunity to explore how Microsoft Azure provides easy-to-use services to help you get started with building AI solutions. 
+
+Take a deeper Dive!
+
+In this section we have provided some further reading for exam preparation and research purposes. 
+
+Use this opportunity to explore the readings in the links provided below:
+
+Face in the [service documentation](https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/overview-identity).
+
+The Custom Vision service in the [service documentation](https://learn.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/).
+
+Using the Computer Vision service in the [service documentation](https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/).
+
+Using Form Recognizer [service documentation](https://learn.microsoft.com/en-us/azure/applied-ai-services/form-recognizer/?view=form-recog-3.0.0).
+
+### clean up
+- delete the endpoint to avoid accruing unnecessary as your usage.  
+- stop the computer instance until you need it again. 
+
+## Summary
+
+ 
+In this course, you learned 
+- how to use the **computer vision cognitive service** to **analyze images**. 
+- Use the **Custom Vision service** to create an **image classification** solution. And 
+- use the **Custom Vision service** to create an **object detection** solution. 
+- You've also explored the **face detection** features of the **computer vision, and video indexer services** and used the **face service and associated APIs** for facial detection. 
+- You saw how both the **OCR-API** and the **Read-API** provide the ability to 
+  - extract text from images and 
+  - use the Read API service in large tax scenarios. 
+- And you use the **pre built** receipt model as a part of the **form recognizer service** to help automate expense workflows for businesses by extracting key data from the receipts. 
+- While the computer vision and video indexer services offer **face detection** features. The **face service and associated APIs** provide more capabilities, which you choose will ultimately depend on the insights you want to gain from facial detection.
+  - If you want to look for data around **facial landmarks**, face is the proper choice. 
+- Optical Character Recognition or **OCR** has been around for a long time. 
+  - The ability to recognize and **extract text from documents** was one of the earliest uses. 
+  - The ability to do the same **extraction from images** is where the OCR-API and the Read-API can help. 
+    - Both of the API's provide the ability to extract text from **images**. 
+    - The text can be type written or handwritten and can be at different angles within the image. 
+    - The main factor in choosing which API to use is determined by the amount of text that needs to be processed. 
+      - The Read API is the service that is optimized for **large text** scenarios. T
+      - he **pre built receipt model** is a part of the form recognizer service. 
+        - It is optimized to extract information from receipts, capable of reading from restaurant, retail and gas company receipts. 
+        - It can help automate expense workflows for businesses by extracting key data from the receipts.

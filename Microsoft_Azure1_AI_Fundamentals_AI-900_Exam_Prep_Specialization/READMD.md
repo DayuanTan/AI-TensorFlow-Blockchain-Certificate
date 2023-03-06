@@ -87,7 +87,7 @@ Career in AI
 
   - Use the built-in receipt processing capabilities of the Form Recognizer service 
 
-[Certificate]()
+[Certificate](./3_Computer_Vision_in_Microsoft_Azure/Coursera_CNYXNLRAMFXL.pdf)
 
 ## [4 Natural Language Processing in Microsoft Azure](./4_Natural_Language_Processing_in_Microsoft_Azure/READMD.md)
 
