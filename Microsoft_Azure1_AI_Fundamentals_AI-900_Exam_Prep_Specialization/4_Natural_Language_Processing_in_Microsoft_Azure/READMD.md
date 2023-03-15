@@ -20,8 +20,14 @@
     - [1.2.4 Reading: Entity recognition](#124-reading-entity-recognition)
   - [1.3 Recognize and synthesize speech](#13-recognize-and-synthesize-speech)
     - [1.3.1 Recognize and synthesize speech](#131-recognize-and-synthesize-speech)
+    - [1.3.2 Get Started with Speech on Azure](#132-get-started-with-speech-on-azure)
+    - [1.3.3 Exercise - Use the Speech service](#133-exercise---use-the-speech-service)
+    - [1.3.4 Reading - Additional resources](#134-reading---additional-resources)
   - [Module 2:  Work with Language in Azure AI](#module-2-work-with-language-in-azure-ai-1)
       - [Learning Objectives](#learning-objectives-1)
+  - [2.1 Translate text and speech](#21-translate-text-and-speech)
+    - [2.1.1 What is literal and semantic translation?](#211-what-is-literal-and-semantic-translation)
+  - [2.2 Create a Language Model with Language Understanding](#22-create-a-language-model-with-language-understanding)
   - [Module 3:  Explore conversational AI](#module-3-explore-conversational-ai-1)
       - [Learning Objectives](#learning-objectives-2)
 
@@ -167,6 +173,8 @@ In this module, you will learn how to use the Text Analytics service for advance
 
 [Exercise](./1.2.3.Analyze_text_with_the_Text_Analytics_Service.pdf)
 
+[output](./output.md)
+
 [Quiz](1.2.3.quiz.md)
 
 
@@ -179,6 +187,99 @@ You can provide the Text Analytics service with unstructured text and it will re
 
 
 ### 1.3.1 Recognize and synthesize speech
+
+- Will learn
+  - how to recognize and synthesize speech using Microsoft Azure Cognitive Services
+  - to accept vocal commands and provide spoken responses
+
+- AI system must support **two capabilities**; 
+  - speech **recognition**, 
+    - the ability to detect and interpret spoken inputs 
+      - aking the spoken word and converting this into data that can be processed often by transcribing this into a text representation
+      - poken words 
+        - a recorded voice in an audio file, or 
+        - live audio from a microphone
+    - how
+      - Speech patterns are analyzed in the audio to determine recognizable patterns that are mapped to words.
+        - acoustic model
+          - converts the audio signal into phonemes, representations of specific sounds
+        - language model
+          - maps phonemes to words
+          - usually using a statistical algorithm that predicts the most probable sequence of words based on the phonemes
+  - speech **synthesis**, 
+    - the ability to generate spoken output.
+      - vocalizing data usually by converting text to speech
+    - requires the following information
+      - The text to be spoken and 
+      - the voice to be used to vocalize the speech
+    - how
+      - tokenize the text to break it down into individual words and assigns phonetic sounds to each word
+      - then breaks the phonetic transcription into prosodic units such as phrases clauses or sentences to create phonemes that will be converted to audio formats
+      - These phonemes are then synthesized as audio by applying a voice which will determine parameters such as pitch and timbre and generating an audio waveform that can be output to a speaker or written to a file
+
+
+
+### 1.3.2 Get Started with Speech on Azure
+
+- Azure Speech Cognitive Service
+  - capabilities
+    - speech recognition and 
+    - speech synthesis 
+  - APIs
+    - Speech-to-Text API 
+      - perform **real-time** or **batch** transcription of audio into a text format 
+      - model
+        - based on the Universal Language Model that was trained by Microsoft
+        - model is optimized for two scenarios, conversational and dictation
+        - create and train your own custom models
+      - real time
+        - listening for incoming audio from a microphone or other audio input source, such as an audio file
+        - streams the audio to the servers
+        - return transcribed text
+      - batch transcription
+        - recordings
+        - run in an asynchronous manner because the batch jobs are scheduled on a best effort basis.
+    - Text-to-Speech API
+      - convert text input to audible speech
+        - be played directly through a computer speaker, or written to an audio file.
+      - can specify the voice to be used to vocalize the text
+        - can personalize your speech synthesis solution and give it a specific character
+        - or includes multiple predefined voices
+  - Needed resource
+    - Speech Resource
+      - if you only plan to use the speech service, or if you want to manage access and billing for the resource separately from other services.
+    - Cognitive Services Resource,
+      - if you plan to use the speech service in combination with other cognitive services and you want to manage access and billing for these services together. 
+
+
+
+### 1.3.3 Exercise - Use the Speech service
+
+[Exercise](./1.3.3.exercise.pdf)
+
+
+[quiz](1.3.3.quiz.md)
+
+[test-pre]()
+
+
+### 1.3.4 Reading - Additional resources
+
+Here are additional resources that provide you with an opportunity to view the languages supported by the Speech-to-text and 
+Text-to-speech services and to see additional documentation about the Speech service. 
+
+Speech-to-text - supported languages.
+
+https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/language-support#speech-to-text
+
+Text-to-speech  - supported languages.
+
+https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/language-support#text-to-speech
+
+Service documentation about the Speech service
+
+https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/
+
 
 
 ## Module 2:  Work with Language in Azure AI 
@@ -196,6 +297,16 @@ In this module, you will use the Translator Text and Speech cognitive services i
 - Describe Language Understanding
 - Describe key features of language understanding, such as intents and utterances.
 - Build and publish a natural-language machine-learning model
+
+
+## 2.1 Translate text and speech
+
+### 2.1.1 What is literal and semantic translation?
+
+
+
+
+## 2.2 Create a Language Model with Language Understanding
 
 
 ## Module 3:  Explore conversational AI 
