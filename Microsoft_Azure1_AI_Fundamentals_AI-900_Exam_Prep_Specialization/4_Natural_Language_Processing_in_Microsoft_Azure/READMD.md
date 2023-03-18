@@ -260,7 +260,7 @@ You can provide the Text Analytics service with unstructured text and it will re
 
 [quiz](1.3.3.quiz.md)
 
-[test-pre]()
+[test-pre](1.3.3.test_pre.md)
 
 
 ### 1.3.4 Reading - Additional resources
