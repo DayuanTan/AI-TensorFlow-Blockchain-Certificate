@@ -27,7 +27,11 @@
       - [Learning Objectives](#learning-objectives-1)
   - [2.1 Translate text and speech](#21-translate-text-and-speech)
     - [2.1.1 What is literal and semantic translation?](#211-what-is-literal-and-semantic-translation)
+    - [2.1.2 Get Started with Translation in Azure](#212-get-started-with-translation-in-azure)
+    - [2.1.3 Exercise - Translate text and speech](#213-exercise---translate-text-and-speech)
   - [2.2 Create a Language Model with Language Understanding](#22-create-a-language-model-with-language-understanding)
+    - [2.2.1 What is Language Understanding?](#221-what-is-language-understanding)
+    - [2.2.2 Getting Started with Language Understanding](#222-getting-started-with-language-understanding)
   - [Module 3:  Explore conversational AI](#module-3-explore-conversational-ai-1)
       - [Learning Objectives](#learning-objectives-2)
 
@@ -303,10 +307,143 @@ In this module, you will use the Translator Text and Speech cognitive services i
 
 ### 2.1.1 What is literal and semantic translation?
 
+- **Literal translations**
+  - Early attempts at machine translation applied literal translations
+  - each word is translated to the corresponding word in the target language
+  - issues
+    - 1. there may not be an equivalent word in the target language.
+    - 2. literal translation can change the meaning of the phrase or not get the context correct
+  - The need
+    - Artificial intelligence systems must be able to understand not only the words, but also the semantic context in which they're used.
+    - The grammar rules, formal versus informal, and colloquialisms all need to be considered.
+
+### 2.1.2 Get Started with Translation in Azure
+
+- Azure services
+  - 1. translator text service
+    - text-to-text translation
+    - integrate into 
+      - your applications, websites, tools, and solutions
+    - model
+      - uses a **neural machine translation or NMT** model for translation
+        - which analyzes the semantic context of the text and renders a more accurate and complete translation as a result. 
+    - language
+      - more than 60 languages
+      - you must specify the language **from** and **to** using ISO 639-1 **language codes**
+        - you're translating from and the language you are translating to using ISO 639-1 language codes, such as en for English, fr for French and zh for Chinese. 
+        - one **from** and multiple **to** languages
+          - to simultaneously translate a source document into multiple languages
+      - cultural **variants** of languages
+        - by extending the language code with the appropriate 3166-1 Cultural Code, for example, en-US for US English, en-GB for British English or fr-CA for Canadian French
+    - Result fine tune
+      - The translator Text API offers some optional configuration to help you fine-tune the results that are returned,
+        - including profanity filtering and selective translation
+      - **profanity filtering**
+        - default
+          - Without any configuration, the service will translate the input text without filtering out profanity, although profanity levels are typically culture-specific
+        - control
+          - Using profanity-filtering, you can control profanity translation by either marking the translated text as profane or by omitting it in the results.
+      - **selective translation**
+        - you can tag content so that it isn't translated
+  - 2. speech service
+    - speech-to-text and speech-to-speech translation
+    - The speech service includes the following **APIs**:
+      - Speech-to-text, 
+        - used to transcribe speech from an audio source to texts formats.
+      - Text-to-speech, 
+        - used to generate spoken audio from a text source, 
+      - speech translation, 
+        - used to translate speech in one language to text or speech in another. 
+        - to translate spoken audio 
+          - from streaming source, such as a microphone or audio file, and 
+          - return the translation as text or an audio stream.
+            - This enables scenarios such as real-time closed captioning for speech or simultaneous two-way translation of spoken conversation
+    - Language
+      - one **from** multile **to**
+        - you can specify one source language and one or more target languages to which the source should be translated
+      - support 60+ languages
+      - The **source** language must be specified using the extended language and culture **code** format, such as es-US for American Spanish. 
+      - **target** language must be specified using a **two- character language code** such as en for English or de for German.
+- Needed resources to use above services
+
+  - translator text service and speech  resource types
+    - if you want to manage access and billing for each service individually
+  - cognitive services resource
+    - provides access to both services through a single Azure resource (a single endpoint and authentication key)
+
+### 2.1.3 Exercise - Translate text and speech
+
+[2.1.3 Exercise](2.1.3.exercise.pdf)
+
+[2.1.3.quiz](2.1.3.quiz.md)
+
+
+
+
+
 
 
 
 ## 2.2 Create a Language Model with Language Understanding
+
+
+### 2.2.1 What is Language Understanding?
+
+- **language understanding service**
+  - **explain** what it is
+  - **identify** key features 
+    - such as intense and utterances and 
+  - **build** and **publish** a natural language machine learning model
+
+- Turing test 
+  - in 1950. The british mathematician Alan Turing 
+  - hypothesizes that if a dialogue is natural enough, you may not know whether you're conversing with the human or a computer
+- scenarios
+  - customer support applications, 
+  - reservation systems and 
+  - home automation 
+  - among others
+- understand what is being said
+  - be able to accept language as input, either in text or audio format
+  - but also to be able to interpret the semantic meaning of the input
+- LUIS on Azure
+  - language understanding is supported through the language understanding intelligence service or LUIS, more commonly known as language understanding.
+  - Need to consdier **three core concepts**
+    - **utterances**, 
+      - An utterance is an example of something a user might say and which your application must interpret
+        - For example, when using a home automation system, a user might use the following utterances, switch the fan on or turn on the light.
+    - **entities** and 
+      - An entity is an **item** to which an utterance refers. 
+        - For example, fan and light in the following utterances, switch the fan on or turn on the light.
+    - **intense**
+      - An intent represents the **purpose** or **goal** expressed in the user's utterance.
+        - the intent is to turn the device on
+          - So in your language understanding application, you might define a **turn on intent** that is related to these utterances
+- A language understanding **application** defines a model consisting of intents and entities.
+  - **Utterances** are used to ***train the model to identify*** 
+    - the most likely **intent** and 
+    - the **entities** to which it should be applied based on a given input. 
+  - Example the home assistant application 
+    -  **utterances** are hello, hi, hey and good morning
+       -  intent should be a concise way of grouping the utterance tasks
+       -  the intent is *greeting*
+    -  utterances are switch the fan on, turn the light on and turn on the light. 
+       -  intent: turn on 
+       -  entities: devices mentioned, fan, light
+    -  utterances are what is the weather for today? Give me the weather forecast. What is the forecast for paris? What will the weather be like in Seattle tomorrow? 
+       -  entities are today - Date or time, paris - location, Seattle - location and tomorrow - Date or time,
+       -  intent is to check weather
+    -  utterances such as what is the meaning of life? is this thing on?
+       - intent: a group with the **none intent**
+       - You should consider always using the **none** intent to help handle utterances that do not map any of the utterances you've entered. 
+         - The none intent is considered a fallback and is typically used to provide a generic response to users when the requests don't match any other intent
+         - in the language understanding application, *the none intent is created but left empty on purpose*. 
+         - The **none intent is a required intent and cannot be deleted or renamed**, fill it with utterances that are outside of your domain.
+  - Train
+    - After defining the entities and intense with sample utterances in your language understanding application, you can **train the language model to predict intents and entities from user input**, even if it doesn't match the sample utterances exactly. You can then use the model from a client application to retrieve predictions and respond appropriately.
+
+### 2.2.2 Getting Started with Language Understanding
+
 
 
 ## Module 3:  Explore conversational AI 
