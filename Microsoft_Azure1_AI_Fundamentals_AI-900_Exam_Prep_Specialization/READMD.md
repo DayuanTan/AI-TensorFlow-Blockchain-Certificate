@@ -6,7 +6,9 @@ https://www.coursera.org/specializations/microsoft-azure-ai-900-ai-fundamentals
 ## About this Specialization
 
 
-[Specialization Certificate](Coursera_5WBZ6RPNQ2DT.pdf)
+[This Specialization Certificate](Coursera_5WBZ6RPNQ2DT.pdf)
+
+[Microsoft Certified AI-900 Azure AI Fundamentals certificate](./Certifications-dt-7380_MicrosoftLearn.pdf)
 
 This Specialization is intended for anyone interested in preparing for the Certified ***AI-900 Microsoft Azure AI Fundamentals*** Exam. This program consists of 5 courses to help prepare you to take the certification exam.
 
