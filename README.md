@@ -2,7 +2,7 @@
 My notes for coursera course for AI,TensorFlow, Blockchain and the certificates I earned.
 
 
-# 1. [AI TensorFlow Specialization](./AI_Tensorflow_in_Practice_Specialization) by DeepLearning.AI
+# 1. [AI TensorFlow *Specialization*](./AI_Tensorflow_in_Practice_Specialization) by DeepLearning.AI
 
 This is a very good "Introduction to AI/ML" level course. And I think it is friendly to everyone, including 
 those who don't have any background. The workload is not high. You can finish this quickly (<= 7 days) and obtain basic 
@@ -167,12 +167,30 @@ Chapter 4. The Promise of Business Blockchain Technologies
 - When to Use or Not to Use Blockchain Technologies
 - Knowledge Check (Verified Certificate track only)
 
-# Power BI
+# 6. Power BI
 
 [**My Certificate 1**](./PowerBI/Prepare_Clean_Transform_and_Load_Data_using_PowerBI/Coursera%20MHFCLZ6CNL6G.pdf) 
 <img src="./PowerBI/Prepare_Clean_Transform_and_Load_Data_using_PowerBI/cert.png" width="100" />
 [**My Certificate 2**](./PowerBI/Build_Dashboards_in_Power_BI/Coursera%20DPGRLTPASCWW.pdf) 
 <img src="./PowerBI/Build_Dashboards_in_Power_BI/cert.png" width="100" />
+
+
+# 7. [Microsoft Azure AI Fundamentals AI-900 *Specialization*](Microsoft_Azure1_AI_Fundamentals_AI-900_Exam_Prep_Specialization/READMD.md) by Microsoft
+
+Learners will acquire foundational knowledge of the core concepts related to artificial intelligence (AI) and the services in Microsoft Azure that can be used to create AI solutions. This program is an opportunity to demonstrate knowledge of common ML and AI workloads and how to implement them on Azure.
+
+It consists of 4 courses:
+- Course 1: Artificial Intelligence on Microsoft Azure
+- Course 2: Microsoft Azure Machine Learning
+- Course 3: Computer Vision in Microsoft Azure
+- Course 4: Natural Language Processing in Microsoft Azure
+
+[**My Certificate to This Speciallization**](Microsoft_Azure1_AI_Fundamentals_AI-900_Exam_Prep_Specialization/Coursera_5WBZ6RPNQ2DT.pdf)
+<img src="./Microsoft_Azure1_AI_Fundamentals_AI-900_Exam_Prep_Specialization/Coursera_5WBZ6RPNQ2DT.png" width="100" />
+
+[Microsoft Certified Azure AI Fundamentals AI-900](Microsoft_Azure1_AI_Fundamentals_AI-900_Exam_Prep_Specialization/Certifications-dt-7380_MicrosoftLearn.pdf)
+<img src="./Microsoft_Azure1_AI_Fundamentals_AI-900_Exam_Prep_Specialization/Certifications-dt-7380_MicrosoftLearn.png" width="100" />
+
 
 
 # CIRTL - Center for the Integration of Research, Teaching and Learning
