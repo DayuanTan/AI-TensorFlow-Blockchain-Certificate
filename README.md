@@ -186,9 +186,11 @@ It consists of 4 courses:
 - Course 4: Natural Language Processing in Microsoft Azure
 
 [**My Certificate to This Speciallization**](Microsoft_Azure1_AI_Fundamentals_AI-900_Exam_Prep_Specialization/Coursera_5WBZ6RPNQ2DT.pdf)
+
 <img src="./Microsoft_Azure1_AI_Fundamentals_AI-900_Exam_Prep_Specialization/Coursera_5WBZ6RPNQ2DT.png" width="100" />
 
 [Microsoft Certified Azure AI Fundamentals AI-900](Microsoft_Azure1_AI_Fundamentals_AI-900_Exam_Prep_Specialization/Certifications-dt-7380_MicrosoftLearn.pdf)
+
 <img src="./Microsoft_Azure1_AI_Fundamentals_AI-900_Exam_Prep_Specialization/Certifications-dt-7380_MicrosoftLearn.png" width="100" />
 
 
