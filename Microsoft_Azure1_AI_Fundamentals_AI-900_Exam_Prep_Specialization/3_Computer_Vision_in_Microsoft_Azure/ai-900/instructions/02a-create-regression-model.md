@@ -3,6 +3,23 @@ lab:
     title: 'Explore regression with Azure Machine Learning Designer'
 ---
 
+- [Explore regression with Azure Machine Learning Designer](#explore-regression-with-azure-machine-learning-designer)
+  - [Create an Azure Machine Learning workspace](#create-an-azure-machine-learning-workspace)
+  - [Create compute](#create-compute)
+  - [Create a pipeline in Designer](#create-a-pipeline-in-designer)
+  - [Add and explore a dataset](#add-and-explore-a-dataset)
+  - [Add data transformations](#add-data-transformations)
+  - [Run the pipeline](#run-the-pipeline)
+  - [Create training pipeline](#create-training-pipeline)
+  - [Run the training pipeline](#run-the-training-pipeline)
+  - [Evaluate model](#evaluate-model)
+  - [Create and run an inference pipeline](#create-and-run-an-inference-pipeline)
+  - [Deploy model](#deploy-model)
+  - [Deploy a service](#deploy-a-service)
+  - [Test the service](#test-the-service)
+  - [Clean-up](#clean-up)
+
+
 # Explore regression with Azure Machine Learning Designer
 
 > **Note**
