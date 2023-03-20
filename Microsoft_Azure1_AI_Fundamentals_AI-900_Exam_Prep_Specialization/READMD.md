@@ -104,4 +104,6 @@ Career in AI
      - QnA Maker 
      - Microsoft Azure Bot Service. 
 
+[Certificate](./4_Natural_Language_Processing_in_Microsoft_Azure/Coursera_GJB7E8GQ8Z7U.pdf)
+
 ## [5 Preparing for AI-900: Microsoft Azure AI Fundamentals exam](./5_Preparing_for_AI-900_Microsoft_Azure_AI_Fundamentals_exam/READMD.md)

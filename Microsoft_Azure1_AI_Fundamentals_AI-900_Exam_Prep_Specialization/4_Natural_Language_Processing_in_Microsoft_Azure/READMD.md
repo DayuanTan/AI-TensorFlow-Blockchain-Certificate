@@ -32,8 +32,14 @@
   - [2.2 Create a Language Model with Language Understanding](#22-create-a-language-model-with-language-understanding)
     - [2.2.1 What is Language Understanding?](#221-what-is-language-understanding)
     - [2.2.2 Getting Started with Language Understanding](#222-getting-started-with-language-understanding)
+    - [2.2.3 Exercise - Create a Language Understanding Application](#223-exercise---create-a-language-understanding-application)
+    - [2.2.4 Additional Resources](#224-additional-resources)
   - [Module 3:  Explore conversational AI](#module-3-explore-conversational-ai-1)
       - [Learning Objectives](#learning-objectives-2)
+  - [3.1 Build a Bot with QnA Maker and Azure Bot Service](#31-build-a-bot-with-qna-maker-and-azure-bot-service)
+    - [3.1.1 What is Conversational AI?](#311-what-is-conversational-ai)
+    - [3.1.2 Get Started with QnA Maker and Azure Bot Service](#312-get-started-with-qna-maker-and-azure-bot-service)
+    - [3.1.2 Exercise - Create a Bot](#312-exercise---create-a-bot)
 
 
 ## Course summary 
@@ -444,6 +450,105 @@ In this module, you will use the Translator Text and Speech cognitive services i
 
 ### 2.2.2 Getting Started with Language Understanding
 
+- Application
+  - **creating** a language understanding **application** with language understanding consists of two main tasks.
+    - Task 1 **authoring** taks
+      - define entities, intense and utterances with which to **train** the language model referred to as authoring the model
+    - Task 2 **prediction** task
+      - **publish** the model so that client applications can use it for intent and entity prediction based on user input
+
+- Needed resource
+  - language understanding
+     - a dedicated resource for language understanding, which can be either an authoring or a prediction resource or cognitive services.
+  - A general cognitive services resource 
+    - includes language understanding along with many other cognitive services, you can only use this type of resource for prediction.
+- Ways 
+  - **separation**
+    - The separation of authoring and prediction resources is useful when you want to track resource utilization for language model **training** separately from client applications using the model to generate **predictions**.
+  - Way 1: LU resource
+    - if you choose to create a language understanding resource, you will be **prompted** to choose authoring, prediction or both.
+      - ![](2.2.2.png)
+  - Way 2: LU for authoring & Cognitive for prediction
+    - Alternatively, you can use a dedicated Language understanding resource for authoring but deploy your model to a generic cognitive services resource for prediction.
+      - ![](2.2.2-2.png)
+      - use the authoring resource to author and train a Language understanding application 
+        - by defining the entities and intense 
+          - that your application will predict 
+        - as well as utterances for each intent, 
+          - that can be used to train the predictive model
+- LU pre build intenses & entities
+  - Language understanding provides a comprehensive collection of **pre built domains** that include 
+    - **predefined** **intents** and **entities** for common scenarios, 
+      - which you can use as a starting point for your model. 
+  - own intenses & entities
+    - You can also create your own entities and intense when you create entities and intense, you can do so in any order
+      - You can create an **intent** and select words in the sample utterances you define for it to create entities for them
+      - Or you can create the **entities** ahead of time and then map them to words in assurances as you're creating the intense. 
+      - ![](2.2.2-3.png)
+  
+
+- easiest to author your model 
+  - using the Language Understanding portal
+    - A web based interface for creating and managing Language Understanding applications.  
+      - Best practice is to use the Language Understanding portal for authoring and 
+      - to use the SDK for runtime predictions. 
+      - By defining the **entities** and **intense** their application would predict as well as **utterances** for each intent that can be used to train the predictive model.
+  - how do you create **intense**
+    - define **intense** based on actions a user would want to perform with your application
+      - For each intent, you should include a variety of utterances that provide examples of how a user might express the intent
+      - If an intent can be applied to multiple entities, be sure to include sample utterances for each potential entity and ensure that each entity is identified in the utterance
+  - creating **entities**:
+    - four types of entities
+      - **Machine learned entities** 
+        - are learned by your model joint training from context in the sample utterances you provide
+      - **List entities** 
+        - are defined as a hierarchy of lists and sub lists. 
+        - For example, a device list might include sub list for light and fan. 
+      - **RegEx entities** 
+        - are defined as a regular expression that describes a pattern. 
+        - [0-9]{3}-[0-9]{3}-[0-9]{4}
+          - telephone numbers of the form 555-123-4567.
+      - **Pattern.any entities** 
+        - are used with patterns to define complex entities that may be hard to extract from sample utterances. 
+- train the model
+  - After you define the intents and entities in your model and included a suitable set of sample utterances. 
+    - The next step is to **train** the model. 
+  - **Training** is the process of using your sample utterances to teach your model to match natural language expressions that a user might say to probable intents and entities.
+
+### 2.2.3 Exercise - Create a Language Understanding Application
+
+[2.2.3.exercise](2.2.3.exercise.pdf)
+
+Code:
+```
+$endpointUrl="https://dayuanlangserv.cognitiveservices.azure.com/language/:analyze-conversations?api-version=2022-10-01-preview"
+$key = "7651232729754fb48c0d058aabb49bf8"
+$projectName = "DayuanLangServStudioConventionalLangUnder"
+$deploymentName = "DayuanLangUnderModelDeploy"
+```
+
+Output:
+```
+/home/dayuan/ai-900>  ./understand.ps1 "Turn on the light"
+Calling Language model...
+Predicted intent: Switch on                                                                                             
+Predicted device: light
+```
+
+[quiz](2.2.3.quiz.md)
+
+[test pre](2.2.3.test.pre.md)
+
+
+### 2.2.4 Additional Resources
+In this module you were introduced to the Language Understanding service (LUIS), and shown how to create applications that understand language.
+
+You can find out more about Language Understanding in the service documentation.
+
+Check out the link below:
+
+Language Understanding (LUIS) Documentation - Azure Cognitive Services | Microsoft Docs https://docs.microsoft.com/en-us/azure/cognitive-services/luis/ 
+
 
 
 ## Module 3:  Explore conversational AI 
@@ -454,3 +559,76 @@ In this module, you will learn how to use Conversational AI ito create artificia
 #### Learning Objectives
 - Identify common use cases for conversational AI
 - Identify Azure services for conversational AI
+
+
+## 3.1 Build a Bot with QnA Maker and Azure Bot Service
+
+### 3.1.1 What is Conversational AI?
+
+- This course
+  - how to create a Q&A maker knowledge base with an Azure bot service spot in Microsoft Azure.
+
+- bot - first line
+  - Increasingly, organizations are turning to AI solutions that make use of AI agents, commonly known as bots, to provide a first line of automated support through the full range of channels that we use to communicate
+- Conversations
+  - Conversations typically take the form of messages exchanged in turns, and one of the most common kinds of conversational exchange is a question followed by an answer. This pattern forms the basis for many users support bots and can often be based on existing FAQ documentation
+
+### 3.1.2 Get Started with QnA Maker and Azure Bot Service
+
+
+- Bot based on 2 Azure services
+  - QnA Maker
+    - this Cognitive Service enables you to create and publish a knowledge base with built in natural language processing capabilities and 
+  - Azure Bot Service
+    - This service provides a framework for developing, publishing, and managing Bots on Azure. 
+- Create a user support bot
+  - Challenge 1
+    - to use the QnA Maker service to create a **knowledge base**.
+    - The service provides a dedicated QnA Maker portal web-based interface that you can use to create, train, publish, and manage knowledge basis. 
+    - QnA Maker
+      - Code
+        - You can write code to create and manage knowledge bases using the Q&A Maker rest API or SDK. 
+      - Portal
+        - However, in most scenarios, it is easier to use the Q&A Maker portal.
+    - To create a knowledge base
+      - you must first provision a QnA Maker resource in your Azure subscription. 
+      - use the Q&A Maker portal to create a knowledge base that consists of question and answer pairs.
+        - can be generated from an existing FAQ document or webpage
+          - imported from a predefined chitchat data source 
+          - or entered and edited manually
+      - Use all three
+        - In many cases, a knowledgebase is created using a combination of all of these techniques. Starting with a base dataset of questions and answers from an existing FAQ document. Adding common conversational exchanges from a chitchat source and extending the knowledge base with additional manual entries.
+        - ![](3.1.1.png)
+  - train your knowledge base.
+    - Questions in the knowledge base can be assigned alternative phrasing to help consolidate questions with the same meaning
+  - publish it 
+    - so that the client applications can use it over its rest interface
+      - equire 
+        - the knowledge base **ID**, 
+        - the knowledge base **endpoint**, and 
+        - the knowledge base **authorization key**. 
+  - deliver it to users through a bot
+    - way 1 create a custom bot by using the **Microsoft Bot Framework SDK** to **write code** at controls conversation flow and integrates with your QnA Maker knowledge base. 
+    - way 2 an **easier** approach is to use the **automatic bot creation functionality** of **QnA Maker**, which enables you to create a bot for your published knowledge base and publish it as an Azure Bot Service application with just a few **clicks**
+      - After creation your bot, you can
+        - manage it in the Microsoft Azure portal, where you can
+          - extend the bot functionality by adding custom code, 
+          - tests the bot in an interactive test interface, 
+          - configured login analytics and integration with other services.
+  - Updates
+    - For simple updates, you can **edit** bot code **directly** in the Azure portal. 
+    - However, for more comprehensive customization, you can download the source code and edited **locally**, republishing the back directly to Azure when you're ready. 
+  - connect it to multiple channels
+    - When your bot is ready to be delivered to users, you can connect it to multiple channels, making it possible for users to interact with it through 
+      - web chat, 
+      - email, 
+      - Microsoft Teams, and 
+      - other common communication media.
+
+### 3.1.2 Exercise - Create a Bot
+
+[Exercise](3.1.2.exercise.pdf)
+
+[quiz](3.1.2.quiz.md)
+
+[test pre](3.1.2.test.pre.md)
