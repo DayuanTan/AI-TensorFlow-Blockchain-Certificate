@@ -15,7 +15,7 @@ It consists of 4 courses:
 - 4. Sequences, Time Series and Prediction
 
 [**My Certificate to This Speciallization**](./AI_Tensorflow_in_Practice_Specialization/certificate/FSJ2TYXEGAZK.pdf) 
-<img src="./AI_Tensorflow_in_Practice_Specialization/certificate/tensorflow.png" width="100" />
+<img src="./AI_Tensorflow_in_Practice_Specialization/certificate/tensorflow.png" width="200" />
 
 
 
@@ -64,7 +64,7 @@ It consists of 5 parts:
 - - Use Case 4: Ujo: Royalties in the Music Industry
 
 [**My Certificate**](./Blockchain_Foundations_and_Use_Cases/certificate/Coursera6T224TV58MAV.pdf) 
-<img src="./Blockchain_Foundations_and_Use_Cases/certificate/certificate.png" width="100" />
+<img src="./Blockchain_Foundations_and_Use_Cases/certificate/certificate.png" width="200" />
 
 # 3. [Blockchain and Business: Applications and Implications](Blockchain_and_Business_Applications_and_Implications) by INSEAD
 
@@ -111,7 +111,7 @@ You will be able to
 
 
 [**My Certificate**](./Blockchain_and_Business_Applications_and_Implications/Coursera%20S4CV95ETCVG6.pdf) 
-<img src="./Blockchain_and_Business_Applications_and_Implications/certificate.png" width="100" />
+<img src="./Blockchain_and_Business_Applications_and_Implications/certificate.png" width="200" />
 
 
 # 4. [Blockchain: Understanding Its Uses and Implications](Blockchain_Understanding_Its_Uses_and_Implications/README.md) by The Linux Foundation
@@ -133,7 +133,7 @@ A excellent introduction to blockchain with a little technology details. This on
   - Blockchain in Practice; Enterprise Solutions; Public Sector Solutions; Social Impact Solutions; Platform Developer’s Solutions; End User Solutions; Future of Blockchain
 
 [**My Certificate**](./Blockchain_Understanding_Its_Uses_and_Implications/LinuxFoundationX%20LFS170x%20Certificate%20|%20edX.pdf) 
-<img src="./Blockchain_Understanding_Its_Uses_and_Implications/certificate.png" width="100" />
+<img src="./Blockchain_Understanding_Its_Uses_and_Implications/certificate.png" width="200" />
 
 # 5. [Introduction to Hyperledger Blockchain Technologies](Introduction_to_Hyperledger_Blockchain_Technologies/README.md) by The Linux Foundation
 
@@ -170,9 +170,9 @@ Chapter 4. The Promise of Business Blockchain Technologies
 # 6. Power BI
 
 [**My Certificate 1**](./PowerBI/Prepare_Clean_Transform_and_Load_Data_using_PowerBI/Coursera%20MHFCLZ6CNL6G.pdf) 
-<img src="./PowerBI/Prepare_Clean_Transform_and_Load_Data_using_PowerBI/cert.png" width="100" />
+<img src="./PowerBI/Prepare_Clean_Transform_and_Load_Data_using_PowerBI/cert.png" width="200" />
 [**My Certificate 2**](./PowerBI/Build_Dashboards_in_Power_BI/Coursera%20DPGRLTPASCWW.pdf) 
-<img src="./PowerBI/Build_Dashboards_in_Power_BI/cert.png" width="100" />
+<img src="./PowerBI/Build_Dashboards_in_Power_BI/cert.png" width="200" />
 
 
 # 7. [Microsoft Azure AI Fundamentals AI-900 *Specialization*](Microsoft_Azure1_AI_Fundamentals_AI-900_Exam_Prep_Specialization/READMD.md) by Microsoft
@@ -180,18 +180,18 @@ Chapter 4. The Promise of Business Blockchain Technologies
 Learners will acquire foundational knowledge of the core concepts related to artificial intelligence (AI) and the services in Microsoft Azure that can be used to create AI solutions. This program is an opportunity to demonstrate knowledge of common ML and AI workloads and how to implement them on Azure.
 
 It consists of 4 courses:
-- Course 1: Artificial Intelligence on Microsoft Azure <img src="./Microsoft_Azure1_AI_Fundamentals_AI-900_Exam_Prep_Specialization/1_Artificial_Intelligence_on_Microsoft_Azure/ai900-1.png" width="30" />
-- Course 2: Microsoft Azure Machine Learning <img src="./Microsoft_Azure1_AI_Fundamentals_AI-900_Exam_Prep_Specialization/2_Microsoft_Azure_Machine_Learning/ai900-2.png" width="30" />
-- Course 3: Computer Vision in Microsoft Azure <img src="./Microsoft_Azure1_AI_Fundamentals_AI-900_Exam_Prep_Specialization/3_Computer_Vision_in_Microsoft_Azure/ai900-3.png" width="30" />
-- Course 4: Natural Language Processing in Microsoft Azure <img src="./Microsoft_Azure1_AI_Fundamentals_AI-900_Exam_Prep_Specialization/4_Natural_Language_Processing_in_Microsoft_Azure/ai900-4.png" width="30" />
+- Course 1: Artificial Intelligence on Microsoft Azure <img src="./Microsoft_Azure1_AI_Fundamentals_AI-900_Exam_Prep_Specialization/1_Artificial_Intelligence_on_Microsoft_Azure/ai900-1.png" width="60" />
+- Course 2: Microsoft Azure Machine Learning <img src="./Microsoft_Azure1_AI_Fundamentals_AI-900_Exam_Prep_Specialization/2_Microsoft_Azure_Machine_Learning/ai900-2.png" width="60" />
+- Course 3: Computer Vision in Microsoft Azure <img src="./Microsoft_Azure1_AI_Fundamentals_AI-900_Exam_Prep_Specialization/3_Computer_Vision_in_Microsoft_Azure/ai900-3.png" width="60" />
+- Course 4: Natural Language Processing in Microsoft Azure <img src="./Microsoft_Azure1_AI_Fundamentals_AI-900_Exam_Prep_Specialization/4_Natural_Language_Processing_in_Microsoft_Azure/ai900-4.png" width="60" />
 
 [**My Certificate to This Speciallization**](Microsoft_Azure1_AI_Fundamentals_AI-900_Exam_Prep_Specialization/Coursera_5WBZ6RPNQ2DT.pdf)
 
-<img src="./Microsoft_Azure1_AI_Fundamentals_AI-900_Exam_Prep_Specialization/Coursera_5WBZ6RPNQ2DT.png" width="100" />
+<img src="./Microsoft_Azure1_AI_Fundamentals_AI-900_Exam_Prep_Specialization/Coursera_5WBZ6RPNQ2DT.png" width="200" />
 
 [Microsoft Certified Azure AI Fundamentals AI-900](Microsoft_Azure1_AI_Fundamentals_AI-900_Exam_Prep_Specialization/Certifications-dt-7380_MicrosoftLearn.pdf)
 
-<img src="./Microsoft_Azure1_AI_Fundamentals_AI-900_Exam_Prep_Specialization/Certifications-dt-7380_MicrosoftLearn.png" width="100" />
+<img src="./Microsoft_Azure1_AI_Fundamentals_AI-900_Exam_Prep_Specialization/Certifications-dt-7380_MicrosoftLearn.png" width="200" />
 
 
 
