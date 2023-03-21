@@ -15,7 +15,7 @@ It consists of 4 courses:
 - 4. Sequences, Time Series and Prediction
 
 [**My Certificate to This Speciallization**](./AI_Tensorflow_in_Practice_Specialization/certificate/FSJ2TYXEGAZK.pdf) 
-<img src="./AI_Tensorflow_in_Practice_Specialization/certificate/FSJ2TYXEGAZK.png" width="100" />
+<img src="./AI_Tensorflow_in_Practice_Specialization/certificate/tensorflow.png" width="100" />
 
 
 
