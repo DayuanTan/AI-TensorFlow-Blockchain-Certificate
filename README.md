@@ -14,8 +14,8 @@ It consists of 4 courses:
 - 3. Natural Language Processing in TensorFlow
 - 4. Sequences, Time Series and Prediction
 
-[**My Certificate to This Speciallization**](./AI_Tensorflow_in_Practice_Specialization/certificate/5P3LRSEK9A9A.pdf) 
-<img src="./AI_Tensorflow_in_Practice_Specialization/certificate/5P3LRSEK9A9A.png" width="100" />
+[**My Certificate to This Speciallization**](./AI_Tensorflow_in_Practice_Specialization/certificate/FSJ2TYXEGAZK.pdf) 
+<img src="./AI_Tensorflow_in_Practice_Specialization/certificate/FSJ2TYXEGAZK.png" width="100" />
 
 
 
@@ -180,10 +180,10 @@ Chapter 4. The Promise of Business Blockchain Technologies
 Learners will acquire foundational knowledge of the core concepts related to artificial intelligence (AI) and the services in Microsoft Azure that can be used to create AI solutions. This program is an opportunity to demonstrate knowledge of common ML and AI workloads and how to implement them on Azure.
 
 It consists of 4 courses:
-- Course 1: Artificial Intelligence on Microsoft Azure
-- Course 2: Microsoft Azure Machine Learning
-- Course 3: Computer Vision in Microsoft Azure
-- Course 4: Natural Language Processing in Microsoft Azure
+- Course 1: Artificial Intelligence on Microsoft Azure <img src="./Microsoft_Azure1_AI_Fundamentals_AI-900_Exam_Prep_Specialization/1_Artificial_Intelligence_on_Microsoft_Azure/ai900-1.png" width="30" />
+- Course 2: Microsoft Azure Machine Learning <img src="./Microsoft_Azure1_AI_Fundamentals_AI-900_Exam_Prep_Specialization/2_Microsoft_Azure_Machine_Learning/ai900-2.png" width="30" />
+- Course 3: Computer Vision in Microsoft Azure <img src="./Microsoft_Azure1_AI_Fundamentals_AI-900_Exam_Prep_Specialization/3_Computer_Vision_in_Microsoft_Azure/ai900-3.png" width="30" />
+- Course 4: Natural Language Processing in Microsoft Azure <img src="./Microsoft_Azure1_AI_Fundamentals_AI-900_Exam_Prep_Specialization/4_Natural_Language_Processing_in_Microsoft_Azure/ai900-4.png" width="30" />
 
 [**My Certificate to This Speciallization**](Microsoft_Azure1_AI_Fundamentals_AI-900_Exam_Prep_Specialization/Coursera_5WBZ6RPNQ2DT.pdf)
 
