@@ -10,6 +10,10 @@
     - [6.1.1.2 Supported IDE](#6112-supported-ide)
     - [6.1.2 Host a web application with Azure App Service](#612-host-a-web-application-with-azure-app-service)
     - [6.1.2.1 Create a web app in the Azure portal](#6121-create-a-web-app-in-the-azure-portal)
+    - [6.1.2.2 Exercise - Create a web app in the Azure portal](#6122-exercise---create-a-web-app-in-the-azure-portal)
+    - [6.1.2.3 Prepare the web application code](#6123-prepare-the-web-application-code)
+    - [6.1.2.4 Exercise - Write code to implement a web application](#6124-exercise---write-code-to-implement-a-web-application)
+      - [Below my steps work!!!](#below-my-steps-work)
   - [Module 2. Publish a web app to Azure with Visual Studio](#module-2-publish-a-web-app-to-azure-with-visual-studio)
   - [Module 3. Stage and scale apps](#module-3-stage-and-scale-apps)
   - [Module 4. Organize resources in Microsoft Azure](#module-4-organize-resources-in-microsoft-azure)
@@ -112,6 +116,160 @@ You will
 
 ### 6.1.2.1 Create a web app in the Azure portal
 
+- Step 1 Create Azure App Service app
+  - The first step in hosting your web application is to create a web app, an App Service app inside your Azure subscription
+  - Several ways
+    - Azure Portal
+    - Azure Common line interface CLI
+    - Script
+    - IDE
+- Azure App Service - Paas
+  - is a fully managed web application hosting platform. 
+  - The platform as a service, PaaS, offered by Azure allows you to focus on designing and building your app while Azure takes care of the infrastructure to run and scale your applications.
+- Azure portal
+  - you can create a staging deployment slot where you can push your code to **test** on Azure. 
+  - Once you are happy with your code, you can easily swap the staging deployment slash with the **production** slash. 
+  - You do all this with a few simple mouse clicks in the Azure portal.
+- Azure Portal CI
+  - Azure portal provides out of the box continuous integration and deployment with 
+    - Azure DevOps, 
+    - GitHub, 
+    - Bitbucket, 
+    - a local GIT repository or 
+    - FTP on your development machine
+- Scale
+  - Baked into the web app is the ability to scale up or down or scale out
+- web-based application that is supported by Azure
+  - ASP.NET Core, 
+  - Node.js, 
+  - Java, 
+  - Python
+- a wizard to create a web app
+  - needed info
+    - a valid and active Azure subscription, 
+    - a valid resource group, 
+    - the name of the web app. 
+      - This name becomes part of the app's URL, so it must be unique among all Azure App Service web apps, 
+    - and publish
+      - as code 
+      - or as a ready to run Docker image
+        -  Docker registry 
+    - runtime stack field 
+      - if choose "as code"
+      - no need if choose "docker image"
+      - support
+        - Node.js, 
+        - Python, 
+        - Java, 
+        - and.NET
+    - Operating systems
+      - windows
+      - linux
+    - Region
+    - App service plan
+      - monitoring tab 
+        - where you have the option to enable application insights
+      - An App Service plan is a set of virtual server resources that run App Service apps. 
+        - size (sku or pricing tier)
+        - performance characteristics
+        - App Service features
+
+
+### 6.1.2.2 Exercise - Create a web app in the Azure portal
+
+[exercise](./6.1.2.2.Exercise%20-%20Create%20a%20web%20app%20in%20the%20Azure%20portal%20-%20Training%20%7C%20Microsoft%20Learn.pdf)
+
+![](6.1.2.2.png)
+
+### 6.1.2.3 Prepare the web application code
+
+- Step 1 Multiple ways to bootstrap a new web application
+  - The goal is to quickly provide you a starting point to complete a full cycle up to the deployment.
+  - C#
+    - ```dotnet new mvc --name <YourAppName> ```
+      - This command will create a new ASP.NET Core MVC application and a new folder with the name specified.
+  - Java
+    - Maven or LVN 
+      - ```
+        mvn archetype:generate
+        -DgroudId=example.webapp
+        -DartifactId=helloworld
+        -DinteractiveMode=false
+        -DarchetypeArtifactId=maven-archetype-webapp
+        ```
+      - archetypes
+        - Maven includes a feature called archetypes that can quickly create starter code for different kinds of applications using templates. 
+        - You can use the Maven archetype web app templates to generate the code for a simple web app that displays Hello World on its homepage. 
+        - This command will create a Hello World folder that contains the source code for your application.
+  - Node.js
+    - npm
+    - ```npm init -y```
+      - The init command creates a new package.json required for our application. 
+    - package.json
+      - If you open the package.json file that was created on the current folder, you can add a *start entry* to the script section to describe how your web application should be run. 
+      - ```
+        ..."scripts": {
+                "start": "node index.js"
+            },
+        ...
+        ```
+      - After you've done that, you can write the actual code of your web application in a new index.js file. 
+      - You can write code to create a server that listens and port 3,000 of your computer and answer every request with a Hello World message. You can do that by using the *const http* and the *const port* commandlets.
+        - ![](6.1.2.3.node.js.png)
+  - Python
+    - falsk
+    - Install: ```pip install falsk"
+    - A minimal web application. 
+      - You can write code to create a server that answers every request with a Hello World message.
+      - ![](6.1.2.3.py.png)
+      - To do this, you use the *from* command and the *return* statement in Python. 
+- Step 2 put the code into a source control repository
+  - git
+    - ![](6.1.2.3.git.png)
+  - Benefits
+    - history of changes with commits
+    - synchronize local with remote repository
+    - set up CI/CD
+    - source control repository is recommended but not required
+
+
+### 6.1.2.4 Exercise - Write code to implement a web application
+
+[exercise](6.1.2.4.Exercise%20-%20Write%20code%20to%20implement%20a%20web%20application%20-%20Training%20%7C%20Microsoft%20Learn.pdf)
+
+#### Below my steps work!!!
+- Config Github in "Web app - Deployment Center", choose GitHub
+  - ![](6.1.2.4-3.deploy.png)
+- Local, git clone and write code for Flask
+  - git clone https://github.com/DayuanTan/chatgpt-azure.git
+  - cd chatgpt-azure
+  - git switch dev
+  - touch application.py; write Flask code into it
+  - pip freeze > requirements.txt
+  - export FLASK_APP=application.py
+  - flask run
+    - ![](6.1.2.4.png)
+    - ![](6.1.2.4-2.png)
+  - git add .; git commit -m ''; git push
+- After "git push", it should run CI (build and deploy) automatically 
+  - Check "https://chatgpt-dayuan.azurewebsites.net"
+    - ![](6.1.2.4-4.emptyFlask.png)
+    - Common issue: build failure - check files layour
+- Add Flask layout:
+  - Add folders following layout in [https://flask.palletsprojects.com/en/2.2.x/tutorial/layout/ ](https://github.com/Azure-Samples/msdocs-python-flask-webapp-quickstart/tree/main)
+    - (current in chatgpt-azure/)
+    - mkdir tests
+    - mkdir templates (for html)
+    - mkdir static (for css, js, images)
+    - cd templates
+    - touch index.html (add code into it)
+    - modify application.py (add index func) (if want to see code [commit1](https://github.com/DayuanTan/chatgpt-azure/commit/0519b0e923395315e56530a27d8ae8903c5a5164) and [commit2](https://github.com/DayuanTan/chatgpt-azure/commit/1263dd1a7acba85a6055a08d9e8785495beeb33e))
+    - git add .; git commit -m ''; git push
+    - Check "https://chatgpt-dayuan.azurewebsites.net"
+    - ![](6.1.2.4-6.works.png)
+    - If issue, check code use local machine Flask to ensure no errors
+- My final working files layout
+  - ![](6.1.2.4-5.finalWorkingLayout.png)
 
 
 ## Module 2. Publish a web app to Azure with Visual Studio

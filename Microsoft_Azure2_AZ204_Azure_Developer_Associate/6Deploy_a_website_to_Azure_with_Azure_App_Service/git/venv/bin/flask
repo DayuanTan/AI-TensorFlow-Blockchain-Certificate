@@ -1,0 +1,12 @@
+#!/bin/sh
+'''exec' "/Users/dyt/Library/Mobile Documents/com~apple~CloudDocs/1myfiles/coursera/AI_TF_Blockchain/Microsoft_Azure2_AZ204_Azure_Developer_Associate/6Deploy_a_website_to_Azure_with_Azure_App_Service/chatgpt-azure/venv/bin/python3" "$0" "$@"
+' '''
+# -*- coding: utf-8 -*-
+import re
+import sys
+
+from flask.cli import main
+
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw?|\.exe)?$', '', sys.argv[0])
+    sys.exit(main())
