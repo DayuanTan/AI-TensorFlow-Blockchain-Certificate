@@ -17,6 +17,13 @@
     - [6.1.3 Deploy code to App Service](#613-deploy-code-to-app-service)
     - [6.1.4 Quiz, Test Prep](#614-quiz-test-prep)
   - [Module 2. Publish a web app to Azure with Visual Studio](#module-2-publish-a-web-app-to-azure-with-visual-studio)
+    - [6.2.1 Deploy and manage an ASP.NET Core web application](#621-deploy-and-manage-an-aspnet-core-web-application)
+      - [Step 1 Install Visual Studio](#step-1-install-visual-studio)
+      - [Step 2 Exercise - Create a new ASP.NET Core app](#step-2-exercise---create-a-new-aspnet-core-app)
+      - [Step 3 Use Visual Studio to publish your ASP.Net core web application to an Azure App Service Plan](#step-3-use-visual-studio-to-publish-your-aspnet-core-web-application-to-an-azure-app-service-plan)
+      - [Step 4 Exercise - Publish an ASP.NET app from Visual Studio](#step-4-exercise---publish-an-aspnet-app-from-visual-studio)
+      - [Step 4 Make Changes](#step-4-make-changes)
+    - [6.2 Quiz and Test prep](#62-quiz-and-test-prep)
   - [Module 3. Stage and scale apps](#module-3-stage-and-scale-apps)
   - [Module 4. Organize resources in Microsoft Azure](#module-4-organize-resources-in-microsoft-azure)
   - [Module 5. Course Practice Exam](#module-5-course-practice-exam)
@@ -310,6 +317,89 @@ You will
 ## Module 2. Publish a web app to Azure with Visual Studio
 
 Use the publishing features of Visual Studio 2019 to deploy and manage an ASP.NET Core web application hosted on Azure.
+
+### 6.2.1 Deploy and manage an ASP.NET Core web application
+
+- create an ASP.NET Core web app in Visual Studio, 
+- publish a web app to Azure using Visual Studio, 
+- update a web app in Visual Studio, and publish the changes to Azure.
+
+
+#### Step 1 Install Visual Studio
+#### Step 2 Exercise - Create a new ASP.NET Core app
+[File here](./6.2.1-2-Exercise%20-%20Create%20a%20new%20ASP.NET%20Core%20app.pdf) or link https://learn.microsoft.com/en-us/training/modules/publish-azure-web-app-with-visual-studio/3-exercise-create-a-new-aspnet-app
+#### Step 3 Use Visual Studio to publish your ASP.Net core web application to an Azure App Service Plan
+- Azure App service
+  - Azure App Service is a service for hosting web applications, rest API's and back end services.
+- Support
+  - App Service supports code written in .Net core, .Net framework, Java, Ruby, Node.js, PHP, and Python
+  - ![](6.2.1-3.png)
+- App Service plan
+  - App Service plan defines the compute resources your app will consume
+  - When you deploy your apps, you can create an app service plan, or you can continue to add apps to an existing plan.
+  - Apps in the same App Service plan share the same compute resources. 
+  - App service plan defines 
+    - region
+    - number of VM instances
+    - Size of VM instances
+    - pricing tier
+  - Plan
+    - Free and shared plans 
+      - are best for small scale **personal projects** with limited traffic demands, with a set limit of 165 megabytes of outbound data every 24 hours. 
+    - Dedicated compute: (run apps on dedicated as your VMs) 
+      - the basic, 
+      - standard, 
+        - The standard service plan is best suited for **live production workloads** where you are publishing commercial applications to customers. 
+      - premium and 
+      - premium V2 tiers
+    - Isolated tier (runs dedicated Azure VMs on dedicated Azure virtual networks)
+      - provide network isolation on top of compute isolation to your apps
+- Scale up/down
+  - App Service plan can be scaled up and down at any time. You can choose a lower pricing tier at first and scale up later when you need more app service features.
+
+#### Step 4 Exercise - Publish an ASP.NET app from Visual Studio
+- [File here](./6.2.1-4-Exercise%20-%20Publish%20an%20ASP.NET%20Core%20app%20from%20Visual%20Studio%20-%20Training%20%7C%20Microsoft%20Learn.pdf) or link https://learn.microsoft.com/en-us/training/modules/publish-azure-web-app-with-visual-studio/5-exercise-publish-an-asp.net-app-from-visual-studio
+- ![](6.2.1-4-deploy2Azure.png) 
+  - (forget to create a new service plan for this, so also use previous existing one.)
+- https://dayuanlangservqa-bot-f842.azurewebsites.net
+- Needed information
+  - Enter the required information about your App Service plan.
+  - Name: 
+    - the name of your application. The name determines the URL of the published application, which will be https://<AppName>.azurewebsites.net. It must be a unique value. You may have to try out some different names to find one that is unique.
+  - Subscription: 
+    - The Azure subscription you wish to deploy the app to. Select Concierge Subscription, which we provide to you through the sandbox.
+  - Resource Group: 
+    - Select the existing [sandbox resource group name] resource group.
+  - Hosting Plan: 
+    - The hosting plan specifies the location, size, and features of the web server farm that hosts your app. For this exercise, create a new hosting plan.
+  - Select New next to the hosting plan. In the Configure Hosting Plan window that appears, change the Size to Shared, and select OK.
+
+  
+#### Step 4 Make Changes
+- make some basic changes to your website. 
+  - need to have a basic understanding of how to leverage the **Razor** templates to customize your web app. 
+- Razor 
+  - is an ASP.NET syntax used to create dynamic web pages with C#. 
+  - When a server reads a Razor page, the C# code is run before it renders the html. 
+    - This allows you to generate dynamic content quickly. 
+  - Razor uses @ directives to tell ASP.NET how to process a page.
+
+- Explore your Visual Studio App Project
+  - https://learn.microsoft.com/en-us/training/modules/publish-azure-web-app-with-visual-studio/6-explore-your-visual-studio-app-project
+  - [file](./6.2.1-5-Explore%20your%20Visual%20Studio%20App%20Project%20-%20Training%20%7C%20Microsoft%20Learn.pdf)
+
+- Exercise - Publish an update to your site
+  - https://learn.microsoft.com/en-us/training/modules/publish-azure-web-app-with-visual-studio/7-exercise-publish-an-update-to-your-site
+  - [file here](./6.2.1-6-Exercise%20-%20Publish%20an%20update%20to%20your%20site%20-%20Training%20%7C%20Microsoft%20Learn.pdf)
+
+
+### 6.2 Quiz and Test prep
+
+[Quiz](./6.2.quiz.md)
+
+[Test prep](./6.2.test_prep.md)
+
+
 
 ## Module 3. Stage and scale apps
 
