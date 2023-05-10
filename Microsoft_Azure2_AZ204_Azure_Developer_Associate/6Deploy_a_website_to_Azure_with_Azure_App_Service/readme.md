@@ -312,13 +312,16 @@ https://learn.microsoft.com/en-us/azure/app-service/quickstart-python?tabs=flask
 
 
 
+Note: For the Azure App Service, it needs to be "Standard 1" or higher Pricing Plan. Free plan leads to "The service is unavailable" of https://chatgpt-dayuan.azurewebsites.net. Find the related App Service Plan and change it to "S1" it would work again.
+  
+  
 ### 6.1.4 Quiz, Test Prep
 
 [Quiz](6.1.4.quiz.md)
 
 [Test Prep](6.1.4.testprep.md)
 
-## Module 2. Publish a web app to Azure with Visual Studio
+## Module 2. Publish a web app to Azure with ***Visual Studio***
 
 Use the publishing features of Visual Studio 2019 to deploy and manage an ASP.NET Core web application hosted on Azure.
 
