@@ -246,6 +246,10 @@ You will
 
 [exercise](6.1.2.4.Exercise%20-%20Write%20code%20to%20implement%20a%20web%20application%20-%20Training%20%7C%20Microsoft%20Learn.pdf)
 
+https://learn.microsoft.com/en-us/training/modules/host-a-web-app-with-azure-app-service/
+
+https://learn.microsoft.com/en-us/azure/app-service/quickstart-python?tabs=flask%2Cmac-linux%2Cazure-cli%2Cazure-cli-deploy%2Cdeploy-instructions-azportal%2Cterminal-bash%2Cdeploy-instructions-zip-azcli#3---deploy-your-application-code-to-azure
+
 #### Below my steps work!!!
 - Config Github in "Web app - Deployment Center", choose GitHub
   - ![](6.1.2.4-3.deploy.png)
