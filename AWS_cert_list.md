@@ -23,4 +23,4 @@
 
 
 ## Certificates Path:
-[pdf](aws_cert_path.pdf)
+[pdf](AWS_certification_paths.pdf)
