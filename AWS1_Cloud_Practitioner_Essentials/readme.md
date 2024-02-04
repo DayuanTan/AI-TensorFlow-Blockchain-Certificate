@@ -1,5 +1,7 @@
 # AWS Cloud Practitioner Essentials
 
+https://www.coursera.org/learn/aws-cloud-practitioner-essentials/home/week/1
+
 Aim for AWS Certified Cloud Practitioner certification
 
 ## WHAT YOU WILL LEARN
